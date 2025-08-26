@@ -58,11 +58,13 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505836.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg%20Indonesia" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="PLAYLIST🇮🇩",HBO HD
-#EXTVLCOPT:network-caching=1000
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
 #EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666250.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -76,7 +78,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=204
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/427/173427-LOGO-m.png",Drama World ??
+#EXTINF:-1 group-title="PLAYLIST🇮🇩" tvg-logo="https://www.visionplus.id/images/repository/427/173427-LOGO-m.png",Drama World ??
 https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -127,8 +129,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="PLAYLIST🇮🇩",ETV Bioskop
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -136,8 +139,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="PLAYLIST🇮🇩",ETV Bioskop 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -145,8 +149,9 @@ http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
 http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="PLAYLIST🇮🇩",ETV Bioskop 3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -326,12 +331,14 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
 #EXTINF:-1 tvg-id="HBOHits" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAIltqKkFxtPon4495aSflkFr8E2xiYIqOSkX0tKRxWJG-cjpL7G6_wjkF&s=10" group-title="PLAYLIST🇮🇩",HBO Hits
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666248.ts
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
@@ -340,9 +347,13 @@ http://iptvtree.net:8080/live/F28312/cc1dc138/306486.ts
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="PLAYLIST🇮🇩", CINEMAX
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666215.ts
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
