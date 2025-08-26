@@ -1,11 +1,6 @@
 #EXTM3U billed-msg="Siie Joii"
 #EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" refresh="3600"
-#EXTM3U tvg-url="http://epg.urfan.web.id" refresh="3600"
-#EXTM3U tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" refresh="3600"
-#EXTM3U tvg-url="http://epg.urfan.web.id" refresh="3600"
-#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/indihometv.com.xml" refresh="3600"
-#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" refresh="3600"
-#EXTM3U tvg-url=https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml" refresh="3600"
+#EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml"
 
 
 <------------------ PLAYLIST🇮🇩 ---------------->
