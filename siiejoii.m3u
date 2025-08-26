@@ -964,6 +964,30 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
 #EXTINF:-1 tvg-id="Cinemax" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="📺 PLAYLIST MOVIE 📺",Cinemax
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/F60rSrv/univpremiere.png" group-title="📺 PLAYLIST MOVIE 📺", Universal Premiere 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ccd5dd0c86a40ed719b83e1801bcd88:6d5e62525837ba9b7e09cfb8716116ba
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
+
+#EXTINF:-1  group-title="📺 PLAYLIST MOVIE 📺", Universal Crime
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a908a5d38a9c496ced27faa6bf5ff8e:85a5835a92bd7f87faf5ffbcb8814d33
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
+
+#EXTINF:-1  group-title="📺 PLAYLIST MOVIE 📺", Universal Comedy
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D12531s/univcinema.png" group-title="📺 PLAYLIST MOVIE 📺", Universal Cinema
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ccd5dd0c86a40ed719b83e1801bcd88:6d5e62525837ba9b7e09cfb8716116ba
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
