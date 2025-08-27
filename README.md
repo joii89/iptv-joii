@@ -9,7 +9,3 @@ salin tautan ini dan tempel ke OTT Player atau OTT Navigator
 
 ```
 
-Jika anda belum punya Ott nya silahkan download disini
-
-```
- https://drive.google.com/file/d/1kuO3_iElPmhyRc_o98DdEBbBMEj9yXks/view?usp=drivesdk
