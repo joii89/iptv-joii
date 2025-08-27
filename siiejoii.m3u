@@ -58,7 +58,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/401666250.ts
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="StudioUniversal.id" tvg-name="Studio Universal" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_26.png" group-title="PLAYLIST🇮🇩", Studio Universal
+#EXTINF:-1 site="mncvision.id" site_id="26" xmltv_id="Studio Universal - [Channel 26]" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_26.png" group-title="PLAYLIST🇮🇩", Studio Universal
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
@@ -67,7 +67,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Superrix.id" tvg-name="Superrix" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_10.png" group-title="PLAYLIST🇮🇩", Superrix
+#EXTINF:-1 site="mncvision.id" site_id="404" xmltv_id="Superrix HD - [Channel 404]" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_10.png" group-title="PLAYLIST🇮🇩", Superrix HD
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
@@ -267,7 +267,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Originals.id" tvg-name="Originals" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_7.png" group-title="PLAYLIST🇮🇩", Originals 
+#EXTINF:-1 site="mncvision.id" site_id="7" xmltv_id="ORIGINALS - [Channel 7]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_7.png" group-title="PLAYLIST🇮🇩", ORIGINALS 
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
@@ -275,7 +275,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="CineEdge.id" tvg-name="CineEdge" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_8.png" group-title="PLAYLIST🇮🇩", CineEdge 
+#EXTINF:-1 site="mncvision.id" site_id="402" xmltv_id="CINEEDGE HD - [Channel 402]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_8.png" group-title="PLAYLIST🇮🇩", CINEEDGE HD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
@@ -283,7 +283,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index
 #KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="BuddyStar.id" tvg-name="Buddy Star" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_9.png" group-title="PLAYLIST🇮🇩", Buddy Star
+#EXTINF:-1 site="mncvision.id" site_id="9" xmltv_id="BUDDY STARS - [Channel 9]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_9.png" group-title="PLAYLIST🇮🇩", BUDDY STAR
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
