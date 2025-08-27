@@ -43,7 +43,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
-#EXTINF:-1 site="firstmedia.com" site_id="305" xmltv_id="HBO HD" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="PLAYLIST🇮🇩",HBO HD
+#EXTINF:-1 site="firstmedia.com" site_id="285" xmltv_id="HBO" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="PLAYLIST🇮🇩",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
@@ -58,7 +58,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/401666250.ts
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 site="mncvision.id" site_id="26" xmltv_id="Studio Universal - [Channel 26]" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_26.png" group-title="PLAYLIST🇮🇩", Studio Universal
+#EXTINF:-1 site="mncvision.id" site_id="406" xmltv_id="Studio Universal HD - [Channel 406]" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_26.png" group-title="PLAYLIST🇮🇩", Studio Universal HD
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
@@ -67,11 +67,11 @@ https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 site="mncvision.id" site_id="404" xmltv_id="Superrix HD - [Channel 404]" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_10.png" group-title="PLAYLIST🇮🇩", Superrix HD
+#EXTINF:-1 site="mncvision.id" site_id="10" xmltv_id="Superrix - [Channel 10]" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_10.png" group-title="PLAYLIST🇮🇩", Superrix
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
-#EXTINF:-1 tvg-id="INDOSIAR" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="PLAYLIST🇮🇩",INDOSIAR
+#EXTINF:-1 site="dens.tv" site_id="10" xmltv_id="Indosiar" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="PLAYLIST🇮🇩",Indosiar
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
@@ -152,7 +152,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
-#EXTINF:-1 tvg-id="ANTV.id tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaSIUl-OvD6qZgYlFeIWVAt_LRNIYEvEKYg&usqp=CAU" group-title="PLAYLIST🇮🇩",ANTV
+#EXTINF:-1 site="firstmedia.com" site_id="13" xmltv_id="ANTV" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaSIUl-OvD6qZgYlFeIWVAt_LRNIYEvEKYg&usqp=CAU" group-title="PLAYLIST🇮🇩",ANTV
 https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505808.m3u8
 https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8 
