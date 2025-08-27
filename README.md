@@ -1,8 +1,9 @@
 Indonesian-IPTV
 
-You can watch livetv from Indonesian channels or premium tv with Indonesian subtitle without having to subscribe and pay anything.
+Anda dapat menonton TV langsung dari saluran Indonesia atau TV premium dengan subtitle bahasa Indonesia tanpa harus berlangganan dan membayar apa pun.
 
-copy this link and paste it into your OTT Player
+salin tautan ini dan tempel ke OTT Player atau OTT Navigator
 
 ```
  https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/siiejoii.m3u
+...
