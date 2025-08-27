@@ -325,7 +325,7 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505838.m3u
 http://iptvtree.net:8080/live/F28312/cc1dc138/306486.ts
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:-1 tvg-id="CINEMAX" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="PLAYLIST🇮🇩", CINEMAX
+#EXTINF:-1 site="firstmedia.com" site_id="310" xmltv_id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="PLAYLIST🇮🇩", CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
