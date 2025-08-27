@@ -9,3 +9,9 @@ salin tautan ini dan tempel ke OTT Player atau OTT Navigator
 
 ```
 
+jika belum terinstall ott player silahkan download link di bawah 👇🏻
+
+# ott-apk
+ott APK
+
+ https://drive.google.com/file/d/1kuO3_iElPmhyRc_o98DdEBbBMEj9yXks/view?usp=drivesdk
