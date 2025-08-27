@@ -57,9 +57,7 @@ http://iptvtree.net:8080/live/F28312/cc1dc138/306484.ts
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505836.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg%20Indonesia" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="PLAYLIST🇮🇩",HBO HD
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg%20Indonesia" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="PLAYLIST🇮🇩",HBO H
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666250.ts
 
