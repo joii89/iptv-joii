@@ -6,3 +6,10 @@ salin tautan ini dan tempel ke OTT Player atau OTT Navigator
 
 ```
  https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/siiejoii.m3u
+
+```
+
+Jika anda belum punya Ott nya silahkan download disini
+
+```
+ https://drive.google.com/file/d/1kuO3_iElPmhyRc_o98DdEBbBMEj9yXks/view?usp=drivesdk
