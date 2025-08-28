@@ -62,9 +62,30 @@ https://api.vidio.com/videos/1489187/common_tokenized_playlist.m3u8?ott=eyJhbGci
 #EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Gangstarasta - Pesawat Tempurku
 https://api.vidio.com/videos/1511575/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjE1MTE1NzUiLCJjcmVhdGVkX2F0IjoxNzU2NDAzMTIyLCJleHRfZHVyYXRpb24iOjYwMH0.3dMOMNlB60JIV4D4j6_Bjnjg5iyq4AU3ZDRuXIi8l9s
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Belum Ada Judul Ft Agnez
+https://bcdnw.hakunaymatata.com/resource/afc9461fe7a1dea3ef54dac2367f6dcc.mp4?sign=2e6fe1da05691a634c32d658ed70115e&t=1756409760
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Bongkar (Monas)
+https://bcdnw.hakunaymatata.com/resource/dae0ce074603851ab3fe5b603e25e0ef.mp4?sign=4a897fce524ef988e552280e0c3fa0a2&t=1756409621
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Sumbang (Monas)
+https://bcdnw.hakunaymatata.com/resource/ce6dc213f0769c4d87fe0a951e6c7088.mp4?sign=e72f9176e32b7eccb2553a2198b97d6c&t=1756409430
+
 
 #EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
+
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
+
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
+
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
+
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
+
 
 
 #EXTINF:-1 tvg-logo="" tvg-group"Music"
