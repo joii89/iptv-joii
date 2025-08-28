@@ -1,19 +1,41 @@
 #EXTM3U
 
-#EXTINF-1 type"music" tvg-logo="" tvg-group"Music",...
-https://scontent-cgk1-2.xx.fbcdn.net/o1/v/t2/f2/m69/AQPN84XUlUybRkqYy7N5hf9v8-8s5adr2hf0cA1mG1AQXO4Qz2MHYgjgq7ZlOtFLQOA5WTOOxIGBBdZIR6Ivcuo7.mp4?strext=1&_nc_cat=111&_nc_sid=8bf8fe&_nc_ht=scontent-cgk1-2.xx.fbcdn.net&_nc_ohc=QIOTkoognDMQ7kNvwGVGiv_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTAyNDA1NTgwOTY3OTI1MCwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjMzMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=QJyj9bkKcCNpmazeYuCIgw&_nc_zt=28&_nc_rml=0&_nc_eui2=AeHIqhfw9Q9QdsypbwSaoAS83NLDFcqqctDc0sMVyqpy0APj8F77NXKRM_YuWTp1POZIBqjI-2W2hMx2Dlp2RbI1&oh=00_AfXo00l1ailg9ebJ-GY485wQ8CoRAK16mfdafkS0Mq4xdg&oe=68B61FA3&bitrate=198834&tag=sve_sd
+#EXTINF-1 type"music" tvg-logo="" tvg-group"Music", Kabar Aroma Tanah 
+https://api.vidio.com/videos/7194648/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjcxOTQ2NDgiLCJjcmVhdGVkX2F0IjoxNzU2Mzk4MDI0LCJleHRfZHVyYXRpb24iOjYwMH0.heQFbkWiHLEZGOxzPy_N3CcYcQxY65EDl86LcUOQul8
 
-#EXTINF-1 type"music" tvg-logo="" tvg-group"Music",..
-https://scontent-cgk1-2.xx.fbcdn.net/o1/v/t2/f2/m69/AQNBvLlQ4GHLjQ66JZNdzX1p5hPr_RF6IdFePNlNPJl3_5D0ur_6Mkew8ukU1VrzBi19EAlIHwXrXppW_V-9lhi5.mp4?strext=1&_nc_cat=111&_nc_sid=8bf8fe&_nc_ht=scontent-cgk1-2.xx.fbcdn.net&_nc_ohc=N_gQZd2f8twQ7kNvwFz_vVN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTc4MDEyMTY0MjgyMjk1LCJ2aV91c2VjYXNlX2lkIjoxMDEyMiwiZHVyYXRpb25fcyI6Mjk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=gVgXmYLRuJKV4bn6BAhuCg&_nc_zt=28&_nc_rml=0&_nc_eui2=AeEJwhuNDm5TXNLFoMxqMKiObLd-IIYSwlhst34ghhLCWGUkc1Y1m6jeZCs6wPdc_FwuakxJks8LoytkHCkzYkXq&oh=00_AfWu90r_BmrRkioeRwtqlYMbbbduUOuxuHPDK-ztfGzc4g&oe=68B62DCF&bitrate=399899&tag=sve_sd
+#EXTINF-1 type"music" tvg-logo="" tvg-group"Music", Antara Aku Kau dan Bekas Pacarmu
+https://api.vidio.com/videos/519888/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTg4OCIsImNyZWF0ZWRfYXQiOjE3NTYzOTgxMDUsImV4dF9kdXJhdGlvbiI6NjAwfQ.jL9CTNorfgHdFh3AvTXzHpmfAs24PtFEeO0w3ESTsC4
 
-#EXTINF-1 type"music" tvg-logo="" tvg-group"Music",..
-https://scontent-cgk1-2.xx.fbcdn.net/o1/v/t2/f2/m69/AQOqqDczMJcy4mJ2W76CmTJDH0kmMQfQoJTsK31Q3PEOFzN5Bl-v4V46F0O-C7lyBRj4eRVrbLc0pb8GSPwH02hv.mp4?strext=1&_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-cgk1-2.xx.fbcdn.net&_nc_ohc=IjVfq1n27_cQ7kNvwGsuHJK&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsInZpZGVvX2lkIjoxMzcwNTE4NjgwOTMzMTc1LCJvaWxfdXJsZ2VuX2FwcF9pZCI6NDA5OTYyNjIzMDg1NjA5LCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjEwMjQwNTU4MDk2NzkyNTAsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjozMzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=QJyj9bkKcCNpmazeYuCIgw&_nc_zt=28&_nc_rml=0&_nc_eui2=AeGu-gAJ-BSKX3Y4dJLRRSwTzG-0rybxzTDMb7SvJvHNMLzHecSeLdbb3Lltsb3Rk8ghNbcGOTjRkvLDIW2Y0I14&oh=00_AfUfXNeHQax9UqdO1g9q0QVMSwD7par1t8ezrnPlRwVCKQ&oe=68B6238C
+#EXTINF-1 type"music" tvg-logo="" tvg-group"Music", Mabuk Cinta https://api.vidio.com/videos/519885/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTg4NSIsImNyZWF0ZWRfYXQiOjE3NTYzOTgxODQsImV4dF9kdXJhdGlvbiI6NjAwfQ.IaOdbCNIHCttIfj6om1XueaDpWB5-PiNqFHklNkjtk8
 
-#EXTINF-1 type"music" tvg-logo="" tvg-group"Music",..
-https://scontent-cgk1-2.xx.fbcdn.net/o1/v/t2/f2/m69/AQPD6GRKRqx5kNDvoY_DN0KtZolqsOqOqd86LGunhZSXPHtrqceJLWe_E-1sOtYn-APOic_bZpACqNLN0E5mRU8B.mp4?strext=1&_nc_cat=111&_nc_sid=8bf8fe&_nc_ht=scontent-cgk1-2.xx.fbcdn.net&_nc_ohc=14S8zru1ApIQ7kNvwGdudX9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NDA0NTQwNTE1OTM3MzQ2LCJhc3NldF9hZ2VfZGF5cyI6NDEyLCJ2aV91c2VjYXNlX2lkIjoxMDEyMywiZHVyYXRpb25fcyI6MzE4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=fMfJo5QeFcz-Uy3MLG5Mdg&_nc_zt=28&_nc_rml=0&_nc_eui2=AeEX2D7znR7giJVMEzsmjrhMyAwHMV_8qoLIDAcxX_yqggPO538pJqj8UYeKyjAGUoVR7EmwiGNnZX9f5jnO9MOI&oh=00_AfUE9cQmO6G2PJjE-gjwJ0uzS21tKgEvxWJhpJYo8Rrveg&oe=68B65113&bitrate=314420&tag=sve_sd
+#EXTINF-1 type"music" tvg-logo="" tvg-group"Music", Pesawat Tempurku ft Erwin Gutawa
+https://api.vidio.com/videos/1451517/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjE0NTE1MTciLCJjcmVhdGVkX2F0IjoxNzU2Mzk4NTQxLCJleHRfZHVyYXRpb24iOjYwMH0.MEhye9tZFu2cN5KdXncXsdqEgudLZlzMTpuCEOw7E5Y
 
-#EXTINF-1 type"music" tvg-logo="" tvg-group"Music", Lagu Cinta
-https://scontent-cgk1-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOfS3gUJ0wIG8QqiPiPtA4Ypkj6CN_92Cpd_x9lfl22qZsTlAbzeJFa9YB_znJ2cxqCr-hyLB4qJrjuZLBX5AOs2E9CSmMx2KoP2o26nA.mp4?_nc_cat=106&_nc_sid=8bf8fe&_nc_ht=scontent-cgk1-1.xx.fbcdn.net&_nc_ohc=oGHK3kuaRr8Q7kNvwFiTo8O&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzNlLjM2MC5zdmVfc2QiLCJ4cHZfYXNzZXRfaWQiOjQzNjczODg1NzAxNjA2NTcsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjoyODAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=o2uJbXJb5kwdaaMJzZ8VdQ&_nc_zt=28&_nc_rml=0&_nc_eui2=AeGpEWE4AOrbc8yjEyYcUQPrPPEjWa6PLI488SNZro8sjp08xxToyQlv1gBntsmh15hJZ_DV9gtfdvbVphuWFkax&oh=00_AfXymGZjQVMg47qJIDb1zl60fA_ErQ731OGN7BdMXCvslw&oe=68B630AC&bitrate=224660&tag=sve_sd
+#EXTINF-1 type"music" tvg-logo="" tvg-group"Music", Entah
+https://api.vidio.com/videos/519944/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTk0NCIsImNyZWF0ZWRfYXQiOjE3NTYzOTc2MDMsImV4dF9kdXJhdGlvbiI6NjAwfQ.JYWxPwjA4ql5WK3_aKXjFAWdhNLFo5XRea7g4yKbB0w
 
-#EXTINF-1 type"music" tvg-logo="" tvg-group"Music", ...
-https://scontent-cgk1-2.xx.fbcdn.net/o1/v/t2/f2/m69/AQNISZxvqIZJy4PmtXj3uiNeIh9faHVVCnoS3qdiBfk6o1eYQPQsogbIjCDVF6-4i-dETSjMyip26KJx_6aAl8s2.mp4?strext=1&_nc_cat=108&_nc_sid=8bf8fe&_nc_ht=scontent-cgk1-2.xx.fbcdn.net&_nc_ohc=EJLBhab4Y3sQ7kNvwF9h-D-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzNlLjM2MC5zdmVfc2QiLCJ4cHZfYXNzZXRfaWQiOjUwOTAyMzE4MjE0NTE4MiwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjIyNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=o2uJbXJb5kwdaaMJzZ8VdQ&_nc_zt=28&_nc_rml=0&_nc_eui2=AeFGrVVK7Y_B3uht1FiiNE4cJs1vti5iwIgmzW-2LmLAiBc6GDrW6dQvrKK-eJ1hnZL96MCHo8eQjmQvRcDRWgMn&oh=00_AfUlCWubF23DLx7TVajaWQzmGHwF9_V6yYCX9CQTrPx56A&oe=68B650AE&bitrate=202791&tag=sve_sd
+#EXTINF-1 type"music" tvg-logo="" tvg-group"Music", Manusia 1/2 Dewa
+https://api.vidio.com/videos/519946/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTk0NiIsImNyZWF0ZWRfYXQiOjE3NTYzOTczODQsImV4dF9kdXJhdGlvbiI6NjAwfQ.w1aqm1rbwcPZkWgp0o7OKh4KsSW3U842uC2d471Mqds
+
+#EXTINF-1 type"music" tvg-logo="" tvg-group"Music",16/10
+https://api.vidio.com/videos/2249577/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIyNDk1NzciLCJjcmVhdGVkX2F0IjoxNzU2Mzk3NDU5LCJleHRfZHVyYXRpb24iOjYwMH0.Dxm9LslBXk6XXuFNsZHn9ocRMq7L9v28iy9uOhA7374
+
+#EXTINF-1 type"music" tvg-logo="" tvg-group"Music",Ijinkan Aku Tuk Menyayangimu
+https://api.vidio.com/videos/850049/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6Ijg1MDA0OSIsImNyZWF0ZWRfYXQiOjE3NTYzOTczMTQsImV4dF9kdXJhdGlvbiI6NjAwfQ.iS4X5msr_Rb2WKDp91HUCyAGnZ3cEHFHsPvLwns3870
+
+#EXTINF-1 type"music" tvg-logo="" tvg-group"Music", Asik Ngga Asik 
+https://api.vidio.com/videos/519943/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTk0MyIsImNyZWF0ZWRfYXQiOjE3NTYzOTc2OTEsImV4dF9kdXJhdGlvbiI6NjAwfQ._BbRk_ueLVZzSu4O6XzSVzptt97NHXoPJ8iEcLH6bps
+
+#EXTINF-1 type"music" tvg-logo="" tvg-group"Music",Patah Hati 
+https://api.vidio.com/videos/2375246/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzNzUyNDYiLCJjcmVhdGVkX2F0IjoxNzU2Mzk3MDE1LCJleHRfZHVyYXRpb24iOjYwMH0.2mxKMjb84Pja7B6w_DartT0fT5L2WD8b7KWY1CQBFnQ
+
+#EXTINF-1 type"music" tvg-logo="" tvg-group"Music", Selamat Ulang Tahun 
+https://token-media-vidio-com.vidiocdn.net/uploads/2298578/edge-cache-token=Expires=1756411197&KeyName=tokenized-media-vidio-com-keyset&Signature=r-qFrySZ4Mm5oznDXtNcYhDF-5OaRqJbyaxguLsPc5tpURB4grbb15h4EiP5b3Y6hrxsKOGj3eUkKMeVoQyUBg==/etsvod_ETS22dbeb857537ef5ed_med.m3u8
+
+#EXTINF-1 type"music" tvg-logo="" tvg-group"Music", Pun AKu
+https://token-media-vidio-com.vidiocdn.net/uploads/2368138/edge-cache-token=Expires=1756411303&KeyName=tokenized-media-vidio-com-keyset&Signature=aMzsFM4GmvLadMv-zxGpUiHknmo4-JrJXO9sfqM2WU5JkK_s8yKGmMGRlQo9f7F1P1P3eqfIkKGq93oLvTqzCg==/etsvod_ETS26c52aa28fb3719d7_med.m3u8
+
+#EXTINF-1 type"music" tvg-logo="" tvg-group"Music"
+
+
+#EXTINF-1 type"music" tvg-logo="" tvg-group"Music"
