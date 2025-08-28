@@ -30,13 +30,7 @@ https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264774.ts
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505834.m3u8
-
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg%20Indonesia" group-title="🇮🇩 PLAYLIST INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
-
+
 #EXTINF:-1  tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg%20Indonesia" group-title="PLAYLIST🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -560,6 +554,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD
 #KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666265.ts
+
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg%20Indonesia" group-title="🇮🇩 PLAYLIST INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548" group-title="🇮🇩 PLAYLIST INDONESIA 🇮🇩",Citra Entertainment 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
@@ -2166,7 +2166,7 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/13/The.Hunger.
 #EXTINF:-1 tvg-id="" tvg-name="The Family Plan" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2023/12/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg?w=300&ssl=1" group-title="11. Movies 2023", The Family Plan
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/09/The.Family.Plan.2023.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="The Housekeeper" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2023/12/xFRNwqTl0WeWiTW10Wyixug1c9J.jpg?w=300&ssl=1" group-title="11. Movies 2023", The Housekeeper
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="The Housekeeper" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2023/12/xFRNwqTl0WeWiTW10Wyixug1c9J.jpg?w=300&ssl=1" group-title="Movies", The Housekeeper
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/01/The.Housekeeper.2023.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Please Don’t Destroy: The Treasure of Foggy Mountain" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2023/12/cdbF4kHyVNFZbLGf2Qow5rZdKj8.jpg?w=300&ssl=1" group-title="11. Movies 2023", Please Don’t Destroy: The Treasure of Foggy Mountain
@@ -2202,19 +2202,19 @@ https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/09/task1/97b
 #EXTINF:-1 tvg-id="" tvg-name="Expend4bles" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/nbrqj9q8WubD3QkYm7n3GhjN7kE.jpg?w=300&ssl=1" group-title="11. Movies 2023", Expend4bles
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/09/task1/9c587f0dd4b45a7d0a2049c12f83adc2/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="After Everything" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg?w=300&ssl=1" group-title="11. Movies 2023", After Everything
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="After Everything" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg?w=300&ssl=1" group-title="11. Movies 2023", After Everything
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/05/task1/7b8c67184d6f875762e5c481b3c19b8d/720p/index.m3u8
 
-#EXTINF:-1 type="Movie" tvg-id="" tvg-name="Muzzle" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/qXChf7MFL36BgoLkiB3BzXiwW82.jpg?w=300&ssl=1" group-title="Movies", Muzzle
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Muzzle" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/qXChf7MFL36BgoLkiB3BzXiwW82.jpg?w=300&ssl=1" group-title="Movies", Muzzle
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/05/task1/40b9047a09eb673244cf49fb3fed0cbe/1080p/index.m3u8
 
-#EXTINF:-1 type="Movie" tvg-id="" tvg-name="Sound of Freedom" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg?w=300&ssl=1" group-title="Movies", Sound of Freedom
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Sound of Freedom" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg?w=300&ssl=1" group-title="Movies", Sound of Freedom
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/05/task1/c83ab0fd4050f3952b8102b0da04b391/720p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Bottoms" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg?w=300&ssl=1" group-title="11. Movies 2023", Bottoms
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Bottoms" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg?w=300&ssl=1" group-title="Movie", Bottoms
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/03/task1/171a902c897968cc890ce5a35e7d876a/720p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="The Equalizer 3" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg?w=300&ssl=1" group-title="11. Movies 2023", The Equalizer 3
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="The Equalizer 3" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg?w=300&ssl=1" group-title="Movies", The Equalizer 3
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/03/task1/6fe9d9c89013bf55b5780f445e944ca6/720p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="The Nun II" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg?w=300&ssl=1" group-title="11. Movies 2023", The Nun II
@@ -2346,13 +2346,13 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/16/Vide.Noir.2
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/12/5lDOz2zlfiprRYKAWUJRkdSaWhl.jpg?w=300&ssl=1" group-title="Movies", Holiday Harmony 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/15/Holiday.Harmony.2022.mp4/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/12/7ROhQeFIRCDadpIe4C7fVi5mV1Q.jpg?w=300&ssl=1" group-title="12. Movies 2022", A Christmas Mystery 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/12/7ROhQeFIRCDadpIe4C7fVi5mV1Q.jpg?w=300&ssl=1" group-title="Movies", A Christmas Mystery 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/09/A.Christmas.Mystery.2022.mp4/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/12/f8D6dobydMiuabqRDQi0598ghc4.jpg?w=300&ssl=1" group-title="12. Movies 2022", A Hollywood Christmas 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/12/f8D6dobydMiuabqRDQi0598ghc4.jpg?w=300&ssl=1" group-title="Movies", A Hollywood Christmas 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/09/A.Hollywood.Christmas.2022.mp4/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/12/8g3wDC8vYRzC8OkkURV7OIRErjP.jpg?w=300&ssl=1" group-title="12. Movies 2022", Catering Christmas 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/12/8g3wDC8vYRzC8OkkURV7OIRErjP.jpg?w=300&ssl=1" group-title="Movies", Catering Christmas 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/01/Catering.Christmas.2022.mp4/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/12/9OXU2AIcV0NX7jP9yDxgz9XaIko.jpg?w=300&ssl=1" group-title="12. Movies 2022", A Brush with Christmas 
@@ -2477,6 +2477,12 @@ https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/11/10/task1/d7a
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/10/cSPQp3zclmSViWzrfIucCE0xOOk.jpg?w=300&ssl=1" group-title="12. Movies 2022", Guardians of Time 
 https://be6224.rcr92.lim01.cdn112.com/hls2/01/05966/ssa0ni5800x3_n/index-v1-a1.m3u8?t=vLxHf7M9K3Qj1iDaz5xNJq2ee5ZsMCNJaf8enJcs-44&s=1722408782&e=10800&f=29833688&srv=28&asn=131111&sp=4000 
+
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" group-title="MOVIE COLLECTION" tvg-logo="https://pacdn.aoneroom.com/image/2024/04/15/1a9adcc771aabea000d673a69b7c1a38.jpg?x-oss-process=image/resize%2Cw_250/format%2Cwebp", Titanic
+https://bcdnw.hakunaymatata.com/resource/8f5faef179e8906a2e50b3b6ffb2fb4c.mp4?sign=5715ea2b8541072682e4defd6b88b24b&t=1756408861
+
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" group-title="MOVIE COLLECTION" tvg-logo="https://pacdn.aoneroom.com/image/2022/09/02/dd329d86e4ca5926b34db9678e993701.jpg?x-oss-process=image/resize,w_360/format,webp", Legion
+https://h5.aoneroom.com/playstream.m3u8?q=eyJ1cmwiOiJodHRwczovL3NhY2RuLmhha3VuYXltYXRhdGEuY29tL2hscy8zODA0NDAyNTk1Mzc3MDczOTY4LTAtMC00ODAtOTA1L2xvY2FsLm0zdTg%2FUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjSE02THk5ellXTmtiaTVvWVd0MWJtRjViV0YwWVhSaExtTnZiUzlvYkhNdk16Z3dORFF3TWpVNU5UTTNOekEzTXprMk9DMHdMVEF0TkRnd0xUa3dOUzhxSWl3aVEyOXVaR2wwYVc5dUlqcDdJa1JoZEdWTVpYTnpWR2hoYmlJNmV5SkJWMU02UlhCdlkyaFVhVzFsSWpveE56VTNNREUyT0RFd2ZYMTlYWDBfXHUwMDI2U2lnbmF0dXJlPTNqTmJ%2BS1hpbzlhTTNBaFpJOGZ5RjVTZGs4dH4zT2RDajF6U0xGUlpIbENFaTkwQUFUS1lsS1hTZVJscE9KfkZjNTF2WVVwenZlVE1MdlRnRWt5OS1aSHVBSHQwT1l6TXNLTXAyfjhmVW1wdFVoMFFMLWZhcHI4bFlMV0dSQmxFM3VsT2ZoTnp1M3JxYnMxU2ZNcTlQeDNSSUxXbllXNTB4Tld%2BY1dld0JlUTdONnJIZGs3MU1oOXpOU25zV1RVYVBGUU9BMXYtQzVMcm0yYm5kZ2hhLW8zcFVzYzVyV1V2fndtTjJ4N1VyY2JFfjlYRE9JaEgyUFU0ZXpFWlRFSjl%2BNXdlZlJ4cDlvU2pnVXhZMUFMSn5XOUZ2YnR0NjRjWWMyLXNMNXdxbGpkM3lZOWVldmZYOElacktyQ2VOcHB5bjhlaWJhNUxQN2xLUVNZUFFKZFVNUV9fXHUwMDI2S2V5LVBhaXItSWQ9S01ITjFMUTFIRVVQTCIsImZvcm1hdCI6IkhMUyIsImN0IjoxNzU2NDEyMDY2fQ%3D%3D
 
 
 <========= Movies Indonesia =======>
