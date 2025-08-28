@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Kabar Aroma Tanah 
+#EXTINF:-1 type="movie" tvg-logo="https://thumbor.prod.vidiocdn.com/k-aszlewX-zaqurakle0SLVnGuE=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/7194648/kabar-aroma-tanah_full_h-489e13.jpg" tvg-group"Music", Kabar Aroma Tanah 
 https://api.vidio.com/videos/7194648/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjcxOTQ2NDgiLCJjcmVhdGVkX2F0IjoxNzU2Mzk4MDI0LCJleHRfZHVyYXRpb24iOjYwMH0.heQFbkWiHLEZGOxzPy_N3CcYcQxY65EDl86LcUOQul8
 
 #EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Antara Aku Kau dan Bekas Pacarmu
@@ -26,17 +26,41 @@ https://api.vidio.com/videos/850049/common_tokenized_playlist.m3u8?ott=eyJhbGciO
 #EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Asik Ngga Asik 
 https://api.vidio.com/videos/519943/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTk0MyIsImNyZWF0ZWRfYXQiOjE3NTYzOTc2OTEsImV4dF9kdXJhdGlvbiI6NjAwfQ._BbRk_ueLVZzSu4O6XzSVzptt97NHXoPJ8iEcLH6bps
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Patah Hati 
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Patah 
 https://api.vidio.com/videos/2375246/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzNzUyNDYiLCJjcmVhdGVkX2F0IjoxNzU2Mzk3MDE1LCJleHRfZHVyYXRpb24iOjYwMH0.2mxKMjb84Pja7B6w_DartT0fT5L2WD8b7KWY1CQBFnQ
 
 #EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Selamat Ulang Tahun 
 https://token-media-vidio-com.vidiocdn.net/uploads/2298578/edge-cache-token=Expires=1756411197&KeyName=tokenized-media-vidio-com-keyset&Signature=r-qFrySZ4Mm5oznDXtNcYhDF-5OaRqJbyaxguLsPc5tpURB4grbb15h4EiP5b3Y6hrxsKOGj3eUkKMeVoQyUBg==/etsvod_ETS22dbeb857537ef5ed_med.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Pun AKu
+#EXTINF:-1 type="movie" tvg-logo="https://thumbor.prod.vidiocdn.com/PypiTo1dScdRbPRSkrg3QNsO2NA=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2368138/iwan-fals-pun-6504ad.jpg" tvg-group"Music", Pun AKu
 https://token-media-vidio-com.vidiocdn.net/uploads/2368138/edge-cache-token=Expires=1756411303&KeyName=tokenized-media-vidio-com-keyset&Signature=aMzsFM4GmvLadMv-zxGpUiHknmo4-JrJXO9sfqM2WU5JkK_s8yKGmMGRlQo9f7F1P1P3eqfIkKGq93oLvTqzCg==/etsvod_ETS26c52aa28fb3719d7_med.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Ancur
+https://api.vidio.com/videos/2118696/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIxMTg2OTYiLCJjcmVhdGVkX2F0IjoxNzU2NDAxNzczLCJleHRfZHVyYXRpb24iOjYwMH0._19CW5kQP1TEV-5YG7Xho-QM7ZzqRqk5Wtf1NIrrPEM
 
-#EXTINF:-1 tvg-logo="" tvg-group"Music"
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music",Mata Dewa
+https://api.vidio.com/videos/2143897/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIxNDM4OTciLCJjcmVhdGVkX2F0IjoxNzU2NDAxNDkwLCJleHRfZHVyYXRpb24iOjYwMH0.pr7
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Do'a Pengobral Dosa
+https://api.vidio.com/videos/2209899/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIyMDk4OTkiLCJjcmVhdGVkX2F0IjoxNzU2NDAxNjAxLCJleHRfZHVyYXRpb24iOjYwMH0.4DJmQvkhHymPSBd0p0d3OT68pwo6eO790SEAzqDsI9w
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
+
+
 #EXTINF:-1 tvg-logo="" tvg-group"Music"
 #EXTINF:-1 tvg-logo="" tvg-group"Music"
 #EXTINF:-1 tvg-logo="" tvg-group"Music"
