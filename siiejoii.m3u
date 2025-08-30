@@ -8,6 +8,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 type="movie" group-title="Series Zona Merah", Zona Merah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/ZonaMerah.m3u8
 
 #EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="PLAYLIST🇮🇩", IMC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
