@@ -2488,6 +2488,9 @@ https://h5.aoneroom.com/playstream.m3u8?q=eyJ1cmwiOiJodHRwczovL3NhY2RuLmhha3VuYX
 <========= Movies Indonesia =======>
 
 
+#EXTINF:-1 type="movie" group-title="Series Zona Merah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRaLw6Q1WezYB_dURSgBHPnjYvifitbCqqV3EEi9HkapuayhDdRb8RTr0&s=10", Zona Merah
+https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/Series%20Movies
+
 #EXTINF:-1 type="movie" group-title="Movies Indonesia", Come Us
 https://storage.googleapis.com/mediastorage/1756381454010/6wbbbiwmalv/451177910.mp4#mp4/451177910/360p
 
