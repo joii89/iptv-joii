@@ -1,17 +1,12 @@
 #EXTM3U billed-msg="Siie Joii"
 #EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" refresh="3600"
-#EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml"
+#EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" refresh="3600"
 
 
 <------------------ PLAYLIST🇮🇩 ---------------->
 
 
 #EXTM3U
-
-
-#EXTINF:-1 type="movie" group-title="Series", Zona Merah
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/ZonaMerah.m3u8
 
 #EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="PLAYLIST🇮🇩", IMC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3134,6 +3129,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/68ea0e5b3c68da8eba6c172dd0039bc9/1080p/in
 
 #EXTINF:-1 tvg-id="" tvg-name="Spider-Man (2002)" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/01/film-spider-man-2002.jpg" group-title="14. Marvel Universe", Spider-Man (2002) 
 https://stream.hownetwork.xyz/xxx/spider-man-2002-bluray/11/480.m3u8 
+
 
 
 
