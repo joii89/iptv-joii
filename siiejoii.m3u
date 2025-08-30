@@ -2488,13 +2488,11 @@ https://h5.aoneroom.com/playstream.m3u8?q=eyJ1cmwiOiJodHRwczovL3NhY2RuLmhha3VuYX
 <========= Movies Indonesia =======>
 
 
-#EXTINF:-1 type="movie" group-title="Series Zona Merah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRaLw6Q1WezYB_dURSgBHPnjYvifitbCqqV3EEi9HkapuayhDdRb8RTr0&s=10", Zona Merah
-https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/Series%20Movies
 
-#EXTINF:-1 type="movie" group-title="Movies Indonesia", Come Us
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSds9XX8-bgy9s6aF2hju1aUdnTR1hOxCzzOS0-oCnbuzGSS2zQ891B96LbOu_mgQTIT0alKKoHey_6h8IkZNYZmnyYgMvhJdaHOZoLbLEA" group-title="Movies Indonesia", Come For Us
 https://storage.googleapis.com/mediastorage/1756381454010/6wbbbiwmalv/451177910.mp4#mp4/451177910/360p
 
-#EXTINF:-1 type="movie" group-title="Movies Indonesia", Headshot
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9f/Poster_headshot.jpg" group-title="Movies Indonesia", Headshot
 https://storage.googleapis.com/mediastorage/1756381358281/gm35ob0tjg9/606102042.mp4#chunk/606102042/304087040?maxChunkSize=15728640&url=https%3A%2F%2F12cdk78xxi0.sssrr.org%2F5%2F0%2F5%2Fd4ef975b39af3f0ca92d80dd0af86.606102042.2
 
 #EXTINF:-1 type="movie" group-title="Movies Indonesia"
