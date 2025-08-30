@@ -34,7 +34,8 @@ https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264774.ts
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505834.m3u8
-
+
+
 #EXTINF:-1  tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg%20Indonesia" group-title="PLAYLIST🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3097,6 +3098,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/68ea0e5b3c68da8eba6c172dd0039bc9/1080p/in
 
 #EXTINF:-1 tvg-id="" tvg-name="Spider-Man (2002)" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/01/film-spider-man-2002.jpg" group-title="14. Marvel Universe", Spider-Man (2002) 
 https://stream.hownetwork.xyz/xxx/spider-man-2002-bluray/11/480.m3u8 
+
 
 
 
