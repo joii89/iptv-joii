@@ -6,7 +6,8 @@ https://api.vidio.com/videos/7194648/common_tokenized_playlist.m3u8?ott=eyJhbGci
 #EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Antara Aku Kau dan Bekas Pacarmu
 https://api.vidio.com/videos/519888/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTg4OCIsImNyZWF0ZWRfYXQiOjE3NTYzOTgxMDUsImV4dF9kdXJhdGlvbiI6NjAwfQ.jL9CTNorfgHdFh3AvTXzHpmfAs24PtFEeO0w3ESTsC4
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Mabuk Cinta https://api.vidio.com/videos/519885/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTg4NSIsImNyZWF0ZWRfYXQiOjE3NTYzOTgxODQsImV4dF9kdXJhdGlvbiI6NjAwfQ.IaOdbCNIHCttIfj6om1XueaDpWB5-PiNqFHklNkjtk8
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Mabuk Cinta
+https://api.vidio.com/videos/519885/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTg4NSIsImNyZWF0ZWRfYXQiOjE3NTYzOTgxODQsImV4dF9kdXJhdGlvbiI6NjAwfQ.IaOdbCNIHCttIfj6om1XueaDpWB5-PiNqFHklNkjtk8
 
 #EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Pesawat Tempurku ft Erwin Gutawa
 https://api.vidio.com/videos/1451517/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjE0NTE1MTciLCJjcmVhdGVkX2F0IjoxNzU2Mzk4NTQxLCJleHRfZHVyYXRpb24iOjYwMH0.MEhye9tZFu2cN5KdXncXsdqEgudLZlzMTpuCEOw7E5Y
@@ -29,11 +30,11 @@ https://api.vidio.com/videos/519943/common_tokenized_playlist.m3u8?ott=eyJhbGciO
 #EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Patah 
 https://api.vidio.com/videos/2375246/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzNzUyNDYiLCJjcmVhdGVkX2F0IjoxNzU2Mzk3MDE1LCJleHRfZHVyYXRpb24iOjYwMH0.2mxKMjb84Pja7B6w_DartT0fT5L2WD8b7KWY1CQBFnQ
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Selamat Ulang Tahun 
-https://token-media-vidio-com.vidiocdn.net/uploads/2298578/edge-cache-token=Expires=1756411197&KeyName=tokenized-media-vidio-com-keyset&Signature=r-qFrySZ4Mm5oznDXtNcYhDF-5OaRqJbyaxguLsPc5tpURB4grbb15h4EiP5b3Y6hrxsKOGj3eUkKMeVoQyUBg==/etsvod_ETS22dbeb857537ef5ed_med.m3u8
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Selamat
+https://api.vidio.com/videos/2298578/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIyOTg1NzgiLCJjcmVhdGVkX2F0IjoxNzU2NTgxMjQzLCJleHRfZHVyYXRpb24iOjYwMH0.thcomsXq2k8lOGRKtaAX7nbjth79_2o1mw9-Eek_WCM
 
 #EXTINF:-1 type="movie" tvg-logo="https://thumbor.prod.vidiocdn.com/PypiTo1dScdRbPRSkrg3QNsO2NA=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2368138/iwan-fals-pun-6504ad.jpg" tvg-group"Music", Pun AKu
-https://token-media-vidio-com.vidiocdn.net/uploads/2368138/edge-cache-token=Expires=1756411303&KeyName=tokenized-media-vidio-com-keyset&Signature=aMzsFM4GmvLadMv-zxGpUiHknmo4-JrJXO9sfqM2WU5JkK_s8yKGmMGRlQo9f7F1P1P3eqfIkKGq93oLvTqzCg==/etsvod_ETS26c52aa28fb3719d7_med.m3u8
+https://api.vidio.com/videos/2368138/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzNjgxMzgiLCJjcmVhdGVkX2F0IjoxNzU2NTgxMzQ4LCJleHRfZHVyYXRpb24iOjYwMH0.0JWxaYjJ8dOuC3c8GMJdTt1enueMeTop2wFsO5zo5f4
 
 #EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Ancur
 https://api.vidio.com/videos/2118696/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIxMTg2OTYiLCJjcmVhdGVkX2F0IjoxNzU2NDAxNzczLCJleHRfZHVyYXRpb24iOjYwMH0._19CW5kQP1TEV-5YG7Xho-QM7ZzqRqk5Wtf1NIrrPEM
@@ -62,29 +63,20 @@ https://api.vidio.com/videos/1489187/common_tokenized_playlist.m3u8?ott=eyJhbGci
 #EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Gangstarasta - Pesawat Tempurku
 https://api.vidio.com/videos/1511575/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjE1MTE1NzUiLCJjcmVhdGVkX2F0IjoxNzU2NDAzMTIyLCJleHRfZHVyYXRpb24iOjYwMH0.3dMOMNlB60JIV4D4j6_Bjnjg5iyq4AU3ZDRuXIi8l9s
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Belum Ada Judul Ft Agnez
-https://bcdnw.hakunaymatata.com/resource/afc9461fe7a1dea3ef54dac2367f6dcc.mp4?sign=2e6fe1da05691a634c32d658ed70115e&t=1756409760
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Bongkar Live Monas
+https://vod3.cf.dmcdn.net/sec2(lTljKUll_v5I4x78RX88F_q4rG02q8xW6CpBbtqmA0UqNjCPD62oVhwqNxJIYi_cF5bF97sdjgSxypiWM1IjElU8jWIaYAyFXlkDZvjaKOSVhU6yGj0_Ikqlxm9qm8xf_FyB_nL83jp2w63TR8D8uFoVvFB1YrfXJo4m7yehx7c)/video/515/809/382908515_mp4_h264_aac_2.m3u8#cell=cf3
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Bongkar (Monas)
-https://bcdnw.hakunaymatata.com/resource/dae0ce074603851ab3fe5b603e25e0ef.mp4?sign=4a897fce524ef988e552280e0c3fa0a2&t=1756409621
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Cinta 
+https://api.vidio.com/videos/1288163/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjEyODgxNjMiLCJjcmVhdGVkX2F0IjoxNzU2NTgwOTIzLCJleHRfZHVyYXRpb24iOjYwMH0.DcZj6QRqhOlUPSfbXDZh48sPZVmIz1_KeR-jeqldYVE
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Sumbang (Monas)
-https://bcdnw.hakunaymatata.com/resource/ce6dc213f0769c4d87fe0a951e6c7088.mp4?sign=e72f9176e32b7eccb2553a2198b97d6c&t=1756409430
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Ft Ari Lasso Live Medan
+https://vod3.cf.dmcdn.net/sec2(0yJV32eYTxZcNpuHYmOjpfra4SbPswn8QRZT2LS5gfw0HxM4fsRwzSy7hrOWH9Ew5EgNdKsK3x8IqiXM0Rt7Ghzlph6EukfbEjs4Ha9Mb5MHC4DlALkCsCQwycpWdOElLfN-kEJmOeqUYjoYEz5sIalUzBoHHYZMfhewp8jGDh_Tqbd4QgbBOtaoBkODDWt-)/video/189/459/190954981_mp4_h264_aac_hq_1.m3u8#cell=cf3
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Swami - Bento
-https://bcdnw.hakunaymatata.com/resource/aeb7ce2c8899d1e34116606d9dc601ca.mp4?sign=c0d694c12bcb158569ba3639fc86d46c&t=1756480967
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Bongkar Live Monas 
+https://vod3.cf.dmcdn.net/sec2(lTljKUll_v5I4x78RX88F_q4rG02q8xW6CpBbtqmA0UqNjCPD62oVhwqNxJIYi_cF5bF97sdjgSxypiWM1IjElU8jWIaYAyFXlkDZvjaKOSVhU6yGj0_Ikqlxm9qm8xf_FyB_nL83jp2w63TR8D8uFoVvFB1YrfXJo4m7yehx7c)/video/515/809/382908515_mp4_h264_aac_2.m3u8#cell=cf3
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Swami - Bongkar
-https://bcdnw.hakunaymatata.com/resource/80776696391b58620d61067f11631065.mp4?sign=6b68f1a7bd4e62e445bd0afecbb8fcd8&t=1756480673
-
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Ft SID - 
-https://bcdnw.hakunaymatata.com/resource/b989ec7e94f26c4eb3ae3ffa68a342ab.mp4?sign=28af9e0caef2e92a23986e161d4c1c14&t=1756480829
-
-
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
-
-
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Wakil Rakyat - Live Net
+https://vod3.cf.dmcdn.net/sec2(TnXIeTUQMjrltcOYy5y-31EJRYs7RgWjTMYf1LJuQFI9YT16e7I0LkF_Lvr7ttAybXbaSUkFeS_aj5QoTTnQbttCWJata49blHlBwG6k5P8iZd8kVS-pon1PwY9aWwf2xM92LS8UckBoWiELkqdBrs_7UVi4kHlYUOnq7GBn2HY)/video/246/834/192438642_mp4_h264_aac_1.m3u8#cell=cf3
 
 
 
