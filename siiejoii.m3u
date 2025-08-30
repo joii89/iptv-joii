@@ -1,9 +1,13 @@
 #EXTM3U billed-msg="Siie Joii"
 #EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" refresh="3600"
 #EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" refresh="3600"
+#EXTM3U
+tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="3600"
+
 
 
 <------------------ PLAYLIST🇮🇩 ---------------->
+
 
 
 #EXTM3U
