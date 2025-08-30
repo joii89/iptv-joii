@@ -63,9 +63,6 @@ https://api.vidio.com/videos/1489187/common_tokenized_playlist.m3u8?ott=eyJhbGci
 #EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Gangstarasta - Pesawat Tempurku
 https://api.vidio.com/videos/1511575/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjE1MTE1NzUiLCJjcmVhdGVkX2F0IjoxNzU2NDAzMTIyLCJleHRfZHVyYXRpb24iOjYwMH0.3dMOMNlB60JIV4D4j6_Bjnjg5iyq4AU3ZDRuXIi8l9s
 
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkAsp5R3msuMekdhcxofT_aaOlBWGLb0akcO5kAXVXhEfkbbbeOd0W2kL&s=10" tvg-group"Music", Bongkar Live Monas
-https://vod3.cf.dmcdn.net/sec2(lTljKUll_v5I4x78RX88F_q4rG02q8xW6CpBbtqmA0UqNjCPD62oVhwqNxJIYi_cF5bF97sdjgSxypiWM1IjElU8jWIaYAyFXlkDZvjaKOSVhU6yGj0_Ikqlxm9qm8xf_FyB_nL83jp2w63TR8D8uFoVvFB1YrfXJo4m7yehx7c)/video/515/809/382908515_mp4_h264_aac_2.m3u8#cell=cf3
-
 #EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Indosiar_2015.svg" tvg-group"Music", Cinta 
 https://api.vidio.com/videos/1288163/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjEyODgxNjMiLCJjcmVhdGVkX2F0IjoxNzU2NTgwOTIzLCJleHRfZHVyYXRpb24iOjYwMH0.DcZj6QRqhOlUPSfbXDZh48sPZVmIz1_KeR-jeqldYVE
 
@@ -99,7 +96,9 @@ https://vod3.cf.dmcdn.net/sec2(-t4jSbrJxILI0NO6lxKvj8jIv6CnYfh0hH9xkUQYrbZWC7Ogu
 #EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Ft SLANK
 https://vod3.cf.dmcdn.net/sec2(vlYC-ahcjpAjM57vqAKdSMET5lI9Yn_u2i_sHblpNsSSo-D26OtAoyCsswDOZdhdyhpB3uLzRzSWv4OW3P8Kx2Ry2eImgtAclFSvUp8kJ1L-7fPmbbJVWflCay8PyIDmuNHUFYMSfVpzqAESheZ6cLi4zyTKFiOhtHwDqe1-uOI)/video/805/492/444294508_mp4_h264_aac.m3u8#cell=cf3
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Belum Ada Judul
+https://vod3.cf.dmcdn.net/sec2(rt8s-vcgywfAiwyy10u643YhZUalPE9MwO15NQjGggR7wzgjziD-yyDaWhKn3Iw39hDzcFSqz4J6oY2kdGmJDF6cC_YJ-NIbEx1y58PsVtVEiIaMfZzWrA_MgxZxFIGO1EHOhg_jvfOaFIbW88OTzbm9_QMdKrT8-RDHRPCvGi4)/video/345/329/427923543_mp4_h264_aac.m3u8#cell=cf3
+
 #EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
 
 
