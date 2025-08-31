@@ -2958,9 +2958,11 @@ https://www.googleapis.com/drive/v3/files/1cMUWn886RRZPyn6hPhvRpG91wep0Dsns?alt=
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbVbgDHGWQW8LwzbVyC8Uyz8YjBqLCsKoUlQ&s" group-title="MOVIES COLLECTION", Rush Hour
 https://seneng.org/v/driveid-121484-terbit21-com-rush-hour-1998.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo=" group-title="MOVIES COLLECTION"
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/dc/Rush_Hour_2_poster.png" group-title="MOVIES COLLECTION", RUSH HOUR 2
+https://seneng.org/v/driveid-122368-terbit21-com-rush-hour-2-2001.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo=" group-title="MOVIES COLLECTION"
+#EXTINF:-1 type="movie" tvg-logo="https://assets.telkomsel.com/public/2025-05/rush-hour-3.jpg?VersionId=WS5xUs9soWMwJggUSsp9kfKb.SZ1GkKK" group-title="MOVIES COLLECTION", RUSH HOUR 3
+https://seneng.org/v/fileid-8741-terbit21-com-rush-hour-3-2007.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo=" group-title="MOVIES COLLECTION"
 
@@ -3334,6 +3336,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/68ea0e5b3c68da8eba6c172dd0039bc9/1080p/in
 
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Spider-Man (2002)" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/01/film-spider-man-2002.jpg" group-title="Marvel Universe", Spider-Man (2002) 
 https://stream.hownetwork.xyz/xxx/spider-man-2002-bluray/11/480.m3u8 
+
 
 
 
