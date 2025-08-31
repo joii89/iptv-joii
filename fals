@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm9mucsx2fgD15M5Vfl7KosO8khyPs9OhGqHQqOvx-VIpvFBr_ld05doI&s=10"tvg-group"", Konser Bertalu Rindu
 https://scontent.fcgk16-1.fna.fbcdn.net/o1/v/t2/f2/m69/AQN8JaYDWHhAjYRF1kA-szVEJTXH6a3gZH-orfcqbgxeSt-peRJ8ZNROb5ttlS_7xd-58tYDjCCkgOZGazDyD6Ep.mp4?strext=1&_nc_cat=102&_nc_oc=Adnym-qncTi9_aSEXuZk1PuYPU0AhtYCvu4jDZIFAOGgRmaBvnS6RVZ1SOTBR3x2URM&_nc_sid=8bf8fe&_nc_ht=scontent.fcgk16-1.fna.fbcdn.net&_nc_ohc=a0JEmmasgEgQ7kNvwGyQ5dZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc0MjM4MDM0OTQ2NTU5NywiYXNzZXRfYWdlX2RheXMiOjEwMzIsInZpX3VzZWNhc2VfaWQiOjEwMTIzLCJkdXJhdGlvbl9zIjo5MTM2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=QDRgUI3kk_KRvq929JIRrg&_nc_zt=28&_nc_rml=0&_nc_eui2=AeFhB1Ks8BOXeArONiHF_NOdBOm9JdfP_FQE6b0l18_8VKH-mbrepjxqS_xMVl6SR8vGqL1eefvqgQ63JZNip53j&oh=00_AfW6ZCDE9Hdc6dMoLGaIz3R5t96AhoSuCZgkces8rDs4CQ&oe=68BA3D74&bitrate=279779&tag=sve_sd
 
@@ -109,25 +108,47 @@ https://scontent.xx.fbcdn.net/o1/v/t2/f2/m69/AQPqvjtLwluT8WOQPHQ2F8LOuB3pCAyvae7
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkAsp5R3msuMekdhcxofT_aaOlBWGLb0akcO5kAXVXhEfkbbbeOd0W2kL&s=10", Ft Ari Lasso - Yang Terlupakan Live Medan
 https://vod3.cf.dmcdn.net/sec2(DX4j7b8VEp1b0lxPzA2U_nP6qmRCNtQ8fPS5DIAUgdUZbxOmT6_CcRNNoJn4UcflgpBubW8o4MDevWOs8yz13bGlzwGEV-EdGy7BXkxGVgGntEUbfG-slHLmvbBNcLBU2p97mXz2aGBpHQ2A58xGRxX0VvletRUxHEK4rMpeTFtZeF7GQHBGC0HjaInnMs17)/video/189/459/190954981_mp4_h264_aac_hq_1.m3u8#cell=cf3
 
+#EXTINF:-1 type="movie" tvg-logo="", Kupu kupu hitam Putih
+https://api.vidio.com/videos/519884/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTg4NCIsImNyZWF0ZWRfYXQiOjE3NTY2NTY2OTEsImV4dF9kdXJhdGlvbiI6NjAwfQ.4l77aS0tUOYKU-7WANC3j_K6wEGFngRAJySkI_pk0GY 
+
+#EXTINF:-1 type="movie" tvg-logo="", Ft Noah - Yang Terlupakan Live indosiar
+https://api.vidio.com/videos/429284/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjQyOTI4NCIsImNyZWF0ZWRfYXQiOjE3NTY2NTYxMjYsImV4dF9kdXJhdGlvbiI6NjAwfQ.HIARmrh4QLvoDay1YnBm_IHa7iJAfRj4KI0yNla49QI
+
+
+
 #EXTINF:-1 type="movie" tvg-logo="" 
 
-#EXTINF:-1 type="movie" tvg-logo="" 
-#EXTINF:-1 type="movie" tvg-logo="" 
-#EXTINF:-1 type="movie" tvg-logo="" 
-
 
 #EXTINF:-1 type="movie" tvg-logo="" 
 
 
+#EXTINF:-1 type="movie" tvg-logo="" 
+
+
+#EXTINF:-1 type="movie" tvg-logo="" 
+
+
+#EXTINF:-1 type="movie" tvg-logo="" 
+
+
+#EXTINF:-1 type="movie" tvg-logo="" 
+#EXTINF:-1 type="movie" tvg-logo="" 
+
+
+#EXTINF:-1 type="movie" tvg-logo="" 
+
+
+#EXTINF:-1 type="movie" tvg-logo="" 
+#EXTINF:-1 type="movie" tvg-logo="" 
+
+
+#EXTINF:-1 type="movie" tvg-logo="" 
+
+
+#EXTINF:-1 type="movie" tvg-logo="" 
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="" tvg-group"Music"
-#EXTINF:-1 tvg-logo="" tvg-group"Music"
-#EXTINF:-1 tvg-logo="" tvg-group"Music"
-#EXTINF:-1 tvg-logo="" tvg-group"Music"
-#EXTINF:-1 tvg-logo="" tvg-group"Music"
-#EXTINF:-1 tvg-logo="" tvg-group"Music"
