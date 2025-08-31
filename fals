@@ -148,6 +148,29 @@ https://api.vidio.com/videos/508388/common_tokenized_playlist.m3u8?ott=eyJhbGciO
 https://api.vidio.com/videos/4474251/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjQ0NzQyNTEiLCJjcmVhdGVkX2F0IjoxNzU2NjU3Mzg3LCJleHRfZHVyYXRpb24iOjYwMH0.CHstdqdc4r8rmzxINFnWERK0AkYQf8CRmR2fXuRPnaY 
 
 
+#EXTINF:-1 type="movie" tvg-logo="", Negara
+https://api.vidio.com/videos/490835/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjQ5MDgzNSIsImNyZWF0ZWRfYXQiOjE3NTY2NTgxMjgsImV4dF9kdXJhdGlvbiI6NjAwfQ.D3CwZYEZ_bZvWhSkWZCODI9Jsl0vLXHxh5UYKdABTSo 
+
+
+#EXTINF:-1 type="movie" tvg-logo="", Pulang Lah
+https://api.vidio.com/videos/490836/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjQ5MDgzNiIsImNyZWF0ZWRfYXQiOjE3NTY2NTgxMjYsImV4dF9kdXJhdGlvbiI6NjAwfQ.Rx_pOS91VUU0HDso0NAQpq0f1k06yyW8h2hnKsQ0rGw 
+
+
+#EXTINF:-1 type="movie" tvg-logo="", Buku Ini Aku Pinjam
+https://api.vidio.com/videos/508384/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUwODM4NCIsImNyZWF0ZWRfYXQiOjE3NTY2NTgwODUsImV4dF9kdXJhdGlvbiI6NjAwfQ.l_U1px0LfgWr2n0P5TcaqPYBUpxp_whlAWoG-l-cWQk 
+
+
+#EXTINF:-1 type="movie" tvg-logo="", Sebelum Kau Bosan
+https://api.vidio.com/videos/490838/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjQ5MDgzOCIsImNyZWF0ZWRfYXQiOjE3NTY2NTgxMTcsImV4dF9kdXJhdGlvbiI6NjAwfQ.V1nOIUMPu6YNp1KK6OUznKzO4MoR_A5p1FCuheLb6I0 
+
+
+#EXTINF:-1 type="movie" tvg-logo="", Yang Tercinta
+https://api.vidio.com/videos/490840/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjQ5MDg0MCIsImNyZWF0ZWRfYXQiOjE3NTY2NTgwOTgsImV4dF9kdXJhdGlvbiI6NjAwfQ.Yhd01VaLdRF34Wzb7kbguNCy4Pvng1632Xv5U3LQ4qI 
+
+
+#EXTINF:-1 type="movie" tvg-logo="", Yang Tersendiri
+https://api.vidio.com/videos/491087/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjQ5MTA4NyIsImNyZWF0ZWRfYXQiOjE3NTY2NjA2OTksImV4dF9kdXJhdGlvbiI6NjAwfQ.pzMW1oCxZJhnr6FMMO2p5Ug61GeqWjWawwjFsg7Hp_o
+ 
 #EXTINF:-1 type="movie" tvg-logo="" 
 
 
@@ -155,8 +178,20 @@ https://api.vidio.com/videos/4474251/common_tokenized_playlist.m3u8?ott=eyJhbGci
 
 
 #EXTINF:-1 type="movie" tvg-logo="" 
+#EXTINF:-1 type="movie" tvg-logo="" 
 
 
+#EXTINF:-1 type="movie" tvg-logo="" 
+
+
+#EXTINF:-1 type="movie" tvg-logo="" 
+#EXTINF:-1 type="movie" tvg-logo="" 
+
+
+#EXTINF:-1 type="movie" tvg-logo="" 
+
+
+#EXTINF:-1 type="movie" tvg-logo="" 
 
 
 
