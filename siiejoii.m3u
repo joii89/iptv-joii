@@ -2118,13 +2118,11 @@ https://apac2.8d5fff6dafa213ef6b9210db39c5f56e.r2.cloudflarestorage.com/50111.mp
 #EXTINF:-1 tvg-logo="https://javtiful.com/media/videos/tmb/37616/1.jpg" group-title="Movies",xnxx 5
 https://apac2.8d5fff6dafa213ef6b9210db39c5f56e.r2.cloudflarestorage.com/82689.mp4?response-content-disposition=attachment%3B%20filename%3D3d54aa0fc9b89ec09c6ca049234f16f0.svg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=33bf6a0344f1da7a92b58edb71696011%2F20250828%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250828T041811Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=ddc03e929cb2ad2e6f7e4f142a98e8dbe71be946c37ff40618b886421bf36e59https://pv3001.dmm.co.jp/litevideo/freepv/j/juq/juq00125/juq00125_sm_w.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",xnxx 6
-https://apac2.8d5fff6dafa213ef6b9210db39c5f56e.r2.cloudflarestorage.com/61418.mp4?response-content-disposition=attachment%3B%20filename%3D38f31bfacb6f2fddbd10ade8b55e2f6f.svg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=33bf6a0344f1da7a92b58edb71696011%2F20250820%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250820T171729Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=537c416a1e91d312b525ca3421d4e8c35a31639d920dd40ae3b4140f9c23b742
+#EXTINF:-1 type="movie" tvg-logo="" group-title="Movies",xnxx 6
+https://cdn77-vid.xvideos-cdn.com/H_Jn78-DzCwf5n0D6uYxOA==,1756676176/videos/hls/15/97/6b/15976b5be65479c2e7436ddb76bb3a6d/hls-480p-13b0f.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",xnxx 7
-
-
+#EXTINF:-1 type="movie" tvg-logo="" group-title="Movies",xnxx 7
+https://cdn77-pic.xvideos-cdn.com/videos/videopreview/cf/1e/e8/cf1ee855a34ef0eed3a45c16688e3b05_169.mp4
 
 
 #EXTINF:-1 type="movie" group-title="Movies" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/tSee9gbGLfqwvjoWoCQgRZ4Sfky.jpg",G20 
@@ -2333,16 +2331,16 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jun/12/Beverly.Hil
 #EXTINF:-1 tvg-id="movie" tvg-name="In a Violent Nature" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/07/o5pcDZaA9Up0X612os34JNCRX6j.jpg?w=300&ssl=1" group-title="Movies", In a Violent Nature
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jun/11/In.a.Violent.Nature.2024.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="movie" tvg-name="The Watchers" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/07/vZVEUPychdvZLrTNwWErr9xZFmu.jpg?w=300&ssl=1" group-title="Movies", The Watchers
+#EXTINF:-1 type="movie" tvg-name="The Watchers" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/07/vZVEUPychdvZLrTNwWErr9xZFmu.jpg?w=300&ssl=1" group-title="Movies", The Watchers
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jun/11/The.Watchers.2024.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Furiosa: A Mad Max Saga (2024)" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/06/iADOJ8Zymht2JPMoy3R7xceZprc.jpg?w=300&ssl=1" group-title="Movies", Furiosa: A Mad Max Saga (2024)
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Furiosa: A Mad Max Saga (2024)" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/06/iADOJ8Zymht2JPMoy3R7xceZprc.jpg?w=300&ssl=1" group-title="Movies", Furiosa: A Mad Max Saga (2024)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jun/09/Furiosa.A.Mad.Max.Saga.2024.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IF" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/06/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg?w=300&ssl=1" group-title="Movies", IF
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="IF" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/06/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg?w=300&ssl=1" group-title="Movies", IF
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jun/07/IF.2024.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Boy Kills World" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/06/25JskXmchcYwj3jHRmcPm738MpB.jpg?w=300&ssl=1" group-title="Movies", Boy Kills World
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Boy Kills World" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/06/25JskXmchcYwj3jHRmcPm738MpB.jpg?w=300&ssl=1" group-title="Movies", Boy Kills World
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jun/05/Boy.Kills.World.2024.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="movie" tvg-name="Hit Man" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-hit-man-2024-lk21-d21.jpg.webp" group-title="Movies", Hit Man
@@ -2461,85 +2459,79 @@ https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/08/07/task1/d25
 #EXTINF:-1 tvg-id="" tvg-name="Retribution" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/09/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg?w=300&ssl=1" group-title="11. Movies 2023", Retribution
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/08/07/task1/ccb269951e8c64a8d41c2dc6585f328f/720p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Barbie" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/09/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg?w=300&ssl=1" group-title="11. Movies 2023", Barbie
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Barbie" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/09/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg?w=300&ssl=1" group-title="Movies", Barbie
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/07/12/task1/2a9ab7bebdde7eadf5e950e0a9dd7570/720p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Blue Beetle" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/09/film-blue-beetle-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Blue Beetle
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Blue Beetle" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/09/film-blue-beetle-2023-lk21-d21.jpg.webp" group-title="Movies", Blue Beetle
 https://jje3d85cwvdg.hgagecdn.com/hls2/01/00965/m6jroxd09mrd_,l,n,.urlset/index-f2-v1-a1.m3u8?t=G2zrzN1Rj0AaE4vbneE1dBf-fwP-tl_6i36_UgmCc70&s=1721488202&e=129600&f=4826550&srv=jOOsnklnnY6D&i=0.4&sp=500&p1=jOOsnklnnY6D&p2=jOOsnklnnY6D&asn=7713
 
-#EXTINF:-1 tvg-id="" tvg-name="Puppy Love" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2023/08/film-puppy-love-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Puppy Love
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Puppy Love" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2023/08/film-puppy-love-2023-lk21-d21.jpg.webp" group-title="Movies", Puppy Love
 https://stream.hownetwork.xyz/xxx/puppy-love-2023-webdl/2/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="The Slumber Party" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2023/08/film-the-slumber-party-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", The Slumber Party
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="The Slumber Party" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2023/08/film-the-slumber-party-2023-lk21-d21.jpg.webp" group-title="Movies", The Slumber Party
 https://stream.hownetwork.xyz/xxx/the-slumber-party-2023-webdl/2/480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Meg 2: The Trench" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2023/08/film-meg-2-the-trench-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Meg 2: The Trench
-https://nwyz4jcwznvv.hgagecdn.com/hls2/01/01094/cfnr1lt0b6q5_,l,n,.urlset/index-f2-v1-a1.m3u8?t=B97ijNjDeah5rLjKO_rcd6ehkxZak2brK7okDet4o7U&s=1721488825&e=129600&f=5472588&srv=o6HwAC2qTh6R&i=0.4&sp=500&p1=o6HwAC2qTh6R&p2=o6HwAC2qTh6R&asn=7713
-
-#EXTINF:-1 tvg-id="" tvg-name="Hidden Strike" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2023/07/film-hidden-strike-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Hidden Strike
+
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Hidden Strike" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2023/07/film-hidden-strike-2023-lk21-d21.jpg.webp" group-title="Movies", Hidden Strike
 https://stream.hownetwork.xyz/xxx/hidden-strike-2023-webdl/2/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="M:I – Dead Reckoning (1)" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2023/07/film-mission-impossible-dead-reckoning-part-one-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", M:I – Dead Reckoning (1)
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="M:I – Dead Reckoning (1)" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2023/07/film-mission-impossible-dead-reckoning-part-one-2023-lk21-d21.jpg.webp" group-title="Movies", M:I – Dead Reckoning (1)
 https://togtbtzsk9xf.hgagecdn.com/hls2/01/00697/jh6p277icdi4_,l,n,.urlset/index-f2-v1-a1.m3u8?t=AlMByipCvYz1lGJPGfS_WfrojHiZWfX_UmAUYmf4axw&s=1721489174&e=129600&f=3485408&srv=R7E4BBU6QXpa&i=0.4&sp=500&p1=R7E4BBU6QXpa&p2=R7E4BBU6QXpa&asn=7713
 
-#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones and the Dial of Destiny" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2023/07/film-indiana-jones-and-the-dial-of-destiny-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Indiana Jones and the Dial of Destiny
+#EXTINF:-1 type="movie" type="movie" tvg-id="" tvg-name="Indiana Jones and the Dial of Destiny" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2023/07/film-indiana-jones-and-the-dial-of-destiny-2023-lk21-d21.jpg.webp" group-title="Movies", Indiana Jones and the Dial of Destiny
 https://stream.hownetwork.xyz/xxx/indiana-jones-and-the-dial-of-destiny-2023-bluray_X_a38998df/18/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Extraction 2" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2023/06/film-extraction-2-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Extraction 2
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Extraction 2" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2023/06/film-extraction-2-2023-lk21-d21.jpg.webp" group-title="Movies", Extraction 2
 https://stream.hownetwork.xyz/xxx/extraction-2-2023-webdl/2/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="The Flash" tvg-logo="https://cds.bet/wp-content/uploads/2023/06/rktDFPbfHfUbArZ6OOOKsXcv0Bm-146x218.jpg" group-title="11. Movies 2023", The Flash
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="The Flash" tvg-logo="https://cds.bet/wp-content/uploads/2023/06/rktDFPbfHfUbArZ6OOOKsXcv0Bm-146x218.jpg" group-title="11. Movies 2023", The Flash
 https://lqas6jwl9y0x.hgagecdn.com/hls2/01/00491/skb56qkzd4aw_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=x6YIl-T81CR37jZeOa9IOfeQcb8eVyCBX7Dje9Bn6d0&s=1721628795&e=129600&f=2459100&srv=VyRMveB1ylYs&i=0.4&sp=500&p1=VyRMveB1ylYs&p2=VyRMveB1ylYs&asn=131111
 
-#EXTINF:-1 tvg-id="" tvg-name="Kandahar" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2023/06/film-kandahar-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Kandahar
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Kandahar" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2023/06/film-kandahar-2023-lk21-d21.jpg.webp" group-title="Movies", Kandahar
 https://stream.hownetwork.xyz/xxx/kandahar-2023-webdl/2/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Are You There God? It’s Me, Margaret" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2023/06/film-are-you-there-god-its-me-margaret-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Are You There God? It’s Me, Margaret
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Are You There God? It’s Me, Margaret" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2023/06/film-are-you-there-god-its-me-margaret-2023-lk21-d21.jpg.webp" group-title="Movies", Are You There God? It’s Me, Margaret
 https://stream.hownetwork.xyz/xxx/are-you-there-god-its-me-margaret-2023-webdl/2/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Transformers: Rise of the Beasts" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2023/06/film-transformers-rise-of-the-beasts-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Transformers: Rise of the Beasts
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Transformers: Rise of the Beasts" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2023/06/film-transformers-rise-of-the-beasts-2023-lk21-d21.jpg.webp" group-title="Movies", Transformers: Rise of the Beasts
 https://stream.hownetwork.xyz/xxx/transformers-rise-of-the-beasts-2023-bluray/14/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Showing Up" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2023/06/film-showing-up-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Showing Up
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Showing Up" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2023/06/film-showing-up-2023-lk21-d21.jpg.webp" group-title="Movies", Showing Up
 https://stream.hownetwork.xyz/xxx/showing-up-2023-webdl/9/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="The Little Mermaid" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2023/06/film-the-little-mermaid-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", The Little Mermaid
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="The Little Mermaid" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2023/06/film-the-little-mermaid-2023-lk21-d21.jpg.webp" group-title="Movies", The Little Mermaid
 https://stream.hownetwork.xyz/xxx/the-little-mermaid-2023-bluray/4/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hypnotic" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2023/06/film-hypnotic-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Hypnotic
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Hypnotic" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2023/06/film-hypnotic-2023-lk21-d21.jpg.webp" group-title="Movies", Hypnotic
 https://stream.hownetwork.xyz/xxx/hypnotic-2023-bluray/16/480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Fast X" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2023/05/film-fast-x-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Fast X
-https://nzxfhnnl6es7.hgagecdn.com/hls2/01/01096/h0otkc9avng2_,l,n,.urlset/index-f2-v1-a1.m3u8?t=5MhgIU2IS6pCUm9OprbKbe3NDHLQ7OuxznNVf-FZMdY&s=1721490983&e=129600&f=5482775&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=7713
-
-#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy Vol. 3" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2023/05/film-guardians-of-the-galaxy-vol-3-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Guardians of the Galaxy Vol. 3
+
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Guardians of the Galaxy Vol. 3" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2023/05/film-guardians-of-the-galaxy-vol-3-2023-lk21-d21.jpg.webp" group-title="Movies", Guardians of the Galaxy Vol. 3
 https://stream.hownetwork.xyz/xxx/guardians-of-the-galaxy-vol-3-2023-bluray/2/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Dungeons & Dragons: Honor Among Thieves" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2023/05/film-dungeons-dragons-honor-among-thieves-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Dungeons & Dragons: Honor Among Thieves
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Dungeons & Dragons: Honor Among Thieves" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2023/05/film-dungeons-dragons-honor-among-thieves-2023-lk21-d21.jpg.webp" group-title="Movies", Dungeons & Dragons: Honor Among Thieves
 https://stream.hownetwork.xyz/xxx/dungeons-dragons-honor-among-thieves-2023-webdl/10/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="The Pope’s Exorcist" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2023/05/film-the-popes-exorcist-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", The Pope’s Exorcist
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="The Pope’s Exorcist" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2023/05/film-the-popes-exorcist-2023-lk21-d21.jpg.webp" group-title="Movies3", The Pope’s Exorcist
 https://stream.hownetwork.xyz/xxx/the-popes-exorcist-2023-bluray/9/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Scream VI" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2023/04/film-scream-vi-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Scream VI 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Scream VI" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2023/04/film-scream-vi-2023-lk21-d21.jpg.webp" group-title="Movies", Scream VI 
 https://stream.hownetwork.xyz/xxx/scream-vi-2023-webdl/10/480.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="Ghosted" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2023/04/film-ghosted-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Ghosted 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Ghosted" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2023/04/film-ghosted-2023-lk21-d21.jpg.webp" group-title="Movies", Ghosted 
 https://stream.hownetwork.xyz/xxx/ghosted-2023-webdl/10/480.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="Shazam! Fury of the Gods" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2023/04/film-shazam-fury-of-the-gods-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Shazam! Fury of the Gods 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Shazam! Fury of the Gods" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2023/04/film-shazam-fury-of-the-gods-2023-lk21-d21.jpg.webp" group-title="Movies", Shazam! Fury of the Gods 
 https://stream.hownetwork.xyz/xxx/shazam-fury-of-the-gods-2023-bluray/9/480.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="Creed III" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/04/film-creed-iii-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Creed III 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Creed III" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/04/film-creed-iii-2023-lk21-d21.jpg.webp" group-title="Movies", Creed III 
 https://stream.hownetwork.xyz/xxx/creed-iii-2023-bluray/9/480.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="John Wick: Chapter 4" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/03/film-john-wick-chapter-4-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", John Wick: Chapter 4 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="John Wick: Chapter 4" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/03/film-john-wick-chapter-4-2023-lk21-d21.jpg.webp" group-title="Movies", John Wick: Chapter 4 
 https://stream.hownetwork.xyz/xxx/john-wick-chapter-4-2023-bluray/8/480.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="Operation Fortune" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2023/03/film-operation-fortune-ruse-de-guerre-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Operation Fortune 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Operation Fortune" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2023/03/film-operation-fortune-ruse-de-guerre-2023-lk21-d21.jpg.webp" group-title="type="movie" ", Operation Fortune 
 https://stream.hownetwork.xyz/xxx/operation-fortune-ruse-de-guerre-2023-bluray/11/480.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp: Quantumania" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/02/film-ant-man-and-the-wasp-quantumania-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Ant-Man and the Wasp: Quantumania 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Ant-Man and the Wasp: Quantumania" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/02/film-ant-man-and-the-wasp-quantumania-2023-lk21-d21.jpg.webp" group-title="Movies", Ant-Man and the Wasp: Quantumania 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/04/01/task1/a0cada1dd61309f47226c37d48798a5e/360p/index.m3u8 
 
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Detective Knight: Independence" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2023/02/jrPKVQGjc3YZXm07OYMriIB47HM.jpg?w=300&ssl=1" group-title="Movies", Detective Knight: Independence 
@@ -2618,79 +2610,79 @@ https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/03/02/task1/5ef
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/02/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg?w=300&ssl=1" group-title="12. Movies 2022", AThe Pale Blue Eye 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/12/10/task1/07c5221710ca1593a960c613d99c234d/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/02/bFTgfsw4cnNjIZZ2r6P363X2Uk3.jpg?w=300&ssl=1" group-title="12. Movies 2022", To Leslie 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/02/bFTgfsw4cnNjIZZ2r6P363X2Uk3.jpg?w=300&ssl=1" group-title="Movies", To Leslie 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/12/10/task1/9d9bc41abcffd2d4d9723d8f198fec6e/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/01/1XSYOP0JjjyMz1irihvWywro82r.jpg?w=300&ssl=1" group-title="12. Movies 2022", Violent Night 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/01/1XSYOP0JjjyMz1irihvWywro82r.jpg?w=300&ssl=1" group-title="Movies", Violent Night 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/12/08/task1/6059ac0f7356abe9b2fb467bddbba22d/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/01/d2IywyOPS78vEnJvwVqkVRTiNC1.jpg?w=300&ssl=1" group-title="12. Movies 2022", The Fabelmans 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/01/d2IywyOPS78vEnJvwVqkVRTiNC1.jpg?w=300&ssl=1" group-title="Movies", The Fabelmans 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/12/05/task1/7ca958a09e2c37a6ee22fc329adf7cf1/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/01/JvqaHXdKBtEAmm4EDVTGkoAGIj.jpg?w=300&ssl=1" group-title="12. Movies 2022", Mindcage 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/01/JvqaHXdKBtEAmm4EDVTGkoAGIj.jpg?w=300&ssl=1" group-title="Movies", Mindcage 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/12/05/task1/9a5ed80c266d77bf497849c87551fc62/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/01/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg?w=300&ssl=1" group-title="12. Movies 2022", Emancipation 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/01/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg?w=300&ssl=1" group-title="Movies", Emancipation 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/12/03/task1/8537b2fbf15af8ac2fa3154c82b275bd/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/12/fabZkaVHYJ67KbZx7oFoitauX34.jpg?w=300&ssl=1" group-title="12. Movies 2022", About Fate 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/12/fabZkaVHYJ67KbZx7oFoitauX34.jpg?w=300&ssl=1" group-title="Movies", About Fate 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/11/10/task1/0c6eee700c579ce6e48391259ce9f251/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/4x3pt6hoLblBeHebUa4OyiVXFiM.jpg?w=300&ssl=1" group-title="12. Movies 2022", Disenchanted 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/4x3pt6hoLblBeHebUa4OyiVXFiM.jpg?w=300&ssl=1" group-title="Movies", Disenchanted 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/11/08/task1/20f82e3497e2ec3dffba0e1bd0386813/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg?w=300&ssl=1" group-title="12. Movies 2022", Spirited 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg?w=300&ssl=1" group-title="Movies", Spirited 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/11/08/task1/ba638d78ef956bf8702d8c5df897e2e2/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/95Bn6HZBBJcG7LOBMAzNH0gmLih.jpg?w=300&ssl=1" group-title="12. Movies 2022", The Last Manhunt 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/95Bn6HZBBJcG7LOBMAzNH0gmLih.jpg?w=300&ssl=1" group-title="Movies", The Last Manhunt 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/11/08/task1/b06380a3eb7fc42d2e502c1ffa0610a1/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/f18kgonrgr8YvEuvshExS4XBGL8.jpg?resize=170%2C255&ssl=1" group-title="12. Movies 2022", Slumberland 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/f18kgonrgr8YvEuvshExS4XBGL8.jpg?resize=170%2C255&ssl=1" group-title="Movies", Slumberland 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/11/08/task1/329d6c8fc1fc0a0743d710f67a8bb59c/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/jVmWI8PqoVTHCnrLYAcyrclzeY0.jpg?w=300&ssl=1" group-title="12. Movies 2022", On the Line 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/jVmWI8PqoVTHCnrLYAcyrclzeY0.jpg?w=300&ssl=1" group-title="Movies", On the Line 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/11/05/task1/1a46d63fbbe20c0f43f194a74884451f/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/xdmmd437QdjcCls8yCQxrH5YYM4.jpg?w=300&ssl=1" group-title="12. Movies 2022", Paradise City 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/xdmmd437QdjcCls8yCQxrH5YYM4.jpg?w=300&ssl=1" group-title="Movies", Paradise City 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/11/05/task1/fc16b3ca21b2f4213bfb204f08be2aa2/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/8a2MIBV9LuPYbF5rOEAohjjMz9P.jpg?w=300&ssl=1" group-title="12. Movies 2022", Poker Face 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/8a2MIBV9LuPYbF5rOEAohjjMz9P.jpg?w=300&ssl=1" group-title="Movies", Poker Face 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/11/05/task1/73c0e89ceef1235e6ed60134fdefb08b/720p/index.m3u8 
 
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/6GkphwL9s6dZb3DoQS9OQ4LcPgY.jpg?w=300&ssl=1" group-title="Movies", Falling for Christmas 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/11/03/task1/57f0bbd0c5fb45afa85a0767efcbed9d/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg?w=300&ssl=1" group-title="12. Movies 2022", My Policeman 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg?w=300&ssl=1" group-title="Movies", My Policeman 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/11/01/task1/ee231786fb4a973e1e72289f1d338df1/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/g4yJTzMtOBUTAR2Qnmj8TYIcFVq.jpg?w=300&ssl=1" group-title="12. Movies 2022", R.I.P.D. 2 Rise of the Damned 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/g4yJTzMtOBUTAR2Qnmj8TYIcFVq.jpg?w=300&ssl=1" group-title="Movies", R.I.P.D. 2 Rise of the Damned 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/11/01/task1/a424ac39fe4b7722712605d111e0d13d/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/5v3grtPk3QSdjDP8ggpylA3hgIy.jpg?w=300&ssl=1" group-title="12. Movies 2022", The System 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/5v3grtPk3QSdjDP8ggpylA3hgIy.jpg?w=300&ssl=1" group-title="Movies", The System 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/11/01/task1/f4f37d237ba64e969a162d308dc90168/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg?w=300&ssl=1" group-title="12. Movies 2022", Enola Holmes 2 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg?w=300&ssl=1" group-title="Movies", Enola Holmes 2 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/10/12/task1/370f9774b2401d74e760035482ae1bd6/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/438QXt1E3WJWb3PqNniK0tAE5c1.jpg?w=300&ssl=1" group-title="12. Movies 2022", The Woman King 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/438QXt1E3WJWb3PqNniK0tAE5c1.jpg?w=300&ssl=1" group-title="Movies", The Woman King 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/10/12/task1/56beee4853837b620d9ab940fca9e593/720p/index.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/glZfjVEzZCJ7oTHWa3m6KefcoRN.jpg?w=300&ssl=1" group-title="12. Movies 2022", All Quiet on the Western Front 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/10/09/task1/fcd8e6691045e7faadc381703308d98b/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg?w=300&ssl=1" group-title="12. Movies 2022", Detective Knight: Rogue 
+#EXTINF:-1 type="movie"tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg?w=300&ssl=1" group-title="Movies", Detective Knight: Rogue 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/10/09/task1/bab8143f3ab10f3dc55d07a1dc32714c/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/1tzERH50P5c2mFWtLbgixzLZS1L.jpg?w=300&ssl=1" group-title="12. Movies 2022", Ticket to Paradise 
+#EXTINF:-1 type="movie"tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/1tzERH50P5c2mFWtLbgixzLZS1L.jpg?w=300&ssl=1" group-title="Movies", Ticket to Paradise 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/10/09/task1/05ad930573e2194c915a9c854f31a4b3/720p/index.m3u8 
 
 #EXTINF:-1 type="Movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/10/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg?w=300&ssl=1" group-title="Movies", The School for Good and Evil 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/10/09/task1/c0c1aadaef5544b6fb50e6cd84ea3902/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/10/3zXceNTtyj5FLjwQXuPvLYK5YYL.jpg?w=300&ssl=1" group-title="12. Movies 2022", Black Adam 
+#EXTINF:-1 type="movie"tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/10/3zXceNTtyj5FLjwQXuPvLYK5YYL.jpg?w=300&ssl=1" group-title="Movies", Black Adam 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/11/10/task1/d7a1c8f39df9b42486330e51e19d4e76/720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/10/cSPQp3zclmSViWzrfIucCE0xOOk.jpg?w=300&ssl=1" group-title="12. Movies 2022", Guardians of Time 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/10/cSPQp3zclmSViWzrfIucCE0xOOk.jpg?w=300&ssl=1" group-title="Movies", Guardians of Time 
 https://be6224.rcr92.lim01.cdn112.com/hls2/01/05966/ssa0ni5800x3_n/index-v1-a1.m3u8?t=vLxHf7M9K3Qj1iDaz5xNJq2ee5ZsMCNJaf8enJcs-44&s=1722408782&e=10800&f=29833688&srv=28&asn=131111&sp=4000 
 
 
@@ -3103,7 +3095,7 @@ https://seneng.org/v/fileid-15415-terbit21-com-the-expendables-2010.m3u8
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Deadpool 2 (2018)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/04/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg" group-title="MOVIE COLLECTION", Deadpool 2 (2018)
 https://cdn7iv.diebutx.com/ownhls/2020/9c01e8809c897f05caa25286cbb7710d/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool (2016)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/09/inVq3FRqcYIRl2la8iZikYYxFNR.jpg" group-title="MOVIE COLLECTION", Deadpool (2016)
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Deadpool (2016)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/09/inVq3FRqcYIRl2la8iZikYYxFNR.jpg" group-title="MOVIE COLLECTION", Deadpool (2016)
 https://cdn7iv.diebutx.com/ownhls/2020/ece8027670b625e10f7b8cea8c4b8f1f/1080p/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Jason Bourne (2016)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2020/08/xA7N41glw17MBQtcWSm2eBlBRuG.jpg" group-title="MOVIE COLLECTION", Jason Bourne (2016)
@@ -3160,7 +3152,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/d6016cff190411abce9f75c67c55e083/720p/ind
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Jumanji: The Next Level (2019)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/10/9Vp8MKqrwRAtvACF7PBwbvdG4dq.jpg" group-title="MOVIE COLLECTION", Jumanji: The Next Level (2019)
 https://cdn7iv.diebutx.com/ownhls/2020/e2b2249b8db3c25a7db6b0ad3974194e/720p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Jumanji: Welcome to the Jungle (2017)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/04/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg" group-title="MOVIE COLLECTION", Jumanji: Welcome to the Jungle (2017)
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Jumanji: Welcome to the Jungle (2017)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/04/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg" group-title="MOVIE COLLECTION", Jumanji: Welcome to the Jungle (2017)
 https://cdn7iv.diebutx.com/ownhls/2020/d59d38dff469744740968e8d275b9fba/720p/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Lara Croft Tomb Raider: The Cradle of Life (2003)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/09/vzWqkXbqs3EEMi3jgFpiRPgFGlG.jpg" group-title="MOVIE COLLECTION", Lara Croft Tomb Raider: The Cradle of Life (2003)
