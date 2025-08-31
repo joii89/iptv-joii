@@ -2413,13 +2413,15 @@ https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/09/task1/97b
 
 #EXTINF:-1 tvg-id="" tvg-name="Expend4bles" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/nbrqj9q8WubD3QkYm7n3GhjN7kE.jpg?w=300&ssl=1" group-title="11. Movies 2023", Expend4bles
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/09/task1/9c587f0dd4b45a7d0a2049c12f83adc2/1080p/index.m3u8
-
+
+
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Muzzle" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/qXChf7MFL36BgoLkiB3BzXiwW82.jpg?w=300&ssl=1" group-title="Movies", Muzzle
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/05/task1/40b9047a09eb673244cf49fb3fed0cbe/1080p/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Sound of Freedom" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg?w=300&ssl=1" group-title="Movies", Sound of Freedom
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/05/task1/c83ab0fd4050f3952b8102b0da04b391/720p/index.m3u8
-
+
+
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="The Equalizer 3" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg?w=300&ssl=1" group-title="Movies", The Equalizer 3
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/03/task1/6fe9d9c89013bf55b5780f445e944ca6/720p/index.m3u8
 
@@ -2527,7 +2529,8 @@ https://stream.hownetwork.xyz/xxx/detective-knight-independence-2023-bluray/6/48
 
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Plane" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/01/film-plane-2023-lk21-d21.jpg.webp" group-title="Movies", Plane 
 https://stream.hownetwork.xyz/xxx/plane-2023-bluray/11/480.m3u8 
-
+
+
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="BTS: Permission to Dance on Stage – LA" tvg-logo="https://www.themoviedb.org/t/p/w1280/7QKRPYPlCPoeKEIv4H6xe50xIUM.jpg" group-title="Movies", BTS: Permission to Dance on Stage – LA 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/01/10/task1/602f003aff576510690adf490861ae9b/1080p/index.m3u8 
 
@@ -3074,7 +3077,8 @@ https://stream.hownetwork.xyz/xxx/the-expendables-3-2014-bluray/11/480.m3u8
 https://stream.hownetwork.xyz/xxx/expendables-2-2012-bluray/6/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="The Expendables (2010)" tvg-logo="https://tv.lk21official.my/wp-content/uploads/2016/01/film-the-expendables-2010.jpg" group-title="MOVIE COLLECTION", The Expendables (2010)
-https://stream.hownetwork.xyz/xxx/the-expendables-2010-bluray/11/480.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://h5.aoneroom.com/playstream.m3u8?q=eyJ1cmwiOiJodHRwczovL3NhY2RuLmhha3VuYXltYXRhdGEuY29tL2hscy83ODQ2NDA5NjQ5MjIxMTYwNzUyLTAtMC00ODAtOTg0L2xvY2FsLm0zdTg%2FUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjSE02THk5ellXTmtiaTVvWVd0MWJtRjViV0YwWVhSaExtTnZiUzlvYkhNdk56ZzBOalF3T1RZME9USXlNVEUyTURjMU1pMHdMVEF0TkRnd0xUazROQzhxSWl3aVEyOXVaR2wwYVc5dUlqcDdJa1JoZEdWTVpYTnpWR2hoYmlJNmV5SkJWMU02UlhCdlkyaFVhVzFsSWpveE56VTNNakF5T0RnNWZYMTlYWDBfXHUwMDI2U2lnbmF0dXJlPXB6MUhSTUdTR3Eya2ZWNGVQcXdMaFJybUxmUEU0cmhTTUl5Rnl1aHpEbGx5ZE9IeDJ2eEZSM1dmUUxnWTN6azlmZEdKcmRJeUpvMjBobVdFaXFoUH4yZnVrclIzeHYwREF5QXRBTnJkbHFxdWdQR0NDalcxU21ubE9Na35DdXNvUUhYbUlxNlhpSmt2c2Q0RS1Bc25ja0NaV0dwdDF2WUtsbDdaQVlaU0x0Vn50Z0huSm9BaEJUelZCR1NlNTdncEhwQlVTaHl1ZWp4dDdtWXN5UUxPVDA1Szc0TXozUEZ3LWJLLWJiMFJjeUxuTkRISjIyWEVPR3V0azlsMWtMNlhBYlB4a1Y5RGx0NWxRQzlsRFZPS0Y4NjlURn5NT1h2QTVzSFNHNH41eVRwMFpXUXhIdXYtbW9TSmc1RU1HeVowSm9nTk95V0s5fkx3U3V1bTlyeGhzQV9fXHUwMDI2S2V5LVBhaXItSWQ9S01ITjFMUTFIRVVQTCIsImZvcm1hdCI6IkhMUyIsImN0IjoxNzU2NTk4MDg5fQ%3D%3D
 
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Deadpool 2 (2018)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/04/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg" group-title="MOVIE COLLECTION", Deadpool 2 (2018)
 https://cdn7iv.diebutx.com/ownhls/2020/9c01e8809c897f05caa25286cbb7710d/1080p/index.m3u8
@@ -3226,10 +3230,10 @@ https://cdn7iv.diebutx.com/storage/2022/st3.google.co/2022/01/13/task1/95bdcb9a0
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Black Widow (2021)" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/07/film-black-widow-2021-lk21.jpg" group-title="Marvel Universe", Black Widow (2021) 
 https://cdn7iv.diebutx.com/storage/2022/st3.google.co/2021/07/11/task1/59c649e8b55f143b82c49f45275cb3da/720p/index.m3u8 
 
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Shang-Chi and the Legend of the Ten Rings (2021)" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-shang-chi-and-the-legend-of-the-ten-rings-2021-d21.jpg" group-title="14. Marvel Universe", Shang-Chi and the Legend of the Ten Rings (2021) 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Shang-Chi and the Legend of the Ten Rings (2021)" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-shang-chi-and-the-legend-of-the-ten-rings-2021-d21.jpg" group-title="Marvel Universe", Shang-Chi and the Legend of the Ten Rings (2021) 
 https://cdn7iv.diebutx.com/storage/2022/st3.google.co/2021/11/11/task1/4fa1ae4fc6e55866fdca7fdeb5f69ca6/720p/index.m3u8 
 
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/12/film-spider-man-no-way-home-2021-lk21-d21.jpg" group-title="14. Marvel Universe", Spider-Man: No Way Home (2021) 
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/12/film-spider-man-no-way-home-2021-lk21-d21.jpg" group-title="Marvel Universe", Spider-Man: No Way Home (2021) 
 https://cdn7iv.diebutx.com/storage/2022/st3.google.co/2022/03/15/task1/a6412d4522ef7dfe2b4d9ea60396cdde/720p/index.m3u8 
 
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Venom: Let There Be Carnage (2021)" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2021/10/film-venom-let-there-be-carnage-2021-lk21.jpg" group-title="Marvel Universe", Venom: Let There Be Carnage (2021) 
@@ -3321,6 +3325,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/68ea0e5b3c68da8eba6c172dd0039bc9/1080p/in
 
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Spider-Man (2002)" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/01/film-spider-man-2002.jpg" group-title="Marvel Universe", Spider-Man (2002) 
 https://stream.hownetwork.xyz/xxx/spider-man-2002-bluray/11/480.m3u8 
+
 
 
 
