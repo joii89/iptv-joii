@@ -1,28 +1,25 @@
 #EXTM3U
 
 
-#EXTINF:-1 type="movie" tvg-logo=""tvg-group"Music", Konser Bertalu Rindu
-https://scontent.fcgk16-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPFS0rysKzx-gqf0J7URcfZHhnRPmJYkubFnQMjmEt5Gn4MwEHTgz4GxNuI71a4aMJBUDRVpw1cNt9pcuytrSkAPsHiZAFTT23J968.mp4?_nc_cat=104&_nc_oc=Adl8aweObppuRW721Gme8Ge3_jvYa0VUHjxNUHz0ijfb6sEWjfyC9vHDcWGKS5CkegQ&_nc_sid=9ca052&_nc_ht=scontent.fcgk16-1.fna.fbcdn.net&_nc_ohc=Vxxn7zJw5rwQ7kNvwElnlZV&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsInZpZGVvX2lkIjo1MTAzMTQ4MDA5NjYzNDAsIm9pbF91cmxnZW5fYXBwX2lkIjo0MDk5NjI2MjMwODU2MDksImNsaWVudF9uYW1lIjoidW5rbm93biIsInhwdl9hc3NldF9pZCI6MTc0MjM4MDM0OTQ2NTU5NywiYXNzZXRfYWdlX2RheXMiOjEwMzIsInZpX3VzZWNhc2VfaWQiOjEwMTIzLCJkdXJhdGlvbl9zIjo5MTM2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ANEj1IwMjdvL7DGbwwZ6ew&_nc_zt=28&_nc_rml=0&_nc_eui2=AeEnqvD0lxKOLSGcpIrHsuda0xHH5EXNmwHTEcfkRc2bAaedg36jBK0jttWpjsmc_wc6Yu153eidF5UVb1Ca4XjH&oh=00_AfV4QPK3exCWjxTFvqo-O6oqyAe3qX_lPE_2bOdTBM_eSQ&oe=68B9F0E5
-
-
+#EXTINF:-1 type="movie" tvg-logo=""tvg-group"", Konser Bertalu Rindu
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://thumbor.prod.vidiocdn.com/k-aszlewX-zaqurakle0SLVnGuE=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/7194648/kabar-aroma-tanah_full_h-489e13.jpg" tvg-group"Music", Kabar Aroma Tanah 
 https://api.vidio.com/videos/7194648/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjcxOTQ2NDgiLCJjcmVhdGVkX2F0IjoxNzU2Mzk4MDI0LCJleHRfZHVyYXRpb24iOjYwMH0.heQFbkWiHLEZGOxzPy_N3CcYcQxY65EDl86LcUOQul8
 
-#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Antara_aku_kau_dan_bekas_pacarmu.jpg" tvg-group"Music", Antara Aku Kau dan Bekas Pacarmu
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Antara_aku_kau_dan_bekas_pacarmu.jpg" tvg-group"", Antara Aku Kau dan Bekas Pacarmu
 https://api.vidio.com/videos/519888/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTg4OCIsImNyZWF0ZWRfYXQiOjE3NTYzOTgxMDUsImV4dF9kdXJhdGlvbiI6NjAwfQ.jL9CTNorfgHdFh3AvTXzHpmfAs24PtFEeO0w3ESTsC4
 
-#EXTINF:-1 type="movie" tvg-logo="https://i0.wp.com/s.ytimg.com/vi/f0WYTxt0bXk/mqdefault.jpg?resize=200,200" tvg-group"Music", Mabuk Cinta
+#EXTINF:-1 type="movie" tvg-logo="https://i0.wp.com/s.ytimg.com/vi/f0WYTxt0bXk/mqdefault.jpg?resize=200,200" tvg-group"", Mabuk Cinta
 https://api.vidio.com/videos/519885/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTg4NSIsImNyZWF0ZWRfYXQiOjE3NTYzOTgxODQsImV4dF9kdXJhdGlvbiI6NjAwfQ.IaOdbCNIHCttIfj6om1XueaDpWB5-PiNqFHklNkjtk8
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Pesawat Tempurku
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"", Pesawat Tempurku
 https://api.vidio.com/videos/1451517/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjE0NTE1MTciLCJjcmVhdGVkX2F0IjoxNzU2Mzk4NTQxLCJleHRfZHVyYXRpb24iOjYwMH0.MEhye9tZFu2cN5KdXncXsdqEgudLZlzMTpuCEOw7E5Y
 
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsFCkjSsYYQi2E3EIcExSHmbt440cHTe7YNDmJVCJB1jslcrKlRFEzzlVR&s=10" tvg-group"Music", Entah
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsFCkjSsYYQi2E3EIcExSHmbt440cHTe7YNDmJVCJB1jslcrKlRFEzzlVR&s=10" tvg-group"", Entah
 https://api.vidio.com/videos/519944/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTk0NCIsImNyZWF0ZWRfYXQiOjE3NTYzOTc2MDMsImV4dF9kdXJhdGlvbiI6NjAwfQ.JYWxPwjA4ql5WK3_aKXjFAWdhNLFo5XRea7g4yKbB0w
 
-#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/87/Iwan_fals_-_manusia_setengah_dewa.jpg" tvg-group"Music", Manusia 1/2 Dewa
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/87/Iwan_fals_-_manusia_setengah_dewa.jpg" tvg-group"", Manusia 1/2 Dewa
 https://api.vidio.com/videos/519946/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTk0NiIsImNyZWF0ZWRfYXQiOjE3NTYzOTczODQsImV4dF9kdXJhdGlvbiI6NjAwfQ.w1aqm1rbwcPZkWgp0o7OKh4KsSW3U842uC2d471Mqds
 
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuCxDW244Wo3ImmOZsGiOMgbb_hbN-iRrMxfBTvtoZvDTRf_TyH5UY1Rs&s=10" tvg-group"Music",16/10
@@ -61,49 +58,49 @@ https://api.vidio.com/videos/1996967/common_tokenized_playlist.m3u8?ott=eyJhbGci
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnIopAv0lgzSmWVCVd7byqXNSzBSuEOwD6n9KuT6RJz0Hv0naeCi54H-Bn&s=10" tvg-group"Music", Suara Hati
 https://api.vidio.com/videos/2095253/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIwOTUyNTMiLCJjcmVhdGVkX2F0IjoxNzU2NDAyNzgyLCJleHRfZHVyYXRpb24iOjYwMH0.i7XNAavERqIAf054UXbl4rk05eMFpeLBOR0ux4FGG-g
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Kumenanti Seorang Kekasih 
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"", Kumenanti Seorang Kekasih 
 https://api.vidio.com/videos/2040496/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIwNDA0OTYiLCJjcmVhdGVkX2F0IjoxNzU2NDAyODg3LCJleHRfZHVyYXRpb24iOjYwMH0.N5Z8d91zi3Sn1FUbWE-m1OLsoaIGwm1wvrkekv_UeAY
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Gangstarasta - Surat Buat Wakil Rakyat 
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"", Gangstarasta - Surat Buat Wakil Rakyat 
 https://api.vidio.com/videos/1489187/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjE0ODkxODciLCJjcmVhdGVkX2F0IjoxNzU2NDAzNjg1LCJleHRfZHVyYXRpb24iOjYwMH0.3DxC_KCQxMB8w2V8E89YIqb_AAsvcfNCuzwWpLkCxyw 
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Gangstarasta - Pesawat Tempurku
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"", Gangstarasta - Pesawat Tempurku
 https://api.vidio.com/videos/1511575/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjE1MTE1NzUiLCJjcmVhdGVkX2F0IjoxNzU2NDAzMTIyLCJleHRfZHVyYXRpb24iOjYwMH0.3dMOMNlB60JIV4D4j6_Bjnjg5iyq4AU3ZDRuXIi8l9s
 
 #EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Indosiar_2015.svg" tvg-group"Music", Cinta 
 https://api.vidio.com/videos/1288163/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjEyODgxNjMiLCJjcmVhdGVkX2F0IjoxNzU2NTgwOTIzLCJleHRfZHVyYXRpb24iOjYwMH0.DcZj6QRqhOlUPSfbXDZh48sPZVmIz1_KeR-jeqldYVE
 
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkAsp5R3msuMekdhcxofT_aaOlBWGLb0akcO5kAXVXhEfkbbbeOd0W2kL&s=10" tvg-group"Music", Ft Ari Lasso Live Medan
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkAsp5R3msuMekdhcxofT_aaOlBWGLb0akcO5kAXVXhEfkbbbeOd0W2kL&s=10" tvg-group"", Ft Ari Lasso Live Medan
 https://vod3.cf.dmcdn.net/sec2(0yJV32eYTxZcNpuHYmOjpfra4SbPswn8QRZT2LS5gfw0HxM4fsRwzSy7hrOWH9Ew5EgNdKsK3x8IqiXM0Rt7Ghzlph6EukfbEjs4Ha9Mb5MHC4DlALkCsCQwycpWdOElLfN-kEJmOeqUYjoYEz5sIalUzBoHHYZMfhewp8jGDh_Tqbd4QgbBOtaoBkODDWt-)/video/189/459/190954981_mp4_h264_aac_hq_1.m3u8#cell=cf3
 
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkAsp5R3msuMekdhcxofT_aaOlBWGLb0akcO5kAXVXhEfkbbbeOd0W2kL&s=10" tvg-group"Music", Ft Bondan - Bongkar Live Monas 
+#EXTINF:-1 type="fals" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkAsp5R3msuMekdhcxofT_aaOlBWGLb0akcO5kAXVXhEfkbbbeOd0W2kL&s=10" tvg-group"", Ft Bondan - Bongkar Live Monas 
 https://vod3.cf.dmcdn.net/sec2(lTljKUll_v5I4x78RX88F_q4rG02q8xW6CpBbtqmA0UqNjCPD62oVhwqNxJIYi_cF5bF97sdjgSxypiWM1IjElU8jWIaYAyFXlkDZvjaKOSVhU6yGj0_Ikqlxm9qm8xf_FyB_nL83jp2w63TR8D8uFoVvFB1YrfXJo4m7yehx7c)/video/515/809/382908515_mp4_h264_aac_2.m3u8#cell=cf3
 
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkAsp5R3msuMekdhcxofT_aaOlBWGLb0akcO5kAXVXhEfkbbbeOd0W2kL&s=10" tvg-group"Music", Wakil Rakyat - Live Net
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkAsp5R3msuMekdhcxofT_aaOlBWGLb0akcO5kAXVXhEfkbbbeOd0W2kL&s=10" tvg-group"", Wakil Rakyat - Live Net
 https://vod3.cf.dmcdn.net/sec2(TnXIeTUQMjrltcOYy5y-31EJRYs7RgWjTMYf1LJuQFI9YT16e7I0LkF_Lvr7ttAybXbaSUkFeS_aj5QoTTnQbttCWJata49blHlBwG6k5P8iZd8kVS-pon1PwY9aWwf2xM92LS8UckBoWiELkqdBrs_7UVi4kHlYUOnq7GBn2HY)/video/246/834/192438642_mp4_h264_aac_1.m3u8#cell=cf3
 
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkAsp5R3msuMekdhcxofT_aaOlBWGLb0akcO5kAXVXhEfkbbbeOd0W2kL&s=10" tvg-group"Music", Sumbang Live Monas
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkAsp5R3msuMekdhcxofT_aaOlBWGLb0akcO5kAXVXhEfkbbbeOd0W2kL&s=10" tvg-group"", Sumbang Live Monas
 https://vod3.cf.dmcdn.net/sec2(rjso-zZeCh0WWNoshI0vWUkeouXwWJ2A-97pBT5-d6jf_JejQ98gvzUdENZGxiJzEzZ4KFIzxLL935wUTcXjDfPEYs7gjCJoph39hQvphyqQ3zRC0fHzZj7o7dImxiAokuyWIaVyEA26DFXEt3W5TAscUnZo1h0Zj3VZFYsYpQs)/video/665/222/496222566_mp4_h264_aac_hd.m3u8#cell=cf3
 
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoSG_OzYir2J9izhcpQQpM63jRbWNrOYzKjxUdY0D76QQqJCgkwWLQ2e9K&s=10" tvg-group"Music", Rubah
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoSG_OzYir2J9izhcpQQpM63jRbWNrOYzKjxUdY0D76QQqJCgkwWLQ2e9K&s=10" tvg-group"", Rubah
 https://vod3.cf.dmcdn.net/sec2(fl-ILlx3SXkr39YxYcc-9tIZYPVOvgdFqj_7VtxQIr9kK_Ll3H5FsL4ZyqDoZacFtv0U38T_ptEygsY6xfNS8s8eoTeYMq3xU4SwN8eA5Zja_-vSJuvSl4D5wD6UjigwguLOPUykyf0FZKoVli3O2pMjBQAu2ijnsP1CpIoITm_RMNxQaSLdkBRuUNyCydUC)/video/866/398/174893668_mp4_h264_aac_hd_1.m3u8#cell=cf3
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Nak
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"", Nak
 https://vod3.cf.dmcdn.net/sec2(PN-L9lxABPyAKfMGiX9TqnHoSYvLZRsRs21RlACHMvKBZGSJb9QgoV8-YoKIKLJHAMw_osqu5evjLmHrSum5QLLK_aT9HfTNGEF58phhNdVfTLoaBcgTpGx2kBDNVXtjGq1m7Z5BXVO1gaK0vMoVjNZqzReZ_Z-mafW7W2Om9Do)/video/072/345/123543270_mp4_h264_aac.m3u8#cell=cf3
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Ft Ipang
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"", Ft Ipang
 https://vod3.cf.dmcdn.net/sec2(jl5EdWmlwENR7XgqENbfH-Fz-D-NJ2s0p5OdCdNOz31gd7R4MHGHbqycERuItKQPa3-nObhKkwomqoqhTvIpyxVF5-ojaN7vQ7kpD5BWzN8JDtArP5JFuZb97j0fx0LilFLm74ADg-7Fb0gNYlQ84nZmeZjqjxsU2_KSiuWiw9o)/video/359/327/164723953_mp4_h264_aac_2.m3u8#cell=cf3
 
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbJa8SOdx9Fm8LBxLt9JyUo0259FGJfK9Vd170HenSkWHeqEBg9MSqlm65&s=10" tvg-group"Music", Seperti Matahari
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbJa8SOdx9Fm8LBxLt9JyUo0259FGJfK9Vd170HenSkWHeqEBg9MSqlm65&s=10" tvg-group"", Seperti Matahari
 https://vod3.cf.dmcdn.net/sec2(XmWPIPTBfrNgFQuGxN-5BeXzg5y4PjXQGsXbrqKzYGgLpRkbaqCOEbOUF6KMRRfCzbTQo-v64e7H6jiiiZSYtxp6-Evepd6eE3UaePxtGkhBiDEKOJ0Dybd7DWI0RUj16vQ0FjSQ9AoGTRQy2DyBy9p033ETb0eC2a1B4JvlY1Y)/video/055/245/123542550_mp4_h264_aac.m3u8#cell=cf3
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Senandung Lirih
+#EXTINF:-1 type="false" tvg-logo="" tvg-group"", Senandung Lirih
 https://vod3.cf.dmcdn.net/sec2(-t4jSbrJxILI0NO6lxKvj8jIv6CnYfh0hH9xkUQYrbZWC7Ogu0F9IX9zMFRqOQ08XjSjfARD42ErJ9r97Tu63_WI9S6RtrSGiwJXed1-i2sh1Zqj_Uiam3_uIyH1gYRvD4Hm7dn8TYVLHD-F5sSNbvFcWhQ_7FW3hvvaYrcgoJY)/video/161/708/427807161_mp4_h264_aac.m3u8#cell=cf3
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Ft SLANK
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"", Ft SLANK
 https://vod3.cf.dmcdn.net/sec2(vlYC-ahcjpAjM57vqAKdSMET5lI9Yn_u2i_sHblpNsSSo-D26OtAoyCsswDOZdhdyhpB3uLzRzSWv4OW3P8Kx2Ry2eImgtAclFSvUp8kJ1L-7fPmbbJVWflCay8PyIDmuNHUFYMSfVpzqAESheZ6cLi4zyTKFiOhtHwDqe1-uOI)/video/805/492/444294508_mp4_h264_aac.m3u8#cell=cf3
 
-#EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music", Belum Ada Judul
+#EXTINF:-1 type="movie" tvg-logo="" tvg-group"", Belum Ada Judul
 https://vod3.cf.dmcdn.net/sec2(rt8s-vcgywfAiwyy10u643YhZUalPE9MwO15NQjGggR7wzgjziD-yyDaWhKn3Iw39hDzcFSqz4J6oY2kdGmJDF6cC_YJ-NIbEx1y58PsVtVEiIaMfZzWrA_MgxZxFIGO1EHOhg_jvfOaFIbW88OTzbm9_QMdKrT8-RDHRPCvGi4)/video/345/329/427923543_mp4_h264_aac.m3u8#cell=cf3
 
 #EXTINF:-1 type="movie" tvg-logo="" tvg-group"Music"
