@@ -171,10 +171,12 @@ https://api.vidio.com/videos/490840/common_tokenized_playlist.m3u8?ott=eyJhbGciO
 #EXTINF:-1 type="movie" tvg-logo="", Yang Tersendiri
 https://api.vidio.com/videos/491087/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjQ5MTA4NyIsImNyZWF0ZWRfYXQiOjE3NTY2NjA2OTksImV4dF9kdXJhdGlvbiI6NjAwfQ.pzMW1oCxZJhnr6FMMO2p5Ug61GeqWjWawwjFsg7Hp_o
  
-#EXTINF:-1 type="movie" tvg-logo="" 
+#EXTINF:-1 type="movie" tvg-logo="",x
+https://cold-na-phx-9.gofile.io/download/web/ca9f4751-831f-4c9f-a474-31f6e3c3b55d/Maalikaya%202025.mp4 
 
 
-#EXTINF:-1 type="movie" tvg-logo="" 
+#EXTINF:-1 type="movie" tvg-logo="", xx
+https://bcdnw.hakunaymatata.com/resource/0f9f7c38a65c129fece60511031486e3.mp4?sign=5e86f9e4529e78154926174a5af01a58&t=1756742233 
 
 
 #EXTINF:-1 type="movie" tvg-logo="" 
