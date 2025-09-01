@@ -2966,15 +2966,14 @@ https://www.googleapis.com/drive/v3/files/1cMUWn886RRZPyn6hPhvRpG91wep0Dsns?alt=
 
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbVbgDHGWQW8LwzbVyC8Uyz8YjBqLCsKoUlQ&s" group-title="MOVIE COLLECTION", Rush Hour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://seneng.org/v/driveid-121484-terbit21-com-rush-hour-1998.m3u8
+#EXTVLCOPT:http-user-agent=http://moviebox.id/
+https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/Movie/RushHour.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/dc/Rush_Hour_2_poster.png" group-title="MOVIE COLLECTION", RUSH HOUR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://seneng.org/v/driveid-122368-terbit21-com-rush-hour-2-2001.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://assets.telkomsel.com/public/2025-05/rush-hour-3.jpg?VersionId=WS5xUs9soWMwJggUSsp9kfKb.SZ1GkKK" group-title="MOVIE COLLECTION", RUSH HOUR 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://swhoi.com/stream/TnY8DGbEcDKOGhA124f8lw/kjhhiuahiuhgihdf/1756675540/19214732/master.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="http://i1.wp.com/45.11.57.186/wp-content/uploads/2025/08/Salt-2010.jpg?resize=246,350" group-title="MOVIE COLLECTION", Salt
 https://cdn3.turboviplay.com/data/68b1242476002/68b1242476002.m3u8
@@ -3340,6 +3339,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/68ea0e5b3c68da8eba6c172dd0039bc9/1080p/in
 
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Spider-Man (2002)" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/01/film-spider-man-2002.jpg" group-title="Movies Marvel", Spider-Man (2002) 
 https://stream.hownetwork.xyz/xxx/spider-man-2002-bluray/11/480.m3u8 
+
 
 
 
