@@ -1688,8 +1688,7 @@ https://cloud.hownetwork.xyz/xxx/dbbaaef69a7259a80521c2a811010e4c/25/480.m3u8
 #EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjk3ZjBjZjYtMDQ0ZC00MjBiLWE0YTktZjAzYmYyNzdiMTk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="🎬"
 ,Sniper: The Last Stand (2025)
 https://cloud.hownetwork.xyz/xxx/6b5eb15896d9676b375c97d21ac11b49/25/480.m3u8
-
-
+
 #EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ5NGEyYTItMjNiMi00Y2EwLTkzOWItMjc5YjJiMjMyNTI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="🎬"
 ,Mission: Impossible – The Final Reckoning (2025)
 https://cloud.hownetwork.xyz/xxx/LxE6PSwWGWwrPAcjMEM_Oi4dZDotHFonKz8WIG5CMzspFycnKx5ac3JjQmEgUTsHGidxd3MbQHYmZQ/32/480.m3u8
@@ -1768,7 +1767,7 @@ https://cloud.hownetwork.xyz/xxx/bffc541e7dc7cdd149fbb7592d0b0d84/25/480.m3u8
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.123-hdd.com/wp-content/uploads/2024/10/%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C-My-Boo-2024-300x450.jpg"  group-title="🎬"
- ,อนงค์ My Boo (2024) 
+ ,My Boo (2024) 
 https://main.24playerhd.com/newplaylist/6e363837ea8a7bdd61c97cb9/6e363837ea8a7bdd61c97cb9.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2024/10/That-Kind-of-Love-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99-2024-300x450.jpg"  group-title="🎬"
@@ -1791,7 +1790,7 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/09/Mean.Girls.
 , Land of Bad
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/07/Land.of.Bad.2024.mp4/index.m3u8
 
-#EXTINF:-1 type="movie" tvg-id="--" tvg-name="The Beekeeper" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7EByudX0eOzlkQ2FIbogzyazm2.jpg" group-title="🎬"
+#EXTINF:-1 type="movie" tvg-id="--" tvg-name="The Beekeeper" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7EByudX0eOzlkQ2FIbogzyazm2.jpg" group-title="Movies Collection"
 , The Beekeeper
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/01/The.Beekeeper.2024.mp4/tracks-v1a1/mono.m3u8
 
@@ -1830,8 +1829,6 @@ https://cloud.hownetwork.xyz//yyy/fb563ba73a808eaaee26ccd7defbdc17/25/480.m3u8
 #EXTINF:-1 type="movie"  group-title="🎬"
  tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/09/film-transformers-one-2024-lk21-d21.jpg", Transformers One (2024)
 https://cloud.hownetwork.xyz//yyy/8665ae13517f4c4059edc0df0c5463bd/25/480.m3u8
-
-#EXTINF:-1 type="movie"  group-title="🎬"
  tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/06/film-from-the-world-of-john-wick-ballerina-2025-lk21-d21.jpg", Ballerina (2025)
 https://cloud.hownetwork.xyz//yyy/JAomI2gNHyRvJhg-L1R7NyRVIyEtF1o2KzIcYSFROjQnCiAgJFRFcXBkWjsmUjI0HSAWKyFIEyAjMkA/33/480.m3u8
 
@@ -1842,8 +1839,6 @@ https://cloud.hownetwork.xyz//yyy/KxssYzcWFiVvJxIiJFU3NiEdZHx1S0JsNTQVKC9vDgcnQH
 #EXTINF:-1 type="movie"  group-title="🎬"
  tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/07/film-emp4t-2025-lk21-d21.jpg", Emp4t (2025)
 https://cloud.hownetwork.xyz//yyy/JxU5ejFURXFwZFo7JlIyNB0gFn8jTRZzITJA/33/480.m3u8
-
-#EXTINF:-1 type="movie"  group-title="🎬"
  tvg-logo="https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/240141/MuMu-2764x4096.jpg", Mumu (2025)
 https://cloud.hownetwork.xyz//yyy/Lw0kO2hLR3N3fAApIVQ6BxoneXYmQRUkJmY/33/480.m3u8
 
@@ -3300,31 +3295,37 @@ https://www.googleapis.com/drive/v3/files/1cMUWn886RRZPyn6hPhvRpG91wep0Dsns?alt=
 
 #EXTM3U
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Movie Collection", The prience of Persia
+#EXTINF:-1 type="movie" tvg-logo="" group-title="Movie Collection", prince of Persia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cloud.hownetwork.xyz/xxx/d0de3c6dab34e2f46410882253f2939f/2/480.m3u8
 
-
-
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbVbgDHGWQW8LwzbVyC8Uyz8YjBqLCsKoUlQ&s" group-title="Movie Collection", Rush Hour
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbVbgDHGWQW8LwzbVyC8Uyz8YjBqLCsKoUlQ&s" group-title="Movie Collection", Rush Hour ( Detektif Lee yang serius dan Carter yang cerewet dipaksa bekerja sama untuk menyelamatkan putri konsul China. Gaya mereka bertolak belakang: satu disiplin, satu lagi kacau. Tapi ketika mafia mengincar nyawa mereka, pertengkaran jadi tawa, dan peluru berbicara lebih keras. Siapa bilang menyelamatkan dunia tidak bisa sambil bertengkar? )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-user-agent=http://moviebox.id/
-https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/Movie/RushHour.m3u8
-
+https://cloud.hownetwork.xyz/xxx/1b345be305ee25131de91ec9b4de58bc/4/480.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/dc/Rush_Hour_2_poster.png" group-title="Movie Collection", RUSH HOUR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://cloud.hownetwork.xyz/xxx/cf1bcd28b8766ce05692f006960f905b/4/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://assets.telkomsel.com/public/2025-05/rush-hour-3.jpg?VersionId=WS5xUs9soWMwJggUSsp9kfKb.SZ1GkKK" group-title="Movie Collection", RUSH HOUR 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://cloud.hownetwork.xyz/xxx/2b9366d569c1cad565dd1936713d99ab/11/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="http://i1.wp.com/45.11.57.186/wp-content/uploads/2025/08/Salt-2010.jpg?resize=246,350" group-title="Movie Collection", Salt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cdn3.turboviplay.com/data/68b1242476002/68b1242476002.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQvZqlUV4fuKIqs4VPwqd0p6ffbHlD4l293dZkW9C27OwwEwnxNrBEP5I&s=10 group-title="Movie Collection", Fast X
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://guxhag.com/stream/0yCO-0KMK2MNwXNt3zVdog/kjhhiuahiuhgihdf/1756675187/1611996/master.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo=" group-title="Movie Collection", World War Z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://smoothpre.com/stream/6_RQTN6cdtcevQrLqV82YA/hjkrhuihghfvu/1756676236/6503351/master.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo=" group-title="Movie Collection"
+
+#EXTINF:-1 type="movie" tvg-logo=" group-title="Movie Collection"
 
 #EXTINF:-1 type="movie" tvg-logo=" group-title="Movie Collection"
 
