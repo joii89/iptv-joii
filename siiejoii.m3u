@@ -868,8 +868,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 #EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-id="IDX.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX (V+)
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
 
-
-
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:network-caching=1000
@@ -1736,54 +1734,41 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Mar/06/Argylle.202
 #EXTINF:-1 type="movie" tvg-id="--" tvg-name="Mean Girls" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/02/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg?w=300&ssl=1" group-title="🎬", Mean Girls
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/09/Mean.Girls.2024.mp4/index.m3u8
 
-#EXTINF:-1 type="movie" tvg-id="--" tvg-name="Land of Bad" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI2YjMwMGEtZDJlZC00NGVkLTk2OTktMjhjNTZiNTIxOTg3XkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg" group-title="🎬"
-, Land of Bad
+#EXTINF:-1 type="movie" tvg-id="--" tvg-name="Land of Bad" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI2YjMwMGEtZDJlZC00NGVkLTk2OTktMjhjNTZiNTIxOTg3XkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg" group-title="🎬", Land of Bad
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/07/Land.of.Bad.2024.mp4/index.m3u8
 
-#EXTINF:-1 type="movie" tvg-id="--" tvg-name="The Beekeeper" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7EByudX0eOzlkQ2FIbogzyazm2.jpg" group-title="Movies Collection"
-, The Beekeeper
+#EXTINF:-1 type="movie" tvg-id="--" tvg-name="The Beekeeper" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7EByudX0eOzlkQ2FIbogzyazm2.jpg" group-title="Movies Collection", The Beekeeper
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/01/The.Beekeeper.2024.mp4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.123-hdd.com/wp-content/uploads/2024/10/%E0%B8%AB%E0%B8%AD%E0%B9%81%E0%B8%95%E0%B9%8B%E0%B8%A7%E0%B9%81%E0%B8%95%E0%B8%81-%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%B0%E0%B8%AB%E0%B8%A2%E0%B8%94-Oh-My-Ghost-The-Finale-2024-300x450.jpg"  group-title="🎬"
- ,Oh My Ghost The Finale (2024) 
+#EXTINF:-1 type="movie" tvg-logo="https://www.123-hdd.com/wp-content/uploads/2024/10/%E0%B8%AB%E0%B8%AD%E0%B9%81%E0%B8%95%E0%B9%8B%E0%B8%A7%E0%B9%81%E0%B8%95%E0%B8%81-%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%B0%E0%B8%AB%E0%B8%A2%E0%B8%94-Oh-My-Ghost-The-Finale-2024-300x450.jpg"  group-title="🎬", Oh My Ghost The Finale (2024) 
 https://main.24playerhd.com/newplaylist/2049b2b7c05193358600d233/2049b2b7c05193358600d233.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.123t-hdd.com/wp-content/uploads/2024/07/The-Cursed-2024-%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%A3%E0%B8%BA%E0%B8%A2-1-300x450.jpg"  group-title="🎬"
- ,The Cursed (2024)
+#EXTINF:-1 type="movie" tvg-logo="https://www.123t-hdd.com/wp-content/uploads/2024/07/The-Cursed-2024-%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%A3%E0%B8%BA%E0%B8%A2-1-300x450.jpg"  group-title="🎬" ,The Cursed (2024)
 https://main.24playerhd.com/newplaylist/dcc8921a64a9e1af57fbf3da/dcc8921a64a9e1af57fbf3da.m3u8
 
-#EXTINF:-1 type="movie"  group-title="🎬"
- tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/05/film-thunderbolts-2025-lk21-d21.jpg", Thunderbolts* (2025)
+#EXTINF:-1 type="movie"  group-title="🎬" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/05/film-thunderbolts-2025-lk21-d21.jpg", Thunderbolts* (2025)
 https://cloud.hownetwork.xyz//yyy/NhA8ICEcBSMtPQM_bgJmandVPisnHRseGg5GKHpVZz5wSw/33/480.m3u8
 
-#EXTINF:-1 type="movie"  group-title="🎬"
- tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/07/film-ticha-posta-2025-lk21-d21.jpg", Ticha posta (2025)
+#EXTINF:-1 type="movie"  group-title="🎬" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/07/film-ticha-posta-2025-lk21-d21.jpg", Ticha posta (2025)
 https://cloud.hownetwork.xyz//yyy/NhEqJiRUBy4xJRZhcQBkbW8PLCwhFSgZHWZHfyVUMjxy/33/480.m3u8
 
-#EXTINF:-1 type="movie"  group-title="🎬"
- tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/07/film-dora-and-the-search-for-sol-dorado-2025-lk21-d21.jpg", Dora and the Search for Sol Dorado (2025)
+#EXTINF:-1 type="movie" group-title="🎬" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/07/film-dora-and-the-search-for-sol-dorado-2025-lk21-d21.jpg", Dora and the Search for Sol Dorado (2025)
 https://cloud.hownetwork.xyz//yyy/Jhc7L2gYGSVvJR8pbkMzOTAbIWMjFgVsMT4bYSdfJDkmF2R8dUtCbDU0FSgvbw4HckAoeCAfQHY/33/480.m3u8
 
-#EXTINF:-1 type="movie"  group-title="🎬"
- tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/07/film-un-ex-you-2025-lk21-d21.jpg", Un-ex You (2025)
+#EXTINF:-1 type="movie" group-title="🎬" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/07/film-un-ex-you-2025-lk21-d21.jpg", Un-ex You (2025)
 https://cloud.hownetwork.xyz//yyy/NxZkKz1UDi43fEV8cQV7LycaLSIaIShxIGVHdHVWYA/33/480.m3u8
 
-#EXTINF:-1 type="movie"  group-title="🎬"
- tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2017/07/film-transformers-the-last-knight-2017.jpg", Transformers: The Last Knight (2017)
+#EXTINF:-1 type="movie"  group-title="🎬" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2017/07/film-transformers-the-last-knight-2017.jpg", Transformers: The Last Knight (2017)
 https://cloud.hownetwork.xyz//yyy/16ace8b95e04785f0be898a6e844658d/31/480.m3u8
 
-#EXTINF:-1 type="movie"  group-title="🎬"
- tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2023/06/film-transformers-rise-of-the-beasts-2023-lk21-d21.jpg", Transformers: Rise of the Beasts (2023)
+#EXTINF:-1 type="movie"  group-title="🎬" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2023/06/film-transformers-rise-of-the-beasts-2023-lk21-d21.jpg", Transformers: Rise of the Beasts (2023)
 https://cloud.hownetwork.xyz//yyy/fb563ba73a808eaaee26ccd7defbdc17/25/480.m3u8
 
-#EXTINF:-1 type="movie"  group-title="🎬"
- tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/09/film-transformers-one-2024-lk21-d21.jpg", Transformers One (2024)
-https://cloud.hownetwork.xyz//yyy/8665ae13517f4c4059edc0df0c5463bd/25/480.m3u8
- tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/06/film-from-the-world-of-john-wick-ballerina-2025-lk21-d21.jpg", Ballerina (2025)
+#EXTINF:-1 type="movie" group-title="🎬" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/09/film-transformers-one-2024-lk21-d21.jpg", Transformers One (2024)
+https://cloud.hownetwork.xyz//yyy/8665ae13517f4c4059edc0df0c5463bd/25/480.m3u8 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/06/film-from-the-world-of-john-wick-ballerina-2025-lk21-d21.jpg", Ballerina (2025)
 https://cloud.hownetwork.xyz//yyy/JAomI2gNHyRvJhg-L1R7NyRVIyEtF1o2KzIcYSFROjQnCiAgJFRFcXBkWjsmUjI0HSAWKyFIEyAjMkA/33/480.m3u8
 
-#EXTINF:-1 type="movie"  group-title="🎬"
- tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/07/film-ice-road-vengeance-2025-lk21-d21.jpg", Ice Road: Vengeance (2025)
+#EXTINF:-1 type="movie"  group-title="🎬" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/07/film-ice-road-vengeance-2025-lk21-d21.jpg", Ice Road: Vengeance (2025)
 https://cloud.hownetwork.xyz//yyy/KxssYzcWFiVvJxIiJFU3NiEdZHx1S0JsNTQVKC9vDgcnQHh9fEkTeA/33/480.m3u8
 
 #EXTINF:-1 type="movie"  group-title="🎬"
@@ -3626,6 +3611,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/68ea0e5b3c68da8eba6c172dd0039bc9/1080p/in
 
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Spider-Man (2002)" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/01/film-spider-man-2002.jpg" group-title="Movies Marvel", Spider-Man (2002) 
 https://stream.hownetwork.xyz/xxx/spider-man-2002-bluray/11/480.m3u8 
+
 
 
 
