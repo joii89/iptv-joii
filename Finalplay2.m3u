@@ -555,7 +555,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="Sports",SONY SPORTS TEN 1 HD
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml"
+ tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="Sports",SONY SPORTS TEN 1 HD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJGok7x.png" group-title="Sports",SONY SPORTS TEN 2 HD
@@ -1188,7 +1189,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="https://www.earthtouchnews.com/media/1954995/logo-big.png" group-title="KNOWLEDGE & DOCUMENTARY",Earth Touch tv
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE & DOCUMENTARY" tvg-id="National Geographic Channel HD" tvg-url=""tvg-logo="https://iili.io/JmoCZ5g.png",Outdoor Channel
+#EXTINF:-1 group-title="KNOWLEDGE & DOCUMENTARY" tvg-id="National Geographic Channel HD" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml"
+tvg-logo="https://iili.io/JmoCZ5g.png",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 
@@ -2203,7 +2205,8 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
 
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO",HBO Hits No sub
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml"
+ tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO",HBO Hits No sub
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2212,7 +2215,8 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
 
 
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" group-title="HBO",HBO Family
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml"
+ tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" group-title="HBO",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2236,7 +2240,8 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="" tvg-logo="https://www.transvision.co.id/img/channel/hbo_family.png" group-title="HBO",HBO Family
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml"
+ tvg-logo="https://www.transvision.co.id/img/channel/hbo_family.png" group-title="HBO",HBO Family
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2245,7 +2250,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="" tvg-logo="https://www.transvision.co.id/img/channel/hbo_hits.png" group-title="HBO",HBO HITS
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml"
+ tvg-logo="https://www.transvision.co.id/img/channel/hbo_hits.png" group-title="HBO",HBO HITS
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2254,7 +2260,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d05592
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="" tvg-logo="https://www.transvision.co.id/img/channel/hbo_sig.png" group-title="HBO",HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml"
+ tvg-logo="https://www.transvision.co.id/img/channel/hbo_sig.png" group-title="HBO",HBO Signature
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantv.php
@@ -2310,7 +2317,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384
 
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/JMp3DJf.png",TVRI Parlemen
 
-#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-url="" tvg-logo="https://i.ibb.co.com/jyJ1TG0/latest-1.png" group-title="News",Berita satu
+#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml"
+ tvg-logo="https://i.ibb.co.com/jyJ1TG0/latest-1.png" group-title="News",Berita satu
 http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=http://dens.tv
 
 
@@ -2321,7 +2329,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|user-agent=DENSGO/3.00.04
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF:-1 tvg-name="" tvg-id="BBC World News - [Channel 332].id" tvg-url="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="News",BBC World V+
+#EXTINF:-1 tvg-name="" tvg-id="BBC World News - [Channel 332].id" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml"
+ tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="News",BBC World V+
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
 
 
@@ -2331,7 +2340,8 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
 #KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
 https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
 
-#EXTINF:-1 group-title="News" tvg-id="" tvg-url="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf4dec937a44b00019d908f/1559574960556-C7EGQERUCYQJ92N7JRV1/Hi+res+Russia+Today+logo+2.jpg?format=2500w",Russia Today
+#EXTINF:-1 group-title="News" tvg-id="" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml"
+ tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf4dec937a44b00019d908f/1559574960556-C7EGQERUCYQJ92N7JRV1/Hi+res+Russia+Today+logo+2.jpg?format=2500w",Russia Today
 KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2491,7 +2501,8 @@ https://e.siar.us/live/tvmu.m3u8
 <=============Christian Channels==================>
 
 
-#EXTINF:-1 tvg-id=""  tvg-id="" tvg-url="" tvg-logo="https://e7.pngegg.com/pngimages/243/547/png-clipart-catholictv-television-religious-broadcasting-logo-brand-woodlawn-cemetery-tampa-catholictv-television.png" group-title="Christian Channels",Catholic TV
+#EXTINF:-1 tvg-id=""  tvg-id="" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml"
+ tvg-logo="https://e7.pngegg.com/pngimages/243/547/png-clipart-catholictv-television-religious-broadcasting-logo-brand-woodlawn-cemetery-tampa-catholictv-television.png" group-title="Christian Channels",Catholic TV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_4.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -6920,129 +6931,129 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 <=================== Movies =============================>
 
-#EXTINF:0 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/12/film-the-lord-of-the-rings-the-war-of-the-rohirrim-2024-lk21-d21.jpg" group-title="Movies", The Lord of the Rings: The War of the Rohirrim (2024)
+#EXTINF:1 type="movie" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/12/film-the-lord-of-the-rings-the-war-of-the-rohirrim-2024-lk21-d21.jpg" group-title="Movies", The Lord of the Rings: The War of the Rohirrim (2024)
 https://cloud.hownetwork.xyz/xxx/337d0729dbded84a33b0eb8ccbc3457f/25/480.m3u8
 
-#EXTINF:0 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2015/12/film-the-lord-of-the-rings-the-return-of-the-king-2003.jpg" group-title="Movies", The Lord of the Rings: The Return of the King (2003)
+#EXTINF:1 type="movie" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2015/12/film-the-lord-of-the-rings-the-return-of-the-king-2003.jpg" group-title="Movies", The Lord of the Rings: The Return of the King (2003)
 https://cloud.hownetwork.xyz/xxx/3d3657b059afc9837297802a50e0d6a3/5/480.m3u8
 
-#EXTINF:0 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2015/12/film-the-lord-of-the-rings-the-two-towers-2002.jpg" group-title="Movies", The Lord of the Rings: The Two Towers (2002)
+#EXTINF:1 type="movie" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2015/12/film-the-lord-of-the-rings-the-two-towers-2002.jpg" group-title="Movies", The Lord of the Rings: The Two Towers (2002)
 https://cloud.hownetwork.xyz/xxx/3e2682e205f78eef643fd6f054132c15/5/480.m3u8
 
-#EXTINF:0 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2015/12/film-the-lord-of-the-rings-the-fellowship-of-the-ring-2001.jpg" group-title="Movies", The Lord of the Rings: The Fellowship of the Ring (2001)
+#EXTINF:1 type="movie" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2015/12/film-the-lord-of-the-rings-the-fellowship-of-the-ring-2001.jpg" group-title="Movies", The Lord of the Rings: The Fellowship of the Ring (2001)
 https://cloud.hownetwork.xyz/xxx/1ffcad2fb6f48025a361b92a9408c91c/11/480.m3u8
 
-#EXTINF:0 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/10/film-the-lord-of-the-rings-1978.jpg" group-title="Movies", The Lord of the Rings (1978)
+#EXTINF:1 type="movie" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/10/film-the-lord-of-the-rings-1978.jpg" group-title="Movies", The Lord of the Rings (1978)
 https://cloud.hownetwork.xyz/xxx/c6ba1afe676e00b7814cbf480cfb9f4b/20/480.m3u8
 
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjNlOGE0ZmMtNTk2MC00NTBhLTg2Y2QtZjdkZjIwNjQzYzY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies", Ice Road: Vengeance (2025)
+#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjNlOGE0ZmMtNTk2MC00NTBhLTg2Y2QtZjdkZjIwNjQzYzY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies", Ice Road: Vengeance (2025)
 https://cloud.hownetwork.xyz/xxx/KxssYzcWFiVvJxIiJFU3NiEdZHx1S0JsNTQVKC9vDgcnQHh9fEkTeA/33/480.m3u8
 
-#EXTINF:0 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/06/film-from-the-world-of-john-wick-ballerina-2025-lk21-d21.jpg.webp" group-title="Movies", Ballerina (2025)
+#EXTINF:1 type="movie" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/06/film-from-the-world-of-john-wick-ballerina-2025-lk21-d21.jpg.webp" group-title="Movies", Ballerina (2025)
 https://cloud.hownetwork.xyz/xxx/JAomI2gNHyRvJhg-L1R7NyRVIyEtF1o2KzIcYSFROjQnCiAgJFRFcXBkWjsmUjI0HSAWKyFIEyAjMkA/33/480.m3u8
 
-#EXTINF:0 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/07/film-the-sound-2025-lk21-d21.jpg.webp" group-title="Movies", The Sound (2025)
+#EXTINF:1 type="movie" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/07/film-the-sound-2025-lk21-d21.jpg.webp" group-title="Movies", The Sound (2025)
 https://cloud.hownetwork.xyz/xxx/NhAsYzYWAi8mfEV8cQV7LycaLSIaISggcmASKXoAYg/33/480.m3u8
 
-#EXTINF:0 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/06/film-the-noisy-mansion-2025-lk21-d21.jpg.webp" group-title="Movies", The Noisy Mansion (2025)
+#EXTINF:1 type="movie" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/06/film-the-noisy-mansion-2025-lk21-d21.jpg.webp" group-title="Movies", The Noisy Mansion (2025)
 https://cloud.hownetwork.xyz/xxx/NhAsYysWHjI7fBotLUM_NyxVe353TFo2JzMTIBxoCW17S3t3IRgT/33/480.m3u8
 
-#EXTINF:0 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/06/film-eternal-bond-2025-lk21-d21.jpg.webp" group-title="Movies", Eternal Bond (2025)
+#EXTINF:1 type="movie" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/06/film-eternal-bond-2025-lk21-d21.jpg.webp" group-title="Movies", Eternal Bond (2025)
 https://cloud.hownetwork.xyz/xxx/JwwsPCsYG2wgPhkobgJmandVPisnHRseGg5Ee3IBZDtwSA/33/480.m3u8
 
-#EXTINF:0 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/06/film-sweeney-todd-slice-dice-2025-lk21-d21.jpg.webp" group-title="Movies", Sweeney Todd: Slice & Dice (2025)
+#EXTINF:1 type="movie" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/06/film-sweeney-todd-slice-dice-2025-lk21-d21.jpg.webp" group-title="Movies", Sweeney Todd: Slice & Dice (2025)
 https://cloud.hownetwork.xyz/xxx/MQ8sKyscDmw2PhMobkM6MSEdZCosGhJscGFFeW5HMzomFBYWGk9GJyRkE3px/33/480.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/06/film-ghatikachalam-2025-lk21-d21.jpg.webp" group-title="Movies", Ghatikachalam (2025)
+#EXTINF:1 type="movie" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/06/film-ghatikachalam-2025-lk21-d21.jpg.webp" group-title="Movies", Ghatikachalam (2025)
 https://cloud.hownetwork.xyz/xxx/JRAoOiwSFiIqMBstLh1kaHBNZDkgGxMtHQkoKidVNDwkGng/33/480.m3u8
 
-#EXTINF:0 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/06/film-off-the-grid-2025-lk21-d21.jpg.webp" group-title="Movies", Off the Grid (2025)
+#EXTINF:1 type="movie" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/06/film-off-the-grid-2025-lk21-d21.jpg.webp" group-title="Movies", Off the Grid (2025)
 https://cloud.hownetwork.xyz/xxx/LR4vYzEREmwlIx4obgJmandVPisnHRseGg5DKCJUZzpzHQ/33/480.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/06/film-exorcism-chronicles-the-beginning-2025-lk21-d21.jpg.webp" group-title="Movies", Exorcism Chronicles: The Beginning (2025)
+#EXTINF:1 type="movie" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/06/film-exorcism-chronicles-the-beginning-2025-lk21-d21.jpg.webp" group-title="Movies", Exorcism Chronicles: The Beginning (2025)
 https://cloud.hownetwork.xyz/xxx/JwAmPCYQBCxvMh8-LF4_Oy4dOmMxERJsIDQQJS1ePzYlVXt-d0xaNiczEyAcaAlpexkvdiZJFQ/33/480.m3u8
 
-#EXTINF:0 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/06/film-drug-bust-storm-2025-lk21-d21-1.jpg.webp" group-title="Movies", Drug Bust Storm (2025)
+#EXTINF:1 type="movie" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/06/film-drug-bust-storm-2025-lk21-d21-1.jpg.webp" group-title="Movies", Drug Bust Storm (2025)
 https://cloud.hownetwork.xyz/xxx/Jgo8KWgbAjI2fAQ4LEI7dXBIe3toDhIjJj0oFBxRMjokSywtcA/33/480.m3u8
 
-#EXTINF:0 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/06/film-the-stranger-in-my-home-2025-lk21-d21.jpg.webp" group-title="Movies", The Stranger in My Home (2025)
+#EXTINF:1 type="movie" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/06/film-the-stranger-in-my-home-2025-lk21-d21.jpg.webp" group-title="Movies", The Stranger in My Home (2025)
 https://cloud.hownetwork.xyz/xxx/NhAsYzYNBSAsNhI-blk4dS8BZCYqFBJscGFFeW5HMzomFBYWGkkRJHNkQCp2/33/480.m3u8
 
-#EXTINF:0 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/06/film-the-last-cabin-2025-lk21-d21.jpg.webp" group-title="Movies", The Last Cabin (2025)
+#EXTINF:1 type="movie" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/06/film-the-last-cabin-2025-lk21-d21.jpg.webp" group-title="Movies", The Last Cabin (2025)
 https://cloud.hownetwork.xyz/xxx/NhAsYykYBDVvMhYuKl57anJKfGMyHBUlLg4vE3sEMmBwQHt_/33/480.m3u8
 
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_piEaUo4djcmIqk99ViUhBsEFhSgefIaGw&s" group-title="Movies",A Working Man (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_piEaUo4djcmIqk99ViUhBsEFhSgefIaGw&s" group-title="Movies",A Working Man (2025)
 https://cloud.hownetwork.xyz/xxx/I1U-ITcSHi8lfBotLR1kaHBNZDkgGxMtHQkoeXsAMGomGns/32/480.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyyqIDtbovECYAuKARoXGdMxf7Bry31Ek9w&s" group-title="Movies",The Jolly Monkey (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyyqIDtbovECYAuKARoXGdMxf7Bry31Ek9w&s" group-title="Movies",The Jolly Monkey (2025)
 https://cloud.hownetwork.xyz/xxx/NhAsYy8WGy07fBojLVszIW9KeXxwVAAkIDUbExtvYW10HnArIx0/32/480.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbgjr0uEPHHcB3NkymM9enjbLeiLhs512szA&s" group-title="Movies",Captain America: Brave New World (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbgjr0uEPHHcB3NkymM9enjbLeiLhs512szA&s" group-title="Movies",Captain America: Brave New World (2025)
 https://cloud.hownetwork.xyz/xxx/IRk5OiQQGWwjPBI-KlM3dSAKKDggVBkkNXwAIzFcMnVwSHt7aBsbNDAwDhMbbzRqe096d3Yb/32/480.m3u8
 
-#EXTINF:0 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/02/21/the-gorge-1740117157548.jpeg?w=1200" group-title="Movies",The Gorge (2025)
+#EXTINF:1 type="movie" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/02/21/the-gorge-1740117157548.jpeg?w=1200" group-title="Movies",The Gorge (2025)
 https://cloud.hownetwork.xyz/xxx/dbbaaef69a7259a80521c2a811010e4c/25/480.m3u8
 
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjk3ZjBjZjYtMDQ0ZC00MjBiLWE0YTktZjAzYmYyNzdiMTk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Sniper: The Last Stand (2025)
+#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjk3ZjBjZjYtMDQ0ZC00MjBiLWE0YTktZjAzYmYyNzdiMTk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Sniper: The Last Stand (2025)
 https://cloud.hownetwork.xyz/xxx/6b5eb15896d9676b375c97d21ac11b49/25/480.m3u8
 
 
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ5NGEyYTItMjNiMi00Y2EwLTkzOWItMjc5YjJiMjMyNTI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Mission: Impossible – The Final Reckoning (2025)
+#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ5NGEyYTItMjNiMi00Y2EwLTkzOWItMjc5YjJiMjMyNTI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Mission: Impossible – The Final Reckoning (2025)
 https://cloud.hownetwork.xyz/xxx/LxE6PSwWGWwrPAcjMEM_Oi4dZDotHFonKz8WIG5CMzspFycnKx5ac3JjQmEgUTsHGidxd3MbQHYmZQ/32/480.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPUM7ujNenMG2wrk2jKG2z_CnAn24suwyp2w&s" group-title="Movies",Lilo & Stitch (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPUM7ujNenMG2wrk2jKG2z_CnAn24suwyp2w&s" group-title="Movies",Lilo & Stitch (2025)
 https://cloud.hownetwork.xyz/xxx/LhElIWgKAyg2Mh9hcQBkbW8QLS0kFCgZHWNFfCUCM2gj/32/480.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/ab/Final_Destination_Bloodlines_%282025%29_poster.jpg/250px-Final_Destination_Bloodlines_%282025%29_poster.jpg" group-title="Movies",Final Destination: Bloodlines (2025)
+#EXTINF:1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/ab/Final_Destination_Bloodlines_%282025%29_poster.jpg/250px-Final_Destination_Bloodlines_%282025%29_poster.jpg" group-title="Movies",Final Destination: Bloodlines (2025)
 https://cloud.hownetwork.xyz//yyy/JBEnLylUEyQxJR4iIkQ_NyxVKyIqFhMtKz8SP24CZmp3VT4rJx0bHhoOQ34nBG87IUE/33/480.m3u8
 
-#EXTINF:0 tvg-logo="https://cdn.rri.co.id/berita/Kediri/o/1745906599625-CAD06B59-6525-4FE1-91AD-B426097C17D5/rt5t8d3y7cd75q2.jpeg" group-title="Movies",Lost in Starlight (2025)
+#EXTINF:1 type="movie" tvg-logo="https://cdn.rri.co.id/berita/Kediri/o/1745906599625-CAD06B59-6525-4FE1-91AD-B426097C17D5/rt5t8d3y7cd75q2.jpeg" group-title="Movies",Lost in Starlight (2025)
 https://cloud.hownetwork.xyz/xxx/Lhc6OmgQGWwxJRY-L1kxMDZVe353TFo2JzMTIBxoCTp0QXAqfE9A/32/480.m3u8
 
-#EXTINF:0 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/04/24/the-accountant-2-1745485853196_34.jpeg?w=500&q=90" group-title="Movies",The Accountant 2 (2025)
+#EXTINF:1 type="movie" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/04/24/the-accountant-2-1745485853196_34.jpeg?w=500&q=90" group-title="Movies",The Accountant 2 (2025)
 https://cloud.hownetwork.xyz/xxx/NhAsYyQaFC43PwMtLUR7am9KeXxwVAAkIDUbExtvYWohQHB_IEs/32/480.m3u8
 
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg3ZjBjZmQtMmVlZC00MTJiLThjNDItZjJhMGFlYmYzZmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Henry Danger: The Movie (2025)
+#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg3ZjBjZmQtMmVlZC00MTJiLThjNDItZjJhMGFlYmYzZmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Henry Danger: The Movie (2025)
 https://be2719.rcr22.ams01.cdn255.com/hls2/01/08124/c107ujfspu0s_x/index-v1-a1.m3u8?t=9mSVtTaUkAmBUg-LEmiFO7rUdxCgu95vfc1AtXyGppA&s=1748792065&e=10800&f=40621660&srv=1065&asn=7713&sp=5500&p=
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQtngAhCU5xiikCI1bQA6snBSjVNefk8UBug&s" group-title="Movies",Until Dawn (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQtngAhCU5xiikCI1bQA6snBSjVNefk8UBug&s" group-title="Movies",Until Dawn (2025)
 https://cloud.hownetwork.xyz/xxx/NxY9JylUEyA1P1p-cwJjdTUdKyopJi8eIzAUeXIANzo/32/480.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2XDpN0BLjYeQISOExVS0Ut0xwf3VS6rcqXw&s" group-title="Movies",Sunray: Fallen Soldier (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2XDpN0BLjYeQISOExVS0Ut0xwf3VS6rcqXw&s" group-title="Movies",Sunray: Fallen Soldier (2025)
 https://cloud.hownetwork.xyz/xxx/f34ada2720ea259e77d120b72e646e2a/25/480.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1YUXcLEASBUcwZ3_oBhb7aC4w8s0yxGLDg&s" group-title="Movies",Valiant One (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1YUXcLEASBUcwZ3_oBhb7aC4w8s0yxGLDg&s" group-title="Movies",Valiant One (2025)
 https://be4235.rcr32.ams02.cdn255.com/hls2/02/08270/trxjr7ikmhrr_x/index-v1-a1.m3u8?t=4usf0P59BQyBo1FovLFxjr2r49IpbaJM8DRElmdyZ4E&s=1748792332&e=10800&f=41351755&srv=1050&asn=7713&sp=5500&p=
 
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BODhkMGYxY2MtNzBhZC00ZTdiLWEwNzYtOTdlNDQ2YjZlOTcxXkEyXkFqcGc@._V1_.jpg" group-title="Movies",Into the Deep (2025)
+#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BODhkMGYxY2MtNzBhZC00ZTdiLWEwNzYtOTdlNDQ2YjZlOTcxXkEyXkFqcGc@._V1_.jpg" group-title="Movies",Into the Deep (2025)
 https://be2719.rcr22.ams01.cdn255.com/hls2/02/08308/20c5qs0eoxlg_x/index-v1-a1.m3u8?t=WNDlbrs2DisS9zAuNk-v2jf0zc5Cy4XaxejUhFcx6pQ&s=1748792477&e=10800&f=41543631&srv=1050&asn=7713&sp=5500&p=
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVJCVL5MM62iPErzrtdGOCNa0kC2f__16W9w&s" group-title="Movies",A Knight’s War (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVJCVL5MM62iPErzrtdGOCNa0kC2f__16W9w&s" group-title="Movies",A Knight’s War (2025)
 https://cloud.hownetwork.xyz//yyy/I1UiICweHzUxfAAtMR1kaHBNZDkgGxMtHQkodHEFNWl0SSo/32/480.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoG8TEBodp2VjFtDthcwIgDrK8S2lD0T-MsA&s" group-title="Movies",Popeye: The Slayer Man (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoG8TEBodp2VjFtDthcwIgDrK8S2lD0T-MsA&s" group-title="Movies",Popeye: The Slayer Man (2025)
 https://cloud.hownetwork.xyz/xxx/75a513568a5417e1f54220f17235fd23/25/480.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKz1FvOhJAlnBaMtMUqE4pnYF8w6piyKmOg&s" group-title="Movies", Holy Night: Demon Hunters (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKz1FvOhJAlnBaMtMUqE4pnYF8w6piyKmOg&s" group-title="Movies", Holy Night: Demon Hunters (2025)
 https://cloud.hownetwork.xyz/xxx/KhclN2gXHiYqJVooJl05Nm8QPCAxHAUyb2NHfnYdIT0gHCURHSZCIyRnTi9xUg/32/480.m3u8
 
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzI4ZTRlOGUtMjAxMi00MzI1LWI5ZTktMTAzMTUxNGE0NTg4XkEyXkFqcGc@._V1_.jpg" group-title="Movies",Shadow Force (2025)
+#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzI4ZTRlOGUtMjAxMi00MzI1LWI5ZTktMTAzMTUxNGE0NTg4XkEyXkFqcGc@._V1_.jpg" group-title="Movies",Shadow Force (2025)
 https://cloud.hownetwork.xyz/xxx/MRAoKioOWictIxQpbgJmandVPisnHRseGg5PfXoENzx1Gg/32/480.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWFPuQFnftxDmC6DPvz5ilxUgCBVZv-4cK_Q&s" group-title="Movies",A Widow’s Game (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWFPuQFnftxDmC6DPvz5ilxUgCBVZv-4cK_Q&s" group-title="Movies",A Widow’s Game (2025)
 https://cloud.hownetwork.xyz/xxx/I1U-JyEWADJvNhYhJh1kaHBNZDkgGxMtHQkoL3cFMGgjT3o/32/480.m3u8
 
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/original/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg" group-title="Movies",Warfare (2025)
+#EXTINF:1 type="movie" tvg-logo="https://image.tmdb.org/t/p/original/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg" group-title="Movies",Warfare (2025)
 https://cloud.hownetwork.xyz/xxx/NRk7KCQLEmxwYUV5bkczOiYUFhYaG0V2cmQTf3Y/32/480.m3u8
 
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDIzNGUwZmYtODM0Yy00NjA3LTgxOGUtOTY0ZGM5MjBkM2I3XkEyXkFqcGc@._V1_.jpg" group-title="Movies",Thunderbolts(2025)
+#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDIzNGUwZmYtODM0Yy00NjA3LTgxOGUtOTY0ZGM5MjBkM2I3XkEyXkFqcGc@._V1_.jpg" group-title="Movies",Thunderbolts(2025)
 https://cloud.hownetwork.xyz/xxx/NhA8ICEcBSMtPQM_bgJmandVKi8oJi8eJDBPdXcEM2w/32/480.m3u8
 
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGZlZjAyYTItMDdjYy00OGZlLWI3NDAtYzM5ZjAwNjg0NWUxXkEyXkFqcGc@._V1_.jpg" group-title="Movies",Flight Risk (2025)
+#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGZlZjAyYTItMDdjYy00OGZlLWI3NDAtYzM5ZjAwNjg0NWUxXkEyXkFqcGc@._V1_.jpg" group-title="Movies",Flight Risk (2025)
 https://cloud.hownetwork.xyz/xxx/JBQgKS0NWjMrIhxhcQBkbW8aJTs3GA4eGg5DeXcHMj1zGQ/32/480.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdgCvI80WHSRc5MTluWFR_z3DxfLQ-tf21Ow&s" group-title="Movies",Demon City (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdgCvI80WHSRc5MTluWFR_z3DxfLQ-tf21Ow&s" group-title="Movies",Demon City (2025)
 https://cloud.hownetwork.xyz/xxx/bffc541e7dc7cdd149fbb7592d0b0d84/25/480.m3u8
 
 
