@@ -272,8 +272,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index
 #KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 site="mncvision.id" site_id="9" xmltv_id="BUDDY STARS - [Channel 9]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_9.png" group-title="Playlist🇮🇩",
-Buddy Star
+#EXTINF:-1 site="mncvision.id" site_id="9" xmltv_id="BUDDY STARS - [Channel 9]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_9.png" group-title="Playlist🇮🇩", Buddy Star
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
@@ -283,12 +282,11 @@ https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Playlist🇮🇩",
-Rock Entertainment
+#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Playlist🇮🇩", Rock Entertainment
 http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
 
-#EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="ROCK Action" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://iili.io/JZIC3x9.png" group-title="Playlist🇮🇩", Rock Action
+#EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="ROCK Action" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="Playlist🇮🇩", Rock Action
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
@@ -1637,122 +1635,93 @@ https://cloud.hownetwork.xyz/xxx/MQ8sKyscDmw2PhMobkM6MSEdZCosGhJscGFFeW5HMzomFBY
 #EXTINF:1 type="movie" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/06/film-ghatikachalam-2025-lk21-d21.jpg.webp" group-title="🎬", Ghatikachalam (2025)
 https://cloud.hownetwork.xyz/xxx/JRAoOiwSFiIqMBstLh1kaHBNZDkgGxMtHQkoKidVNDwkGng/33/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/06/film-off-the-grid-2025-lk21-d21.jpg.webp" group-title="🎬"
-, Off the Grid (2025)
+#EXTINF:1 type="movie" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/06/film-off-the-grid-2025-lk21-d21.jpg.webp" group-title="🎬", Off the Grid (2025)
 https://cloud.hownetwork.xyz/xxx/LR4vYzEREmwlIx4obgJmandVPisnHRseGg5DKCJUZzpzHQ/33/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/06/film-exorcism-chronicles-the-beginning-2025-lk21-d21.jpg.webp" group-title="🎬"
-, Exorcism Chronicles: The Beginning (2025)
+#EXTINF:1 type="movie" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/06/film-exorcism-chronicles-the-beginning-2025-lk21-d21.jpg.webp" group-title="🎬", Exorcism Chronicles: The Beginning (2025)
 https://cloud.hownetwork.xyz/xxx/JwAmPCYQBCxvMh8-LF4_Oy4dOmMxERJsIDQQJS1ePzYlVXt-d0xaNiczEyAcaAlpexkvdiZJFQ/33/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/06/film-drug-bust-storm-2025-lk21-d21-1.jpg.webp" group-title="🎬"
-, Drug Bust Storm (2025)
+#EXTINF:1 type="movie" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/06/film-drug-bust-storm-2025-lk21-d21-1.jpg.webp" group-title="🎬", Drug Bust Storm (2025)
 https://cloud.hownetwork.xyz/xxx/Jgo8KWgbAjI2fAQ4LEI7dXBIe3toDhIjJj0oFBxRMjokSywtcA/33/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/06/film-the-stranger-in-my-home-2025-lk21-d21.jpg.webp" group-title="🎬"
-, The Stranger in My Home (2025)
+#EXTINF:1 type="movie" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/06/film-the-stranger-in-my-home-2025-lk21-d21.jpg.webp" group-title="🎬", The Stranger in My Home (2025)
 https://cloud.hownetwork.xyz/xxx/NhAsYzYNBSAsNhI-blk4dS8BZCYqFBJscGFFeW5HMzomFBYWGkkRJHNkQCp2/33/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/06/film-the-last-cabin-2025-lk21-d21.jpg.webp" group-title="🎬"
-, The Last Cabin (2025)
+#EXTINF:1 type="movie" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/06/film-the-last-cabin-2025-lk21-d21.jpg.webp" group-title="🎬", The Last Cabin (2025)
 https://cloud.hownetwork.xyz/xxx/NhAsYykYBDVvMhYuKl57anJKfGMyHBUlLg4vE3sEMmBwQHt_/33/480.m3u8
 
 #EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyyqIDtbovECYAuKARoXGdMxf7Bry31Ek9w&s" group-title="🎬"
 ,The Jolly Monkey (2025)
 https://cloud.hownetwork.xyz/xxx/NhAsYy8WGy07fBojLVszIW9KeXxwVAAkIDUbExtvYW10HnArIx0/32/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbgjr0uEPHHcB3NkymM9enjbLeiLhs512szA&s" group-title="🎬"
-,Captain America: Brave New World (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbgjr0uEPHHcB3NkymM9enjbLeiLhs512szA&s" group-title="🎬",Captain America: Brave New World (2025)
 https://cloud.hownetwork.xyz/xxx/IRk5OiQQGWwjPBI-KlM3dSAKKDggVBkkNXwAIzFcMnVwSHt7aBsbNDAwDhMbbzRqe096d3Yb/32/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/02/21/the-gorge-1740117157548.jpeg?w=1200" group-title="🎬"
-,The Gorge (2025)
+#EXTINF:1 type="movie" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/02/21/the-gorge-1740117157548.jpeg?w=1200" group-title="🎬",The Gorge (2025)
 https://cloud.hownetwork.xyz/xxx/dbbaaef69a7259a80521c2a811010e4c/25/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjk3ZjBjZjYtMDQ0ZC00MjBiLWE0YTktZjAzYmYyNzdiMTk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="🎬"
-,Sniper: The Last Stand (2025)
+#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjk3ZjBjZjYtMDQ0ZC00MjBiLWE0YTktZjAzYmYyNzdiMTk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="🎬",Sniper: The Last Stand (2025)
 https://cloud.hownetwork.xyz/xxx/6b5eb15896d9676b375c97d21ac11b49/25/480.m3u8
 
-
-#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ5NGEyYTItMjNiMi00Y2EwLTkzOWItMjc5YjJiMjMyNTI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="🎬"
-,Mission: Impossible – The Final Reckoning (2025)
+#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ5NGEyYTItMjNiMi00Y2EwLTkzOWItMjc5YjJiMjMyNTI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="🎬",Mission: Impossible – The Final Reckoning (2025)
 https://cloud.hownetwork.xyz/xxx/LxE6PSwWGWwrPAcjMEM_Oi4dZDotHFonKz8WIG5CMzspFycnKx5ac3JjQmEgUTsHGidxd3MbQHYmZQ/32/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPUM7ujNenMG2wrk2jKG2z_CnAn24suwyp2w&s" group-title="🎬"
-,Lilo & Stitch (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPUM7ujNenMG2wrk2jKG2z_CnAn24suwyp2w&s" group-title="🎬",Lilo & Stitch (2025)
 https://cloud.hownetwork.xyz/xxx/LhElIWgKAyg2Mh9hcQBkbW8QLS0kFCgZHWNFfCUCM2gj/32/480.m3u8
 
 #EXTINF:1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/ab/Final_Destination_Bloodlines_%282025%29_poster.jpg/250px-Final_Destination_Bloodlines_%282025%29_poster.jpg" group-title="🎬"
 ,Final Destination: Bloodlines (2025)
 https://cloud.hownetwork.xyz//yyy/JBEnLylUEyQxJR4iIkQ_NyxVKyIqFhMtKz8SP24CZmp3VT4rJx0bHhoOQ34nBG87IUE/33/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://cdn.rri.co.id/berita/Kediri/o/1745906599625-CAD06B59-6525-4FE1-91AD-B426097C17D5/rt5t8d3y7cd75q2.jpeg" group-title="🎬"
-,Lost in Starlight (2025)
+#EXTINF:1 type="movie" tvg-logo="https://cdn.rri.co.id/berita/Kediri/o/1745906599625-CAD06B59-6525-4FE1-91AD-B426097C17D5/rt5t8d3y7cd75q2.jpeg" group-title="🎬",Lost in Starlight (2025)
 https://cloud.hownetwork.xyz/xxx/Lhc6OmgQGWwxJRY-L1kxMDZVe353TFo2JzMTIBxoCTp0QXAqfE9A/32/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/04/24/the-accountant-2-1745485853196_34.jpeg?w=500&q=90" group-title="🎬"
-,The Accountant 2 (2025)
+#EXTINF:1 type="movie" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/04/24/the-accountant-2-1745485853196_34.jpeg?w=500&q=90" group-title="🎬",The Accountant 2 (2025)
 https://cloud.hownetwork.xyz/xxx/NhAsYyQaFC43PwMtLUR7am9KeXxwVAAkIDUbExtvYWohQHB_IEs/32/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg3ZjBjZmQtMmVlZC00MTJiLThjNDItZjJhMGFlYmYzZmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="🎬"
-,Henry Danger: The Movie (2025)
+#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg3ZjBjZmQtMmVlZC00MTJiLThjNDItZjJhMGFlYmYzZmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="🎬",Henry Danger: The Movie (2025)
 https://be2719.rcr22.ams01.cdn255.com/hls2/01/08124/c107ujfspu0s_x/index-v1-a1.m3u8?t=9mSVtTaUkAmBUg-LEmiFO7rUdxCgu95vfc1AtXyGppA&s=1748792065&e=10800&f=40621660&srv=1065&asn=7713&sp=5500&p=
 
-#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQtngAhCU5xiikCI1bQA6snBSjVNefk8UBug&s" group-title="🎬"
-,Until Dawn (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQtngAhCU5xiikCI1bQA6snBSjVNefk8UBug&s" group-title="🎬",Until Dawn (2025)
 https://cloud.hownetwork.xyz/xxx/NxY9JylUEyA1P1p-cwJjdTUdKyopJi8eIzAUeXIANzo/32/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2XDpN0BLjYeQISOExVS0Ut0xwf3VS6rcqXw&s" group-title="🎬"
-,Sunray: Fallen Soldier (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2XDpN0BLjYeQISOExVS0Ut0xwf3VS6rcqXw&s" group-title="🎬",Sunray: Fallen Soldier (2025)
 https://cloud.hownetwork.xyz/xxx/f34ada2720ea259e77d120b72e646e2a/25/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1YUXcLEASBUcwZ3_oBhb7aC4w8s0yxGLDg&s" group-title="🎬"
-,Valiant One (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1YUXcLEASBUcwZ3_oBhb7aC4w8s0yxGLDg&s" group-title="🎬",Valiant One (2025)
 https://be4235.rcr32.ams02.cdn255.com/hls2/02/08270/trxjr7ikmhrr_x/index-v1-a1.m3u8?t=4usf0P59BQyBo1FovLFxjr2r49IpbaJM8DRElmdyZ4E&s=1748792332&e=10800&f=41351755&srv=1050&asn=7713&sp=5500&p=
 
-#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BODhkMGYxY2MtNzBhZC00ZTdiLWEwNzYtOTdlNDQ2YjZlOTcxXkEyXkFqcGc@._V1_.jpg" group-title="🎬"
-,Into the Deep (2025)
+#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BODhkMGYxY2MtNzBhZC00ZTdiLWEwNzYtOTdlNDQ2YjZlOTcxXkEyXkFqcGc@._V1_.jpg" group-title="🎬",Into the Deep (2025)
 https://be2719.rcr22.ams01.cdn255.com/hls2/02/08308/20c5qs0eoxlg_x/index-v1-a1.m3u8?t=WNDlbrs2DisS9zAuNk-v2jf0zc5Cy4XaxejUhFcx6pQ&s=1748792477&e=10800&f=41543631&srv=1050&asn=7713&sp=5500&p=
 
-#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVJCVL5MM62iPErzrtdGOCNa0kC2f__16W9w&s" group-title="🎬"
-,A Knight’s War (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVJCVL5MM62iPErzrtdGOCNa0kC2f__16W9w&s" group-title="🎬",A Knight’s War (2025)
 https://cloud.hownetwork.xyz//yyy/I1UiICweHzUxfAAtMR1kaHBNZDkgGxMtHQkodHEFNWl0SSo/32/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoG8TEBodp2VjFtDthcwIgDrK8S2lD0T-MsA&s" group-title="🎬"
-,Popeye: The Slayer Man (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoG8TEBodp2VjFtDthcwIgDrK8S2lD0T-MsA&s" group-title="🎬",Popeye: The Slayer Man (2025)
 https://cloud.hownetwork.xyz/xxx/75a513568a5417e1f54220f17235fd23/25/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKz1FvOhJAlnBaMtMUqE4pnYF8w6piyKmOg&s" group-title="🎬"
-, Holy Night: Demon Hunters (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKz1FvOhJAlnBaMtMUqE4pnYF8w6piyKmOg&s" group-title="🎬", Holy Night: Demon Hunters (2025)
 https://cloud.hownetwork.xyz/xxx/KhclN2gXHiYqJVooJl05Nm8QPCAxHAUyb2NHfnYdIT0gHCURHSZCIyRnTi9xUg/32/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzI4ZTRlOGUtMjAxMi00MzI1LWI5ZTktMTAzMTUxNGE0NTg4XkEyXkFqcGc@._V1_.jpg" group-title="🎬"
-,Shadow Force (2025)
+#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzI4ZTRlOGUtMjAxMi00MzI1LWI5ZTktMTAzMTUxNGE0NTg4XkEyXkFqcGc@._V1_.jpg" group-title="🎬",Shadow Force (2025)
 https://cloud.hownetwork.xyz/xxx/MRAoKioOWictIxQpbgJmandVPisnHRseGg5PfXoENzx1Gg/32/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWFPuQFnftxDmC6DPvz5ilxUgCBVZv-4cK_Q&s" group-title="🎬"
-,A Widow’s Game (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWFPuQFnftxDmC6DPvz5ilxUgCBVZv-4cK_Q&s" group-title="🎬",A Widow’s Game (2025)
 https://cloud.hownetwork.xyz/xxx/I1U-JyEWADJvNhYhJh1kaHBNZDkgGxMtHQkoL3cFMGgjT3o/32/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://image.tmdb.org/t/p/original/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg" group-title="🎬"
-,Warfare (2025)
+#EXTINF:1 type="movie" tvg-logo="https://image.tmdb.org/t/p/original/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg" group-title="🎬",Warfare (2025)
 https://cloud.hownetwork.xyz/xxx/NRk7KCQLEmxwYUV5bkczOiYUFhYaG0V2cmQTf3Y/32/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDIzNGUwZmYtODM0Yy00NjA3LTgxOGUtOTY0ZGM5MjBkM2I3XkEyXkFqcGc@._V1_.jpg" group-title="🎬"
-,Thunderbolts(2025)
+#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDIzNGUwZmYtODM0Yy00NjA3LTgxOGUtOTY0ZGM5MjBkM2I3XkEyXkFqcGc@._V1_.jpg" group-title="🎬", Thunderbolts(2025)
 https://cloud.hownetwork.xyz/xxx/NhA8ICEcBSMtPQM_bgJmandVKi8oJi8eJDBPdXcEM2w/32/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGZlZjAyYTItMDdjYy00OGZlLWI3NDAtYzM5ZjAwNjg0NWUxXkEyXkFqcGc@._V1_.jpg" group-title="🎬"
-,Flight Risk (2025)
+#EXTINF:1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGZlZjAyYTItMDdjYy00OGZlLWI3NDAtYzM5ZjAwNjg0NWUxXkEyXkFqcGc@._V1_.jpg" group-title="🎬",Flight Risk (2025)
 https://cloud.hownetwork.xyz/xxx/JBQgKS0NWjMrIhxhcQBkbW8aJTs3GA4eGg5DeXcHMj1zGQ/32/480.m3u8
 
-#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdgCvI80WHSRc5MTluWFR_z3DxfLQ-tf21Ow&s" group-title="🎬"
-,Demon City (2025)
+#EXTINF:1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdgCvI80WHSRc5MTluWFR_z3DxfLQ-tf21Ow&s" group-title="🎬",Demon City (2025)
 https://cloud.hownetwork.xyz/xxx/bffc541e7dc7cdd149fbb7592d0b0d84/25/480.m3u8
 
-
-#EXTINF:-1 type="movie" tvg-logo="https://www.123-hdd.com/wp-content/uploads/2024/10/%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C-My-Boo-2024-300x450.jpg"  group-title="🎬"
- ,My Boo (2024) 
+#EXTINF:-1 type="movie" tvg-logo="https://www.123-hdd.com/wp-content/uploads/2024/10/%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C-My-Boo-2024-300x450.jpg"  group-title="🎬", My Boo (2024) 
 https://main.24playerhd.com/newplaylist/6e363837ea8a7bdd61c97cb9/6e363837ea8a7bdd61c97cb9.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2024/10/That-Kind-of-Love-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99-2024-300x450.jpg" group-title="🎬", That Kind of Love (2024) 
@@ -1761,12 +1730,10 @@ https://main.24playerhd.com/newplaylist/1a2c08fe117364b627498a1e/1a2c08fe117364b
 #EXTINF:-1 type="movie" tvg-id="--" tvg-name="Damsel" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTAzODc1ZjUtNGQwZS00YTc2LTliNzQtMDdlNzllNmU5Yzk4XkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg" group-title="🎬", Damsel
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Mar/07/Damsel.2024.mp4/index.m3u8 
 
-#EXTINF:-1 type="movie" tvg-id="--" tvg-name="Argylle" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDkzMTU2OWUtZjA2ZS00ZmYxLWE2MzgtZDlhZDc1YjM4Yjk5XkEyXkFqcGc@._V1_QL75_UX190_CR0,10,190,281_.jpg" group-title="🎬"
-, Argylle
+#EXTINF:-1 type="movie" tvg-id="--" tvg-name="Argylle" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDkzMTU2OWUtZjA2ZS00ZmYxLWE2MzgtZDlhZDc1YjM4Yjk5XkEyXkFqcGc@._V1_QL75_UX190_CR0,10,190,281_.jpg" group-title="🎬", Argylle
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Mar/06/Argylle.2024.mp4/index.m3u8
 
-#EXTINF:-1 type="movie" tvg-id="--" tvg-name="Mean Girls" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/02/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg?w=300&ssl=1" group-title="🎬"
-, Mean Girls
+#EXTINF:-1 type="movie" tvg-id="--" tvg-name="Mean Girls" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/02/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg?w=300&ssl=1" group-title="🎬", Mean Girls
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/09/Mean.Girls.2024.mp4/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-id="--" tvg-name="Land of Bad" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI2YjMwMGEtZDJlZC00NGVkLTk2OTktMjhjNTZiNTIxOTg3XkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg" group-title="🎬"
@@ -2008,8 +1975,7 @@ https://cloud.hownetwork.xyz/xxx/facd772b64ab9bfabb46eab09542ad10/26/480.m3u8
 https://cloud.hownetwork.xyz/xxx/facd772b64ab9bfabb46eab09542ad10/26/480.m3u8 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/06/Gabriel.Iglesias.Legend.of.Fluffy.2025.mp4/tracks-v1a1/mono.m3u8  
 
-#EXTINF:-1 type="movie" group-title="🎬"
- tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lk86c9cmNCXKX44jhDQpcRzK3Gp.jpg",The Savior of the World (2025) 
+#EXTINF:-1 type="movie" group-title="🎬" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lk86c9cmNCXKX44jhDQpcRzK3Gp.jpg",The Savior of the World (2025) 
 https://cloud.hownetwork.xyz/xxx/ba96b2b2464fd2f59bee6843a9905f1a/26/480.m3u8 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/11/The.Savior.of.the.World.2025.mp4/tracks-v1a1/mono.m3u8  
 
@@ -2018,18 +1984,15 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/11/The.Savior.
 https://cloud.hownetwork.xyz/xxx/ba96b2b2464fd2f59bee6843a9905f1a/26/480.m3u8 https://cdn4.turboviplay.com/data1/677e4d123cdab/677e4d123cdab720.m3u8 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/Evil.of.The.Rat.Rat.King.2025.mp4/tracks-v1a1/mono.m3u8  
 
-#EXTINF:-1 type="movie" group-title="🎬"
- tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fAXDQny8kEquc1BImiQHhYMGSsW.jpg",The Damned (2025) 
+#EXTINF:-1 type="movie" group-title="🎬" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fAXDQny8kEquc1BImiQHhYMGSsW.jpg",The Damned (2025) 
 https://cloud.hownetwork.xyz/xxx/b318aee5a9eb3a410cdaf7556855da4b/25/480.m3u8 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/14/The.Damned.2025.mp4/tracks-v1a1/mono.m3u8 
 https://cdn4.turboviplay.cc/data1/6790c7cd50fb2/6790c7cd50fb2720.m3u8  
 
-#EXTINF:-1 type="movie" group-title="🎬"
- tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",The Love Scam (2025) 
+#EXTINF:-1 type="movie" group-title="🎬" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",The Love Scam (2025) 
 https://seneng.org/v/driveid-194546-webrip-1080-terbit21-com-the-love-scam-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9  
 
-#EXTINF:-1 type="movie" group-title="🎬"
- tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7VqUPN0oRHfYV9hdZcal1ZzffmV.jpg",Don't Die  The Man Who Wants to Live Forever (2025) 
+#EXTINF:-1 type="movie" group-title="🎬" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7VqUPN0oRHfYV9hdZcal1ZzffmV.jpg",Don't Die  The Man Who Wants to Live Forever (2025) 
 https://cloud.hownetwork.xyz/xxx/14195fd0dd08728100507b6d50557071/25/480.m3u8 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/01/Dont.Die.The.Man.Who.Wants.to.Live.Forever.2025.mp4/tracks-v1a1/mono.m3u8 
 https://cdn4.turboviplay.com/data1/67c065cb2c4e0/67c065cb2c4e0720.m3u8  
@@ -3663,6 +3626,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/68ea0e5b3c68da8eba6c172dd0039bc9/1080p/in
 
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Spider-Man (2002)" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/01/film-spider-man-2002.jpg" group-title="Movies Marvel", Spider-Man (2002) 
 https://stream.hownetwork.xyz/xxx/spider-man-2002-bluray/11/480.m3u8 
+
 
 
 
