@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 type="movie" group-title="" tvg-logo="https://thumbnail.imgbin.com/6/13/10/imgbin-graphics-logo-design-timur-tengah-i-design-PmC3vaUptVMvRxqHUVVtg0Svu_t.jpg", Album
+#EXTINF:-1 type="movie" group-title="" tvg-logo="", Album
 https://vod3.cf.dmcdn.net/sec2(T-IU3jVhAEJUGPvYwZzeiAUwRjLkcKj3TmCyNZDg31H8HUJFfiMRd97q6RNAq-_zsRuYow0pUyaL3JVaD9g0i54UipNGD3WmI6QgkzNnWLRXv1T_zQ4wxhNY6cGki8LpovQuCZjOG_-pBtfSdULgP3QXwExVewV2EZ1tX0QTQxo)/video/901/999/508999109_mp4_h264_aac.m3u8#cell=cf3
 
 #EXTINF:-1 type="movie" group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm9mucsx2fgD15M5Vfl7KosO8khyPs9OhGqHQqOvx-VIpvFBr_ld05doI&s=10", Konser Bertalu Rindu
@@ -24,7 +24,7 @@ https://api.vidio.com/videos/519944/common_tokenized_playlist.m3u8?ott=eyJhbGciO
 #EXTINF:-1 type="movie" group-title="" title-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/87/Iwan_fals_-_manusia_setengah_dewa.jpg" tvg-group"", Manusia 1/2 Dewa
 https://api.vidio.com/videos/519946/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTk0NiIsImNyZWF0ZWRfYXQiOjE3NTYzOTczODQsImV4dF9kdXJhdGlvbiI6NjAwfQ.w1aqm1rbwcPZkWgp0o7OKh4KsSW3U842uC2d471Mqds
 
-#EXTINF:-1 type="movie" group-title="" title-logo="https://thumbnail.imgbin.com/6/13/10/imgbin-graphics-logo-design-timur-tengah-i-design-PmC3vaUptVMvRxqHUVVtg0Svu_t.jpg"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuCxDW244Wo3ImmOZsGiOMgbb_hbN-iRrMxfBTvtoZvDTRf_TyH5UY1Rs&s=10" tvg-group"Music",16/10
+#EXTINF:-1 type="movie" group-title="" title-logo=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuCxDW244Wo3ImmOZsGiOMgbb_hbN-iRrMxfBTvtoZvDTRf_TyH5UY1Rs&s=10" tvg-group"Music",16/10
 https://api.vidio.com/videos/2249577/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIyNDk1NzciLCJjcmVhdGVkX2F0IjoxNzU2Mzk3NDU5LCJleHRfZHVyYXRpb24iOjYwMH0.Dxm9LslBXk6XXuFNsZHn9ocRMq7L9v28iy9uOhA7374
 
 #EXTINF:-1 type="movie" group-title="" title-logo="" tvg-logo="" tvg-group"Music", Ijinkan Aku Tuk Menyayangimu
@@ -176,8 +176,8 @@ https://cold-na-phx-9.gofile.io/download/web/ca9f4751-831f-4c9f-a474-31f6e3c3b55
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-logo="", xx
 https://bcdnw.hakunaymatata.com/resource/0f9f7c38a65c129fece60511031486e3.mp4?sign=5e86f9e4529e78154926174a5af01a58&t=1756742233 
 
-#EXTINF:-1 type="movie" group-title="https://thumbnail.imgbin.com/6/13/10/imgbin-graphics-logo-design-timur-tengah-i-design-PmC3vaUptVMvRxqHUVVtg0Svu_t.jpg" title-logo="https://thumbnail.imgbin.com/6/13/10/imgbin-graphics-logo-design-timur-tengah-i-design-PmC3vaUptVMvRxqHUVVtg0Svu_t.jpg"tvg-logo="" 
-#EXTINF:-1 type="movie" group-title="https://thumbnail.imgbin.com/6/13/10/imgbin-graphics-logo-design-timur-tengah-i-design-PmC3vaUptVMvRxqHUVVtg0Svu_t.jpg" title-logo="https://thumbnail.imgbin.com/6/13/10/imgbin-graphics-logo-design-timur-tengah-i-design-PmC3vaUptVMvRxqHUVVtg0Svu_t.jpg"tvg-logo="" 
+#EXTINF:-1 type="movie" group-title="" title-logo=""tvg-logo="" 
+#EXTINF:-1 type="movie" group-title="" title-logo=""tvg-logo="" 
 
 
-#EXTINF:-1 type="movie" group-title="https://thumbnail.imgbin.com/6/13/10/imgbin-graphics-logo-design-timur-tengah-i-design-PmC3vaUptVMvRxqHUVVtg0Svu_t.jpg" title-logo="https://thumbnail.imgbin.com/6/13/10/imgbin-graphics-logo-design-timur-tengah-i-design-PmC3vaUptVMvRxqHUVVtg0Svu_t.jpg"tvg-logo="" 
+#EXTINF:-1 type="movie" group-title="" title-logo=""tvg-logo="" 
