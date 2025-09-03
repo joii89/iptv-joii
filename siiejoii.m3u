@@ -5,7 +5,7 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="3600"
 
 
-<===================== Playlist🇮🇩 =================>
+< Playlist🇮🇩 ===>
 
 
 #EXTM3U
@@ -339,7 +339,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505822.m3u8
 
 
-<================= Sports ⚽ ==================>
+<=== Sports ⚽ ====>
 
 
 #EXTM3U
@@ -536,7 +536,7 @@ https://wahyu1ptv.pages.dev/SkySportLaliga-HD.m3u8
 https://wahyu1ptv.pages.dev/SkySportBundesliga-HD.m3u8
 
 
-<=========== Playlist Indonesia🇮🇩 ===========>
+<==== Playlist Indonesia🇮🇩 ====>
 
 
 #EXTM3U
@@ -955,7 +955,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=li
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
 
-<============ Playlist Movie 📺 =============>
+<===== Playlist Movie 📺 ======>
 
 
 #EXTM3U
@@ -1465,7 +1465,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;An)
 
 
-<=========== Kids Channels ==========>
+<==== Kids Channels ===>
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPJKWUxYUQeWs-g3hBQHHFC9w9QaIyy7iw4w&s" group-title="KIDS",MENTARI TV
@@ -1589,7 +1589,7 @@ https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
 
-<================== Movies =================>  
+<==== Movies ===>  
 
 
 #EXTM3U 
@@ -1633,28 +1633,28 @@ https://cloud.hownetwork.xyz/xxx/JRAoOiwSFiIqMBstLh1kaHBNZDkgGxMtHQkoKidVNDwkGng
 
 
 #EXTINF:1 type="movie" group-title="" tvg-logo"https://s2.lk21static.buzz/wp-content/uploads/2025/06/film-off-the-grid-2025-lk21-d21.jpg.webp" group-title="🎬",Off the Grid (2025)
-=======
+
 #EXTINF:1 type="movie" group-title="" tvg-logo"https://s2.lk21static.buzz/wp-content/uploads/2025/06/film-off-the-grid-2025-lk21-d21.jpg.webp" group-title="🎬", Off the Grid (2025)
 
 https://cloud.hownetwork.xyz/xxx/LR4vYzEREmwlIx4obgJmandVPisnHRseGg5DKCJUZzpzHQ/33/480.m3u8
 
 
 #EXTINF:1 type="movie" group-title="" tvg-logo"https://s4.lk21static.buzz/wp-content/uploads/2025/06/film-exorcism-chronicles-the-beginning-2025-lk21-d21.jpg.webp" group-title="🎬",Exorcism Chronicles: The Beginning (2025)
-=======
+
 #EXTINF:1 type="movie" group-title="" tvg-logo"https://s4.lk21static.buzz/wp-content/uploads/2025/06/film-exorcism-chronicles-the-beginning-2025-lk21-d21.jpg.webp" group-title="🎬", Exorcism Chronicles: The Beginning (2025)
 
 https://cloud.hownetwork.xyz/xxx/JwAmPCYQBCxvMh8-LF4_Oy4dOmMxERJsIDQQJS1ePzYlVXt-d0xaNiczEyAcaAlpexkvdiZJFQ/33/480.m3u8
 
 
 #EXTINF:1 type="movie" group-title="" tvg-logo"https://s0.lk21static.buzz/wp-content/uploads/2025/06/film-drug-bust-storm-2025-lk21-d21-1.jpg.webp" group-title="🎬",Drug Bust Storm (2025)
-=======
+
 #EXTINF:1 type="movie" group-title="" tvg-logo"https://s0.lk21static.buzz/wp-content/uploads/2025/06/film-drug-bust-storm-2025-lk21-d21-1.jpg.webp" group-title="🎬", Drug Bust Storm (2025)
 
 https://cloud.hownetwork.xyz/xxx/Jgo8KWgbAjI2fAQ4LEI7dXBIe3toDhIjJj0oFBxRMjokSywtcA/33/480.m3u8
 
 
 #EXTINF:1 type="movie" group-title="" tvg-logo"https://s6.lk21static.buzz/wp-content/uploads/2025/06/film-the-stranger-in-my-home-2025-lk21-d21.jpg.webp" group-title="🎬",The Stranger in My Home (2025)
-=======
+
 #EXTINF:1 type="movie" group-title="" tvg-logo"https://s6.lk21static.buzz/wp-content/uploads/2025/06/film-the-stranger-in-my-home-2025-lk21-d21.jpg.webp" group-title="🎬", The Stranger in My Home (2025)
 https://cloud.hownetwork.xyz/xxx/NhAsYzYNBSAsNhI-blk4dS8BZCYqFBJscGFFeW5HMzomFBYWGkkRJHNkQCp2/33/480.m3u8
 
@@ -1711,7 +1711,7 @@ https://cloud.hownetwork.xyz/xxx/75a513568a5417e1f54220f17235fd23/25/480.m3u8
 
 
 #EXTINF:1 type="movie" group-title="" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKz1FvOhJAlnBaMtMUqE4pnYF8w6piyKmOg&s" group-title="🎬",Holy Night: Demon Hunters (2025)
-=======
+
 #EXTINF:1 type="movie" group-title="" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKz1FvOhJAlnBaMtMUqE4pnYF8w6piyKmOg&s" group-title="🎬", Holy Night: Demon Hunters (2025)
 
 https://cloud.hownetwork.xyz/xxx/KhclN2gXHiYqJVooJl05Nm8QPCAxHAUyb2NHfnYdIT0gHCURHSZCIyRnTi9xUg/32/480.m3u8
@@ -1745,21 +1745,21 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Mar/07/Damsel.2024
 
 
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="--" tvg-name="Argylle" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDkzMTU2OWUtZjA2ZS00ZmYxLWE2MzgtZDlhZDc1YjM4Yjk5XkEyXkFqcGc@._V1_QL75_UX190_CR0,10,190,281_.jpg" group-title="🎬",Argylle
-=======
+
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="--" tvg-name="Argylle" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDkzMTU2OWUtZjA2ZS00ZmYxLWE2MzgtZDlhZDc1YjM4Yjk5XkEyXkFqcGc@._V1_QL75_UX190_CR0,10,190,281_.jpg" group-title="🎬", Argylle
 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Mar/06/Argylle.2024.mp4/index.m3u8
 
 
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="--" tvg-name="Mean Girls" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/02/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg?w=300&ssl=1" group-title="🎬",Mean Girls
-=======
+
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="--" tvg-name="Mean Girls" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/02/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg?w=300&ssl=1" group-title="🎬", Mean Girls
 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/09/Mean.Girls.2024.mp4/index.m3u8
 
 
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="--" tvg-name="Land of Bad" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI2YjMwMGEtZDJlZC00NGVkLTk2OTktMjhjNTZiNTIxOTg3XkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg" group-title="🎬",Land of Bad
-=======
+
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="--" tvg-name="Land of Bad" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI2YjMwMGEtZDJlZC00NGVkLTk2OTktMjhjNTZiNTIxOTg3XkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg" group-title="🎬", Land of Bad
 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/07/Land.of.Bad.2024.mp4/index.m3u8
@@ -1804,49 +1804,49 @@ https://cloud.hownetwork.xyz//yyy/Lw0kO2hLR3N3fAApIVQ6BxoneXYmQRUkJmY/33/480.m3u
 
 
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="" tvg-name="Harry Potter and the Deathly Hallows Part 2 (2011)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/fTplI1NCSuEDP4ITLcTps739fcC.jpg" group-title="🎬",Harry Potter and the Deathly Hallows Part 2 (2011)
-=======
+
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="" tvg-name="Harry Potter and the Deathly Hallows Part 2 (2011)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/fTplI1NCSuEDP4ITLcTps739fcC.jpg" group-title="🎬", Harry Potter and the Deathly Hallows Part 2 (2011)
 >>>>>>> 7984ae54a26e6c8e28e7a25c5f4cac33c2491c71
 https://cdn7iv.diebutx.com/ownhls/2020/8c946c41d5b7cfcf51851ae6d4914ec5/1080p/index.m3u8
 
 
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="" tvg-name="Harry Potter and the Deathly Hallows Part 1 (2010)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/maP4MTfPCeVD2FZbKTLUgriOW4R.jpg" group-title="🎬",Harry Potter and the Deathly Hallows Part 1 (2010)
-=======
+
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="" tvg-name="Harry Potter and the Deathly Hallows Part 1 (2010)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/maP4MTfPCeVD2FZbKTLUgriOW4R.jpg" group-title="🎬", Harry Potter and the Deathly Hallows Part 1 (2010)
 >>>>>>> 7984ae54a26e6c8e28e7a25c5f4cac33c2491c71
 https://cdn7iv.diebutx.com/ownhls/2020/0afc99d0d8fc80b972f050e1b30b546d/1080p/index.m3u8
 
 
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="" tvg-name="Harry Potter and The Half Blood Prince (2009)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/bFXys2nhALwDvpkF3dP3Vvdfn8b.jpg" group-title="🎬",Harry Potter and The Half Blood Prince (2009)
-=======
+
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="" tvg-name="Harry Potter and The Half Blood Prince (2009)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/bFXys2nhALwDvpkF3dP3Vvdfn8b.jpg" group-title="🎬", Harry Potter and The Half Blood Prince (2009)
 >>>>>>> 7984ae54a26e6c8e28e7a25c5f4cac33c2491c71
 https://cdn7iv.diebutx.com/ownhls/2020/dbcb7db5284561a718a9c1a12cf405e7/1080p/index.m3u8
 
 
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="" tvg-name="Harry Potter and the Order of the Phoenix (2007)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/4YnLxYLHhT4UQ8i9jxAXWy46Xuw.jpg" group-title="🎬",Harry Potter and the Order of the Phoenix (2007)
-=======
+
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="" tvg-name="Harry Potter and the Order of the Phoenix (2007)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/4YnLxYLHhT4UQ8i9jxAXWy46Xuw.jpg" group-title="🎬", Harry Potter and the Order of the Phoenix (2007)
 >>>>>>> 7984ae54a26e6c8e28e7a25c5f4cac33c2491c71
 https://cdn7iv.diebutx.com/ownhls/2020/c0372dfddcf76d7c1130ba2c3b0fd989/1080p/index.m3u8
 
 
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="" tvg-name="Harry Potter and the Goblet of Fire (2005)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/6sASqcdrEHXxUhA3nFpjrRecPD2.jpg" group-title="🎬",Harry Potter and the Goblet of Fire (2005)
-=======
+
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="" tvg-name="Harry Potter and the Goblet of Fire (2005)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/6sASqcdrEHXxUhA3nFpjrRecPD2.jpg" group-title="🎬", Harry Potter and the Goblet of Fire (2005)
 >>>>>>> 7984ae54a26e6c8e28e7a25c5f4cac33c2491c71
 https://cdn7iv.diebutx.com/ownhls/2020/8d6652448a338ffaa52327ca626395a0/1080p/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Prisoner of Azkaban (2004)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/jUFjMoLh8T2CWzHUSjKCojI5SHu.jpg" group-title="🎬",Harry Potter and the Prisoner of Azkaban (2004)
-=======
+
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Prisoner of Azkaban (2004)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/jUFjMoLh8T2CWzHUSjKCojI5SHu.jpg" group-title="🎬", Harry Potter and the Prisoner of Azkaban (2004)
 >>>>>>> 7984ae54a26e6c8e28e7a25c5f4cac33c2491c71
 https://cdn7iv.diebutx.com/ownhls/2020/098a64deb51724abe543d8ca6a3efbc7/1080p/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Chamber of Secrets (2002)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg" group-title="🎬",Harry Potter and the Chamber of Secrets (2002)
-=======
+
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Chamber of Secrets (2002)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg" group-title="🎬", Harry Potter and the Chamber of Secrets (2002)
 >>>>>>> 7984ae54a26e6c8e28e7a25c5f4cac33c2491c71
 https://cdn7iv.diebutx.com/ownhls/2020/6199d678f6bb30bd52438d8d0022c4c8/1080p/index.m3u8
@@ -1854,7 +1854,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/6199d678f6bb30bd52438d8d0022c4c8/1080p/in
 
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="" group-title="🎬"
  tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/OQIDQSO8IDkS0hkzG8aY3A6O1a.jpg",Lifeline (2025) 
-=======
+
 #EXTINF:-1 type="movie" group-title="" title-logo=""group-title="🎬" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/OQIDQSO8IDkS0hkzG8aY3A6O1a.jpg",Lifeline (2025) 
 >>>>>>> 7984ae54a26e6c8e28e7a25c5f4cac33c2491c71
 https://cloud.hownetwork.xyz/xxx/LhEvKykQGSRvY0d-dh0hPSAcJREdJkZ5ITBEdSUI/32/480.m3u8 
@@ -2228,7 +2228,7 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/12/Christmas.a
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/11/Gladiator.II.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="" tvg-name=" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg" group-title="🎬",Red One
-=======
+
 #EXTINF:-1 type="movie" group-title="" title-logo=""tvg-id="" tvg-name=" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg" group-title="🎬", Red One
 >>>>>>> 7984ae54a26e6c8e28e7a25c5f4cac33c2491c71
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/06/Red.One.2024.mp4/tracks-v1a1/mono.m3u8
@@ -2340,7 +2340,7 @@ https://stream.hownetwork.xyz/xxx/fly-me-to-the-moon-2024-webdl_X_5dff4075/22/48
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/16/Deadpool.Wolverine.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Descendants: The Rise of Red" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/07/8fYluTtB3b3HKO7KQa5tzrvGaps.jpg?w=300&ssl=1" group-title="🎬",Descendants: The Rise of Red
-=======
+
 #EXTINF:-1 tvg-id="" tvg-name="Descendants: The Rise of Red" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/07/8fYluTtB3b3HKO7KQa5tzrvGaps.jpg?w=300&ssl=1" group-title="🎬"
 , Descendants: The Rise of Red
 >>>>>>> 7984ae54a26e6c8e28e7a25c5f4cac33c2491c71
@@ -2709,7 +2709,7 @@ https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/11/10/task1/d7a
 https://be6224.rcr92.lim01.cdn112.com/hls2/01/05966/ssa0ni5800x3_n/index-v1-a1.m3u8?t=vLxHf7M9K3Qj1iDaz5xNJq2ee5ZsMCNJaf8enJcs-44&s=1722408782&e=10800&f=29833688&srv=28&asn=131111&sp=4000 
 
 
-<=========== Series Zona Merah=======>
+<==== Series Zona Merah>
 
 
 #EXTINF:-1 type="movie" group-title="" title-logo=""group-title="Series Zona Merah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRaLw6Q1WezYB_dURSgBHPnjYvifitbCqqV3EEi9HkapuayhDdRb8RTr0&s=10", Zona Merah - Eps 1
@@ -2745,7 +2745,7 @@ https://iplayerhls.com/stream/rGz7Lest7E6KpIX-LpEO2w/kjhhiuahiuhgihdf/1756607667
 https://iplayerhls.com/stream/5RPaxlLevlXJZo1xip9aOg/kjhhiuahiuhgihdf/1756607754/37095591/index-v1-a1.m3u8
 
 
-<========= Movies Indonesia =======>
+<== Movies Indonesia >
 
 
 
@@ -2983,7 +2983,7 @@ https://www.googleapis.com/drive/v3/files/1gLXUYmhU0prZIO-movZzEwY-f4CbHlbx?alt=
 https://www.googleapis.com/drive/v3/files/1cMUWn886RRZPyn6hPhvRpG91wep0Dsns?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
-============== Movie Collection ================
+ Movie Collection ==
 
 
 #EXTM3U
@@ -3250,7 +3250,7 @@ https://cloud.hownetwork.xyz/xxx/I1U-ITcSHi8lfBotLR1kaHBNZDkgGxMtHQkoeXsAMGomGns
 https://sskt.griseldakro.sbs/v4/ty/midk9h/cf-master.txt?v=1744698131|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 
 
-======================= Movies Marvel =======================
+== Movies Marvel ==
 
 #EXTM3U
 

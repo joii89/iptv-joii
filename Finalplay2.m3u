@@ -1,6 +1,6 @@
 #EXTM3U
 
-<=================== INDONESIA =============================>
+<===== INDONESIA =>
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="INDONESIA",MNC TV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -327,7 +327,7 @@ https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
-<============================ Sports ========================>
+< Sports ===>
 
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 1.ua" tvg-logo="https://iili.io/2MEFJt9.png" group-title="Sports",Abu Dhabi Sports Premium 1
@@ -795,7 +795,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
-<=================== S HD =============================>
+<===== S HD =>
 
 #EXTINF:-1 tvg-id="FOX SPORTS.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2560px-Fox_Sports_1_logo.svg.png" group-title="SPORTS HD", FOX SPORTS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1079,7 +1079,7 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
 
 
-<=================== KONWLEDGE =============================>
+<===== KONWLEDGE =>
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="KNOWLEDGE & DOCUMENTARY",Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1326,7 +1326,7 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Xplore_Logo_2023.svg/2560px-Xplore_Logo_2023.svg.png" group-title="KNOWLEDGE & DOCUMENTARY", XPLORE
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
-<=============== Kids Channels =====================>
+<= Kids Channels >
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPJKWUxYUQeWs-g3hBQHHFC9w9QaIyy7iw4w&s" group-title="KIDS",MENTARI TV
@@ -1537,7 +1537,7 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 
 
-<=================== Entertainment & Lifestyle =============================>
+<===== Entertainment & Lifestyle =>
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_Citra_Muslim.png/1200px-Logo_Citra_Muslim.png" group-title="Entertainment & LifeStyle", Citra Muslim
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1843,7 +1843,7 @@ https://siasia-berjuang-hls.bintangstream513.workers.dev/stream.m3u8?id=7464&typ
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=7464
 
 
-<======================== Premium Movies ==========================>
+<=== Premium Movies =====>
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3PewxHl.png" group-title="Premium Movies",ID: Etv Bioskop1
 https://WahyuIPTV.short.gy/ETVBioskop1.ts
@@ -2129,7 +2129,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
 
 
-<=================== HBO ===================>
+<===== HBO =====>
 
 #EXTINF:-1 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="HBO",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2268,7 +2268,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-<=================== News =============================>
+<===== News =>
 
 #EXTINF:-1 group-title="News" tvg-id="" tvg-url="https://upload.wikimedia.org/wikipedia/id/thumb/e/ea/Jakarta_globe_news_channel_id.png/640px-Jakarta_globe_news_channel_id.png",Jakarta GlobeNews Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2440,7 +2440,7 @@ https://atemeshield1-voe.sysln.id/live/eds/TRTWorldHD/mpd/TRTWorldHD.mpd
 #EXTINF:-1 group-title="News" tvg-id="CNA.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/f36bdbf0/d7d8_r32.jpg",CNA
 
 
-<=================== RELIGI =============================>
+<===== RELIGI =>
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/khazanah.png" group-title="RELIGI", Khazanah
 
@@ -2498,7 +2498,7 @@ https://e.siar.us/live/tvmu.m3u8
 
 
 
-<=============Christian Channels==================>
+<======Christian Channels====>
 
 
 #EXTINF:-1 tvg-id=""  tvg-id="" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml"
@@ -2542,7 +2542,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mpd/Kairos.mpd
 #KODIPROP:inputstream.adaptive.license_key=ad871d41c5ce48e68d387a52a0d30066:0fd2a3a055367f7f4ac2920b5d027edc
 https://atemecdnbalancer-voe.sysln.id/live/eds/TBNAsia/mpd/TBNAsia.mpd
 
-<=================== TV Lokal =============================>
+<===== TV Lokal =>
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png" group-title="TV LOKAL",Hanacaraka TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2751,7 +2751,7 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 
-<=================== TVRI DAERAH =============================>
+<===== TVRI DAERAH =>
 
 #EXTINF:-1 tvg-logo="https://iili.io/JmF1BWb.png" group-title="TVRI Daerah",TVRI Aceh
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
@@ -2845,7 +2845,7 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 
 
-<======================= Music ==========================>
+<== Music =====>
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
@@ -2985,7 +2985,7 @@ https://jmp2.uk/sam-USBB2300004KV.m3u8
 
 
 
-<=================== Dens =============================>
+<===== Dens =>
 
 #EXTINF:-1 tvg-id="DENSPLAY Channel.id" tvg-logo="https://www.dens.tv/images/channel-logo/107.jpg" group-title="Dens TV", DensPlay
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -3316,7 +3316,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid
 
 
 
-<======================== FM ==========================>
+<=== FM =====>
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="FIRST MEDIA",SpoTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -3709,10 +3709,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
-<======================== ID ==========================>
+<=== ID =====>
 
 
-<=================== VISION =============================>
+<===== VISION =>
 
 
 
@@ -4163,7 +4163,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/ind
 
 
 
-<======================== Malaysia ==========================>
+<=== Malaysia =====>
 
 #EXTINF:-1 tvg-id="TV1" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Malaysia",TV 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
@@ -4254,7 +4254,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="Malaysia",SNAP
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
-<============================== Brunei ======================================>
+<== Brunei ===>
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -4282,7 +4282,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
 
-<=================== SOUTH KOREA =============================>
+<===== SOUTH KOREA =>
 
 #EXTINF:-1 group-title="SOUTH KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBKtRRhL1UqJcIv-eKXsBM7PL-8sEQlVLyQ&s", ABN TV
 #EXTVLCOPT:http-origin=https://tv.garden
@@ -4448,7 +4448,7 @@ http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BTNTV.kr" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="SOUTH KOREA",BTN TV
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
-<=================== ITALIA =============================>
+<===== ITALIA =>
 
 #EXTINF:-1 group-title="SOUTH KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq7plxqV50J6SadDoE3SKmYmNIjT9OGQGuIg&s", 7 storia
 #EXTVLCOPT:http-origin=https://tv.garden
@@ -4499,7 +4499,7 @@ https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
 
 
-<=================== FILIPINA =============================>
+<===== FILIPINA =>
 
 #EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://iili.io/2EyRuLJ.png" group-title="FILIPINA",A2Z
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4559,7 +4559,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
 
 
-<================================================= Singapore ======================================>
+< Singapore ===>
 
 #EXTINF:-1 group-title="SINGAPURA" tvg-url="https://bit.ly/SingaporeEpg" tvg-id="Ch 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1200px-Mediacorp_Channel_5_2023.svg.png",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4611,7 +4611,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="SINGAPURA",Mediacorp Entertainment China
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 
-<================================================= Jepang ======================================>
+< Jepang ===>
 
 #EXTINF:-1 group-title="JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVZwVwYDJdA8zbvCBGkPzMiAfox2rfefq9GQ&s", NHK WORLD PREMIUM
 
@@ -4772,7 +4772,7 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="NHKWorldPremium.jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nhk-world-premium-jp.png",NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
-<========================= China ====================================>
+<==== China =>
 
 #EXTINF:-1 group-logo="china" group-title="China" tvg-name="" tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/800px-Jiangsu_Broadcasting_Corporation.svg.png",Jiangsu TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -5063,7 +5063,7 @@ https://live.metshop.top/douyu/4246519
 
 
 
-<=================== Thailand =============================>
+<===== Thailand =>
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aPLLzMA.jpeg" group-title="THAILAND", CHANNEL 8 TH
 http://vip.login.in.th:1935/ch8/ch8/playlist.m3u8
@@ -5154,7 +5154,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" group-title="THAILAND" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg",PPTV HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
-<=================== Vietnam =============================>
+<===== Vietnam =>
 
 #EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-logo="https://i.imgur.com/IoIXiw9.png" group-title="VIETNAM",Đồng Nai 1
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
@@ -5494,7 +5494,7 @@ http://198.16.100.186:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsu
 #http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
 
 
-<=================== UK =============================>
+<===== UK =>
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK: UNITED KINGDOM", 21 Jump Street
 #EXTVLCOPT:http-origin=https://tv.garden
@@ -5686,7 +5686,7 @@ https://trn09.bozztv.com/gin-bbcone/index.m3u8
 #EXTINF:-1 tvg-id="BBCPersian.uk" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="UK: UNITED KINGDOM",BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8
 
-<=================== US =============================>
+<===== US =>
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA: UNITED STATES", National Geographic
 #EXTVLCOPT:http-origin=https://tv.garden
@@ -5817,7 +5817,7 @@ https://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 
 
 
-<=================== Pluto =============================>
+<===== Pluto =>
 
 #EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-logo="https://i.imgur.com/bYZtd0G.png" group-title="PLUTO TV ",Anime All Day (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
@@ -6689,7 +6689,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7154fa8326b6ce4ec31f2e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=282&terminate=false&userId=
 
 
-<=================== RADIO =============================>
+<===== RADIO =>
 
 #EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", AL-Bahjah
 https://ssg.streamingmurah.com:8034/stream
@@ -6929,7 +6929,7 @@ https://stream.streamaudio.de:8000/teststream3
 https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 
-<=================== Movies =============================>
+<===== Movies =>
 
 #EXTINF:1 type="movie" group-title="" tvg-logo"https://s4.lk21static.buzz/wp-content/uploads/2024/12/film-the-lord-of-the-rings-the-war-of-the-rohirrim-2024-lk21-d21.jpg" group-title="Movies", The Lord of the Rings: The War of the Rohirrim (2024)
 https://cloud.hownetwork.xyz/xxx/337d0729dbded84a33b0eb8ccbc3457f/25/480.m3u8
