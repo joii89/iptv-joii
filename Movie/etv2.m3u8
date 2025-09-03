@@ -1,6 +1,2 @@
-#EXTM3U
-#EXTINF:-1, ETV
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT--http-reconnect=true
 http://iptvtree.net:8080/live/F28312/cc1dc138/298513.ts
 http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
