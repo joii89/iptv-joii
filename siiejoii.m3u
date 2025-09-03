@@ -1740,7 +1740,7 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/09/Mean.Girls.
 #EXTINF:-1 type="Movies" title-logo=""tvg-id="--" tvg-name="Land of Bad" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI2YjMwMGEtZDJlZC00NGVkLTk2OTktMjhjNTZiNTIxOTg3XkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg" group-title="", Land of Bad
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/07/Land.of.Bad.2024.mp4/index.m3u8
 
-#EXTINF:-1 type="Movies" title-logo=""tvg-id="--" tvg-name="The Beekeeper" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7EByudX0eOzlkQ2FIbogzyazm2.jpg" group-title="Movies Collection", The Beekeeper
+#EXTINF:-1 type="movies" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7EByudX0eOzlkQ2FIbogzyazm2.jpg" group-title="Movies Collection", The Beekeeper
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/01/The.Beekeeper.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo"https://www.123-hdd.com/wp-content/uploads/2024/10/%E0%B8%AB%E0%B8%AD%E0%B9%81%E0%B8%95%E0%B9%8B%E0%B8%A7%E0%B9%81%E0%B8%95%E0%B8%81-%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%B0%E0%B8%AB%E0%B8%A2%E0%B8%94-Oh-My-Ghost-The-Finale-2024-300x450.jpg"  group-title="", Oh My Ghost The Finale (2024) 
@@ -3263,7 +3263,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/7e33cd79c6aff4ddb1783729bb835483/1080p/in
 #EXTINF:-1 type="movie" tvg-name="Thor: The Dark World (2013)" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2016/05/film-thor-2-dark-world-2013.jpg" group-title="Movies Marvel", Thor: The Dark World (2013) 
 https://stream.hownetwork.xyz/xxx/thor-2-dark-world-2013-bluray_X_ab661ba5/19/480.m3u8 
 
-#EXTINF:-1 type="Movies" title-logo=""type="movie" tvg-name="Iron Man 3 (2013)" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/01/film-iron-man-3-2013.jpg" group-title="Movies Marvel", Iron Man 3 (2013) 
+#EXTINF:-1 type="movie" tvg-name="Iron Man 3 (2013)" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/01/film-iron-man-3-2013.jpg" group-title="Movies Marvel", Iron Man 3 (2013) 
 https://cdn7iv.diebutx.com/ownhls/2020/c68f66066cafe9a4cdd2929a9f9cc5a5/720p/index.m3u8 
 
 #EXTINF:-1 type="movie" tvg-name="The Avengers (2012)" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/02/film-the-avengers-2012.jpg" group-title="Movies Marvel", The Avengers (2012) 
