@@ -1740,7 +1740,7 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/09/Mean.Girls.
 #EXTINF:-1 type="Movies" title-logo=""tvg-id="--" tvg-name="Land of Bad" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI2YjMwMGEtZDJlZC00NGVkLTk2OTktMjhjNTZiNTIxOTg3XkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg" group-title="", Land of Bad
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/07/Land.of.Bad.2024.mp4/index.m3u8
 
-#EXTINF:-1 type="movies" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7EByudX0eOzlkQ2FIbogzyazm2.jpg" group-title="Movies Collection", The Beekeeper
+#EXTINF:-1 type="movies" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7EByudX0eOzlkQ2FIbogzyazm2.jpg" group-title="Movie Collection", The Beekeeper
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/01/The.Beekeeper.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo"https://www.123-hdd.com/wp-content/uploads/2024/10/%E0%B8%AB%E0%B8%AD%E0%B9%81%E0%B8%95%E0%B9%8B%E0%B8%A7%E0%B9%81%E0%B8%95%E0%B8%81-%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%B0%E0%B8%AB%E0%B8%A2%E0%B8%94-Oh-My-Ghost-The-Finale-2024-300x450.jpg"  group-title="", Oh My Ghost The Finale (2024) 
@@ -2670,236 +2670,236 @@ https://iplayerhls.com/stream/5RPaxlLevlXJZo1xip9aOg/kjhhiuahiuhgihdf/1756607754
 
 
 
-#EXTINF:-1 tvg-logo"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSds9XX8-bgy9s6aF2hju1aUdnTR1hOxCzzOS0-oCnbuzGSS2zQ891B96LbOu_mgQTIT0alKKoHey_6h8IkZNYZmnyYgMvhJdaHOZoLbLEA" group-title="Movies Indonesia", Come For Us
+#EXTINF:-1 tvg-logo"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSds9XX8-bgy9s6aF2hju1aUdnTR1hOxCzzOS0-oCnbuzGSS2zQ891B96LbOu_mgQTIT0alKKoHey_6h8IkZNYZmnyYgMvhJdaHOZoLbLEA" type="movie" group-title="Movie Indonesia", Come For Us
 https://storage.googleapis.com/mediastorage/1756381454010/6wbbbiwmalv/451177910.mp4#mp4/451177910/360p
 
-#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/id/9/9f/Poster_headshot.jpg" group-title="Movies Indonesia", Headshot
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/id/9/9f/Poster_headshot.jpg" type="movie" group-title="Movie Indonesia", Headshot
 https://storage.googleapis.com/mediastorage/1756381358281/gm35ob0tjg9/606102042.mp4#chunk/606102042/304087040?maxChunkSize=15728640&url=https%3A%2F%2F12cdk78xxi0.sssrr.org%2F5%2F0%2F5%2Fd4ef975b39af3f0ca92d80dd0af86.606102042.2
 
-#EXTINF:-1 group-title="Movies Indonesia"
+#EXTINF:-1 type="movie" group-title="Movie Indonesia"
 
-#EXTINF:-1 group-title="Movies Indonesia"
+#EXTINF:-1 type="movie" group-title="Movie Indonesia"
 
-#EXTINF:-1 group-title="Movies Indonesia"
+#EXTINF:-1 type="movie" group-title="Movie Indonesia"
 
-#EXTINF:-1 group-title="Movies Indonesia"
+#EXTINF:-1 type="movie" group-title="Movie Indonesia"
 
 
-#EXTINF:-1 group-title="Movies Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e7/Love_in_Game.jpeg/250px-Love_in_Game.jpeg", Love in Game
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e7/Love_in_Game.jpeg/250px-Love_in_Game.jpeg", Love in Game
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1rJlOHyElfVyr2_i-BUUcolzqJFvuaKb5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbnkJRYFiN6__PXJ0Pydl8qludfeyJduiU0VQIqA9P98K68knO-JEnA8fw&s=10", Serigala Terakhir
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbnkJRYFiN6__PXJ0Pydl8qludfeyJduiU0VQIqA9P98K68knO-JEnA8fw&s=10", Serigala Terakhir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1tfD2bJmjyc5CjJn3lQbEYGKutk7fquyP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo"https://file.indonesianfilmcenter.com/uploads/2018-12/pencet-sana-pencet-sini.jpg" group-title="Movies Indonesia",Pencet Sana Pencet Sini
+#EXTINF:-1 tvg-logo"https://file.indonesianfilmcenter.com/uploads/2018-12/pencet-sana-pencet-sini.jpg" type="movie" group-title="Movie Indonesia",Pencet Sana Pencet Sini
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1z_nqnmq7JGcAmXTIyYmeknS26CPIBlOd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4d/Pertaruhan.jpg", Pertaruhan
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4d/Pertaruhan.jpg", Pertaruhan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1qOpPKObAVVwLpG5QB_Ttd6PbqmuWpugf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2f/7-24_Klikfilm_original_Film_2022_-_Official_poster.jpeg", 7-24
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2f/7-24_Klikfilm_original_Film_2022_-_Official_poster.jpeg", 7-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1mx3ywdB-vhW_RozNtULi-_o1AMoFWBWU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFk8Z67Cr3Nq93pPN5Mnh5IX04jrwfWti1Ow&s", Jakarta vs Everybody
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFk8Z67Cr3Nq93pPN5Mnh5IX04jrwfWti1Ow&s", Jakarta vs Everybody
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1bIB-CyWvy4fAwABxxT0m2LwlCG3hkgy6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vY15fVlIM8SjuiWlhipMCzbq-0MQc1PPsg&s", 48 Jam untuk Indah
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vY15fVlIM8SjuiWlhipMCzbq-0MQc1PPsg&s", 48 Jam untuk Indah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1VRR58lkh5UXVARv9daWSJz8-9cu9Gbbc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJQk3h4a5jkt2HKR7dftH77eJZhFGXQ4TtQ&s", Wiro Sableng 212
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJQk3h4a5jkt2HKR7dftH77eJZhFGXQ4TtQ&s", Wiro Sableng 212
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://seraphinapl.com/stream/eYjqnY0Hj-YX0ZJbfCa1Pg/hjkrhuihghfvu/1750826797/8197492/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="Movies Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96O3UXe1yZ1lM2vsth2WV7_XW5oq8Vl7B8A&s", The Shadow Stray
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96O3UXe1yZ1lM2vsth2WV7_XW5oq8Vl7B8A&s", The Shadow Stray
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://hlswish.com/stream/PaMFhi06Jf9sfIy4SMNksg/kjhhiuahiuhgihdf/1750828088/25941549/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="Movies Indonesia",40 Hari Bangkitnya Pocong
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",40 Hari Bangkitnya Pocong
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/11P-9J4UtFB7CNMrB6uP9IEy3M0Aslfca?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo"https://cdn.cgv.id/uploads/movie/compressed/23002700.jpg" group-title="Movies Indonesia",Para Betina Pengikut Iblis (2023)
+#EXTINF:-1 tvg-logo"https://cdn.cgv.id/uploads/movie/compressed/23002700.jpg" type="movie" group-title="Movie Indonesia",Para Betina Pengikut Iblis (2023)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://drive.dubbindo.xyz/upload/videos/2023/06/B5RfRxsexxP552xjEgbY_16_5f71812d73c1c5411a88ea9317be76e5_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-logo"https://cdn0-production-images-kly.akamaized.net/frHKwn_KgU02pSkGZU06uYpbDTc=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4291419/original/075255000_1673715535-Anak_Titipan_Setan_2.jpeg" group-title="Movies Indonesia",Anak Titipan Setan (2023)
+#EXTINF:-1 tvg-logo"https://cdn0-production-images-kly.akamaized.net/frHKwn_KgU02pSkGZU06uYpbDTc=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4291419/original/075255000_1673715535-Anak_Titipan_Setan_2.jpeg" type="movie" group-title="Movie Indonesia",Anak Titipan Setan (2023)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://drive.dubbindo.xyz/upload/videos/2023/06/cHgBLojGJnGfIWs9kCRa_21_9f59c4a13f3bea347d52089b4b908303_video_720p_converted.mp4
 
-#EXTINF:-1 group-title="Movies Indonesia",Ada Hantu 2
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Ada Hantu 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/164LWM_NfFZqxCfSbGtQ-Saq6h2EuifOD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Aku Lupa Aku Luka
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Aku Lupa Aku Luka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/19bQnNLIyybMbujHtsXr2xeiI-b2HNoZB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Alas Pati: Hutan Mati
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Alas Pati: Hutan Mati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1G98uOa7PYfDU85L8-s9g9l2Fc_0kYism?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Bayi Ajaib Remastered
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Bayi Ajaib Remastered
 https://www.googleapis.com/drive/v3/files/1uOeeERiBK6HmP2p3IUZdO4UryoIRxfaK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Bayi Gaib
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Bayi Gaib
 https://www.googleapis.com/drive/v3/files/1z0v27V9sLM8O7OrqYSEp906jHVd0PWzZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Belenggu
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Belenggu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Bisikan Jenazah
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Bisikan Jenazah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1uQmtHvz-9LA1sqebvqRyQQb_wFe3zPuc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Ghost Writer 2
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Ghost Writer 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1pWUjQe4Ci4oDUjexU3gn6Eqr4Esyvy9g?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Hompimpa
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Hompimpa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1dWxzlcnEAjpKkbCsgi8A7lsUTlb3e0FM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Iblis Dalam Kandungan
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Iblis Dalam Kandungan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/15qMU6WYK777KAm1R8yYtC_At81_QqS8j?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Ikut Aku ke Neraka
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Ikut Aku ke Neraka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1wbbNUEVWpfhxNsO805enjX4eQNRmKbyN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Inang
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Inang
 https://www.googleapis.com/drive/v3/files/1t00ReoTNyh81mnlSKZfo3c4F7xFvxOKK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Ivanna
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Ivanna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1eRPJKF_bTNQwFjysfWMocIRrljPE5cOS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Jailangkung: Sandekala
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Jailangkung: Sandekala
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1uEJYxgtja39Y28qVe0pHB6PE-NT1EMF5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Jangan Sendirian
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Jangan Sendirian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1WbDu0f9Si849LurfVac0RYE6dqoQKHbz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Kabut
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Kabut
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1Tkdasl51whYeYlwXWRAQ-XoUtW-qGoOt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Kain Kafan Hitam
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Kain Kafan Hitam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1sbPMgFuUBm_tC6ppgOawAYO4ozB5Pvt6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Kamu Tidak Sendiri
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Kamu Tidak Sendiri
 https://www.googleapis.com/drive/v3/files/1lRqQkhcotCpvKns1QQScK9kTo1XXh3Z9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Keramat 2: Caruban Larang
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Keramat 2: Caruban Larang
 https://www.googleapis.com/drive/v3/files/1wPGfEwanoGGGXagWbkcNY9NQYCTIa_xu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",KKN di Desa Penari
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",KKN di Desa Penari
 https://www.googleapis.com/drive/v3/files/1SQS1qRI8r6vzizuvIN_y744Ie6QnTUgR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia"tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Kuntilanak_3_%28film_2022%29.jpg, Kuntilanak 3
+#EXTINF:-1 type="movie" group-title="Movie Indonesia"tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Kuntilanak_3_%28film_2022%29.jpg, Kuntilanak 3
 https://www.googleapis.com/drive/v3/files/1RflA9Ccn9B47BN9eGLlzfkY4l5F9ZECH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Kuyang the Movie
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Kuyang the Movie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1IRfViSK6vfXNcHKU2i7L4kTBeRp8k203?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5f/Poster_Makmum_2.jpg", Makmum
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5f/Poster_Makmum_2.jpg", Makmum
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1D_EKnGSUPx9RYov0Ac9aqSjCKcDT8nE-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5f/Poster_Makmum_2.jpg", Makmum2
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5f/Poster_Makmum_2.jpg", Makmum2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1PNkdNPFgVvZiterhI0MHOPnZShBIyrYX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Menjelang Magrib
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Menjelang Magrib
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1DRC9yXAmzCudZIjptTTWU_X_9_OlMLF5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Mumun
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Mumun
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/15YK42UQb5_lDJdhLgmJgjpHyMTRkP07C?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Nini Thowok
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Nini Thowok
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1wEwUCCP7rCu_vHc1UvGt3wOivv9bJHqo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Pelukis Hantu
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Pelukis Hantu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1CCokopgK7HYABVTHnSgv2KAqeaxQa7Af?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Pengabdi Setan
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Pengabdi Setan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1Z2xItp-0ua2HKD2ggaNampcE60XEAddp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Pengabdi Setan 2: Communion
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Pengabdi Setan 2: Communion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1mfQnIUv-i-QfAQkbVI-2m9jipstBaaPO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Perempuan Bergaun Merah
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Perempuan Bergaun Merah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1frrGRk2EJaa7u8BvZge2Rt6zdyarv8yU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Potret Mimpi Buruk
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Potret Mimpi Buruk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/118qyQVDVp1fM5BDoPnWYpB0Y-FXL_w5l?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Qodrat
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Qodrat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1AYDqpdkxAaCjo27TwJH0IpXO9pCPHHW0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Qorin
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Qorin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1FpG6ZxuaviQa_eAhVjMRo3bXxWBiU1oa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Ratu Ilmu Hitam
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Ratu Ilmu Hitam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1A9UotE6t0j_WIJHuUzh955B_whbgobDH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Rumah Dara
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Rumah Dara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1cois71zhOFOddq-LPZNRueM8xJ2hxIVa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Rumah Kaliurang
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Rumah Kaliurang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1qH3QMgAj-NLg3uLcN3LFLZweLXcdG-Uq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Suster Keramas
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Suster Keramas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/13xjDgOGOB8BvLxIMS2lJQ9CCSYaTpKfk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Suzzanna: Bernapas Dalam Kubur
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Suzzanna: Bernapas Dalam Kubur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1flFN2SuVqGkovnP8InCYAT25Gs4PPh3L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",The Doll 3
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",The Doll 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1d6_1dNtU1ooJauEwm_1nVCXyN7jNfutU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",The Returning
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",The Returning
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1tHP_UwvBNy42ZxkC1t-a_XhET0Mx6Hx8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",The Sacred Riana 2: Bloody Mary
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",The Sacred Riana 2: Bloody Mary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1vYclqN5hbvoFzn9GLEyysvY5dJZsNxQc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Titisan Setan 2
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Titisan Setan 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1gLXUYmhU0prZIO-movZzEwY-f4CbHlbx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Movies Indonesia",Wengi Anak Mayit
+#EXTINF:-1 type="movie" group-title="Movie Indonesia",Wengi Anak Mayit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1cMUWn886RRZPyn6hPhvRpG91wep0Dsns?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
