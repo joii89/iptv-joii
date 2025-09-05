@@ -2909,43 +2909,50 @@ https://www.googleapis.com/drive/v3/files/1cMUWn886RRZPyn6hPhvRpG91wep0Dsns?alt=
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo"" group-title="Movie Collection", prince of Persia
+#EXTINF:-1 type="movie" tvg-logo"" group-title="Movie Collection", prince of Persia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cloud.hownetwork.xyz/xxx/d0de3c6dab34e2f46410882253f2939f/2/480.m3u8
 
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbVbgDHGWQW8LwzbVyC8Uyz8YjBqLCsKoUlQ&s" group-title="Movie Collection", Rush Hour ( Detektif Lee yang serius dan Carter yang cerewet dipaksa bekerja sama untuk menyelamatkan putri konsul China. Gaya mereka bertolak belakang: satu disiplin, satu lagi kacau. Tapi ketika mafia mengincar nyawa mereka, pertengkaran jadi tawa, dan peluru berbicara lebih keras. Siapa bilang menyelamatkan dunia tidak bisa sambil bertengkar )
+#EXTINF:-1 type="movie" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbVbgDHGWQW8LwzbVyC8Uyz8YjBqLCsKoUlQ&s" group-title="Movie Collection", Rush Hour ( Detektif Lee yang serius dan Carter yang cerewet dipaksa bekerja sama untuk menyelamatkan putri konsul China. Gaya mereka bertolak belakang: satu disiplin, satu lagi kacau. Tapi ketika mafia mengincar nyawa mereka, pertengkaran jadi tawa, dan peluru berbicara lebih keras. Siapa bilang menyelamatkan dunia tidak bisa sambil bertengkar )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cloud.hownetwork.xyz/xxx/cf1bcd28b8766ce05692f006960f905b/4/480.m3u8
 
-#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/id/d/dc/Rush_Hour_2_poster.png" group-title="Movie Collection", RUSH HOUR 2
+#EXTINF:-1 type="movie" tvg-logo"https://upload.wikimedia.org/wikipedia/id/d/dc/Rush_Hour_2_poster.png" group-title="Movie Collection", RUSH HOUR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cloud.hownetwork.xyz/xxx/1b345be305ee25131de91ec9b4de58bc/4/480.m3u8
 
-#EXTINF:-1 tvg-logo"https://assets.telkomsel.com/public/2025-05/rush-hour-3.jpg?VersionId=WS5xUs9soWMwJggUSsp9kfKb.SZ1GkKK" group-title="Movie Collection", RUSH HOUR 3
+#EXTINF:-1 type="movie" tvg-logo"https://assets.telkomsel.com/public/2025-05/rush-hour-3.jpg?VersionId=WS5xUs9soWMwJggUSsp9kfKb.SZ1GkKK" group-title="Movie Collection", RUSH HOUR 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cloud.hownetwork.xyz/xxx/2b9366d569c1cad565dd1936713d99ab/11/480.m3u8
 
-#EXTINF:-1 tvg-logo"http://i1.wp.com/45.11.57.186/wp-content/uploads/2025/08/Salt-2010.jpg?resize=246,350" group-title="Movie Collection", Salt
+#EXTINF:-1 type="movie" tvg-logo"http://i1.wp.com/45.11.57.186/wp-content/uploads/2025/08/Salt-2010.jpg?resize=246,350" group-title="Movie Collection", Salt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cdn3.turboviplay.com/data/68b1242476002/68b1242476002.m3u8
 
-#EXTINF:-1 tvg-logo" group-title="Movie Collection", World War Z
+#EXTINF:-1 type="movie" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGszDTUiUIXI_ZlvkAm33lFlYUTa4CNhzPZQ&s" group-title="Movie Collection", World War Z
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://smoothpre.com/stream/6_RQTN6cdtcevQrLqV82YA/hjkrhuihghfvu/1756676236/6503351/master.m3u8
+#EXTVLCOPT:http-user-agent=https://tv6.lk21official.cc/
+https://cloud.hownetwork.xyz/xxx/0dadd23f6f12297691adf570989d8676/11/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-name="Gladiator II" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg" group-title="", Gladiator II
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTVLCOPT:http-user-agent=https://tv6.lk21official.cc/
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/11/Gladiator.II.2024.mp4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo" group-title="Movie Collection", Raw on Drugs
+#EXTINF:-1 type="movie" tvg-logo"https://poster.lk21.party/wp-content/uploads/2025/07/film-war-on-drug-2025-lk21-d21.jpg.webp" group-title="Movie Collection", Raw on Drug
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTVLCOPT:http-user-agent=https://tv6.lk21official.cc/
 https://cdn3.turboviplay.com/data1/687ba45e01aa1/687ba45e01aa1480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo" group-title="Movie Collection", 28 Years Later
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTVLCOPT:http-user-agent=https://tv6.lk21official.cc/
 https://cloud.hownetwork.xyz/xxx/cEBkNyAYBTJvPRY4JkJ7anJKfGMSPDUFDg4vE3pSZDl2G3p9/33/480.m3u8
 
 #EXTINF:-1 tvg-logo" group-title="Movie Collection"
 
 
-#EXTINF:-1 type="movie" tvg-name="" group-title="Movie Collection" tvg-logo="https://pacdn.aoneroom.com/image/2024/04/15/1a9adcc771aabea000d673a69b7c1a38.jpg?x-oss-process=image/resize%2Cw_250/format%2Cwebp", Titanic
+#EXTINF:-1 type="movie" group-title="Movie Collection" tvg-logo="https://pacdn.aoneroom.com/image/2024/04/15/1a9adcc771aabea000d673a69b7c1a38.jpg?x-oss-process=image/resize%2Cw_250/format%2Cwebp", Titanic
 https://smoothpre.com/stream/jtxMIQH1ub9LDpatzThYbw/hjkrhuihghfvu/1756667708/8974801/index-f1-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-name="" group-title="Movie Collection" tvg-logo="https://pacdn.aoneroom.com/image/2022/09/02/dd329d86e4ca5926b34db9678e993701.jpg?x-oss-process=image/resize,w_360/format,webp", Legion
@@ -3297,6 +3304,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/68ea0e5b3c68da8eba6c172dd0039bc9/1080p/in
 
 #EXTINF:-1 type="movie" tvg-name="Spider-Man (2002)" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/01/film-spider-man-2002.jpg" group-title="Movies Marvel", Spider-Man (2002) 
 https://stream.hownetwork.xyz/xxx/spider-man-2002-bluray/11/480.m3u8 
+
 
 
 
