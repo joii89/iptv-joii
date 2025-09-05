@@ -3153,24 +3153,6 @@ https://stream.hownetwork.xyz/xxx/die-hard-2-1990-bluray/16/480.m3u8
 #EXTINF:-1 type="movie" tvg-name="Die Hard (1988)" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/01/film-die-hard-1988.jpg" group-title="Movie Collection", Die Hard (1988)
 https://stream.hownetwork.xyz/xxx/die-hard-1988-bluray/1/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-name="The Hobbit: The Battle of the Five Armies (2014)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/12/9zRzFJuaj0CHIOhAkcCcFTvyu2X.jpg" group-title="Movie Collection", The Hobbit: The Battle of the Five Armies (2014)
-https://cdn7iv.diebutx.com/ownhls/2020/a050b6cf814a77bb296c985e7cca02e6/720p/index.m3u8
-
-#EXTINF:-1 type="movie" tvg-name="The Hobbit: The Desolation of Smaug (2013)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/12/gQCiuxGsfiXH1su6lp9n0nd0UeH.jpg" group-title="Movie Collection", The Hobbit: The Desolation of Smaug (2013)
-https://cdn7iv.diebutx.com/ownhls/2020/af05a226e01fe76c8f99e01d031ed14a/720p/index.m3u8
-
-#EXTINF:-1 type="movie" tvg-name="The Hobbit: An Unexpected Journey (2012)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/12/h1XjBJoWdOh8aegBoVYKgABQZSL.jpg" group-title="Movie Collection", The Hobbit: An Unexpected Journey (2012)
-https://cdn7iv.diebutx.com/ownhls/2020/37d6fcaedc7e9834515ecc62677b6231/1080p/index.m3u8
-
-#EXTINF:-1 type="movie" tvg-name="The Lord of the Rings: The Return of the King (2003)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/09/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg" group-title="Movie Collection", The Lord of the Rings: The Return of the King (2003)
-https://cdn7iv.diebutx.com/ownhls/2020/45d74e4d8eb4a79c4b16c66fb27ef98f/1080p/index.m3u8
-
-#EXTINF:-1 type="movie" tvg-name="The Lord of the Rings: The Two Towers (2002)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/09/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg" group-title="Movie Collection", The Lord of the Rings: The Two Towers (2002)
-https://cdn7iv.diebutx.com/ownhls/2020/ed967e5226dbf5dd32bec9eba92d4ac5/1080p/index.m3u8
-
-#EXTINF:-1 type="movie" tvg-name="The Lord of The Rings The Fellowship of The Ring (2001)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/09/56zTpe2xvaA4alU51sRWPoKPYZy.jpg" group-title="Movie Collection", The Lord of The Rings The Fellowship of The Ring (2001)
-https://cdn7iv.diebutx.com/ownhls/2020/ef8c9dcf5f1b4cd19d220d1e3619ab23/1080p/index.m3u8
-
 #EXTINF:-1 type="movie" tvg-name="Maze Runner: The Death Cure (2018)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2020/02/2zYfzA3TBwrMC8tfFbpiTLODde0.jpg" group-title="Movie Collection", Maze Runner: The Death Cure (2018)
 https://cdn7iv.diebutx.com/ownhls/2020/b623042f6b4bb7657e6855a414dfdb18/720p/index.m3u8
 
@@ -3180,7 +3162,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/779b4fcdf8941dee7a64b1c74a6a7fe5/720p/ind
 #EXTINF:-1 type="movie" tvg-name="The Maze Runner (2014)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2020/02/coss7RgL0NH6g4fC2s5atvf3dFO.jpg" group-title="Movie Collection", The Maze Runner (2014)
 https://stream.hownetwork.xyz/xxx/maze-runner-2014-bluray/7/480.m3u8
 
-#EXTINF:-1 group-title="Movie Collection" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",A Working Man (2025)
+#EXTINF:-1 type="movie" group-title="Movie Collection" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",A Working Man (2025)
 https://cloud.hownetwork.xyz/xxx/I1U-ITcSHi8lfBotLR1kaHBNZDkgGxMtHQkoeXsAMGomGns/32/480.m3u8
 https://sskt.griseldakro.sbs/v4/ty/midk9h/cf-master.txt?v=1744698131|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 
