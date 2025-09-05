@@ -5,7 +5,7 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="3600"
 
 
-< Playlist🇮🇩 ===>
+<======== Playlist🇮🇩 ======{{{=>
 
 
 #EXTM3U
@@ -2630,7 +2630,7 @@ https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/11/10/task1/d7a
 https://be6224.rcr92.lim01.cdn112.com/hls2/01/05966/ssa0ni5800x3_n/index-v1-a1.m3u8?t=vLxHf7M9K3Qj1iDaz5xNJq2ee5ZsMCNJaf8enJcs-44&s=1722408782&e=10800&f=29833688&srv=28&asn=131111&sp=4000 
 
 
-<==== Series Zona Merah>
+<==== Series Zona Merah =======>
 
 
 #EXTINF:-1 group-title="Series Zona Merah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRaLw6Q1WezYB_dURSgBHPnjYvifitbCqqV3EEi9HkapuayhDdRb8RTr0&s=10", Zona Merah - Eps 1
@@ -2671,9 +2671,15 @@ https://iplayerhls.com/stream/5RPaxlLevlXJZo1xip9aOg/kjhhiuahiuhgihdf/1756607754
 
 
 #EXTINF:-1 tvg-logo"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSds9XX8-bgy9s6aF2hju1aUdnTR1hOxCzzOS0-oCnbuzGSS2zQ891B96LbOu_mgQTIT0alKKoHey_6h8IkZNYZmnyYgMvhJdaHOZoLbLEA" type="movie" group-title="Movie Indonesia", Come For Us
+#EXTVLCOPT:http-user-agent=https://new16.ngefilm.site/
+https://www.googleapis.com/drive/v3/files/14A1Ebkpn_RbeNYoFdm4OYd-aLDocTtmQ?alt=media&key=AIzaSyDDCC8bru6M3f-tKoGp-0DHNgXG4nSTeqM
 https://storage.googleapis.com/mediastorage/1756381454010/6wbbbiwmalv/451177910.mp4#mp4/451177910/360p
 
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/id/9/9f/Poster_headshot.jpg" type="movie" group-title="Movie Indonesia", Headshot
+#EXTVLCOPT:http-user-agent=https://new16.ngefilm.site/
+https://movearnpre.com/stream/58nfpC91rrB6QGdfiPEygg/hjkrhuihghfvu/1757148663/25900170/master.m3u8
+https://ome5p8pl26.sssrr.org/4/0/e/6e6ca861e306d5f649cb5699ed7ba.606102042.21
+https://live.streamcasthub.store/api/v1/player?t=774f671fbb3e1077bd9fd923a78b4230d816ad4dff7193aa6b27217108f8875e82adce2553ef7ff60a6f052e08cf5d69b1a8aa44058a2e392e58ad8504b67b9bde1e0608d932f8a62dddacfd0fa365930993d8e17bd25dbc21234a2c8ca5cd3ba1f1e818b7beea52d89eca17ff223eea
 https://storage.googleapis.com/mediastorage/1756381358281/gm35ob0tjg9/606102042.mp4#chunk/606102042/304087040?maxChunkSize=15728640&url=https%3A%2F%2F12cdk78xxi0.sssrr.org%2F5%2F0%2F5%2Fd4ef975b39af3f0ca92d80dd0af86.606102042.2
 
 #EXTINF:-1 type="movie" group-title="Movie Indonesia"
@@ -2734,11 +2740,11 @@ https://drive.dubbindo.xyz/upload/videos/2023/06/B5RfRxsexxP552xjEgbY_16_5f71812
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://drive.dubbindo.xyz/upload/videos/2023/06/cHgBLojGJnGfIWs9kCRa_21_9f59c4a13f3bea347d52089b4b908303_video_720p_converted.mp4
 
-#EXTINF:-1 type="movie" group-title="Movie Indonesia",Ada Hantu 2
+#EXTINF:-1 type="movie" group-title="Movie Indonesia", Ada Hantu 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/164LWM_NfFZqxCfSbGtQ-Saq6h2EuifOD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 type="movie" group-title="Movie Indonesia",Aku Lupa Aku Luka
+#EXTINF:-1 type="movie" group-title="Movie Indonesia", Aku Lupa Aku Luka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/19bQnNLIyybMbujHtsXr2xeiI-b2HNoZB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
@@ -3291,6 +3297,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/68ea0e5b3c68da8eba6c172dd0039bc9/1080p/in
 
 #EXTINF:-1 type="movie" tvg-name="Spider-Man (2002)" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/01/film-spider-man-2002.jpg" group-title="Movies Marvel", Spider-Man (2002) 
 https://stream.hownetwork.xyz/xxx/spider-man-2002-bluray/11/480.m3u8 
+
 
 
 
