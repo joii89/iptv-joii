@@ -94,6 +94,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=https://one.one.one.one/
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -107,6 +108,7 @@ http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=https://one.one.one.one/
 http://iptvtree.net:8080/live/F28312/cc1dc138/298513.ts
 http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
 
@@ -118,11 +120,13 @@ http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=https://one.one.one.one/
 http://iptvtree.net:8080/live/F28312/cc1dc138/298514.ts
 http://108.181.122.179:8070/live/F28312/cc1dc138/298514.ts
 
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=https://one.one.one.one/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSthDotJHHwYBFUM39J5kjMrT605N7374WP4w&s" group-title="Playlist🇮🇩", ALLPLAY ENT
@@ -3301,6 +3305,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/68ea0e5b3c68da8eba6c172dd0039bc9/1080p/in
 
 #EXTINF:-1 type="movie" tvg-name="Spider-Man (2002)" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/01/film-spider-man-2002.jpg" group-title="Movies Marvel", Spider-Man (2002) 
 https://stream.hownetwork.xyz/xxx/spider-man-2002-bluray/11/480.m3u8 
+
 
 
 
