@@ -1,0 +1,179 @@
+#EXTGRP:RELIGI
+http://198.16.100.186:8278/TVMU_eko/playlist.m3u8?tid=MFDF7570582975705829&ct=19249&tsum=5c6fe52ffe5b5cea936a79344042abef
+#EXTINF:0,ALWAFA TARIM
+#EXTGRP:RELIGI
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+#EXTINF:0,UNIVERSAL TV
+#EXTGRP:MOVIE
+http://metalgear.bemtv.cn:80/STREAM/8289/chunks.m3u8
+#EXTINF:0,usa network
+#EXTGRP:MOVIE
+https://7pal.short.gy/usanetwork
+#EXTINF:0,HBO
+#EXTGRP:MOVIE
+http://iptvtree.net:8080/live/F28312/cc1dc138/306484.ts
+#EXTINF:0,HBO HiTS
+#EXTGRP:MOVIE
+http://iptvtree.net:8080/live/F28312/cc1dc138/306486.ts
+#EXTINF:0,HBO family
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350956.ts
+#EXTINF:0,HBO Signature
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350958.ts
+#EXTINF:0,CINEMAX
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350922.ts
+#EXTINF:0,AXN
+#EXTGRP:MOVIE
+http://smart.cityq.xyz:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&tsum=b053d03f18972fd57458dea9ae82c0aa
+#EXTINF:0,GALAXY/4
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350866.ts
+#EXTINF:0,HITS MOVIES
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350963.ts
+#EXTINF:0,HITS
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350962.ts
+#EXTINF:0,cinebox premiere
+#EXTGRP:MOVIE
+http://cord-cutter.net:8080/live/Ss5DKE/232455/119432.ts
+#EXTINF:0,skycinemafamily
+#EXTGRP:MOVIE
+http://cord-cutter.net:8080/live/Ss5DKE/232455/53699.ts
+#EXTINF:0,imc
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350970.ts
+#EXTINF:0,CCM
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350912.ts
+#EXTINF:0,CELESTIAL MOVIES
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350913.ts
+#EXTINF:0,LOTUS Macau
+#EXTGRP:MOVIE
+http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+#EXTINF:0,ORIGINALS
+#EXTGRP:MOVIE
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165891&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:0,CINEEDGE
+#EXTGRP:MOVIE
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165892&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:0,CINELIFE
+#EXTGRP:MOVIE
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8#b7ee0e15b11d98c333c40e98ee7d1dcad6cb2fc2773dc89b5ab50e7e98f156e0
+#EXTINF:0,superrix
+#EXTGRP:MOVIE
+http://202.147.193.244/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+#EXTINF:0,UNIQUES
+#EXTGRP:MOVIE
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165895&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:0,DUBAI one
+#EXTGRP:MOVIE
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/2398.ts
+#EXTINF:0,FXM
+#EXTGRP:MOVIE
+http://212.102.60.231/FX_MOVIE/index.m3u8
+#EXTINF:0,GALAXY PREMIUM
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350951.ts
+#EXTINF:0,GALAXY
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350950.ts
+#EXTINF:0,FX
+#EXTGRP:MOVIE
+http://cord-cutter.net:8080/live/Ss5DKE/232455/46690.ts
+#EXTINF:0,FXX
+#EXTGRP:MOVIE
+http://212.102.60.231/FXX/index.m3u8
+#EXTINF:0,AMC
+#EXTGRP:MOVIE
+http://212.102.60.231/AMC_NETWORK/index.m3u8
+#EXTINF:0,AMC+
+#EXTGRP:MOVIE
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+#EXTINF:0,Rakuten Cinema
+#EXTGRP:MOVIE
+https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+#EXTINF:0,Rakuten Viki
+#EXTGRP:MOVIE
+https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,PopC
+#EXTGRP:MOVIE
+http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
+#EXTINF:0,CANAL+ ACTION
+#EXTGRP:MOVIE
+http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/297366.ts
+#EXTINF:0,CANAL+ BOX OFFICE
+#EXTGRP:MOVIE
+http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/301684.ts
+#EXTINF:0,CANAL+ CINEMA
+#EXTGRP:MOVIE
+http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/172.ts
+#EXTINF:0,CANAL+ ELLES
+#EXTGRP:MOVIE
+http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/297370.ts
+#EXTINF:0,CANAL+ FILM
+#EXTGRP:MOVIE
+http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/1714.ts
+#EXTINF:0,CANAL+ GRAND
+#EXTGRP:MOVIE
+http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298741.ts
+#EXTINF:0,CANAL+ kids
+#EXTGRP:KIDS
+http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/281601.ts
+#EXTINF:0,CANAL+ NOW
+#EXTGRP:MOVIE
+http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/122183.ts
+#EXTINF:0,CANAL+ PREMIUM
+#EXTGRP:MOVIE
+http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/341.ts
+#EXTINF:0,CANAL+ SERIES
+#EXTGRP:MOVIE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/30013.ts
+#EXTINF:0,PARAMOUNT NETWORK US
+#EXTGRP:MOVIE
+http://212.102.60.231/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:0,PARAMOUNT CHANNEL
+#EXTGRP:MOVIE
+http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/306433.ts
+#EXTINF:0,Rai Movie
+#EXTGRP:MOVIE
+http://1tv41.icu:8080/live/101038222/101038222/212902.ts
+#EXTINF:0,MGM+
+#EXTGRP:MOVIE
+http://cord-cutter.net:8080/live/Ss5DKE/232455/14193.ts
+#EXTINF:0,cinemaworld
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350921.ts
+#EXTINF:0,Chinese Drama
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350920.ts
+#EXTINF:0,BIOSKOP INDONESIA
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350906.ts
+#EXTINF:0,FLiK
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350947.ts
+#EXTINF:0,eTV BIOSKOP
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350941.ts
+#EXTINF:0,eTV BIOSKOP 2
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350917.ts
+#EXTINF:0,eTV Bioskop 3
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350918.ts
+#EXTINF:0,eTV BIOSKOP 4
+#EXTGRP:MOVIE
+http://xott.live:8080/live/home/123456/350944.ts
+#EXTINF:0,Z BIOSKOP
+#EXTGRP:MOVIE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
+#EXTINF:0,cinebox blockbuster
+#EXTGRP:MOVIE
+http://cord-cutter.net:8080/live/Ss5DKE/232455/119421.ts
+#EXTINF:0,STAR MOVIES
+#EXTGRP:MOVIE
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=277339
