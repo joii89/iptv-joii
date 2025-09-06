@@ -39,18 +39,15 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505834.m3u
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 #EXTINF:-1 site="firstmedia.com" site_id="285" xmltv_id="HBO" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="Playlist🇮🇩", HBO
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=https://one.one.one.one/
-http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505836.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666250.ts
 https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 http://iptvtree.net:8080/live/F28312/cc1dc138/306484.ts
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505836.m3u8
-http://cool365.xyz:900/live/4160189881/DB4ACD54/401666250.ts
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
@@ -92,9 +89,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="Playlist🇮🇩", ETV Bioskop
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:http-user-agent=https://one.one.one.one/
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=https://one.one.one.one/
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -103,30 +100,30 @@ http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="Playlist🇮🇩",ETV Bioskop 2
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:http-user-agent=https://one.one.one.one/
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=https://one.one.one.one/
 http://iptvtree.net:8080/live/F28312/cc1dc138/298513.ts
 http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="Playlist🇮🇩", ETV Bioskop 3
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:http-user-agent=https://one.one.one.one/
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=https://one.one.one.one/
 http://iptvtree.net:8080/live/F28312/cc1dc138/298514.ts
 http://108.181.122.179:8070/live/F28312/cc1dc138/298514.ts
 
+#EXTVLCOPT:http-user-agent=https://one.one.one.one/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=https://one.one.one.one/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSthDotJHHwYBFUM39J5kjMrT605N7374WP4w&s" group-title="Playlist🇮🇩", ALLPLAY ENT
@@ -143,7 +140,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com/
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -214,8 +211,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" tvg-name="Bioskop Indonesia" tvg-logo="https://images.indihometv.com/assets/88_BIOSKOPINDONESIA_2025_03_17_15_24_51.png" group-title="Playlist🇮🇩", Bioskop Indonesia
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=https://one.one.one.one/
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd
@@ -230,14 +227,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
 #EXTINF:-1 site="indihometv.com" site_id="flik" xmltv_id="Flik" tvg-logo="https://cdn4.mbahnunungonline.net/img/OIiqqUr.png?v=1.1.1.1" group-title="Playlist Indonesia🇮🇩", Flik
+#EXTVLCOPT:http-user-agent=https://one.one.one.one/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=https://one.one.one.one/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
 #EXTINF:-1 site="indihometv.com" site_id="studiouniversal" group-title="Playlist🇮🇩" tvg-logo="https://www.visionplus.id/images/repository/114/345114-LOGO-m.png", Studio Universal
+#EXTVLCOPT:http-user-agent=https://one.one.one.one/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
@@ -284,11 +282,12 @@ https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
-#EXTINF:-1 site="indihometv.com" site_id="maxstream" xmltv_id="Maxstream" group-title="Playlist🇮🇩", Maxstream group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",Maxstream
+#EXTINF:-1 site="indihometv.com" site_id="maxstream" xmltv_id="Maxstream" group-title="Playlist🇮🇩", Maxstream group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png", Maxstream
+#EXTVLCOPT:http-user-agent=https://one.one.one.one/
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=https://one.one.one.one/https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Playlist🇮🇩", Rock Entertainment
 http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
@@ -327,21 +326,21 @@ http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid
 https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #EXTINF:-1 tvg-id="HBOHits" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAIltqKkFxtPon4495aSflkFr8E2xiYIqOSkX0tKRxWJG-cjpL7G6_wjkF&s=10" group-title="Playlist🇮🇩", HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
+#EXTVLCOPT:http-user-agent=https://one.one.one.one/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666248.ts
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505838.m3u8
 http://iptvtree.net:8080/live/F28312/cc1dc138/306486.ts
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTINF:-1 site="firstmedia.com" site_id="310" xmltv_id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="Playlist🇮🇩", CINEMAX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+#EXTVLCOPT:http-user-agent=https://one.one.one.one/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666215.ts
+https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505822.m3u8
@@ -3305,6 +3304,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/68ea0e5b3c68da8eba6c172dd0039bc9/1080p/in
 
 #EXTINF:-1 type="movie" tvg-name="Spider-Man (2002)" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/01/film-spider-man-2002.jpg" group-title="Movies Marvel", Spider-Man (2002) 
 https://stream.hownetwork.xyz/xxx/spider-man-2002-bluray/11/480.m3u8 
+
 
 
 
