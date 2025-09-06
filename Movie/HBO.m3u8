@@ -1,5 +1,2 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:7
-#EXT-X-MEDIA-SEQUENCE:http://iptvtree.net:8080/live/F28312/cc1dc138/306484.ts
-#EXTINF:10000, http://iptvtree.net:8080/live/F28312/cc1dc138/306484.ts
+http://iptvtree.net:8080/live/F28312/cc1dc138/306484.ts
