@@ -48,10 +48,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=https://one.one.one.one/
+http://iptvtree.net:8080/live/F28312/cc1dc138/306484.ts
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666250.ts
 https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
-http://iptvtree.net:8080/live/F28312/cc1dc138/306484.ts
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505836.m3u8
 
@@ -332,19 +332,25 @@ http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid
 https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #EXTINF:-1 tvg-id="HBOHits" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAIltqKkFxtPon4495aSflkFr8E2xiYIqOSkX0tKRxWJG-cjpL7G6_wjkF&s=10" group-title="Playlist🇮🇩", HBO Hits
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:0
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=https://one.one.one.one/http://cool365.xyz:900/live/4160189881/DB4ACD54/401666248.ts
+#EXTVLCOPT:http-user-agent=https://one.one.one.one/
+http://iptvtree.net:8080/live/F28312/cc1dc138/306486.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666248.ts
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505838.m3u8
-http://iptvtree.net:8080/live/F28312/cc1dc138/306486.ts
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTINF:-1 site="firstmedia.com" site_id="310" xmltv_id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="Playlist🇮🇩", CINEMAX
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:0
+#EXT-X-MEDIA-SEQUENCE:0
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:contentlookup=False
@@ -3316,6 +3322,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/68ea0e5b3c68da8eba6c172dd0039bc9/1080p/in
 
 #EXTINF:-1 type="movie" tvg-name="Spider-Man (2002)" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/01/film-spider-man-2002.jpg" group-title="Movies Marvel", Spider-Man (2002) 
 https://stream.hownetwork.xyz/xxx/spider-man-2002-bluray/11/480.m3u8 
+
 
 
 
