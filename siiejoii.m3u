@@ -35,22 +35,15 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264774.ts
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505834.m3u8
 
-#EXTINF:-1  tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg%20Indonesia" group-title="Playlist🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg", Citra Bioskop 
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg%20Indonesia" group-title="Playlist🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg", Citra Bioskop 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 #EXTINF:-1 site="firstmedia.com" site_id="285" xmltv_id="HBO" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="Playlist🇮🇩", HBO
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:0
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=https://one.one.one.one/
+http://s.streamo.cfd:6768/hls/27/27.m3u8
 http://iptvtree.net:8080/live/F28312/cc1dc138/306484.ts
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666250.ts
 https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
@@ -124,7 +117,7 @@ http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
 http://iptvtree.net:8080/live/F28312/cc1dc138/298513.ts
 http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="Playlist🇮🇩", ETV Bioskop 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="Playlist Indonesia🇮🇩", ETV Bioskop 3
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:http-user-agent=https://one.one.one.one/
@@ -340,15 +333,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid
 https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #EXTINF:-1 tvg-id="HBOHits" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAIltqKkFxtPon4495aSflkFr8E2xiYIqOSkX0tKRxWJG-cjpL7G6_wjkF&s=10" group-title="Playlist🇮🇩", HBO Hits
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:0
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=https://one.one.one.one/
+http://s.streamo.cfd:6768/hls/28/28.m3u8
 http://iptvtree.net:8080/live/F28312/cc1dc138/306486.ts
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666248.ts
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
@@ -356,15 +342,8 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505838.m3u
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTINF:-1 site="firstmedia.com" site_id="310" xmltv_id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="Playlist🇮🇩", CINEMAX
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:0
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=https://one.one.one.one/
+http://s.streamo.cfd:6768/hls/26/26.m3u8
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666215.ts
 https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
@@ -376,6 +355,10 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505822.m3u
 
 
 #EXTM3U
+
+#EXTM3U
+#EXTINF:-1 group-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg" group-title="Sports ⚽"
+
 
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/ac/de/8c/acde8c8f1a0b002826c4f72a53531975.jpg" group-title="Sports ⚽", SKYSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -606,7 +589,8 @@ https://wahyu1ptv.pages.dev/SkySportBundesliga-HD.m3u8
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOQxcvQpTpHOblDwhPGkGBBxBMrzs5_flmszZ8OskBjA&s=10" group-title="Playlist Indonesia🇮🇩"
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Dyqrvs9yKecWRChi48O2XbOp3uarz-rN-spWft2KBg&s" group-title="Playlist Indonesia🇮🇩"
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
@@ -1267,15 +1251,6 @@ http://iptvtree.net:8080/live/F28312/cc1dc138/306485.ts
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505837.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/08/02/169353198.jpg" group-title="Playlist Movie 📺",HBO Signature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
-http://iptvtree.net:8080/live/F28312/cc1dc138/306483.ts
-http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505839.m3u8
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -1509,33 +1484,37 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantv.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://s.streamo.cfd:6768/hls/27/27.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml"
- tvg-logo="https://www.transvision.co.id/img/channel/hbo_family.png" group-title="Playlist Movie 📺",HBO Family
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://www.transvision.co.id/img/channel/hbo_family.png" group-title="Playlist Movie 📺",HBO Family
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantv.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://s.streamo.cfd:6768/hls/30/30.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml"
- tvg-logo="https://www.transvision.co.id/img/channel/hbo_hits.png" group-title="Playlist Movie 📺",HBO HITS
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://www.transvision.co.id/img/channel/hbo_hits.png" group-title="Playlist Movie 📺",HBO HITS
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantv.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://s.streamo.cfd:6768/hls/28/28.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml"
- tvg-logo="https://www.transvision.co.id/img/channel/hbo_sig.png" group-title="Playlist Movie 📺",HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://www.transvision.co.id/img/channel/hbo_sig.png" group-title="Playlist Movie 📺",HBO Signature
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantv.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+http://s.streamo.cfd:6768/hls/29/29.m3u8
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
+http://iptvtree.net:8080/live/F28312/cc1dc138/306483.ts
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505839.m3u8
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;An)
 
@@ -2698,43 +2677,8 @@ https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/11/10/task1/d7a
 https://be6224.rcr92.lim01.cdn112.com/hls2/01/05966/ssa0ni5800x3_n/index-v1-a1.m3u8?t=vLxHf7M9K3Qj1iDaz5xNJq2ee5ZsMCNJaf8enJcs-44&s=1722408782&e=10800&f=29833688&srv=28&asn=131111&sp=4000 
 
 
-<==== Series Zona Merah =======>
 
-
-#EXTINF:-1 group-title="Series Zona Merah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRaLw6Q1WezYB_dURSgBHPnjYvifitbCqqV3EEi9HkapuayhDdRb8RTr0&s=10", Zona Merah - Eps 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://swishsrv.com/stream/5zGbgsuJhqFUWxtAFb-wWA/kjhhiuahiuhgihdf/1756610243/28195137/index-v1-a1.m3u8
-
-#EXTINF:-1 group-title="Series Zona Merah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqO8R_41T-YdGVTiaDCAAZ2CRNRkhbySNPGhl1tcpF5pFWRa5PdmdpG0w&s=10", Zona Merah - Eps 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://swishsrv.com/stream/Qn_2DyNu-l8i2UefNf3K1A/kjhhiuahiuhgihdf/1756610343/28527912/index-v1-a1.m3u8
-
-#EXTINF:-1 group-title="Series Zona Merah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-Old5zy4wj1zpoK2BnidtRJudKIyOA8S6EQGawa9EvCM6165pk3h7dQ&s=10", Zona Merah - Eps 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://swishsrv.com/stream/HQYdIhUzKzEmGQAckwrn_w/kjhhiuahiuhgihdf/1756610798/28489679/index-v1-a1.m3u8
-
-#EXTINF:-1 group-title="Series Zona Merah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ghZg1xxx4eYXDkjLdHlDJ7DBjzBqz4-CS5VU0qUBY3E8lp9fWx3rzLXK&s=10", Zona Merah - Eps 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://swishsrv.com/stream/Un0LUUWUfMTX6q0vHOhCTg/kjhhiuahiuhgihdf/1756610871/30003917/index-v1-a1.m3u8
-
-#EXTINF:-1 group-title="Series Zona Merah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSGPPc429RFdg79LaUBBBah91o8fM7m27jf46m5mjs76QOSCw-DEP4AXY&s=10", Zona Merah - Eps 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://iplayerhls.com/stream/A9Cb-DQwyNBB5kqs8BeApQ/kjhhiuahiuhgihdf/1756610974/31214922/index-v1-a1.m3u8
-
-#EXTINF:-1 group-title="Series Zona Merah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFVdhNdao2QPf7FaDRgBZth0kuQdtwneLfTfn9ELxbjUGmh9Xvi4Hd3-I&s=10", Zona Merah - Eps 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://iplayerhls.com/stream/66_HfG5YDfeFQu1zZCN8Fw/kjhhiuahiuhgihdf/1756611118/34715954/index-v1-a1.m3u8
-
-#EXTINF:-1 group-title="Series Zona Merah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjS069NME6n87IvX126LvxLpu653ROA-da_O4KPmLOfk38bvKQd3SeWtw&s=10", Zona Merah - Eps 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://iplayerhls.com/stream/rGz7Lest7E6KpIX-LpEO2w/kjhhiuahiuhgihdf/1756607667/35201835/index-v1-a1.m3u8
-
-#EXTINF:-1 group-title="Series Zona Merah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAK2yYeNks2nFLXnTI5NmFnV_Pfkcu2q_dCEcChoFFi9dtshBU51_NDg&s=10", Zona Merah - Eps 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://iplayerhls.com/stream/5RPaxlLevlXJZo1xip9aOg/kjhhiuahiuhgihdf/1756607754/37095591/index-v1-a1.m3u8
-
-
-<== Movies Indonesia >
+<========= Movies Indonesia =========>
 
 
 
@@ -3338,6 +3282,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/68ea0e5b3c68da8eba6c172dd0039bc9/1080p/in
 
 #EXTINF:-1 type="movie" tvg-name="Spider-Man (2002)" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/01/film-spider-man-2002.jpg" group-title="Movies Marvel", Spider-Man (2002) 
 https://stream.hownetwork.xyz/xxx/spider-man-2002-bluray/11/480.m3u8 
+
 
 
 
