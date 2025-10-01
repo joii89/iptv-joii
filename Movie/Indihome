@@ -1,0 +1,15 @@
+#EXTINF:-1 group-title="Channel IndiTV"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",INDIKIDS[INDIHOME]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
+
+#EXTINF:-1 group-title="Channel IndiTV"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV HD[INDIHOME]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
+
+#EXTINF:-1 group-title="Channel IndiTV"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM[INDIHOME]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/alquran/manifest.mpd
+
