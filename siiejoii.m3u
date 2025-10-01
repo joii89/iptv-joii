@@ -43,7 +43,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 
 #EXTINF:-1 site="firstmedia.com" site_id="285" xmltv_id="HBO" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="Playlist🇮🇩", HBO
 #EXTVLCOPT:http-user-agent=https://one.one.one.one/
-http://s.streamo.cfd:6768/hls/27/27.m3u8
 http://iptvtree.net:8080/live/F28312/cc1dc138/306484.ts
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666250.ts
 https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
@@ -334,7 +333,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #EXTINF:-1 tvg-id="HBOHits" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAIltqKkFxtPon4495aSflkFr8E2xiYIqOSkX0tKRxWJG-cjpL7G6_wjkF&s=10" group-title="Playlist🇮🇩", HBO Hits
 #EXTVLCOPT:http-user-agent=https://one.one.one.one/
-http://s.streamo.cfd:6768/hls/28/28.m3u8
 http://iptvtree.net:8080/live/F28312/cc1dc138/306486.ts
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666248.ts
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
@@ -343,7 +341,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 
 #EXTINF:-1 site="firstmedia.com" site_id="310" xmltv_id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="Playlist🇮🇩", CINEMAX
 #EXTVLCOPT:http-user-agent=https://one.one.one.one/
-http://s.streamo.cfd:6768/hls/26/26.m3u8
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666215.ts
 https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
