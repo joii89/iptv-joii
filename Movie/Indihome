@@ -1,49 +1,167 @@
-=============================================== Indihome ========================================= 
+=============================================== Indihome =========================================
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png", Indosiar 
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd  #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 
-#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png", Sctv 
-https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd  
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png", Indosiar
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg", Trans 7  
-https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd  
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png", Sctv
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg", Trans TV 
-https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd   
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg", Trans 7 
+https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg", Trans TV
+https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
+ 
 #EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png", ANTV
-https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd  
+https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
 #EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://www.visionplus.id/images/repository/375/437375-SNAPSHOT-l.png", Inews
-https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd  
-#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://www.visionplus.id/images/repository/383/437383-SNAPSHOT-l.png", TvOne 
-https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd  
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/ 
-#EXTINF:0 tvg-id="NET.id" tvg-logo="https://www.visionplus.id/images/repository/174/438174-SNAPSHOT-l.png" group-title="Channel Tv Indihome", MDTV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 
-https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8   
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://www.visionplus.id/images/repository/383/437383-SNAPSHOT-l.png", TvOne
+https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 
-#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://i.ibb.co.com/1GsXBNwz/K.png", Kplus Drama Korea 
-https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd  
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTINF:0 tvg-id="NET.id" tvg-logo="https://www.visionplus.id/images/repository/174/438174-SNAPSHOT-l.png" group-title="Channel Tv Indihome", MDTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+ 
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://i.ibb.co.com/1GsXBNwz/K.png", Kplus Drama Korea
+https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 
-#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", CITRA DRAMA #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a 
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", CITRA DRAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be26e4325724/df2bd1819bb74e2ea38e40ebf9d60e14.png", BIOSKOP INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Moji TV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
-#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be26e4325724/df2bd1819bb74e2ea38e40ebf9d60e14.png", BIOSKOP INDONESIA #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, ) #KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQoTxr7eUinhVrDg-ruJuFvWIKwTjva-lrg&s"group-title="Channel Tv Indihome",MAXSTREAM INDI
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Moji TV #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey 
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd 
+#EXTINF:-1 tvg-id="SindoNews.id" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png", Sindonews
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQoTxr7eUinhVrDg-ruJuFvWIKwTjva-lrg&s"group-title="Channel Tv Indihome",MAXSTREAM INDI #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Al Jazeera
+https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
+   
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Rodja TV
+https://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", JTV
+https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Bali TV
+https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", MTATV
+https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Nusantara
+https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", ATV
+https://cdn10jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Tawaf TV
+https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.pngg", Fashion TV 
+https://cdn10jtedge.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", MyKidz
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", TV5Monde
+https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/manifest.mpd
+   
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", AXN
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", News Asia
+https://cdn10jtedge.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Bloomberg
+https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
+  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", AllPlay
+https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", PANDA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", SHENZEN TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", ZHEJIANG TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd 
+   
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Musik Indonesia
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Moonbug
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/134/moonbug/manifest.mpd
+  
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Moonbug
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/134/spotv/manifest.mpd
 
-#EXTINF:-1 tvg-id="SindoNews.id" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png", Sindonews 
-https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd 
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Moonbug
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/134/spotv2/manifest.mpd
 
-#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Al Jazeera 
-https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest
+#EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Dunia Lain
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
+https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+
 
