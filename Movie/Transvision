@@ -1,5 +1,8 @@
 ==========| TransVision |=============
 
+
+#EXTM3U
+
 #EXTINF:0 tvg-logo="https://adp-premium.my.id/logoo/HBOCUB.jpg" group-title="transvision" tvg-id="001" tvg-name="016-LABURATV",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
