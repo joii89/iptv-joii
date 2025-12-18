@@ -1,5 +1,6 @@
 #EXTM3U billed-msg="Siie Joii"
 
+#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/ApisTECH.xml.gz"
 #EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" refresh="3600"
 #EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" refresh="3600"
 #EXTM3U tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="3600"
@@ -2202,6 +2203,7 @@ https://stream.hownetwork.xyz/xxx/maze-runner-2014-bluray/7/480.m3u8
 #EXTINF:-1 type="movie" group-title="Movie Collection" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",A Working Man (2025)
 https://cloud.hownetwork.xyz/xxx/I1U-ITcSHi8lfBotLR1kaHBNZDkgGxMtHQkoeXsAMGomGns/32/480.m3u8
 https://sskt.griseldakro.sbs/v4/ty/midk9h/cf-master.txt?v=1744698131|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+
 
 
 
