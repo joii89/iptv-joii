@@ -1,7 +1,17 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79f8g.png" group-title="HBO Group",HBO
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 http://ktpremium.online:2095/live/Halim8781/Halim8781/73858.ts
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79nwv.png" group-title="HBO Group",HBO Hits
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79otR.png" group-title="HBO Group",HBO Family
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79IMN.png" group-title="HBO Group",HBO Signature
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="HBO Group",Cinemax
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd
