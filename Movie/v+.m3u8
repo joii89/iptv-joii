@@ -24,7 +24,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://www.visionplus.id/images/repository/175/438175-SNAPSHOT-l.png" group-title="Channel Vision+",Trans TV 
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/174/438174-SNAPSHOT-l.png" group-title="Channel Vision+", MDTV
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/174/438174-SNAPSHOT-l.png" group-title="Channel Vision+", SportStar 3
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/851/437851-SNAPSHOT-l.png" group-title="Channel Vision+", Z BIOSKOP
@@ -52,7 +52,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/862/437862-SNAPSHOT-l.png" group-title="Channel Vision+", KIDS TV
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/862/437862-SNAPSHOT-l.png" group-title="Channel Vision+", SportStar 2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -82,7 +82,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/309/437309-SNAPSHOT-l.png" group-title="Channel Vision+", SPORTSTARS 
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/309/437309-SNAPSHOT-l.png" group-title="Channel Vision+", SPORTSTARS 4
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -309,4 +309,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000162/1024.m3u8
 #EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", FIGHT SPORT
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
 #EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", DREAM CHANNEL
-http://202.80.222.
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
+
+
+
