@@ -1,5 +1,4 @@
-
-======================================= Channel Vision+ =====================================
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Channel Vision+",SCTV 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
