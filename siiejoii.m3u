@@ -135,15 +135,13 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/in
 https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
 #EXTINF:-1 site="dens.tv" site_id="10" xmltv_id="Indosiar" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="Playlist🇮🇩", Indosiar
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/indosiar/manifest.mpd
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
-http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/indosiar/manifest.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 site="firstmedia.com" site_id="10" xmltv_id="SCTV" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/330px-SCTV_Logo.svg.png" group-title="Playlist🇮🇩",SCTV
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sctv/manifest.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sctv/manifest.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
@@ -170,11 +168,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="Playlist🇮🇩", ETV Bioskop
-https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/Movie/ETV.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="Playlist🇮🇩",ETV Bioskop 2
-https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/Movie/ETV2.m3u8
 http://iptvtree.net:8080/live/F28312/cc1dc138/298513.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="Playlist Movie 📺", ETV Bioskop 3
@@ -2280,6 +2274,7 @@ https://stream.hownetwork.xyz/xxx/maze-runner-2014-bluray/7/480.m3u8
 #EXTINF:-1 type="movie" group-title="Movie Collection" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",A Working Man (2025)
 https://cloud.hownetwork.xyz/xxx/I1U-ITcSHi8lfBotLR1kaHBNZDkgGxMtHQkoeXsAMGomGns/32/480.m3u8
 https://sskt.griseldakro.sbs/v4/ty/midk9h/cf-master.txt?v=1744698131|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+
 
 
 
