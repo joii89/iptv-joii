@@ -37,8 +37,8 @@ https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/Indonesia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 group-title="Playlist🇮🇩" tvg-logo="https://images.indihometv.com/assets/88_IMC_2025_03_17_14_53_15.png",IMC - Indihome
-https://cdn10jtedge.indihometv.com/atm/DASH/imc/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc720/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/imc/manifest.mpd
 
 #EXTINF:-1 tvg-id="GALAXYPremium.id" tvg-name="GALAXY Premium.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="Playlist🇮🇩", Galaxy Premium
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -162,13 +162,36 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-id="--" group-title="Playlist🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Musik Indonesia
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Playlist🇮🇩" tvg-logo="https://images.indihometv.com/assets/88_MTVLIVE_2025_03_17_15_02_31.png",MTV Live
+https://cdn10jtedge.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Playlist🇮🇩" tvg-logo="https://images.indihometv.com/assets/88_MUSIKINDONESIA_2025_03_17_15_24_16.png",Musik Indonesia
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest_w1796600437_qRFZS.mpd?encp=&uid=&expp=
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Playlist🇮🇩" tvg-logo="https://images.indihometv.com/assets/88_PRAMBORS_2025_03_17_15_05_27.png",Prambors
+https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -195,21 +218,21 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8 
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505808.m3u8
 https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8 
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8 
 https://why.biz.id/Iptv/oxygen.php?id=antv
 
 #EXTINF:-1 tvg-id="GTV" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1920px-GTV_%282017%29.svg.png" group-title="Playlist🇮🇩", Global TV 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/globaltv/manifest.mpd
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
@@ -219,8 +242,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/200px-TvOne_2023.svg.png" group-title="Playlist🇮🇩", TV One
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 #EXTINF:-1 tvg-id="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/1920px-INews.svg.png" group-title="Playlist🇮🇩", iNews
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -243,9 +266,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="Playlist🇮🇩", TRANSTV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
@@ -315,6 +338,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 site="indihometv.com" site_id="studiouniversal" group-title="Playlist🇮🇩" tvg-logo="https://www.visionplus.id/images/repository/114/345114-LOGO-m.png", Studio Universal - Indihome
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest_w1324836965_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -392,10 +416,15 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
-#EXTINF:-1 site="indihometv.com" site_id="maxstream" xmltv_id="Maxstream" group-title="Playlist🇮🇩", Maxstream group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png", Maxstream
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTINF:-1 site="indihometv.com" site_id="maxstream" xmltv_id="Maxstream" group-title="Playlist🇮🇩" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png", Maxstream
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest_w1198082458_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Playlist🇮🇩", Rock Entertainment
@@ -2264,6 +2293,7 @@ https://stream.hownetwork.xyz/xxx/maze-runner-2014-bluray/7/480.m3u8
 #EXTINF:-1 type="movie" group-title="Movie Collection" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",A Working Man (2025)
 https://cloud.hownetwork.xyz/xxx/I1U-ITcSHi8lfBotLR1kaHBNZDkgGxMtHQkoeXsAMGomGns/32/480.m3u8
 https://sskt.griseldakro.sbs/v4/ty/midk9h/cf-master.txt?v=1744698131|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+
 
 
 
