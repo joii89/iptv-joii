@@ -1,7 +1,0 @@
-#EXTM3U
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-URUTAN:1
-#EXTVLCOPT:caching-jaringan=10000
-#EXTVLCOPT:http-reconnect=benar
-#EXTINF:1,
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.ts
