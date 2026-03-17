@@ -95,9 +95,10 @@ https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 site="dens.tv" site_id="10" xmltv_id="Indosiar" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="Playlist🇮🇩", Indosiar
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://gist.githubusercontent.com/warningfm/a88760c3b6d8eee4db23461bf2b4dbe7/raw/e05ed3e644643297af79565e3a12ff6e1cf946ad/575eeb9f08dc8db
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/indosiar/manifest.mpd
@@ -229,27 +230,14 @@ http://hydratv.cc/ehsan99/ehsan123/586402
 http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
 http://opplex.ch:8080/live/10071975/10071975/350941.ts
 
-#EXTINF:-1 tvg-id="005" tvg-name="adptv-005" 1 group-title="Playlist🇮🇩" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be26e4325724/20200924032733.png",Bioskop Indonesia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://super.diskon.cloud/adp/transvision/license
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci80LzQwMjhjNjg1NmZkMGQ2NmQwMTcwMzQxYmYxMDAwOTA1L21hbmlmZXN0Lm1wZA
-
+#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" tvg-name="Bioskop Indonesia" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be26e4325724/20200924032733.png" group-title="Playlist🇮🇩", Bioskop Indonesia
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" tvg-name="Bioskop Indonesia" tvg-logo="https://images.indihometv.com/assets/88_BIOSKOPINDONESIA_2025_03_17_15_24_51.png" group-title="Playlist🇮🇩", Bioskop Indonesia
-http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505817.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fc74162f12d430fad0513d9d5c1bdd5:b195817a10d9b592eb002543cdcdeaf6
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505817.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd 
+https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci80LzQwMjhjNjg1NmZkMGQ2NmQwMTcwMzQxYmYxMDAwOTA1L21hbmlmZXN0Lm1wZA
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg" group-title="Playlist🇮🇩", Citra Drama
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -275,6 +263,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest_w1324836965_qRFZS.mpd?encp=&uid=&expp=
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd|Referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-id="HITSNow.id" tvg-name="HITS NOW" tvg-logo="https://iili.io/JZICFVe.png" group-title="Playlist🇮🇩", HITS Now
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
