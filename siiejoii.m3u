@@ -116,11 +116,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/in
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 site="dens.tv" site_id="10" xmltv_id="Indosiar" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="Playlist🇮🇩", Indosiar
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 http://103.146.197.250:25461/live/daeng/tmgrh/16.m3u8
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/1139211.m3u8
 #http://filex.me:8080/live/000003/000003/302264.m3u8
 #http://xtv.ooo:8080/live/150324003/11150324/350972.m3u8
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/indosiar/manifest.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
