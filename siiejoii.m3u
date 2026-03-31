@@ -1905,9 +1905,36 @@ https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 #EXTINF:-1 tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut" tvg-logo="https://mimipipi22.github.io/logo/music/citradangdut.jpg" group-title="MUSIC",CITRA DANGDUT
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
 
+________ Indonesia Movie _______
+
+
+#EXTM3U
+
+#EXTINF:-1 type="movie" group-title="Indonesia Movie" tvg-logo="https://iranaffairs.com/wp-content/uploads/2026/02/film-wiro-sableng-2018-dutamovie21-lk21.webp", Wiro Sableng 212
+https://storage.googleapis.com/mediastorage/1774958173953/gqqvv6eh68/711225226.mp4#mp4/r2/1/711225226/356515840/480p/h264?maxChunkSize=5242880
+
+#EXTINF:-1 type="movie" group-title="Indonesia Movie" tvg-logo="https://iranaffairs.com/wp-content/uploads/2026/02/film-serigala-terakhir-2009-dutamovie21-lk21-768x1152.webp", Serigala Terakhir
+https://storage.googleapis.com/mediastorage/1774958490888/d7tbhnfqeuv/803321111.mp4#mp4/r2/2/803321111/402653184/480p/h264?maxChunkSize=5242880
+
+#EXTINF:-1 type="movie" group-title="Indonesia Movie" tvg-logo="https://iranaffairs.com/wp-content/uploads/2026/03/film-pesugihan-sate-gagak-2025-dutamovie21-dunia21-768x1152.webp", Pesugihan Sate Gagak
+https://storage.googleapis.com/mediastorage/1774958590608/3nyqem4ikmv/334630874.mp4#mp4/r2/3/334630874/334630874/360p/h264?maxChunkSize=5242880
+
+#EXTINF:-1 type="movie" group-title="Indonesia Movie" tvg-logo="https://iranaffairs.com/wp-content/uploads/2025/11/film-petualangan-sherina-2-2023-dutamovie21-lk21-170x255.webp", Petulangan Sherina 2
+https://storage.googleapis.com/mediastorage/1774958846353/qnpf9peipbo/688047189.mp4#mp4/chunk/5/688047189/2097152/360p/h264?maxChunkSize=5242880
+
+#EXTINF:-1 type="movie" group-title="Indonesia Movie" tvg-logo="https://iranaffairs.com/wp-content/uploads/2025/12/film-ali-topan-2023-dutamovie21-lk21.webp", Ali Topan
+https://storage.googleapis.com/mediastorage/1774959080131/ni6p20j2a/537462341.mp4#mp4/chunk/4/537462341/2097152/360p/h264?maxChunkSize=5242880
+
+#EXTINF:-1 type="movie" group-title="Indonesia Movie" tvg-logo="
+
+#EXTINF:-1 type="movie" group-title="Indonesia Movie" tvg-logo="
+
+#EXTINF:-1 type="movie" group-title="Indonesia Movie" tvg-logo="
+
 
 
 _______ movie _________
+
 
 #EXTM3U
 
