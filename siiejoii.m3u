@@ -2,7 +2,7 @@
 
 #EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/ApisTECH.xml.gz"
 #EXTM3U tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="3600"
-#EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" refresh="3600"
+#EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" refresh="3600"
 #EXTM3U tvg-url="https://iptv-epg.org/files/epg-id.xml" refresh="3600"
 
 
@@ -44,7 +44,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264774.ts
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505834.m3u8
 
-#EXTINF:-1 site="firstmedia.com" site_id="310" xmltv_id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="Playlist🇮🇩", CINEMAX
+#EXTINF:-1 site="firstmedia.com" site_id="310" xmltv_id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="Playlist🇮🇩", CINEMAX
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -57,7 +57,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/401666215.ts
 https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505822.m3u8
 
-#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://object-streamo.emonaja.com/img/hbohits.webp" group-title="Playlist🇮🇩", HBO Hits
+#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://object-streamo.emonaja.com/img/hbohits.webp" group-title="Playlist🇮🇩", HBO Hits
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
