@@ -1,0 +1,621 @@
+#EXTM3U
+
+#EXTINF:0,FRANCE 24 (F)
+#EXTGRP:VISION+
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+
+#EXTINF:0,FRANCE 24 (E)
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541179&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,GALAXY
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541178&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,GALAXY PREMIUM
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541177&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,CELESTIAL MOVIES
+#EXTGRP:VISION+
+http://goldenpro.xyz:80/live/194679431759017/8173373055/584496.ts
+
+#EXTINF:0,CELESTIAL CLASSIC MOVIES
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541196&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,Global Trekker
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541176&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,HISTORY
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541172&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,Discovery asia
+#EXTGRP:VISION+
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1247917.ts
+
+#EXTINF:0,Discovery
+#EXTGRP:VISION+
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1247916.ts
+
+#EXTINF:0,SMITHSONIAN CHANNEL
+#EXTGRP:VISION+
+http://goldenpro.xyz:80/live/194679431759017/8173373055/984843.ts
+
+#EXTINF:0,GTV
+#EXTGRP:VISION+
+http://goldenpro.xyz:80/live/194679431759017/8173373055/584465.ts
+
+#EXTINF:0,HITS
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541171&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,HITS MOVIES
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541170&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,HITS NOW
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1856370&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,HBO
+#EXTGRP:VISION+
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1247927.ts
+
+#EXTINF:0,HBO family
+#EXTGRP:VISION+
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1247980.ts
+
+#EXTINF:0,HBO HiTS
+#EXTGRP:VISION+
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1247981.ts
+
+#EXTINF:0,HBO Signature
+#EXTGRP:VISION+
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1247982.ts
+
+#EXTINF:0,CINEMAX
+#EXTGRP:VISION+
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1247962.ts
+
+#EXTINF:0,AXN
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541210&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,ZBIOSKOP
+#EXTGRP:VISION+
+http://goldenpro.xyz:80/live/194679431759017/8173373055/584501.ts
+
+#EXTINF:0,ANIMAX
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541213&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,ANIPLUS
+#EXTGRP:VISION+
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1052697.ts
+
+#EXTINF:0,Hunan TV
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541169&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,CNBC INDONESIA
+#EXTGRP:VISION+
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1247963.ts
+
+#EXTINF:0,CNN INDONESIA
+#EXTGRP:VISION+
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:0,CRIME+INVESTIGATION
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541189&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,DAAI TV
+#EXTGRP:VISION+
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+
+#EXTINF:0,DREAMWORK
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541185&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,DW
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541184&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,CGTN
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541193&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,CGTN DOCUMENTARY
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541192&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,beIN SPORTS 1
+#EXTGRP:VISION+
+http://iptv.watchhd.cc:5050/live/didi1909/8mMDqRPor23t/1730.ts
+
+#EXTINF:0,beIN SPORTS 2
+#EXTGRP:VISION+
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1052426.ts
+
+#EXTINF:0,beIN SPORTS 3
+#EXTGRP:VISION+
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1052430.ts
+
+#EXTINF:0,FIGHT SPORTS
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541181&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,FOOD TRAVEL
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541180&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,imc
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541167&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,iNews
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541166&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,Jiangsu TV
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541164&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,KIDS TV
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541162&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,KIX
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541161&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,KOMPAS TV
+#EXTGRP:VISION+
+http://goldenpro.xyz:80/live/194679431759017/8173373055/584467.ts
+
+#EXTINF:0,FTV
+#EXTGRP:VISION+
+http://iptv.watchhd.cc:5050/live/didi1909/8mMDqRPor23t/135062.ts
+
+#EXTINF:0,Lifetime
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541158&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,loVe NaTuRe
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541157&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,METRO TV
+#EXTGRP:VISION+
+https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+
+#EXTINF:0,MNC TV
+#EXTGRP:VISION+
+http://goldenpro.xyz:80/live/194679431759017/8173373055/584546.ts
+
+#EXTINF:0,Musik Indonesia
+#EXTGRP:VISION+
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165844
+
+#EXTINF:0,MUSIC TV
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541151&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,BIOSKOP INDONESIA
+#EXTGRP:VISION+
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165845
+
+#EXTINF:0,citra DRAMA
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165847
+
+#EXTINF:0,MDTV
+#EXTGRP:VISION+
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165849
+
+#EXTINF:0,NHK WOLRD JAPAN
+#EXTGRP:VISION+
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165850
+
+#EXTINF:0,nickelodeon
+#EXTGRP:VISION+
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165852
+
+#EXTINF:0,Outdoor
+#EXTGRP:VISION+
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165853
+
+#EXTINF:0,RCTI
+#EXTGRP:VISION+
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165855
+
+#EXTINF:0,ROCK entertainment
+#EXTGRP:VISION+
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165858
+
+#EXTINF:0,SOCCER CHANNEL
+#EXTGRP:VISION+
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165864
+
+#EXTINF:0,SPOTV
+#EXTGRP:VISION+
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165867
+
+#EXTINF:0,SPOTV 2
+#EXTGRP:VISION+
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165868
+
+#EXTINF:0,muslim TV
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541150&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,thrill
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541125&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,TRANS 7
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541124&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,TRANSTV
+#EXTGRP:VISION+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541123&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,TRTWORLD
+#EXTGRP:VISION+
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165873
+
+#EXTINF:0,ntv
+#EXTGRP:VISION+
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165874
+
+#EXTINF:0,tvN
+#EXTGRP:VISION+
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165875
+
+#EXTINF:0,tvNMOVIES
+#EXTGRP:VISION+
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165876
+
+#EXTINF:0,tvone
+#EXTGRP:VISION+
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165877
+
+#EXTINF:0,TVRI
+#EXTGRP:VISION+
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165878
+
+#EXTINF:0,VISION PRIME
+#EXTGRP:VISION+
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165879
+
+#EXTINF:0,ZOOMOO
+#EXTGRP:VISION+
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:0,MADE IN HOLLYWOOD
+#EXTGRP:VISION+
+https://connection3-ent-nz.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:0,WEDO MOVIES
+#EXTGRP:VISION+
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomovies-benelux-ono/playlist.m3u8
+
+#EXTINF:-1 group-title="VISION+", SCTV
+http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
+
+#EXTINF:-1 group-title="VISION+", CINEMAX USA
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+
+#EXTINF:-1 group-title="VISION+", rtv
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+#EXTINF:-1 group-title="VISION+", DMI TV
+https://tvstreamcast.com/tawaftv.m3u8
+
+#EXTINF:-1 group-title="VISION+", TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 group-title="VISION+", astro AWANI 
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 group-title="VISION+", TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="VISION+", TRACE SPORT*STARS
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="VISION+", TRACE LATINA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+
+#EXTINF:-1 group-title="VISION+", TRACE BRAZUCA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+
+#EXTINF:-1 group-title="VISION+", Outdoor
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="VISION+", MyTime movie network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="VISION+", CINELIFE
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="VISION+", MOVIESPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="VISION+", RETROCRUSH
+http://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/0/profileManifest.m3u8?
+
+#EXTINF:-1 group-title="VISION+", ASIANCRUSH
+http://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/sub-0/profileManifest.m3u8?
+
+#EXTINF:-1 group-title="VISION+", MIDNIGHT PULP
+http://cineverse.g-mana.live/media/579fa853-ff49-426e-bc2d-d16ce9b1bdf6/profile/sub-0/profileManifest.m3u8?
+
+#EXTINF:0,VTV
+#EXTGRP:Kartun hiburan
+http://103.66.62.83:8000/play/a00c/index.m3u8
+
+#EXTINF:0,MentariTV
+#EXTGRP:Kartun hiburan
+http://103.66.62.83:8000/play/a00h/index.m3u8
+
+#EXTINF:0,rtv
+#EXTGRP:Kartun hiburan
+http://103.66.62.83:8000/play/a00k/index.m3u8
+
+#EXTINF:0,nickelodeon
+#EXTGRP: Kartun hiburan
+http://103.66.62.83:8000/play/a02m/index.m3u8
+
+#EXTINF:0,ZOOMOO
+#EXTGRP:Kartun hiburan
+http://103.66.62.83:8000/play/a04l/index.m3u8
+
+#EXTINF:0,PBS KIDS
+#EXTGRP:Kartun hiburan
+http://103.66.62.83:8000/play/a04u/index.m3u8
+
+#EXTINF:0,CBeebies
+#EXTGRP:Kartun hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541197&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,iNEWS
+#EXTGRP:Berita hiburan
+http://103.66.62.83:8000/play/a00d/index.m3u8
+
+#EXTINF:0,CNN INDONESIA
+#EXTGRP:Berita hiburan
+http://103.66.62.83:8000/play/a00e/index.m3u8
+
+#EXTINF:0,CNBC INDONESIA
+#EXTGRP:Berita hiburan
+http://103.66.62.83:8000/play/a00f/index.m3u8
+
+#EXTINF:0,METRO TV
+#EXTGRP:Berita hiburan
+http://103.66.62.83:8000/play/a00g/index.m3u8
+
+#EXTINF:0,IDX CHANNEL
+#EXTGRP:Berita hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541168&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,Al JAZEERA ARAB
+#EXTGRP:Berita hiburan
+http://103.66.62.83:8000/play/a03g/index.m3u8
+
+#EXTINF:0,Al JAZEERA English
+#EXTGRP:Berita hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541215&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,TVRI WORLD
+#EXTGRP:Berita hiburan
+http://103.66.62.83:8000/play/a00p/index.m3u8
+
+#EXTINF:0,ABC AUSTRALIA
+#EXTGRP:Berita hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541217&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,Bloomberg
+#EXTGRP:Berita hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541200&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,BBC NEWS
+#EXTGRP:Berita hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541206&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,cna
+#EXTGRP:Berita hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541191&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,TRTWORLD
+#EXTGRP:Berita hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541122&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,TVRI
+#EXTGRP:Informasi hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541115&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,INDOSIAR
+#EXTGRP:Informasi hiburan
+http://103.66.62.83:8000/play/a00o/index.m3u8
+
+#EXTINF:0,antv
+#EXTGRP:Informasi hiburan
+http://103.66.62.83:8000/play/a00r/index.m3u8
+
+#EXTINF:0,tvone
+#EXTGRP:Informasi hiburan
+http://103.66.62.83:8000/play/a00s/index.m3u8
+
+#EXTINF:0,KOMPAS TV
+#EXTGRP:Informasi hiburan
+http://103.66.62.83:8000/play/a00t/index.m3u8
+
+#EXTINF:0,TRANS7
+#EXTGRP:Informasi hiburan
+http://103.66.62.83:8000/play/a00u/index.m3u8
+
+#EXTINF:0,TRANSTV
+#EXTGRP:Informasi hiburan
+http://103.66.62.83:8000/play/a00x/index.m3u8
+
+#EXTINF:0,RCTI
+#EXTGRP:Informasi hiburan
+http://103.66.62.83:8000/play/a00v/index.m3u8
+
+#EXTINF:0,MNC TV
+#EXTGRP:Informasi hiburan
+http://103.66.62.83:8000/play/a00w/index.m3u8
+
+#EXTINF:0,GTV
+#EXTGRP:Informasi hiburan
+http://103.66.62.83:8000/play/a00y/index.m3u8
+
+#EXTINF:0,SCTV
+#EXTGRP:Informasi hiburan
+http://103.66.62.83:8000/play/a00z/index.m3u8
+
+#EXTINF:0,MDTV
+#EXTGRP:Informasi hiburan
+http://103.66.62.83:8000/play/a00l/index.m3u8
+
+#EXTINF:0,DAAI TV
+#EXTGRP: Informasi hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541188&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,nusantara tv
+#EXTGRP:Informasi hiburan
+http://103.66.62.83:8000/play/a04e/index.m3u8
+
+#EXTINF:0,KTV
+#EXTGRP:Informasi hiburan
+http://103.66.62.83:8000/play/a04s/index.m3u8
+
+#EXTINF:0,celebrities TV
+#EXTGRP:Informasi hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541195&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,KBS WORLD
+#EXTGRP: Informasi hiburan
+http://103.66.62.83:8000/play/a02h/index.m3u8
+
+#EXTINF:0,TV5 MONDE
+#EXTGRP: Informasi hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541119&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,JPN
+#EXTGRP:Informasi hiburan
+http://103.66.62.83:8000/play/a03x/index.m3u8
+
+#EXTINF:0,ABN
+#EXTGRP:Informasi hiburan
+http://103.66.62.83:8000/play/a03y/index.m3u8
+
+#EXTINF:0,tvN
+#EXTGRP:Informasi hiburan
+http://103.66.62.83:8000/play/a04j/index.m3u8
+
+#EXTINF:0 tvg-id="TVChosun.kr@SD" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv",TV Chosun
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+#EXTGRP:Informasi hiburan
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+
+#EXTINF:0 tvg-id="TVChosun2.kr@SD" http-referrer="http://broadcast.tvchosun.com/onair/on2.cstv",TV Chosun 2
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+#EXTGRP:Informasi hiburan
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+
+#EXTINF:0,FOOD TRAVEL
+#EXTGRP:Informasi hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541180&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,ent
+#EXTGRP:Informasi hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541183&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,TVRI SPORT
+#EXTGRP:Olahraga hiburan
+http://103.66.62.83:8000/play/a00n/index.m3u8
+
+#EXTINF:0,MOJI
+#EXTGRP:Olahraga hiburan
+http://103.66.62.83:8000/play/a00i/index.m3u8
+
+#EXTINF:0,RedBullTV
+#EXTGRP:Olahraga hiburan
+http://103.66.62.83:8000/play/a03c/index.m3u8
+
+#EXTINF:0,SPOTV
+#EXTGRP:Olahraga hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541129&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,SPOTV2
+#EXTGRP:Olahraga hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541128&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,SOCCER CHANNEL
+#EXTGRP:Olahraga hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541132&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,beIN SPORTS 5
+#EXTGRP:Olahraga hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541201&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,beIN SPORTS 4
+#EXTGRP:Olahraga hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541202&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,beIN SPORTS 3
+#EXTGRP:Olahraga hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541203&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,beIN SPORTS 2
+#EXTGRP:Olahraga hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541204&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,beIN SPORTS 1
+#EXTGRP:Olahraga hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541205&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,sportstars 4
+#EXTGRP:Olahraga hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541110&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,sportstars 2
+#EXTGRP:Olahraga hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541112&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,sportstars
+#EXTGRP:Olahraga hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541113&extension=ts&play_token=J4RzsLFWgA
+
+#EXTINF:0,astro Arena
+#EXTGRP:Olahraga hiburan
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1163983
+
+#EXTINF:0,astro Arena 2
+#EXTGRP:Olahraga hiburan
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1163657
+
+#EXTINF:0,astro Premier League
+#EXTGRP:Olahraga hiburan
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1163984
+
+#EXTINF:0,astro Premier League 2
+#EXTGRP:Olahraga hiburan
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1163986
+
+#EXTINF:0,astro Grandstand
+#EXTGRP:Olahraga hiburan
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1775977
+
+#EXTINF:0,astro Football
+#EXTGRP:Olahraga hiburan
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1775978
+
+#EXTINF:0,tvMu
+#EXTGRP:Religi hiburan
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=154112
