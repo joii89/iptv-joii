@@ -347,6 +347,25 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mediampd/HBOSignat
 http://iptvtree.net:8080/live/F28312/cc1dc138/306483.ts
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505839.m3u8
 
+#EXTINF:0,HBO
+#EXTGRP:Playlist🇮🇩
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1247927.ts
+
+#EXTINF:0,HBO family
+#EXTGRP:Playlist🇮🇩
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1247980.ts
+
+#EXTINF:0,HBO HiTS
+#EXTGRP:Playlist🇮🇩
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1247981.ts
+
+#EXTINF:0,HBO Signature
+#EXTGRP:Playlist🇮🇩
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1247982.ts
+
+#EXTINF:0,CINEMAX
+#EXTGRP:Playlist🇮🇩
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1247962.ts
 
 <======= Sports ⚽ ========>
 
