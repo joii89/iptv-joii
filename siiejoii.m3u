@@ -347,24 +347,19 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mediampd/HBOSignat
 http://iptvtree.net:8080/live/F28312/cc1dc138/306483.ts
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505839.m3u8
 
-#EXTINF:0,HBO
-#EXTGRP:Playlist🇮🇩
+#EXTINF:-1 xmltv_id="HBO" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="Playlist🇮🇩", HBO
 http://goldenpro.xyz:80/live/194679431759017/8173373055/1247927.ts
 
-#EXTINF:0,HBO family
-#EXTGRP:Playlist🇮🇩
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="Playlist🇮🇩",HBO Family
 http://goldenpro.xyz:80/live/194679431759017/8173373055/1247980.ts
 
-#EXTINF:0,HBO HiTS
-#EXTGRP:Playlist🇮🇩
+#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://object-streamo.emonaja.com/img/hbohits.webp" group-title="Playlist🇮🇩", HBO Hits
 http://goldenpro.xyz:80/live/194679431759017/8173373055/1247981.ts
 
-#EXTINF:0,HBO Signature
-#EXTGRP:Playlist🇮🇩
-http://goldenpro.xyz:80/live/194679431759017/8173373055/1247982.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="Playlist🇮🇩",HBO Signature
+http:/goldenpro.xyz:80/live/194679431759017/8173373055/1247982.ts
 
-#EXTINF:0,CINEMAX
-#EXTGRP:Playlist🇮🇩
+#EXTINF:-1 site="" site_id="310" xmltv_id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="Playlist🇮🇩", CINEMAX
 http://goldenpro.xyz:80/live/194679431759017/8173373055/1247962.ts
 
 <======= Sports ⚽ ========>
@@ -464,7 +459,7 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148164
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stYijJ1.png" tvg-logo= group-title="Sports ⚽",HUB PREMIER 8
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148165
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/stYijJ1.png" tvg-logo= group-title="LIGA INGGRIS",HUB PREMIER 11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stYijJ1.png" tvg-logo= group-title="Sports ⚽",HUB PREMIER 11
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148166
 
 #EXTINF:-1 group-title="Sports ⚽" group-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",beIN Sports 1
