@@ -237,6 +237,9 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505817.m3u
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd 
 https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci80LzQwMjhjNjg1NmZkMGQ2NmQwMTcwMzQxYmYxMDAwOTA1L21hbmlmZXN0Lm1wZA
 
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" tvg-logo="" group-title="Playlist🇮🇩", Drama Channel
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541186&extension=ts&play_token=J4RzsLFWgA
+
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg" group-title="Playlist🇮🇩", Citra Drama
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -258,6 +261,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541127&extension=ts&play_token=J4RzsLFWgA
 https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
@@ -408,6 +412,30 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
+
+#EXTINF:0,astro Arena
+#EXTGRP:Sports ⚽
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1163983
+
+#EXTINF:0,astro Arena 2
+#EXTGRP:Sports ⚽
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1163657
+
+#EXTINF:0,astro Premier League
+#EXTGRP:Sports ⚽
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1163984
+
+#EXTINF:0,astro Premier League 2
+#EXTGRP:Sports ⚽
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1163986
+
+#EXTINF:0,astro Grandstand
+#EXTGRP:Sports ⚽
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1775977
+
+#EXTINF:0,astro Football
+#EXTGRP:Sports ⚽
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1775978
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="Sports ⚽",HUB PREMIER 1
 http://lunar.pm:8080/Mrdon/4782314540/110288
@@ -1171,9 +1199,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qMarslHjBHlOjzDjVZqs75LTP7NW1zpKbw&s" group-title="Playlist Movie 📺",Thrill ind
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/thrill/manifest.mpd
-
 #EXTINF:-1 group-title="Playlist Movie 📺" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_imc_small.png", IMC
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1276,6 +1301,41 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 http://15.235.181.35/live.ts?channelId=189&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1 
 
+#EXTINF:0,MADE IN HOLLYWOOD
+#EXTGRP:Playlist Movie 📺
+https://connection3-ent-nz.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:0,WEDO MOVIES
+#EXTGRP:Playlist Movie 📺
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomovies-benelux-ono/playlist.m3u8
+
+#EXTINF:-1 group-title="Playlist Movie 📺+", TRACE LATINA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+
+#EXTINF:-1 group-title="Playlist Movie 📺+", TRACE BRAZUCA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+
+#EXTINF:-1 group-title="Playlist Movie 📺+", Outdoor
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="Playlist Movie 📺+", MyTime movie network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Playlist Movie 📺+", CINELIFE
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Playlist Movie 📺+", MOVIESPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Playlist Movie 📺+", RETROCRUSH
+http://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/0/profileManifest.m3u8?
+
+#EXTINF:-1 group-title="Playlist Movie 📺+", ASIANCRUSH
+http://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/sub-0/profileManifest.m3u8?
+
+#EXTINF:-1 group-title="Playlist Movie 📺+", MIDNIGHT PULP
+http://cineverse.g-mana.live/media/579fa853-ff49-426e-bc2d-d16ce9b1bdf6/profile/sub-0/profileManifest.m3u8?
+
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="Playlist Movie 📺",MyTime Movie Network 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 https://mytime-tcl.amagi.tv/playlist.m3u8 
@@ -1373,7 +1433,7 @@ http://cord-cutter.net:8080/live/Ss5DKE/232455/119432.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 http://cord-cutter.net:8080/live/Ss5DKE/232455/119421.ts
 
-#EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="ROCKction" tvg-logo="https://iili.io/JZIC3x9.png" group-title="Playlist Movie 📺", Rock Action v+
+#EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="ROCKction" tvg-logo="https://iili.io/JZIC3x9.png" group-title="Playlist Movie 📺", Rock Action ( v+ )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1398,9 +1458,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060ae0aa740bb/39e0cbc9c8e0477591d7993555146bd6.jpg" group-title="Playlist Movie 📺",Movies News
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
-
-#EXTINF:-1 tvg-id="Zee Bioskop.id" tvg-name="Zee Bioskop.id" tvg-logo="https://i.imgur.com/OjVzvfx.png?v=1.0.0.1" group-title="Playlist Movie 📺", Zee Bioskop
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/zbioskop/manifest.mpd
 
 #EXTINF:-1 tvg-id="Zee Bioskop.id" tvg-name="Zee Bioskop.id" tvg-logo="https://i.imgur.com/OjVzvfx.png?v=1.0.0.1" group-title="Playlist Movie 📺", Zee Bioskop v+
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -1441,6 +1498,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index
 
 #EXTINF:-1 tvg-id="CineEdge.id" tvg-name="CineEdge" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_8.png" group-title="Playlist Movie 📺", CineEdge ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541190&extension=ts&play_token=J4RzsLFWgA
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1453,6 +1511,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index
 
 #EXTINF:-1 tvg-id="Superrix.id" tvg-name="Superrix" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_10.png" group-title="Playlist Movie 📺", Superrix ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541126&extension=ts&play_token=J4RzsLFWgA
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
 
 #EXTINF:-1 tvg-id="BuddyStar.id" tvg-name="Buddy Star" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_9.png" group-title="Playlist Movie 📺", Buddy Star 
