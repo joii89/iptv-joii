@@ -1,10 +1,9 @@
 #EXTM3U billed-msg="Siie Joii"
 
 #EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/ApisTECH.xml.gz"
-#EXTM3U tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="3600"
 #EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" refresh="3600"
 #EXTM3U tvg-url="https://iptv-epg.org/files/epg-id.xml" refresh="3600"
-
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://i.mjh.nz/SamsungTVPlus/all.xml.gz" refresh="24"
 
 
 <======== Playlist🇮🇩 ======>
