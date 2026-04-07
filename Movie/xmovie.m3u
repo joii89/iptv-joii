@@ -34,16 +34,16 @@ _______ movie _________
 #EXTM3U
 
 #EXTINF:-1 type="movie" group-title="" tvg-logo="https:///media/videos/tmb/52444/1.jpg", 1
-https://em-h.phncdn.com/hls/c6251/videos/202601/27/37480305/1080P_4000K_37480305.mp4/index-v1-a1.m3u8?validfrom=1775547989&validto=1775555189&ipa=1&hdl=-1&hash=GW3YQ5B3sMv6RZi1JDV9oSAhNew%3D
+https://minochinos.com/stream/H06vUL5Lj69tkdYE_-yBiw/hjkrhuihghfvu/1775596040/38720518/index-v1-a1.m3u8lidto=1775555189&ipa=1&hdl=-1&hash=GW3YQ5B3sMv6RZi1JDV9oSAhNew%3D
 
-#EXTINF:-1 type="movie" group-title="" tvg-logo="https://javtiful.com/media/videos/tmb/36742/1.jpg", 2
-https://apac2.8d5fff6dafa213ef6b9210db39c5f56e.r2.cloudflarestorage.com/36742.mp4?response-content-disposition=attachment%3B%20filename%3D8ba241716ce430e2731acba8d07d529b.svg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=33bf6a0344f1da7a92b58edb71696011%2F20260331%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260331T090818Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=4421544a52b14f3daabab5b40ab146c5beed81fc7316a20dd128652ca08f636c
+#EXTINF:-1 type="movie" group-title="" tvg-logo="https://tiful.com/media/videos/tmb/36742/1.jpg", 2
+https://minochinos.com/stream/GbSChFh5l3KA3Wx_Ja25aw/hjkrhuihghfvu/1775596154/38999799/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" group-title="" tvg-logo="https://javtiful.com/media/videos/tmb/43143/1.jpg", 3
-https://apac2.8d5fff6dafa213ef6b9210db39c5f56e.r2.cloudflarestorage.com/43143.mp4?response-content-disposition=attachment%3B%20filename%3D6150bf474f35cfe72d60c24f46a991fc.svg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=33bf6a0344f1da7a92b58edb71696011%2F20260331%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260331T091059Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=9ed38b78929809b774a33c83a954e0ca75c5c44133b59b1c6a9520297a821097
+https://minochinos.com/stream/IxSloPjljqKmXvrQd4-LaA/hjkrhuihghfvu/1775596215/39045861/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" group-title="" tvg-logo="https://javtiful.com/media/videos/tmb/87405/1.jpg", 4
-https://apac2.8d5fff6dafa213ef6b9210db39c5f56e.r2.cloudflarestorage.com/87405.mp4?response-content-disposition=attachment%3B%20filename%3D237815456a7459903d344a5caf89d233.svg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=33bf6a0344f1da7a92b58edb71696011%2F20260331%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260331T091302Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=81b0f2cbadc99794664d98aa6576d0dd99137c4c6b851ca4c8f1ac938565fb55
+https://minochinos.com/stream/AeDEE-H0YgftSjJmDXXr_w/hjkrhuihghfvu/1775596467/9434607/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" group-title="" tvg-logo="https://javtiful.com/media/videos/tmb/28652/1.jpg", 5
 https://apac2.8d5fff6dafa213ef6b9210db39c5f56e.r2.cloudflarestorage.com/28652.mp4?response-content-disposition=attachment%3B%20filename%3Dc98cf9a1bc982029683b6b136654777f.svg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=33bf6a0344f1da7a92b58edb71696011%2F20260331%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260331T091444Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=38b020bd25207b7bf98524700a62db78177e099bc126d2ae16db0b92f8d99f77
