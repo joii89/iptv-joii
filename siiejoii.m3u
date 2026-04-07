@@ -1020,7 +1020,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://images.indihometv.com/assets/88_RTV_2025_03_17_14_55_38.png" group-title="Playlist Indonesia🇮🇩", RTV
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
-#EXTINF:-1 group-title="Playlist IndonesiaI🇮🇩" tvg-logo="https://i.postimg.cc/G2wSHkHK/ezgif-737614d035dfd997.png",HBO
+#EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://i.postimg.cc/G2wSHkHK/ezgif-737614d035dfd997.png",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-HBO/playlist.m3u8
 
@@ -1028,7 +1028,7 @@ http://103.58.160.157:8278/720-HBO/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8
 
-#EXTINF:-1 group-title="Playlist IndonesiaI🇮🇩" tvg-logo="https://i.postimg.cc/PfMF5vhb/ezgif-767c5df2b247daf5.png",HBO FAMILY
+#EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://i.postimg.cc/PfMF5vhb/ezgif-767c5df2b247daf5.png",HBO FAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
 
@@ -1041,6 +1041,7 @@ http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 x-tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" group-logo="https://www.google.com/search?client=ms-android-oppo-rvo2&sca_esv=38623c8ca84aacad&udm=2&sxsrf=ANbL-n63SMOKK5Z3ZzDDTFeE9IfzTQpf6Q:1775580302275&q=movie+png&stick=H4sIAAAAAAAAAFvEypmbX5aZqlCQlw4AholH6wwAAAA&source=univ&sa=X&ved=2ahUKEwiJ9r6JmNyTAxXZ1zgGHVrwOSAQrNwCegQIGBAA&biw=423&bih=894&dpr=2.55#sv=CAMSVxoyKhBlLTgyMjhTT0wwclRrQjZNMg44MjI4U09MMHJUa0I2TToOWks3Tm5sWEhTdHkzS00gBCoXCgFzEhBlLTgyMjhTT0wwclRrQjZNGAEwAUoECAEQAhgHIOGkjssISggQAhgBIAIoAQ" group-title="Playlist Indonesia🇮🇩"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
