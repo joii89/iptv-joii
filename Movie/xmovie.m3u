@@ -33,11 +33,11 @@ _______ movie _________
 
 #EXTM3U
 
-#EXTINF:-1 type="movie" group-title="" tvg-logo="https:///media/videos/tmb/52444/1.jpg", 1
-https://minochinos.com/stream/H06vUL5Lj69tkdYE_-yBiw/hjkrhuihghfvu/1775596040/38720518/index-v1-a1.m3u8lidto=1775555189&ipa=1&hdl=-1&hash=GW3YQ5B3sMv6RZi1JDV9oSAhNew%3D
+#EXTINF:-1 type="movie" group-title="" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00727/ipx00727pl.jpg", tsubasa amami
+https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/02/09773/ey5lm9oek49i_x/index-v1-a1.m3u8?t=jEdnNd4OcO9mkFNY5YBP9W5dTN-ZYjzBSCTlyhGN5Ng&s=1775580843&e=10800&f=48866617&srv=1055&asn=&sp=5500&p=0
 
-#EXTINF:-1 type="movie" group-title="" tvg-logo="https://tiful.com/media/videos/tmb/36742/1.jpg", 2
-https://minochinos.com/stream/GbSChFh5l3KA3Wx_Ja25aw/hjkrhuihghfvu/1775596154/38999799/index-v1-a1.m3u8
+#EXTINF:-1 type="movie" group-title="" tvg-logo="https://pics.dmm.co.jp/digital/video/ipzz00732/ipzz00732pl.jpg", Kanon Hinano
+https://edge1-madrid-sprintcdn.r66nv9ed.com/hls2/04/11038/gz8l6eob8us0_h/index-v1-a1.m3u8?t=CicYVLt_dK0NPxtYQVbq3jz0EzO8juW1nutminXYI9A&s=1775581121&e=10800&f=55191080&srv=1050&asn=&sp=4000&p=0
 
 #EXTINF:-1 type="movie" group-title="" tvg-logo="https://javtiful.com/media/videos/tmb/43143/1.jpg", 3
 https://minochinos.com/stream/IxSloPjljqKmXvrQd4-LaA/hjkrhuihghfvu/1775596215/39045861/index-v1-a1.m3u8
