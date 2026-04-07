@@ -1850,112 +1850,282 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/ind
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
 
-________MOVIE SATURDAY_____
+________MOVIE________
 
 #EXTM3U
 #EXTINF:-1 type="movie
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/42/e5/86/42e5861285ea9843c18aa01c1d1d26ce.jpg" group-title="MOVIE SATURDAY", The home 2025
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/42/e5/86/42e5861285ea9843c18aa01c1d1d26ce.jpg" group-title="MOVIE", The home 2025
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/15/The.Home.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/63/ef/58/63ef5831561d62fcafbe7e3437c3d665.jpg" group-title="MOVIE SATURDAY", Know What You Did Last Summer (2025)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/63/ef/58/63ef5831561d62fcafbe7e3437c3d665.jpg" group-title="MOVIE", Know What You Did Last Summer (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/15/I.Know.What.You.Did.Last.Summer.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/ca/35/b6/ca35b6c7dba9d2b4f7a0d069c2437e93.jpg" group-title="MOVIE SATURDAY", I Am What I Am 2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/ca/35/b6/ca35b6c7dba9d2b4f7a0d069c2437e93.jpg" group-title="MOVIE", I Am What I Am 2
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/15/Xiong.shi.shao.nian.2.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/74/b7/db/74b7dbdaeac0c74e7a1673879f03961f.jpg" group-title="MOVIE SATURDAY", Red sonja 2025
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/74/b7/db/74b7dbdaeac0c74e7a1673879f03961f.jpg" group-title="MOVIE", Red sonja 2025
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/13/Red.Sonja.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/0c/42/5b/0c425b5d05af70f62420d6dd9b3bcc74.jpg" group-title="MOVIE SATURDAY", Nobody 2 2025
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/0c/42/5b/0c425b5d05af70f62420d6dd9b3bcc74.jpg" group-title="MOVIE", Nobody 2 2025
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/13/Nobody.2.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/6e/ab/a6/6eaba6133685cab4e4008dd5fa6040df.jpg" group-title="MOVIE SATURDAY", Noise 2025
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/6e/ab/a6/6eaba6133685cab4e4008dd5fa6040df.jpg" group-title="MOVIE", Noise 2025
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/13/Noijeu.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/28/f6/11/28f611e1a287976270e1428e36727495.jpg" group-title="MOVIE SATURDAY", Best Wishes to All
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/28/f6/11/28f611e1a287976270e1428e36727495.jpg" group-title="MOVIE", Best Wishes to All
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/13/Best.Wishes.to.All.2024.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/1b/e1/5f/1be15f5b4943399965b1f5b5863d6d4e.jpg" group-title="MOVIE SATURDAY", The A-Frame
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/13/The.A.Frame.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/90/df/05/90df05d549151cde0c1f244f1479ed9c.jpg" group-title="MOVIE SATURDAY", Kabir Azabi Insi ve Cinni
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/90/df/05/90df05d549151cde0c1f244f1479ed9c.jpg" group-title="MOVIE", Kabir Azabi Insi ve Cinni
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/13/Kabir.Azabi.Insi.ve.Cinni.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fd/89/10/fd8910f50810b771288a2f8b4ac31d2f.jpg" group-title="MOVIE SATURDAY", Queen of Bones 2025
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fd/89/10/fd8910f50810b771288a2f8b4ac31d2f.jpg" group-title="MOVIE", Queen of Bones 2025
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/12/Queen.of.Bones.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/9d/2d/af/9d2daf2088a78d31f3e4d1f469f72fe2.jpg" group-title="MOVIE SATURDAY", The Exit 8 (2025)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/9d/2d/af/9d2daf2088a78d31f3e4d1f469f72fe2.jpg" group-title="MOVIE", The Exit 8 (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/12/8ban.deguchi.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/64/d9/b2/64d9b27b6bee95b9a3f72b7239f59562.jpg" group-title="MOVIE SATURDAY", Ghost Train (2025)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/64/d9/b2/64d9b27b6bee95b9a3f72b7239f59562.jpg" group-title="MOVIE", Ghost Train (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/12/Ghost.Train.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/4b/7f/41/4b7f413eb7d766b855c41a01eaeb9ace.jpg" group-title="MOVIE SATURDAY", Woodwalkers
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/4b/7f/41/4b7f413eb7d766b855c41a01eaeb9ace.jpg" group-title="MOVIE", Woodwalkers
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/12/Woodwalkers.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/1b/2f/16/1b2f167b2c7dc95f3a95bdc43293ef80.jpg" group-title="MOVIE SATURDAY", Eenie Meanie (2025)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/1b/2f/16/1b2f167b2c7dc95f3a95bdc43293ef80.jpg" group-title="MOVIE", Eenie Meanie (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/11/Eenie.Meanie.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/06/65/2e/06652e7b42853681e18b31e3d8595982.jpg" group-title="MOVIE SATURDAY", Abandoned Man 2025
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/06/65/2e/06652e7b42853681e18b31e3d8595982.jpg" group-title="MOVIE", Abandoned Man 2025
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/11/Abandoned.Man.2025.mp4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/54/01/40/5401404c77158e5dfdc6aa9b242cdc80.jpg" group-title="MOVIE SATURDAY", Singsot Siulan Kematian
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/54/01/40/5401404c77158e5dfdc6aa9b242cdc80.jpg" group-title="MOVIE", Singsot Siulan Kematian
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401721890.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/38/cc/41/38cc418f11b9106779b7415fc3555b53.jpg" group-title="MOVIE SATURDAY",Rambut Kafan
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/38/cc/41/38cc418f11b9106779b7415fc3555b53.jpg" group-title="MOVIE",Rambut Kafan
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401688944.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/8f/d9/c1/8fd9c1f172ca4981ed7940ab48da30d2.jpg" group-title="MOVIE SATURDAY",Azzamine
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/8f/d9/c1/8fd9c1f172ca4981ed7940ab48da30d2.jpg" group-title="MOVIE",Azzamine
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587364.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/cd/5b/99/cd5b99d486904fbf06b566b52d2899fc.jpg" group-title="MOVIE SATURDAY",Blood Star
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/cd/5b/99/cd5b99d486904fbf06b566b52d2899fc.jpg" group-title="MOVIE",Blood Star
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587365.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/cd/6e/51/cd6e513bda3ec1bb4296b3e26a5299b2.jpg" group-title="MOVIE SATURDAY",Golam
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/cd/6e/51/cd6e513bda3ec1bb4296b3e26a5299b2.jpg" group-title="MOVIE",Golam
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587906.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/3a/89/f1/3a89f1555904412ebb8b483550a7d1b6.jpg" group-title="MOVIE SATURDAY",Get Away
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/3a/89/f1/3a89f1555904412ebb8b483550a7d1b6.jpg" group-title="MOVIE",Get Away
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587905.mkv
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/4f/8c/1a/4f8c1a6b4c8fdd9097b0e2a6c1c02081.jpg" group-title="MOVIE SATURDAY",Home Sweet Loan
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/4f/8c/1a/4f8c1a6b4c8fdd9097b0e2a6c1c02081.jpg" group-title="MOVIE",Home Sweet Loan
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587908.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/09/5e/57/095e574d54b976466d7b927a23bb7445.jpg" group-title="MOVIE SATURDAY",Into the Deep
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/09/5e/57/095e574d54b976466d7b927a23bb7445.jpg" group-title="MOVIE",Into the Deep
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587909.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/58/bb/4c/58bb4cd912d907f8f69744ae5cddf4a5.jpg" group-title="MOVIE SATURDAY",Sleeping Beauties
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/58/bb/4c/58bb4cd912d907f8f69744ae5cddf4a5.jpg" group-title="MOVIE",Sleeping Beauties
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587913.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/cc/d1/19/ccd11978f0aaef79b5910ea2c5023f23.jpg" group-title="MOVIE SATURDAY",Suami Yang Lain
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/cc/d1/19/ccd11978f0aaef79b5910ea2c5023f23.jpg" group-title="MOVIE",Suami Yang Lain
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587915.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/2d/76/25/2d762563376ba25c7fe2986582933270.jpg" group-title="MOVIE SATURDAY",Sunray Fallen Soldier
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/2d/76/25/2d762563376ba25c7fe2986582933270.jpg" group-title="MOVIE",Sunray Fallen Soldier
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587916.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/96/4c/2a/964c2a1bfb20c52e619081343178155f.jpg" group-title="MOVIE SATURDAY",The Order
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/96/4c/2a/964c2a1bfb20c52e619081343178155f.jpg" group-title="MOVIE",The Order
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587918.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/34/3f/4c/343f4ce063d77b3637903596fd19036c.jpg" group-title="MOVIE SATURDAY",Vlad the Impaler
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/34/3f/4c/343f4ce063d77b3637903596fd19036c.jpg" group-title="MOVIE",Vlad the Impaler
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587919.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/46/43/2e/46432ea9e792fd0539d8367ad6bcc885.jpg" group-title="MOVIE SATURDAY",Wake Up
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/46/43/2e/46432ea9e792fd0539d8367ad6bcc885.jpg" group-title="MOVIE",Wake Up
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587920.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d3/f8/11/d3f81140410a281bc1822c25d5d51657.jpg" group-title="MOVIE SATURDAY",Rasuk
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d3/f8/11/d3f81140410a281bc1822c25d5d51657.jpg" group-title="MOVIE",Rasuk
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401620781.mkv
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/9c/91/a1/9c91a1c887e2ba3afa36e2f790923b1e.jpg" group-title="MOVIE SATURDAY",Tastes of Horror
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/9c/91/a1/9c91a1c887e2ba3afa36e2f790923b1e.jpg" group-title="MOVIE",Tastes of Horror
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401588167.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/2e/1b/be/2e1bbea5605a31b77f8e4c89ca84c98c.jpg" group-title="MOVIE SATURDAY",Cinta Dari Timor
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/2e/1b/be/2e1bbea5605a31b77f8e4c89ca84c98c.jpg" group-title="MOVIE",Cinta Dari Timor
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401566071.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/36/49/94/364994b8523ac7bd43b69caf123672a3.jpg" group-title="MOVIE SATURDAY",Edward Scissorhands
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/36/49/94/364994b8523ac7bd43b69caf123672a3.jpg" group-title="MOVIE",Edward Scissorhands
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401576621.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/23/50/cb/2350cbe94cad74de355a987a28d14fb0.jpg" group-title="MOVIE SATURDAY",Hunting With Tigers
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/23/50/cb/2350cbe94cad74de355a987a28d14fb0.jpg" group-title="MOVIE",Hunting With Tigers
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563380.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/3e/e2/7a/3ee27a0c5cba7c291e01a0dbe3e3cef6.jpg" group-title="MOVIE SATURDAY",Kahar Kapla High Council
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/3e/e2/7a/3ee27a0c5cba7c291e01a0dbe3e3cef6.jpg" group-title="MOVIE",Kahar Kapla High Council
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401567803.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/df/c8/c6/dfc8c61fe120745301679b50a0905cc3.jpg" group-title="MOVIE SATURDAY",Mount Kawi
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/df/c8/c6/dfc8c61fe120745301679b50a0905cc3.jpg" group-title="MOVIE",Mount Kawi
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401575732.mkv
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/63/98/8f/63988f21d211eee900823ee0b992931e.jpg" group-title="MOVIE SATURDAY",Pelet Tali Pocong
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/63/98/8f/63988f21d211eee900823ee0b992931e.jpg" group-title="MOVIE",Pelet Tali Pocong
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401572086.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/90/d3/64/90d36426e5c5f229d42ea01115f125b8.jpg" group-title="MOVIE SATURDAY",Pilot
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/90/d3/64/90d36426e5c5f229d42ea01115f125b8.jpg" group-title="MOVIE",Pilot
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401575733.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/1c/6e/80/1c6e80226f4a258350156517c98d8995.jpg" group-title="MOVIE SATURDAY",Sorgavaasal
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/1c/6e/80/1c6e80226f4a258350156517c98d8995.jpg" group-title="MOVIE",Sorgavaasal
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401572088.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d7/13/d7/d713d737706bdc122f0f12c6ae83b857.jpg" group-title="MOVIE SATURDAY",Sumala
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d7/13/d7/d713d737706bdc122f0f12c6ae83b857.jpg" group-title="MOVIE",Sumala
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401585133.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/e5/5f/89/e55f893a2fb86683bd367d9da8492d8e.jpg" group-title="MOVIE SATURDAY",The Apprentice
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/e5/5f/89/e55f893a2fb86683bd367d9da8492d8e.jpg" group-title="MOVIE",The Apprentice
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401572089.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/65/0d/bf/650dbfb60e7ba8516836a3bdb35f8acc.jpg" group-title="MOVIE SATURDAY",Anaconda
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/65/0d/bf/650dbfb60e7ba8516836a3bdb35f8acc.jpg" group-title="MOVIE",Anaconda
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401575730.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d0/52/79/d052795feb7b7b3a9622796c388fe324.jpg" group-title="MOVIE SATURDAY",The Con Artists
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d0/52/79/d052795feb7b7b3a9622796c388fe324.jpg" group-title="MOVIE",The Con Artists
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563375.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/db/0c/da/db0cdacf3595910414e47d3d5474ad26.jpg" group-title="MOVIE SATURDAY",The Limit 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/db/0c/da/db0cdacf3595910414e47d3d5474ad26.jpg" group-title="MOVIE",The Limit 
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563378.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/20/50/49/205049d0d65e7826a505ffe8e286625f.jpg" group-title="MOVIE SATURDAY",The Paradise of Thorns (recomen)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/20/50/49/205049d0d65e7826a505ffe8e286625f.jpg" group-title="MOVIE",The Paradise of Thorns (recomen)
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563379.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/70/36/5c/70365c60aa6274bc6179d93b1b78f4e2.jpg" group-title="MOVIE SATURDAY",Tujuh Hari Untuk Keshia
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/70/36/5c/70365c60aa6274bc6179d93b1b78f4e2.jpg" group-title="MOVIE",Tujuh Hari Untuk Keshia
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401575734.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/87/bc/16/87bc168b4cde9566d732485d4980b46e.jpg" group-title="MOVIE SATURDAY",Uang Panai 2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/87/bc/16/87bc168b4cde9566d732485d4980b46e.jpg" group-title="MOVIE",Uang Panai 2
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563382.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f8/cb/0c/f8cb0c0e0dd5ab2079909408cf0a5b5e.jpg" group-title="MOVIE SATURDAY",Tulang Belulang Tulang
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f8/cb/0c/f8cb0c0e0dd5ab2079909408cf0a5b5e.jpg" group-title="MOVIE",Tulang Belulang Tulang
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563381.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/56/2d/f5/562df5fcadd3a37b9b4fc1d58fb8bc6d.jpg" group-title="MOVIE SATURDAY",Unstoppable
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/56/2d/f5/562df5fcadd3a37b9b4fc1d58fb8bc6d.jpg" group-title="MOVIE",Unstoppable
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401567805.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/e3/ae/dc/e3aedc5ff2c9204ad8b311e1701f7a6f.jpg" group-title="MOVIE SATURDAY",Vazhiye
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/e3/ae/dc/e3aedc5ff2c9204ad8b311e1701f7a6f.jpg" group-title="MOVIE",Vazhiye
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563384.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/204393941/eb24bf06559f6833b9d6e413b49abedb94993779" group-title="VOD VIU", Love Clinique
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166234513&quality=s240p&product_id=2576995&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166234510/1166235143/e995772c3f8cac3c4df6be1805caeb638817c94f" group-title="VOD VIU", Office
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166234510&quality=s240p&product_id=2576989&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/1897725856/6741b96ea87dc591f28eabf7a401fb1e2624b8d4" group-title="VOD VIU", The Accidental Detective
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166212435&quality=s240p&product_id=2407924&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/984906000/9ab905ec94abe2ac16dbd53d77537b5da57dee65" group-title="VOD VIU", Return of the Mafia
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166234512&quality=s240p&product_id=2576998&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/4226015141/a0938bdeb7edd6922ebb54757a9508948d215092" group-title="VOD VIU", Code Name: Jackal
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166234511&quality=s240p&product_id=2576992&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/1581662655/7ad1153fd4be35ce66ea1e8b60a9ca235e2660da" group-title="VOD VIU", Handsome Guys Movie
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166233531&quality=s240p&product_id=2572262&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/2737472757/a704e2a592f9bda3a330f00a8946efff6ea90355" group-title="VOD VIU", The Bad Guys: Reign of Chaos
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166233533&quality=s240p&product_id=2572259&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166229450/1166232271/32993e5e0d48adda873a0cf530b678afcb51c45d" group-title="VOD VIU", Pilot
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166229450&quality=s240p&product_id=2553320&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166229449/1166231018/26fa853a47d5df6d8c80f295942cf871d7d5c82e" group-title="VOD VIU", Escape
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166229449&quality=s240p&product_id=2553315&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/376549311/9f78e3c48be663d470e17fb20b3d158ae4ddda8c" group-title="VOD VIU", Mama
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166229731&quality=s240p&product_id=2554208&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166229451/1166230225/05d5f707191e89125ccb051834d47807742ebf45" group-title="VOD VIU", Sori: Voice From The Heart
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166229451&quality=s240p&product_id=2553324&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166223065/1166227485/eb97758b5775a8d0624ecab119f98b6e80b8f24e" group-title="VOD VIU", The Roundup: Punishment
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166223065&quality=s240p&product_id=2525584&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166223070/1166227481/e60c3621b4d03109954dfc231180d750235360e7" group-title="VOD VIU", Drive
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166223070&quality=s240p&product_id=2526145&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166223109/1166225328/8ee3b6df5632d06e3794d972351ea2e16c50d2ad" group-title="VOD VIU", The Pirates
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166223109&quality=s240p&product_id=2526150&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/2283186222/472f5890b5db6efea3812a37142d098c10f8606a" group-title="VOD VIU", The Fatal Encounter
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166221340&quality=s240p&product_id=2518886&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/779028039/84919400e95ab0837e96732520bd23908c30f1c0" group-title="VOD VIU", The Following
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166221235&quality=s240p&product_id=2517942&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3805937862/625067b8c115fc60bda4951e80b39233dbcdaccb" group-title="VOD VIU", Citizen of A Kind
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166221234&quality=s240p&product_id=2518857&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/991436112/5f67a48c01be456df0b5fc00e51326ba505605d2" group-title="VOD VIU", Memories of the Sword
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166221344&quality=s240p&product_id=2518456&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1165728491/1165751756/8754fb8a39e5ad36e1aea995e0f547d0ec775c3e" group-title="VOD VIU", Veteran
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1165728491&quality=s240p&product_id=1784830
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166199490/1166201126/4c12815df66aff1b6f04fd83c9db042e9c156702" group-title="VOD VIU", Race to Freedom: Um Bok Dong
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166199490&quality=s240p&product_id=2359987&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/2163520633/14c43e9a2f71f80bb18fdc362738993dce899c63" group-title="VOD VIU", Exhuma
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166214923&quality=s240p&product_id=2428484&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166214921/1166220284/90958c6d62f43131c576917cbc3615bb52f7e1d2" group-title="VOD VIU", Bottom of the Water
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166214921&quality=s240p&product_id=2428476&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/1344725207/26aec5aebe944d3e4dbe64f6d182f181277e00cc" group-title="VOD VIU", Love My Scent
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166212426&quality=s240p&product_id=2407570&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/2633366886/66bd18324296dc1a322e9158b0b2f200561d7121" group-title="VOD VIU", The Boys
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166212425&quality=s240p&product_id=2407562&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/1063284376/442962aef447f2f1013faf881a177ae849451a55" group-title="VOD VIU", Miracle in Cell No.7
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166212427&quality=s240p&product_id=2407566&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1163684872/1163695360/f9f0c7dbcfef8f3b217215226f56995990994621" group-title="VOD VIU", Train to Busan
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166212480&quality=s240p&product_id=2415348&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3902725545/9cd293959fe7b4b8131cfbe3868b4efddd27fda9" group-title="VOD VIU", 12.12: The Day
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166208391&quality=s240p&product_id=2399631&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166208386/1166211088/8ebf888be17f49da9687d71b831f68ec1377c4a8" group-title="VOD VIU", Noryang: Deadly Sea
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166208386&quality=s240p&product_id=2396832&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/808273927/d5661f59f71ea18cd3cd34f5c292204f0d8fe3c8" group-title="VOD VIU", Steel Rain: Summit
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166208390&quality=s240p&product_id=2399627&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166203993/1166204197/467f682040390e9835f42ff983fec307f07c461e" group-title="VOD VIU", Deadman
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166203993&quality=s240p&product_id=2379509&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166203992/1166204194/5038bd4ffd4263802c7116d654106960c6dc1851" group-title="VOD VIU", Where Would You Like To Go?
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166203992&quality=s240p&product_id=2379501&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3766122105/a7e39d7c22c3c32b88e3c510604280306a0dfa24" group-title="VOD VIU", The Tiger
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166203994&quality=s240p&product_id=2379505&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/2995806963/9276a842cd333f4b4cbf79999202c56cbb89f150" group-title="VOD VIU", Our Season
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166199489&quality=s240p&product_id=2359960&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166199482/1166200175/402f1b546a8652b50f4c160d13eb2838aee9f4e2" group-title="VOD VIU", Joseon Chefs
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166199482&quality=s240p&product_id=2359966&lang=Malay
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/1161063199/60ffa39cb9fa55fc649b34c9fb13e8265e1cb7d9" group-title="VOD VIU", Missing You
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166198215&quality=s240p&product_id=2357347&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/4207491442/b8db2224a01c941a46814354397fbfae7b333cd0" group-title="VOD VIU", Love Reset
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166195908&quality=s240p&product_id=2352580&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166191383/1166192281/14a79d08e1c4c1e6c66cb6f53c8d8a460dae7295" group-title="VOD VIU", Dr. Cheon and the Lost Talisman
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166191383&quality=s240p&product_id=2337738&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3744962170/e4d890af5b258c61f705295efdbcc1d270284f80" group-title="VOD VIU", Single in Seoul
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166184171&quality=s240p&product_id=2315450&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/1145155086/604699929d366d4cddf58a7ed87a212ca2907f77" group-title="VOD VIU", Smugglers
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166179209&quality=s240p&product_id=2302064&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/2019087394/8d8f4645a4e577f43e9bb5f07658b1cf4248b4a7" group-title="VOD VIU", Sleep
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166171734&quality=s240p&product_id=2282679&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/1197163074/012900255d6f88a9cedfac004a05b454dc0b3722" group-title="VOD VIU", The Roundup: No Way Out
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166166392&quality=s240p&product_id=2269474&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/31109125/352f83ce82c33904373fcd58fae1da5c0b7c8cd4" group-title="VOD VIU", My Worst Neighbor
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166157653&quality=s240p&product_id=2253006&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166124325/1166132617/f8f40333b4d5ef1352de7bc01d918f80dbb60de3" group-title="VOD VIU", Deep Trap
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166124325&quality=s240p&product_id=2170913&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166124042/1166125532/4d820737f7560b2118a3a8bc94430d0a20f42543" group-title="VOD VIU", Decibel
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166124042&quality=s240p&product_id=2169576&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166107893/1166114409/765924c03b8dfd1a1efc1a4e735db6f0948f4423" group-title="VOD VIU", Confidential Assignment 2: International
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166107893&quality=s240p&product_id=2125495&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166083010/1166086656/8ce5815cde94000dd6e38b44fb78ec313baa3751" group-title="VOD VIU", Emergency Declaration
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166083010&quality=s240p&product_id=2058857&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166083013/1166088674/67c87a788165cd3f6f9bce2cdf1695d43e5d1408" group-title="VOD VIU", The Goblin
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166083013&quality=s240p&product_id=2058779&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1164061646/1164077208/e3b4a064ee9622f09d45ff8c308709e22521ae22" group-title="VOD VIU", Confidential Assignment
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1164061646&quality=s240p&product_id=1785031&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166055956/1166067763/f82d1176991267d4d6b293c936cb395928178fd4" group-title="VOD VIU", Mourning Grave
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166055956&quality=s240p&product_id=1784504&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166073881/1166082022/aa9232507b54d9f9c2f7ebac1712082f6a9705e1" group-title="VOD VIU", The Witch: Part 2. The Other One
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166073881&quality=s240p&product_id=1784476&lang=Malay
+
+
+
+<======================= Internet Radio ===============================>
+
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="http://p2k.unkris.ac.id/_sepakbola/_baca_image.php?td=12&kodegb=SSFM_Logo.png" group-title="Internet Radio",Suara Surabaya FM
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ea/IRadio_%282012%29.png/400px-IRadio_%282012%29.png" group-title="Internet Radio",iRadio
+https://n0b.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABh1BOeOUAFgc7yqd1wPOUtQ
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Nagaswara-FM-Cirebon.png" group-title="Internet Radio",Nagaswara FM
+https://live.nagaswarafm.com:9900/stream
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/OZ_Radio_bandung.png" group-title="Internet Radio",OZ Radio FM
+http://45.64.97.211:1031/;stream.nsv
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://cimanggubogor.com/wp-content/uploads/2019/03/logo-kisi-fm-bogor.jpg" group-title="Internet Radio",KISI FM Bogor
+http://live.serverstreaming.net:9340/kisifm
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Smooth_fm_jkt.png/" group-title="Internet Radio",KISI FM Bogor
+https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
+
 
 
 
