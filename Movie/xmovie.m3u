@@ -33,8 +33,8 @@ _______ movie _________
 
 #EXTM3U
 
-#EXTINF:-1 type="movie" group-title="" tvg-logo="https://javtiful.com/media/videos/tmb/52444/1.jpg", 1
-https://apac2.8d5fff6dafa213ef6b9210db39c5f56e.r2.cloudflarestorage.com/52444.mp4?response-content-disposition=attachment%3B%20filename%3D1d93af5dd5267c65af359496b6a55014.svg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=33bf6a0344f1da7a92b58edb71696011%2F20260331%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260331T085914Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=0a0ebd04f94700e44eb64758c4ecadc34d939d7a2ad9418749a1c1cd2d930cce
+#EXTINF:-1 type="movie" group-title="" tvg-logo="https:///media/videos/tmb/52444/1.jpg", 1
+https://em-h.phncdn.com/hls/c6251/videos/202601/27/37480305/1080P_4000K_37480305.mp4/index-v1-a1.m3u8?validfrom=1775547989&validto=1775555189&ipa=1&hdl=-1&hash=GW3YQ5B3sMv6RZi1JDV9oSAhNew%3D
 
 #EXTINF:-1 type="movie" group-title="" tvg-logo="https://javtiful.com/media/videos/tmb/36742/1.jpg", 2
 https://apac2.8d5fff6dafa213ef6b9210db39c5f56e.r2.cloudflarestorage.com/36742.mp4?response-content-disposition=attachment%3B%20filename%3D8ba241716ce430e2731acba8d07d529b.svg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=33bf6a0344f1da7a92b58edb71696011%2F20260331%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260331T090818Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=4421544a52b14f3daabab5b40ab146c5beed81fc7316a20dd128652ca08f636c
