@@ -665,10 +665,6 @@ https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 
 #EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://i.postimg.cc/dtHdpBFF/ezgif-728d64a21c1dd42b.png",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-SCTV/playlist.m3u8
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -686,6 +682,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://object.streamized.net/img/sctv.png" group-title="Playlist Indonesia🇮🇩", SCTV (1)
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/1067262.m3u8
 http://103.66.62.83:8000/play/a00z/index.m3u8
+http://103.58.160.157:8278/720-SCTV/playlist.m3u8
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
@@ -707,13 +707,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Playlist Indonesia🇮🇩", Indosiar (1)
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Playlist Indonesia🇮🇩", Indosiar
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/1139211.m3u8
 http://103.146.197.250:25461/live/daeng/tmgrh/16.m3u8
 #http://filex.me:8080/live/000003/000003/302264.m3u8
 #http://xtv.ooo:8080/live/150324003/11150324/350972.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Playlist Indonesia🇮🇩",Indosiar
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Playlist Indonesia🇮🇩",Indosiar ( Dens )
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/indosiar/manifest.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
@@ -764,14 +764,12 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #EXTINF:-1 tvg-id="iNews.IPTV" tvg-name="iNews" tvg-logo="https://object.streamized.net/img/inews.png" group-title="Playlist Indonesia🇮🇩", iNews
 http://103.66.62.83:8000/play/a00d/index.m3u8
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" group-title="Playlist Indonesia🇮🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSOvY5sPc7_Us3FcB3LmdTWWv4TqE9Yh73J0MY1j6X7DM6firo8g-qDUs&s=10",Bioskop Indonesia
-#KODIPROP:inputstreamaddon=inputstream.adaptive #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" group-title="Playlist Indonesia🇮🇩" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5613ec24-ed04-42e5-917b-dee0e0ec074a.png",Bioskop Indonesia
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
+https://cdnjktbpid22.transvision.co.id/riutx01/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" tvg-name="Bioskop Indonesia" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be26e4325724/20200924032733.png" group-title="Playlist Indonesia🇮🇩", Bioskop Indonesia
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1056,18 +1054,30 @@ https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://images.indihometv.com/assets/88_RTV_2025_03_17_14_55_38.png" group-title="Playlist Indonesia🇮🇩", RTV
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://i.postimg.cc/G2wSHkHK/ezgif-737614d035dfd997.png",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-HBO/playlist.m3u8
 
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png",HBO HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8
 
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://i.postimg.cc/PfMF5vhb/ezgif-767c5df2b247daf5.png",HBO FAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
 
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax-asia-us.png",CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
