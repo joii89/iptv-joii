@@ -1980,6 +1980,20 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/11/Eenie.Meani
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/06/65/2e/06652e7b42853681e18b31e3d8595982.jpg" group-title="MOVIE", Abandoned Man 2025
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/11/Abandoned.Man.2025.mp4/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 type="movies" tvg-logo="https://www.visionplus.id/images/repository/722/199722-BACKGROUND-m.jpg" group-title="MOVIE", Cek Toko Sebelah
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b4767b1614e48298f72c25872d411fe:eebd6b4f98e7f12434c949dfd7bb3f9f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/0cbf4cb93156406da0af118d9e169fc4/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+#EXTINF:-1 type="movies" tvg-logo="https://www.visionplus.id/images/repository/401/424401-BACKGROUND-m.jpg" group-title="MOVIE", Rambo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c674487119a54f4cbb9776f179221442:74ae74f26879c0e0bcc0d02e1765eb14
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/7954adb8a8334f2babee763c2a28061f/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/54/01/40/5401404c77158e5dfdc6aa9b242cdc80.jpg" group-title="MOVIE", Singsot Siulan Kematian
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401721890.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/38/cc/41/38cc418f11b9106779b7415fc3555b53.jpg" group-title="MOVIE",Rambut Kafan
