@@ -445,29 +445,21 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
 
-#EXTINF:0,astro Arena
-#EXTGRP:Sports ⚽
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1163983
+#EXTINF:-1 group-title="Sports ⚽" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-premier-league-uk.png", SKY SPORTS Premier League DE
+http://lunar.pm:8080/live/Mrdon/4782314540/100773.ts
+#http://myxpanel.pro/faith/faith/276905
+#http://tv.cloudcdn.me/live.ts?channelId=286&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-id="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/sky-sport-tennis-de.png" group-title="Sports ⚽",SKY SPORTS Tennis
+http://myxpanel.pro/faith/faith/318044
+#EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-logo="https://iili.io/JpwYNG2.png" group-title="Sports ⚽",SKY SPORTS FOOTBALL
+http://myxpanel.pro/faith/faith/276923
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="Sports ⚽",Sky Sports F1 FHD
+https://7pal.short.gy/ssportsf1
+http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&stream=83453&extension=ts&play_token=mymyyQbOgU
 
-#EXTINF:0,astro Arena 2
-#EXTGRP:Sports ⚽
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1163657
-
-#EXTINF:0,astro Premier League
-#EXTGRP:Sports ⚽
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1163984
-
-#EXTINF:0,astro Premier League 2
-#EXTGRP:Sports ⚽
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1163986
-
-#EXTINF:0,astro Grandstand
-#EXTGRP:Sports ⚽
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1775977
-
-#EXTINF:0,astro Football
-#EXTGRP:Sports ⚽
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1775978
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="Sports ⚽", SkySportMotoGP
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="Sports ⚽",HUB PREMIER 1
 http://lunar.pm:8080/Mrdon/4782314540/110288
