@@ -2014,31 +2014,31 @@ https://d2tolhxlph2dpt.cloudfront.net/out/v1/0cbf4cb93156406da0af118d9e169fc4/7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tolhxlph2dpt.cloudfront.net/out/v1/7954adb8a8334f2babee763c2a28061f/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/54/01/40/5401404c77158e5dfdc6aa9b242cdc80.jpg" group-title="MOVIE", Singsot Siulan Kematian
+#EXTINF:-1 type="movies" tvg-logo="https://i.pinimg.com/474x/54/01/40/5401404c77158e5dfdc6aa9b242cdc80.jpg" group-title="MOVIE", Singsot Siulan Kematian
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401721890.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/38/cc/41/38cc418f11b9106779b7415fc3555b53.jpg" group-title="MOVIE",Rambut Kafan
+#EXTINF:-1 type="movies" tvg-logo="https://i.pinimg.com/736x/38/cc/41/38cc418f11b9106779b7415fc3555b53.jpg" group-title="MOVIE",Rambut Kafan
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401688944.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/8f/d9/c1/8fd9c1f172ca4981ed7940ab48da30d2.jpg" group-title="MOVIE",Azzamine
+#EXTINF:-1 type="movies" tvg-logo="https://i.pinimg.com/474x/8f/d9/c1/8fd9c1f172ca4981ed7940ab48da30d2.jpg" group-title="MOVIE",Azzamine
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587364.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/cd/5b/99/cd5b99d486904fbf06b566b52d2899fc.jpg" group-title="MOVIE",Blood Star
+#EXTINF:-1 type="movies" tvg-logo="https://i.pinimg.com/474x/cd/5b/99/cd5b99d486904fbf06b566b52d2899fc.jpg" group-title="MOVIE",Blood Star
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587365.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/cd/6e/51/cd6e513bda3ec1bb4296b3e26a5299b2.jpg" group-title="MOVIE",Golam
+#EXTINF:-1 type="movies" tvg-logo="https://i.pinimg.com/474x/cd/6e/51/cd6e513bda3ec1bb4296b3e26a5299b2.jpg" group-title="MOVIE",Golam
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587906.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/3a/89/f1/3a89f1555904412ebb8b483550a7d1b6.jpg" group-title="MOVIE",Get Away
+#EXTINF:-1 type="movies" tvg-logo="https://i.pinimg.com/474x/3a/89/f1/3a89f1555904412ebb8b483550a7d1b6.jpg" group-title="MOVIE",Get Away
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587905.mkv
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/4f/8c/1a/4f8c1a6b4c8fdd9097b0e2a6c1c02081.jpg" group-title="MOVIE",Home Sweet Loan
+#EXTINF:-1 type="movies" tvg-logo="https://i.pinimg.com/474x/4f/8c/1a/4f8c1a6b4c8fdd9097b0e2a6c1c02081.jpg" group-title="MOVIE",Home Sweet Loan
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587908.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/09/5e/57/095e574d54b976466d7b927a23bb7445.jpg" group-title="MOVIE",Into the Deep
+#EXTINF:-1 type="movies" tvg-logo="https://i.pinimg.com/474x/09/5e/57/095e574d54b976466d7b927a23bb7445.jpg" group-title="MOVIE",Into the Deep
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587909.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/58/bb/4c/58bb4cd912d907f8f69744ae5cddf4a5.jpg" group-title="MOVIE",Sleeping Beauties
+#EXTINF:-1 type="movies" tvg-logo="https://i.pinimg.com/474x/58/bb/4c/58bb4cd912d907f8f69744ae5cddf4a5.jpg" group-title="MOVIE",Sleeping Beauties
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587913.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/cc/d1/19/ccd11978f0aaef79b5910ea2c5023f23.jpg" group-title="MOVIE",Suami Yang Lain
+#EXTINF:-1 type="movies" tvg-logo="https://i.pinimg.com/474x/cc/d1/19/ccd11978f0aaef79b5910ea2c5023f23.jpg" group-title="MOVIE",Suami Yang Lain
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587915.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/2d/76/25/2d762563376ba25c7fe2986582933270.jpg" group-title="MOVIE",Sunray Fallen Soldier
+#EXTINF:-1 type="movies" tvg-logo="https://i.pinimg.com/474x/2d/76/25/2d762563376ba25c7fe2986582933270.jpg" group-title="MOVIE",Sunray Fallen Soldier
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587916.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/96/4c/2a/964c2a1bfb20c52e619081343178155f.jpg" group-title="MOVIE",The Order
+#EXTINF:-1 type="movies" tvg-logo="https://i.pinimg.com/474x/96/4c/2a/964c2a1bfb20c52e619081343178155f.jpg" group-title="MOVIE",The Order
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587918.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/34/3f/4c/343f4ce063d77b3637903596fd19036c.jpg" group-title="MOVIE",Vlad the Impaler
+#EXTINF:-1 type="movies" tvg-logo="https://i.pinimg.com/474x/34/3f/4c/343f4ce063d77b3637903596fd19036c.jpg" group-title="MOVIE",Vlad the Impaler
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587919.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/46/43/2e/46432ea9e792fd0539d8367ad6bcc885.jpg" group-title="MOVIE",Wake Up
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587920.mp4
