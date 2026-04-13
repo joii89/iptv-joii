@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 type="movie" group-title="" tvg-logo="https://s2.dmcdn.net/v/ULhN51ZevU5LLFlyQ/x240", Album
-https://vod3.cf.dmcdn.net/sec2(T-IU3jVhAEJUGPvYwZzeiAUwRjLkcKj3TmCyNZDg31H8HUJFfiMRd97q6RNAq-_zsRuYow0pUyaL3JVaD9g0i54UipNGD3WmI6QgkzNnWLRXv1T_zQ4wxhNY6cGki8LpovQuCZjOG_-pBtfSdULgP3QXwExVewV2EZ1tX0QTQxo)/video/901/999/508999109_mp4_h264_aac.m3u8#cell=cf3
-
 
 #EXTINF:-1 type="movie" group-title="" title-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyDZSSAYlm_qlQhniL_5Z30NbUhyUFz33lGQ&s" tvg-group"", Kabar Aroma Tanah 
 https://api.vidio.com/videos/7194648/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjcxOTQ2NDgiLCJjcmVhdGVkX2F0IjoxNzU2Mzk4MDI0LCJleHRfZHVyYXRpb24iOjYwMH0.heQFbkWiHLEZGOxzPy_N3CcYcQxY65EDl86LcUOQul8
@@ -72,41 +69,6 @@ https://api.vidio.com/videos/1511575/common_tokenized_playlist.m3u8?ott=eyJhbGci
 #EXTVLCOPT:http-referrer=https://vidio.com/
 https://api.vidio.com/videos/1288163/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjEyODgxNjMiLCJjcmVhdGVkX2F0IjoxNzU2NTgwOTIzLCJleHRfZHVyYXRpb24iOjYwMH0.DcZj6QRqhOlUPSfbXDZh48sPZVmIz1_KeR-jeqldYVE
 
-#EXTINF:-1 type="movie" group-title="" title-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkAsp5R3msuMekdhcxofT_aaOlBWGLb0akcO5kAXVXhEfkbbbeOd0W2kL&s=10" tvg-group"", Wakil Rakyat - Live Net
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://vod3.cf.dmcdn.net/sec2(TnXIeTUQMjrltcOYy5y-31EJRYs7RgWjTMYf1LJuQFI9YT16e7I0LkF_Lvr7ttAybXbaSUkFeS_aj5QoTTnQbttCWJata49blHlBwG6k5P8iZd8kVS-pon1PwY9aWwf2xM92LS8UckBoWiELkqdBrs_7UVi4kHlYUOnq7GBn2HY)/video/246/834/192438642_mp4_h264_aac_1.m3u8#cell=cf3
-
-#EXTINF:-1 type="movie" group-title="" title-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkAsp5R3msuMekdhcxofT_aaOlBWGLb0akcO5kAXVXhEfkbbbeOd0W2kL&s=10" tvg-group"", Sumbang Live Monas
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://vod3.cf.dmcdn.net/sec2(rjso-zZeCh0WWNoshI0vWUkeouXwWJ2A-97pBT5-d6jf_JejQ98gvzUdENZGxiJzEzZ4KFIzxLL935wUTcXjDfPEYs7gjCJoph39hQvphyqQ3zRC0fHzZj7o7dImxiAokuyWIaVyEA26DFXEt3W5TAscUnZo1h0Zj3VZFYsYpQs)/video/665/222/496222566_mp4_h264_aac_hd.m3u8#cell=cf3
-
-#EXTINF:-1 type="movie" group-title="" title-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoSG_OzYir2J9izhcpQQpM63jRbWNrOYzKjxUdY0D76QQqJCgkwWLQ2e9K&s=10" tvg-group"", Rubah
-https://vod3.cf.dmcdn.net/sec2(fl-ILlx3SXkr39YxYcc-9tIZYPVOvgdFqj_7VtxQIr9kK_Ll3H5FsL4ZyqDoZacFtv0U38T_ptEygsY6xfNS8s8eoTeYMq3xU4SwN8eA5Zja_-vSJuvSl4D5wD6UjigwguLOPUykyf0FZKoVli3O2pMjBQAu2ijnsP1CpIoITm_RMNxQaSLdkBRuUNyCydUC)/video/866/398/174893668_mp4_h264_aac_hd_1.m3u8#cell=cf3
-
-#EXTINF:-1 type="movie" group-title="" title-logo="" tvg-logo="" tvg-group"", Nak
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://vod3.cf.dmcdn.net/sec2(PN-L9lxABPyAKfMGiX9TqnHoSYvLZRsRs21RlACHMvKBZGSJb9QgoV8-YoKIKLJHAMw_osqu5evjLmHrSum5QLLK_aT9HfTNGEF58phhNdVfTLoaBcgTpGx2kBDNVXtjGq1m7Z5BXVO1gaK0vMoVjNZqzReZ_Z-mafW7W2Om9Do)/video/072/345/123543270_mp4_h264_aac.m3u8#cell=cf3
-
-#EXTINF:-1 type="movie" group-title="" tvg-logo"" tvg-group"", Ft Ipang
-https://vod3.cf.dmcdn.net/sec2(jl5EdWmlwENR7XgqENbfH-Fz-D-NJ2s0p5OdCdNOz31gd7R4MHGHbqycERuItKQPa3-nObhKkwomqoqhTvIpyxVF5-ojaN7vQ7kpD5BWzN8JDtArP5JFuZb97j0fx0LilFLm74ADg-7Fb0gNYlQ84nZmeZjqjxsU2_KSiuWiw9o)/video/359/327/164723953_mp4_h264_aac_2.m3u8#cell=cf3
-
-#EXTINF:-1 type="movie" group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbJa8SOdx9Fm8LBxLt9JyUo0259FGJfK9Vd170HenSkWHeqEBg9MSqlm65&s=10" tvg-group"", Seperti Matahari
-https://vod3.cf.dmcdn.net/sec2(XmWPIPTBfrNgFQuGxN-5BeXzg5y4PjXQGsXbrqKzYGgLpRkbaqCOEbOUF6KMRRfCzbTQo-v64e7H6jiiiZSYtxp6-Evepd6eE3UaePxtGkhBiDEKOJ0Dybd7DWI0RUj16vQ0FjSQ9AoGTRQy2DyBy9p033ETb0eC2a1B4JvlY1Y)/video/055/245/123542550_mp4_h264_aac.m3u8#cell=cf3
-
-#EXTINF:-1 type="movie" group-title="" tvg-logo="" tvg-group"", Senandung Lirih
-https://vod3.cf.dmcdn.net/sec2(-t4jSbrJxILI0NO6lxKvj8jIv6CnYfh0hH9xkUQYrbZWC7Ogu0F9IX9zMFRqOQ08XjSjfARD42ErJ9r97Tu63_WI9S6RtrSGiwJXed1-i2sh1Zqj_Uiam3_uIyH1gYRvD4Hm7dn8TYVLHD-F5sSNbvFcWhQ_7FW3hvvaYrcgoJY)/video/161/708/427807161_mp4_h264_aac.m3u8#cell=cf3
-
-#EXTINF:-1 type="movie" group-title="" title-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKuZKfqAsbqyYlMxGEJSdRuvIJEY4CjQLVtp0lHEEEiXvidf-XUgGe_g&s=10" tvg-group"", Ft SLANK
-https://vod3.cf.dmcdn.net/sec2(4TVM-utW0L0Ooh6Oc1PeJUHuLZug28LjC-7-o2O-Co1bEbXF2kvz9gkDQx8Vjw4ECeyttdmFF1y_MItsqpBpr2ybcbwEKMQ6f_v0oF_6Jv_gGcYOxjh-mWUhoW6rCNH3MLnT5kgmm87GIXlT1XGj7CPVkfFRSrqvXifc2o0i4pA)/video/805/492/444294508_mp4_h264_aac.m3u8#cell=cf3
-https://www.dailymotion.com/cdn/manifest/video/x7ciru4.m3u8?sec=uQ5ORHHJogOEB5ZXWTrtph5BBvNXI_uLZ84o1k8hkfX0PL-js-JsYHjo-eu1WDqg-zS3BG_LJD1SgpOl56opdb-k04sXQ6zSnvkxCiWW0iulC5lcTrPPxjXkPsBs8W7h&dmTs=424012&dmV1st=f4aea67d-08cf-470a-9b37-b0e681c533dc
-
-#EXTINF:-1 type="movie" group-title="" title-logo="" tvg-logo="" tvg-group"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBq6iT5UyRta8G3r5d47Cy48nBv7SQ3Fgi9SbYhFIg65B48QvKt3O8H1Y&s=10", Belum Ada Judul
-https://vod3.cf.dmcdn.net/sec2(rt8s-vcgywfAiwyy10u643YhZUalPE9MwO15NQjGggR7wzgjziD-yyDaWhKn3Iw39hDzcFSqz4J6oY2kdGmJDF6cC_YJ-NIbEx1y58PsVtVEiIaMfZzWrA_MgxZxFIGO1EHOhg_jvfOaFIbW88OTzbm9_QMdKrT8-RDHRPCvGi4)/video/345/329/427923543_mp4_h264_aac.m3u8#cell=cf3
-
-
-#EXTINF:-1 type="movie" group-title="" title-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkAsp5R3msuMekdhcxofT_aaOlBWGLb0akcO5kAXVXhEfkbbbeOd0W2kL&s=10", Ft Ari Lasso - Yang Terlupakan Live Medan
-https://vod3.cf.dmcdn.net/sec2(DX4j7b8VEp1b0lxPzA2U_nP6qmRCNtQ8fPS5DIAUgdUZbxOmT6_CcRNNoJn4UcflgpBubW8o4MDevWOs8yz13bGlzwGEV-EdGy7BXkxGVgGntEUbfG-slHLmvbBNcLBU2p97mXz2aGBpHQ2A58xGRxX0VvletRUxHEK4rMpeTFtZeF7GQHBGC0HjaInnMs17)/video/189/459/190954981_mp4_h264_aac_hq_1.m3u8#cell=cf3
-
 #EXTINF:-1 type="movie" group-title="" title-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQqeXEu8iav-dljQ-mSfQqLl-YtL3mZlTEQ0mxKriBxUnhBXqzCa0Q5c5Y&s=10", Kupu kupu hitam Putih
 https://api.vidio.com/videos/519884/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTg4NCIsImNyZWF0ZWRfYXQiOjE3NTY2NTY2OTEsImV4dF9kdXJhdGlvbiI6NjAwfQ.4l77aS0tUOYKU-7WANC3j_K6wEGFngRAJySkI_pk0GY 
 
@@ -158,8 +120,6 @@ https://api.vidio.com/videos/490840/common_tokenized_playlist.m3u8?ott=eyJhbGciO
 #EXTINF:-1 type="movie" group-title="" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBto40MTD4adEgOlD4uJ4eeHn_3KH0IKiq9A&s", Yang Tersendiri
 https://api.vidio.com/videos/491087/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjQ5MTA4NyIsImNyZWF0ZWRfYXQiOjE3NTY2NjA2OTksImV4dF9kdXJhdGlvbiI6NjAwfQ.pzMW1oCxZJhnr6FMMO2p5Ug61GeqWjWawwjFsg7Hp_o
 
-#EXTINF:-1 type="movie" group-title="" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS912vWMORnqgJcLSDxM0hxGc4EgAB171dpoA&s", Hut TRANS TV
-https://vod3.cf.dmcdn.net/sec2(mZi6acHIRgpjEhFqmsCXB9zzbd3W0prwDqzl6txGtfTZsF2supvTpfetVXT3ft4sLOEJStqkDqE7zzvpcHhlYe2wfLuUuLqQyyOyQjwOVlU34M8p8Slieb1GJPY9fMO0f-s_KFfU-bU4k2nOe09n_tOOs6E4GQm7EnoxVAAyhcU)/video/041/336/74633140_mp4_h264_aac.m3u8#cell=cf3
 
 #EXTINF:-1 type="movie" group-title="" tvg-logo"" 
 
