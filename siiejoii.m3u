@@ -112,7 +112,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="Playlist🇮🇩",RCTI
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://toppng.com/uploads/preview/rcti-tegak-logo-rcti-tegak-11563500815caw6siko4p.png" group-title="Playlist🇮🇩",RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
@@ -140,7 +140,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
  
-#EXTINF:-1 tvg-id="MNCTV" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png" group-title="Playlist🇮🇩", MNCTV
+#EXTINF:-1 tvg-id="MNCTV" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://e7.pngegg.com/pngimages/371/134/png-clipart-mnc-land-media-nusantara-citra-mnc-corporation-mnc-kapital-indonesia-mnc-group-business-text-people.png" group-title="Playlist🇮🇩", MNCTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
