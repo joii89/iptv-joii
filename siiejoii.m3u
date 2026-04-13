@@ -104,7 +104,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/indosiar/manifest.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 site_id="10" tvg-id="SCTV" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/330px-SCTV_Logo.svg.png" group-title="Playlist🇮🇩",SCTV
+#EXTINF:-1 site_id="10" tvg-id="SCTV" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/SCTV_Logo.svg" group-title="Playlist🇮🇩",SCTV
 http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sctv/manifest.mpd
