@@ -685,7 +685,6 @@ https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 
 #EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
 
 #EXTINF:-1 tvg-id="--" group-title="Playlist Indonesia🇮🇩" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png", SCTV ( Digital)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -733,14 +732,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Playlist Indonesia🇮🇩", Indosiar
+http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/1139211.m3u8
 http://103.146.197.250:25461/live/daeng/tmgrh/16.m3u8
-#http://filex.me:8080/live/000003/000003/302264.m3u8
-#http://xtv.ooo:8080/live/150324003/11150324/350972.m3u8
+http://filex.me:8080/live/000003/000003/302264.m3u8
+http://xtv.ooo:8080/live/150324003/11150324/350972.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Playlist Indonesia🇮🇩",Indosiar ( Dens )
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/indosiar/manifest.mpd
+http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
