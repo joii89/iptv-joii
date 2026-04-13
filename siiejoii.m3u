@@ -324,18 +324,38 @@ https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO" x-tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="Playlist🇮🇩", HBO
 http://goldenpro.xyz:80/live/194679431759017/8173373055/1247927.ts
 
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Family" x-tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="Playlist🇮🇩",HBO Family
 http://goldenpro.xyz:80/live/194679431759017/8173373055/1247980.ts
 
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBOHits" x-tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://object-streamo.emonaja.com/img/hbohits.webp" group-title="Playlist🇮🇩", HBO Hits
 http://goldenpro.xyz:80/live/194679431759017/8173373055/1247981.ts
 
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBOSignature" x-tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="Playlist🇮🇩",HBO Signature
 http:/goldenpro.xyz:80/live/194679431759017/8173373055/1247982.ts
 
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Cinemax HD" x-tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="Playlist🇮🇩", CINEMAX
 http://goldenpro.xyz:80/live/194679431759017/8173373055/1247962.ts
 
@@ -656,15 +676,12 @@ https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 #EXTINF:-1 x-tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSog8rJEVcGSK0EMIi9dgpYmYw_5i-uHLuYv9xsixglw&s=10" group-title="Playlist Indonesia🇮🇩"
 
 
-#EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://i.postimg.cc/dtHdpBFF/ezgif-728d64a21c1dd42b.png",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-
 #EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="--" group-title="Playlist Indonesia🇮🇩" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png", SCTV IND
+#EXTINF:-1 tvg-id="--" group-title="Playlist Indonesia🇮🇩" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png", SCTV ( IND )
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXT-X-VERSION:4
@@ -672,7 +689,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:BANDWIDTH=6140692,AVERAGE-BANDWIDTH=6031069,RESOLUTION=1020x720,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://object.streamized.net/img/sctv.png" group-title="Playlist Indonesia🇮🇩", SCTV (1)
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://object.streamized.net/img/sctv.png" group-title="Playlist Indonesia🇮🇩", SCTV
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/1067262.m3u8
 http://103.66.62.83:8000/play/a00z/index.m3u8
 http://103.58.160.157:8278/720-SCTV/playlist.m3u8
@@ -993,11 +1010,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/744044c3985142399fbd466f9f3fd8fa/in
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Playlist Indonesia🇮🇩",CNBC Indonesia 
+#EXTVLCOPT:http-origin=https://www.cnbcindonesia.com
+#EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1242192746_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/01YAHgw.png" group-title="Playlist Indonesia🇮🇩",MAGNA TV (ChannelFeed)
