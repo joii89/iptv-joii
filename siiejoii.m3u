@@ -1321,6 +1321,10 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieDome Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgxTkc5-3HMAF7raMs2HniDl38Ro-DDqDvcNKjP8aXg&s" group-title="Playlist Movie 📺",MovieDome Family 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/NoCJFNZ.png?v=1.0.0.1" group-title="Playlist Movie 📺" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" channel-id="plex.tv.Action.Hollywood.Movies.plex" tvg-id="5e20b730f2f8d5003d739db7-66be944f8711311880995280" tvg-name="Action Hollywood Movies", Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="Playlist Movie 📺", ETV Bioskop
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
