@@ -687,6 +687,7 @@ https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 #EXTM3U
 #EXTINF:-1 x-tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSog8rJEVcGSK0EMIi9dgpYmYw_5i-uHLuYv9xsixglw&s=10" group-title="Playlist Indonesia🇮🇩"
 
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://object.streamized.net/img/sctv.png" group-title="Playlist Indonesia🇮🇩", SCTV
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -698,7 +699,7 @@ http://202.169.224.202:8800/udp/239.9.1.29:1234
 http://202.169.224.202:8800/udp/239.4.4.1:1234
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://object.streamized.net/img/sctv.png" group-title="Playlist Indonesia🇮🇩", SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://object.streamized.net/img/sctv.png" group-title="Playlist Indonesia🇮🇩", SCTV ( 2 )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-SCTV/playlist.m3u8
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/1067262.m3u8
