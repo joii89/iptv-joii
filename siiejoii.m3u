@@ -222,7 +222,7 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" tvg-logo="" group-title="Playlist🇮🇩", Drama Channel
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Logo_Drama_Channel.png" group-title="Playlist🇮🇩", Drama Channel
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541186&extension=ts&play_token=J4RzsLFWgA
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
