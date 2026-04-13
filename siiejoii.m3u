@@ -2089,8 +2089,13 @@ https://api.vidio.com/videos/2329963/common_tokenized_playlist.m3u8?ott=eyJhbGci
 #EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://thumbor.prod.vidiocdn.com/VWrKk_wJPBn2uIrlpKY12uPaWaE=/640x360/filters:quality(70)/vidio-web-prod-media/uploads/2320897/images/ets2_hq_ETS2ead4d91a6a5fa168_640x360-00291.jpg", Album Lagu Terpopuler Iwan Fals (Vol 2) 
 https://api.vidio.com/videos/2320897/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzMjA4OTciLCJjcmVhdGVkX2F0IjoxNzc2MDg0MTg5LCJleHRfZHVyYXRpb24iOjYwMH0.Znz0jvFd1XuM_7CO8-IYAssSSzOVoCXOPKWyXRV46F0
 
-#EXTINF:-1 type="movie" group-title="fals" tvg-logo""
-#EXTINF:-1 type="movie" group-title="fals" tvg-logo""
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://thumbor.prod.vidiocdn.com/9GDT-_nGpY-XQKwA2lyF_3BeOhU=/640x360/filters:quality(70)/vidio-web-prod-media/uploads/2319587/images/ets2_hq_ETS2996aef0185c24e14_640x360-00563.jpg" Album no 1
+https://api.vidio.com/videos/2319587/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzMTk1ODciLCJjcmVhdGVkX2F0IjoxNzc2MDg0MzY1LCJleHRfZHVyYXRpb24iOjYwMH0.44jofRKtb-LSW7V_-yGpMj7eWtmMAPNXtwjW64sfsUw
+
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://thumbor.prod.vidiocdn.com/9GDT-_nGpY-XQKwA2lyF_3BeOhU=/640x360/filters:quality(70)/vidio-web-prod-media/uploads/2319587/images/ets2_hq_ETS2996aef0185c24e14_640x360-00563.jpg" Album Tragedi 
+https://api.vidio.com/videos/2329920/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzMjk5MjAiLCJjcmVhdGVkX2F0IjoxNzc2MDg0Njg3LCJleHRfZHVyYXRpb24iOjYwMH0.UCVoAzawgGgONHOKH0NV8VwTWp1oSqR7rwRY8suPI-c
+
+
 #EXTINF:-1 type="movie" group-title="fals" tvg-logo""
 #EXTINF:-1 type="movie" group-title="fals" tvg-logo""
 
