@@ -2078,11 +2078,22 @@ https://api.vidio.com/videos/490840/common_tokenized_playlist.m3u8?ott=eyJhbGciO
 #EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBto40MTD4adEgOlD4uJ4eeHn_3KH0IKiq9A&s", Yang Tersendiri
 https://api.vidio.com/videos/491087/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjQ5MTA4NyIsImNyZWF0ZWRfYXQiOjE3NTY2NjA2OTksImV4dF9kdXJhdGlvbiI6NjAwfQ.pzMW1oCxZJhnr6FMMO2p5Ug61GeqWjWawwjFsg7Hp_o
 
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://thumbor.prod.vidiocdn.com/np_98bBMXm0GsFGCcYm2K2KyFlg=/640x360/filters:quality(70)/vidio-web-prod-media/uploads/1288163/images/iwan-20fals-20-20cinta-df89-640x360-00016.jpg", Konser Raya 23 Indosiar: Iwan Fals - Cinta
+https://api.vidio.com/videos/1288163/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjEyODgxNjMiLCJjcmVhdGVkX2F0IjoxNzc2MDgzMDU0LCJleHRfZHVyYXRpb24iOjYwMH0.rYK0mUcU8hfavvI5tlLEfE7ACncXRgjzRlh-28XHYFc
 
-#EXTINF:-1 type="movie" group-title="" tvg-logo"" 
 
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo"" 
 
-#EXTINF:-1 type="movie" group-title="" tvg-logo"" 
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo""
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo""
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo""
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo""
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo""
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo""
+
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo""
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo""
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo""
 
 
 #EXTM3U
