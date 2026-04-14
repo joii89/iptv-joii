@@ -1,31 +1,52 @@
-﻿<tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
- <channel id="Animax.id">
-  <display-name>Animax.id</display-name>
- </channel>
- <channel id="ANTV.id">
-  <display-name>ANTV.id</display-name>
- </channel>
- <channel id="beIN SPORTS 2.id">
-  <display-name>beIN SPORTS 2.id</display-name>
- </channel>
- <channel id="beIN SPORTS 3.id">
-  <display-name>beIN SPORTS 3.id</display-name>
- </channel>
- <channel id="beIN SPORTS 4.id">
-  <display-name>beIN SPORTS 4.id</display-name>
- </channel>
- <channel id="beIN SPORTS 5.id">
-  <display-name>beIN SPORTS 5.id</display-name>
- </channel>
- <channel id="beIN SPORTS.id">
-  <display-name>beIN SPORTS.id</display-name>
- </channel>
- <channel id="Cineedge.id">
-  <display-name>Cineedge.id</display-name>
- </channel>
- <channel id="CCM.id">
-  <display-name>CCM.id</display-name>
- </channel>
- <channel id="Celestial Movies.id">
-  <display-name>Celestial Movies.id</display-name>
- </channel>
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
+<channel id="ANTV.id"><display-name>ANTV.id</display-name></channel>
+<channel id="AXN.id"><display-name>AXN.id</display-name></channel>
+<channel id="beIN Sports 1.id"><display-name>beIN Sports 1.id</display-name></channel>
+<channel id="beIN Sports 2.id"><display-name>beIN Sports 2.id</display-name></channel>
+<channel id="beIN Sports 3.id"><display-name>beIN Sports 3.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="CNN.id"><display-name>CNN.id</display-name></channel>
+<channel id="Galaxy Premium.id"><display-name>Galaxy Premium.id</display-name></channel>
+<channel id="Galaxy.id"><display-name>Galaxy.id</display-name></channel>
+<channel id="Garuda TV.id"><display-name>Garuda TV.id</display-name></channel>
+<channel id="GTV.id"><display-name>GTV.id</display-name></channel>
+<channel id="HBO Family.id"><display-name>HBO Family.id</display-name></channel>
+<channel id="HBO Hits.id"><display-name>HBO Hits.id</display-name></channel>
+<channel id="HBO Signature.id"><display-name>HBO Signature.id</display-name></channel>
+<channel id="HBO.id"><display-name>HBO.id</display-name></channel>
+<channel id="HITS Movies.id"><display-name>HITS Movies.id</display-name></channel>
+<channel id="HITS Now.id"><display-name>HITS Now.id</display-name></channel>
+<channel id="HITS.id"><display-name>HITS.id</display-name></channel>
+<channel id="Indosiar.id"><display-name>Indosiar.id</display-name></channel>
+<channel id="iNews.id"><display-name>iNews.id</display-name></channel>
+<channel id="Kompas TV.id"><display-name>Kompas TV.id</display-name></channel>
+<channel id="Lifetime.id"><display-name>Lifetime.id</display-name></channel>
+<channel id="MDTV.id"><display-name>MDTV.id</display-name></channel>
+<channel id="Mentari TV.id"><display-name>Mentari TV.id</display-name></channel>
+<channel id="Metro TV.id"><display-name>Metro TV.id</display-name></channel>
+<channel id="MNC TV.id"><display-name>MNC TV.id</display-name></channel>
+<channel id="Moji.id"><display-name>Moji.id</display-name></channel>
+<channel id="My Cinema Asia.id"><display-name>My Cinema Asia.id</display-name></channel>
+<channel id="My Cinema.id"><display-name>My Cinema.id</display-name></channel>
+<channel id="My Family Channel.id"><display-name>My Family Channel.id</display-name></channel>
+<channel id="My Kidz.id"><display-name>My Kidz.id</display-name></channel>
+<channel id="Nusantara TV.id"><display-name>Nusantara TV.id</display-name></channel>
+<channel id="RCTI.id"><display-name>RCTI.id</display-name></channel>
+<channel id="Rock Action.id"><display-name>Rock Action.id</display-name></channel>
+<channel id="Rock Entertainment.id"><display-name>Rock Entertainment.id</display-name></channel>
+<channel id="RTV.id"><display-name>RTV.id</display-name></channel>
+<channel id="SCTV.id"><display-name>SCTV.id</display-name></channel>
+<channel id="SEA Today.id"><display-name>SEA Today.id</display-name></channel>
+<channel id="Sindonews TV.id"><display-name>Sindonews TV.id</display-name></channel>
+<channel id="SpoTV 2.id"><display-name>SpoTV 2.id</display-name></channel>
+<channel id="SpoTV.id"><display-name>SpoTV.id</display-name></channel>
+<channel id="Trans TV.id"><display-name>Trans TV.id</display-name></channel>
+<channel id="Trans7.id"><display-name>Trans7.id</display-name></channel>
+<channel id="tvN Movies.id"><display-name>tvN Movies.id</display-name></channel>
+<channel id="tvN.id"><display-name>tvN.id</display-name></channel>
+<channel id="TvOne.id"><display-name>TvOne.id</display-name></channel>
+<channel id="TVRI.id"><display-name>TVRI.id</display-name></channel>
+<channel id="VTV.id"><display-name>VTV.id</display-name></channel>
+<channel id="Zee Bioskop.id"><display-name>Zee Bioskop.id</display-name></channel>
