@@ -349,6 +349,12 @@ http://goldenpro.xyz:80/live/194679431759017/8173373055/1247927.ts
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBOSignature" x-tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="Playlist🇮🇩", HBO Signature
+http:/goldenpro.xyz:80/live/194679431759017/8173373055/1247982.ts#EXT-X-VERSION:4
+
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Family" x-tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="Playlist🇮🇩",HBO Family
 http://goldenpro.xyz:80/live/194679431759017/8173373055/1247980.ts
 
@@ -358,13 +364,6 @@ http://goldenpro.xyz:80/live/194679431759017/8173373055/1247980.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBOHits" x-tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://object-streamo.emonaja.com/img/hbohits.webp" group-title="Playlist🇮🇩", HBO Hits
 http://goldenpro.xyz:80/live/194679431759017/8173373055/1247981.ts
-
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBOSignature" x-tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="Playlist🇮🇩", HBO Signature
-http:/goldenpro.xyz:80/live/194679431759017/8173373055/1247982.ts
 
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
@@ -517,12 +516,12 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #EXTINF:-1 group-logo="" group-title="Sports ⚽" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-l.png",beIN SPORTS 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-#https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports ⚽" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-l.png",beIN SPORTS 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-#https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/p7uBqbs.png?v=1.1.1.1" group-title="Sports ⚽" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="beIN.SPORTS.Xtra.en.Español.distro" tvg-name="beIN SPORTS Xtra", beIN SPORTS Xtra en Español
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
@@ -538,7 +537,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mediampd/EUROSPORTHD.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5TtxQOw.png?v=1.0.0.1" group-title="Sports ⚽" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="FightSports.us" tvg-name="FIGHT SPORTS HD", Fight Sports HD
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd|referrer=https://visionplus.id
-ok
+
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qr0o2tP.png?v=1.0.0.1" group-title="Sports ⚽" tvg-id="Motorvision+.id" tvg-name="Motorvision+.id", Motorvision+
@@ -775,13 +774,13 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-RCTI/playlist.m3u8
 
-#EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI
-#KODIPROP:inputstreamaddon=inputstream.adaptive  ( 2 )
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mimipipi22.github.io/logo/nasional/rcti.jpg" group-title="Playlist Indonesia🇮🇩", RCTI ( V+ )
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 https://cdnjktbpid22.transvision.co.id/riutx01/dash/UkNUSS1DaGFubmVs/manifest.mpd
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" group-title="Playlist Indonesia🇮🇩" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5613ec24-ed04-42e5-917b-dee0e0ec074a.png",Bioskop Indonesia
@@ -789,8 +788,8 @@ https://cdnjktbpid22.transvision.co.id/riutx01/dash/UkNUSS1DaGFubmVs/manifest.mp
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://cdnjktbpid22.transvision.co.id/riutx01/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd 
+https://cdnjktbpid22.transvision.co.id/riutx01/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" tvg-name="Bioskop Indonesia" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be26e4325724/20200924032733.png" group-title="Playlist Indonesia🇮🇩", Bioskop Indonesia
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
