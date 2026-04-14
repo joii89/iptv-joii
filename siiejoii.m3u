@@ -1811,105 +1811,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/animax/manifest.mpd
 #EXTINF:-1 group-title="KIDS" tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://object-streamo.emonaja.com/img/animax.png", Animax (Alternative)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
-#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-name="Animax" group-title="KIDS" tvg-logo="https://object-streamo.emonaja.com/img/animax.png", Animax (Japan)
-https://nl.utako.moe/Animax/index.m3u8
-
-#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-name="Animax" group-title="KIDS" tvg-logo="https://object-streamo.emonaja.com/img/animax.png", Animax (Alternative/Japan)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-#EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-logo="https://object-streamo.emonaja.com/img/aniplus.png" group-title="KIDS", Aniplus
-https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest_wuseetv.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="KidsTV.id" tvg-name="Kids TV" tvg-logo="https://object-streamo.emonaja.com/img/kidstv.png" group-title="KIDS", Kids TV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
-
-#EXTINF:-1 tvg-id="Mentari TV.id" tvg-name="Mentari TV" tvg-logo="https://object-streamo.emonaja.com/img/mentaritv.png" group-title="KIDS", Mentari TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
-
-#EXTINF:-1 tvg-id="Mentari TV.id" tvg-name="Mentari TV" tvg-logo="https://object-streamo.emonaja.com/img/mentaritv.png" group-title="KIDS", Mentari TV (Alternative)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvgp.diskon.cloud/red/8237.drm
-http://tvgp.diskon.cloud/red/8237.mpd
-
-#EXTINF:-1 tvg-id="VTV.id" tvg-logo="https://object-streamo.emonaja.com/img/vtv.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="KIDS", VTV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-http://202.169.224.202:8800/udp/239.9.1.39:1234
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTINF:-1 tvg-id="VTV.id" tvg-logo="https://object-streamo.emonaja.com/img/vtv.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="KIDS", VTV (Alternative)
-
-#EXTINF:-1 tvg-chno="43" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="KIDS",Disney Channel
-http://89.105.221.127/Disney/index.m3u8?token=test
-
-#EXTINF:-1 tvg-chno="44" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="KIDS",Disney XD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-https://flv.intechmedia.net/live/ch107.m3u8
-
-#EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://object-streamo.emonaja.com/img/cartoonnetwork.png" group-title="KIDS" tvg-id="Cartoon Network", Cartoon Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
-
-#EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://object-streamo.emonaja.com/img/cartoonnetwork.png" group-title="KIDS" tvg-id="Cartoon Network", Cartoon Network (Alternative)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-CARTOONNETWORK/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://object-streamo.emonaja.com/img/cartoonnetwork.png" group-title="KIDS", Cartoon Network (Philippines)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
-
-#EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://object-streamo.emonaja.com/img/cartoonnetwork.png" group-title="KIDS", Cartoon Network (Thailand)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
-
-#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="https://freem3u.xyz/static/images/global/dreamworks.png" group-title="KIDS", Dreamworks
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
-https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mediampd/DreamWorksHD.mpd
-
-#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="https://freem3u.xyz/static/images/global/dreamworks.png" group-title="KIDS", Dreamworks (Alternative)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecd651d0872c46d6b75a902f3b796e6b:3915b032de12140475d2696ae734cf58
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://object-streamo.emonaja.com/img/nicklodeon.png" group-title="KIDS", Nickelodeon
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
-
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://object-streamo.emonaja.com/img/nicklodeon.png" group-title="KIDS", Nickelodeon (Thailand)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 
 #EXTINF:-1 tvg-id="NickJr" tvg-name="NickJr" tvg-logo="https://object-streamo.emonaja.com/img/nickjr.png" group-title="KIDS", Nick JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1921,11 +1825,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #EXTINF:-1 tvg-id="Nicktoons.mv" tvg-name="Nicktoons" tvg-logo="https://8upload.com/image/681f402bc8357/nicktoonshilay.png" group-title="KIDS", Nicktoons
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 http://41.205.93.154/NICKTOONS/index.m3u8
-
-#EXTINF:-1 tvg-id="Nicktoons.ru" tvg-name="Nicktoons" tvg-logo="https://8upload.com/image/681f402bc8357/nicktoonshilay.png" group-title="KIDS", Nicktoons (Rusia)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3161c6c45076419fbbc333c277a22f65:18827aad7e2e79e526f529fd5027cb47
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561208/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_QZLBFbK9CpK24p82voEY5kBhAbjccrBuw&s" group-title="KIDS",DUNIA ANAK INDI
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1985,72 +1884,7 @@ ________MOVIE________
 #EXTINF:-1 type="movie" group-title="fals" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyDZSSAYlm_qlQhniL_5Z30NbUhyUFz33lGQ&s" tvg-group"", Kabar Aroma Tanah 
 https://api.vidio.com/videos/7194648/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjcxOTQ2NDgiLCJjcmVhdGVkX2F0IjoxNzU2Mzk4MDI0LCJleHRfZHVyYXRpb24iOjYwMH0.heQFbkWiHLEZGOxzPy_N3CcYcQxY65EDl86LcUOQul8
 
-#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Antara_aku_kau_dan_bekas_pacarmu.jpg", Antara Aku Kau dan Bekas Pacarmu
-https://api.vidio.com/videos/519888/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTg4OCIsImNyZWF0ZWRfYXQiOjE3NTYzOTgxMDUsImV4dF9kdXJhdGlvbiI6NjAwfQ.jL9CTNorfgHdFh3AvTXzHpmfAs24PtFEeO0w3ESTsC4
-
-#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://i0.wp.com/s.ytimg.com/vi/f0WYTxt0bXk/mqdefault.jpg?resize=200,200" tvg-group"", Mabuk Cinta
-https://api.vidio.com/videos/519885/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTg4NSIsImNyZWF0ZWRfYXQiOjE3NTYzOTgxODQsImV4dF9kdXJhdGlvbiI6NjAwfQ.IaOdbCNIHCttIfj6om1XueaDpWB5-PiNqFHklNkjtk8
-
-#EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRezBSObCWfQpMjXDZHOzlUF6zMTu_5KdNYEnVAjP3Gsj6-hsZLL2HgjjST&s=10" tvg-group"", Pesawat Tempurku
-https://api.vidio.com/videos/1451517/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjE0NTE1MTciLCJjcmVhdGVkX2F0IjoxNzU2Mzk4NTQxLCJleHRfZHVyYXRpb24iOjYwMH0.MEhye9tZFu2cN5KdXncXsdqEgudLZlzMTpuCEOw7E5Y
-
-#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsFCkjSsYYQi2E3EIcExSHmbt440cHTe7YNDmJVCJB1jslcrKlRFEzzlVR&s=10" tvg-group"", Entah
-https://api.vidio.com/videos/519944/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTk0NCIsImNyZWF0ZWRfYXQiOjE3NTYzOTc2MDMsImV4dF9kdXJhdGlvbiI6NjAwfQ.JYWxPwjA4ql5WK3_aKXjFAWdhNLFo5XRea7g4yKbB0w
-
-#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/87/Iwan_fals_-_manusia_setengah_dewa.jpg" tvg-group"", Manusia 1/2 Dewa
-https://api.vidio.com/videos/519946/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTk0NiIsImNyZWF0ZWRfYXQiOjE3NTYzOTczODQsImV4dF9kdXJhdGlvbiI6NjAwfQ.w1aqm1rbwcPZkWgp0o7OKh4KsSW3U842uC2d471Mqds
-
-#EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuCxDW244Wo3ImmOZsGiOMgbb_hbN-iRrMxfBTvtoZvDTRf_TyH5UY1Rs&s=10" tvg-group"Music",16/10
-https://api.vidio.com/videos/2249577/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIyNDk1NzciLCJjcmVhdGVkX2F0IjoxNzU2Mzk3NDU5LCJleHRfZHVyYXRpb24iOjYwMH0.Dxm9LslBXk6XXuFNsZHn9ocRMq7L9v28iy9uOhA7374
-
-#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="" tvg-group"Music", Ijinkan Aku Tuk Menyayangimu
-https://api.vidio.com/videos/850049/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6Ijg1MDA0OSIsImNyZWF0ZWRfYXQiOjE3NTYzOTczMTQsImV4dF9kdXJhdGlvbiI6NjAwfQ.iS4X5msr_Rb2WKDp91HUCyAGnZ3cEHFHsPvLwns3870
-
-#EXTINF:-1 type="movie" group-title="fals" tvg-logo="https://s.mxmcdn.net/community-dynamic-images/community/lyrics?options=eyJkZXRhaWxzIjoiRHVuaWEgcG9saXRpayBwZW51aCBkZW5nYW4gaW50cmlrXG5DdWJpdCBzYW5hIGN1Yml0IHNpbmkgaXR1IHN1ZGFoIGx1bXJhaFxuU2VwZXJ0aSBvcmFuZyBwYWNhcmFuXG5LYWxhdSBuZ2dhayBueXViaXQgbmdnYWsgYXN5aWtcbiIsImxvZ28iOiJodHRwczovL3MubXhtY2RuLm5ldC9pbWFnZXMtc3RvcmFnZS9hbGJ1bXMyLzgvMS82LzgvNi80LzU2NDY4NjE4XzUwMF81MDAuanBnIiwibmFtZSI6Ikl3YW4gRmFscyIsInRpdGxlIjoiQXNpayBHYWsgQXNpayJ9&imageFormat=jpeg&signature=cvOfw8VxXpPJ0WMf0Ojz%2BQrKNeGWw3fEoCd6e%2F5%2FLSw&signature_protocol=sha256" tvg-group"Music", Asik Ngga Asik 
-https://api.vidio.com/videos/519943/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTk0MyIsImNyZWF0ZWRfYXQiOjE3NTYzOTc2OTEsImV4dF9kdXJhdGlvbiI6NjAwfQ._BbRk_ueLVZzSu4O6XzSVzptt97NHXoPJ8iEcLH6b
-#EXTINF:-1 type="movie" group-title="fals" tvg-logo="https://i0.wp.com/s.ytimg.com/vi/RU4UqD7OrqI/mqdefault.jpg?resize=200,200" tvg-group"Music", Patah 
-https://api.vidio.com/videos/2375246/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzNzUyNDYiLCJjcmVhdGVkX2F0IjoxNzU2Mzk3MDE1LCJleHRfZHVyYXRpb24iOjYwMH0.2mxKMjb84Pja7B6w_DartT0fT5L2WD8b7KWY1CQBFnQ
-
-#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcEeqbJQVDLjKTSle9zZfns7qAXpthyKGAZgL6AkKpOcYVxcQmEtvG-dc&s=10" tvg-group"Music", Selamat
-https://api.vidio.com/videos/2298578/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIyOTg1NzgiLCJjcmVhdGVkX2F0IjoxNzU2NTgxMjQzLCJleHRfZHVyYXRpb24iOjYwMH0.thcomsXq2k8lOGRKtaAX7nbjth79_2o1mw9-Eek_WCM
-
-#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/PypiTo1dScdRbPRSkrg3QNsO2NA=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2368138/iwan-fals-pun-6504ad.jpg" tvg-group"Music", Pun AKu
-https://api.vidio.com/videos/2368138/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzNjgxMzgiLCJjcmVhdGVkX2F0IjoxNzU2NTgxMzQ4LCJleHRfZHVyYXRpb24iOjYwMH0.0JWxaYjJ8dOuC3c8GMJdTt1enueMeTop2wFsO5zo5f4
-
-#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="" tvg-group"Music", Ancur
-https://api.vidio.com/videos/2118696/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIxMTg2OTYiLCJjcmVhdGVkX2F0IjoxNzU2NDAxNzczLCJleHRfZHVyYXRpb24iOjYwMH0._19CW5kQP1TEV-5YG7Xho-QM7ZzqRqk5Wtf1NIrrPEM
-
-#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9f/MataDewa.jpg/960px-MataDewa.jpg" tvg-group"Music",Mata Dewa
-https://api.vidio.com/videos/2143897/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIxNDM4OTciLCJjcmVhdGVkX2F0IjoxNzU2NDAxNDkwLCJleHRfZHVyYXRpb24iOjYwMH0.pr7
-
-#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxjCsAp45tm4J9c34ANctOb98_3xqSjK17VXiW43lEvW1yypzc_BfbLuQ&s=10" tvg-group"Music", Do'a Pengobral Dosa
-https://api.vidio.com/videos/2209899/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIyMDk4OTkiLCJjcmVhdGVkX2F0IjoxNzU2NDAxNjAxLCJleHRfZHVyYXRpb24iOjYwMH0.4DJmQvkhHymPSBd0p0d3OT68pwo6eO790SEAzqDsI9w
-
-#EXTINF:-1 type="movie" group-title="fals" title-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHgoBuQDciB_pjWo2yKCDwvTwERuHRa-cWhw&s" tvg-group"Music", The Legend Of HUT SCTV
-https://api.vidio.com/videos/1522958/common_tokenized_playlist.m3u8?digest=-c1b89&ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjE1MjI5NTgiLCJjcmVhdGVkX2F0IjoxNzU2NDAzMzQ5LCJleHRfZHVyYXRpb24iOjYwMH0.lepJVmsZncFaMiHJLhATSXU-oexeiaJIi2SClmiRb_8
-
-#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSIFQiLDd1SXvCFl1LvlOakrqetACX7H8JSEC6DtHUw-VmUJ2rnonqoERy&s=10" tvg-group"Music", Bung Hatta
-https://api.vidio.com/videos/1996967/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjE5OTY5NjciLCJjcmVhdGVkX2F0IjoxNzU2NDAzMDY1LCJleHRfZHVyYXRpb24iOjYwMH0.Wa-vCqvWW7kaC_gInOkeOwaVmupFPOiPePIoS-nw4xQ
-
-#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnIopAv0lgzSmWVCVd7byqXNSzBSuEOwD6n9KuT6RJz0Hv0naeCi54H-Bn&s=10" tvg-group"Music", Suara Hati
-https://api.vidio.com/videos/2095253/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIwOTUyNTMiLCJjcmVhdGVkX2F0IjoxNzU2NDAyNzgyLCJleHRfZHVyYXRpb24iOjYwMH0.i7XNAavERqIAf054UXbl4rk05eMFpeLBOR0ux4FGG-g
-
-#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU_10JeVr4W4S0eIlm0wtc41-23mVFjVvOhw&s" tvg-group"", Kumenanti Seorang Kekasih 
-https://api.vidio.com/videos/2040496/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIwNDA0OTYiLCJjcmVhdGVkX2F0IjoxNzU2NDAyODg3LCJleHRfZHVyYXRpb24iOjYwMH0.N5Z8d91zi3Sn1FUbWE-m1OLsoaIGwm1wvrkekv_UeAY
-
-#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaDv4vy-R67GKEkaILYKo2HCqGdvzdUq62Q&s" tvg-group"", Gangstarasta - Surat Buat Wakil Rakyat 
-https://api.vidio.com/videos/1489187/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjE0ODkxODciLCJjcmVhdGVkX2F0IjoxNzU2NDAzNjg1LCJleHRfZHVyYXRpb24iOjYwMH0.3DxC_KCQxMB8w2V8E89YIqb_AAsvcfNCuzwWpLkCxyw 
-
-#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3MyqlWJO52-m8xK2bxCg_qqvnAhpn0wAJ7Q&s0" tvg-group"", Gangstarasta - Pesawat Tempurku
-#EXTVLCOPT:http-referrer=https://vidio.com/
-https://api.vidio.com/videos/1511575/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjE1MTE1NzUiLCJjcmVhdGVkX2F0IjoxNzU2NDAzMTIyLCJleHRfZHVyYXRpb24iOjYwMH0.3dMOMNlB60JIV4D4j6_Bjnjg5iyq4AU3ZDRuXIi8l9s
-
-#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Indosiar_2015.svg" tvg-group"Music", Cinta 
-#EXTVLCOPT:http-referrer=https://vidio.com/
-https://api.vidio.com/videos/1288163/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjEyODgxNjMiLCJjcmVhdGVkX2F0IjoxNzU2NTgwOTIzLCJleHRfZHVyYXRpb24iOjYwMH0.DcZj6QRqhOlUPSfbXDZh48sPZVmIz1_KeR-jeqldYVE
-
-#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQqeXEu8iav-dljQ-mSfQqLl-YtL3mZlTEQ0mxKriBxUnhBXqzCa0Q5c5Y&s=10", Kupu kupu hitam Putih
-https://api.vidio.com/videos/519884/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTg4NCIsImNyZWF0ZWRfYXQiOjE3NTY2NTY2OTEsImV4dF9kdXJhdGlvbiI6NjAwfQ.4l77aS0tUOYKU-7WANC3j_K6wEGFngRAJySkI_pk0GY 
+#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://upload.wikime1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTg4NCIsImNyZWF0ZWRfYXQiOjE3NTY2NTY2OTEsImV4dF9kdXJhdGlvbiI6NjAwfQ.4l77aS0tUOYKU-7WANC3j_K6wEGFngRAJySkI_pk0GY 
 
 #EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMkMmZPpt8Ncqvu2gR0L12ukIcQ_7XTH8-2A&s", Ft Noah - Yang Terlupakan Live indosiar
 https://api.vidio.com/videos/429284/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjQyOTI4NCIsImNyZWF0ZWRfYXQiOjE3NTY2NTYxMjYsImV4dF9kdXJhdGlvbiI6NjAwfQ.HIARmrh4QLvoDay1YnBm_IHa7iJAfRj4KI0yNla49QI
