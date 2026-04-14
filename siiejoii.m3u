@@ -1949,18 +1949,21 @@ https://api.vidio.com/videos/2335086/common_tokenized_playlist.m3u8?ott=eyJhbGci
 
 #EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://thumbor.prod.vidiocdn.com/mQOdpAywKtoHUek7RoFh0GdzenA=/640x360/filters:quality(70)/vidio-web-prod-media/uploads/2329963/images/ets2_hq_ETS2c2162ac38bcb800e_640x360-00304.jpg", Album Lagu Terpopuler Iwan Fals (Vol 1) 
 https://api.vidio.com/videos/2329963/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzMjk5NjMiLCJjcmVhdGVkX2F0IjoxNzc2MDg0MDUyLCJleHRfZHVyYXRpb24iOjYwMH0.yjRmPTFPesVYzUw19lmD9FtUw4IJBK-_s_QgqVgk83k
+
 #EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://thumbor.prod.vidiocdn.com/VWrKk_wJPBn2uIrlpKY12uPaWaE=/640x360/filters:quality(70)/vidio-web-prod-media/uploads/2320897/images/ets2_hq_ETS2ead4d91a6a5fa168_640x360-00291.jpg", Album Lagu Terpopuler Iwan Fals (Vol 2) 
 https://api.vidio.com/videos/2320897/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzMjA4OTciLCJjcmVhdGVkX2F0IjoxNzc2MDg0MTg5LCJleHRfZHVyYXRpb24iOjYwMH0.Znz0jvFd1XuM_7CO8-IYAssSSzOVoCXOPKWyXRV46F0
 
 #EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://thumbor.prod.vidiocdn.com/9GDT-_nGpY-XQKwA2lyF_3BeOhU=/640x360/filters:quality(70)/vidio-web-prod-media/uploads/2319587/images/ets2_hq_ETS2996aef0185c24e14_640x360-00563.jpg" Album no 1
 https://api.vidio.com/videos/2319587/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzMTk1ODciLCJjcmVhdGVkX2F0IjoxNzc2MDg0MzY1LCJleHRfZHVyYXRpb24iOjYwMH0.44jofRKtb-LSW7V_-yGpMj7eWtmMAPNXtwjW64sfsUw
 
-#EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://thumbor.prod.vidiocdn.com/9GDT-_nGpY-XQKwA2lyF_3BeOhU=/640x360/filters:quality(70)/vidio-web-prod-media/uploads/2319587/images/ets2_hq_ETS2996aef0185c24e14_640x360-00563.jpg" Album Tragedi 
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1g4ki0I86GSAotTMuTGJptC4VZs_ueP2-A2siBFFTLw&s=10" Album Tragedi 
 https://api.vidio.com/videos/2329920/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzMjk5MjAiLCJjcmVhdGVkX2F0IjoxNzc2MDg0Njg3LCJleHRfZHVyYXRpb24iOjYwMH0.UCVoAzawgGgONHOKH0NV8VwTWp1oSqR7rwRY8suPI-c
 
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrfmBP_vKZd4W6EM-Na2wBvzEAwQ6KfEWajYrVED6anQ&s=10", Salam Reformasi 
+https://api.vidio.com/videos/2330111/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzMzAxMTEiLCJjcmVhdGVkX2F0IjoxNzc2MTQ3NDQ1LCJleHRfZHVyYXRpb24iOjYwMH0.ydRK5wzdUclcKJLq5YJyzQ4QQN5-5_G4hqf2OFGn3UY
 
-#EXTINF:-1 type="movie" group-title="fals" tvg-logo""
-#EXTINF:-1 type="movie" group-title="fals" tvg-logo""
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://thumbor.prod.vidiocdn.com/h_PExowQ8OAixc7rwgZGQ5Oncfo=/640x360/filters:quality(70)/vidio-web-prod-media/uploads/2335089/images/ets2_hq_ETS2cec6bc56929a0e07_640x360-00459.jpg", Love Song
+https://api.vidio.com/videos/2335089/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzMzUwODkiLCJjcmVhdGVkX2F0IjoxNzc2MTQ3MjcxLCJleHRfZHVyYXRpb24iOjYwMH0.RlJsJGB3TvMzUeMi6XVRLTcU6zukJ6c4bq05c5eyN_U
 
 #EXTINF:-1 type="movie" group-title="fals" tvg-logo""
 #EXTINF:-1 type="movie" group-title="fals" tvg-logo""
