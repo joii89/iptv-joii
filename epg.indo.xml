@@ -1,12 +1,354 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
+<tv generator-info-name="Processned by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
+<channel id="ABC Australia.id"><display-name>ABC Australia.id</display-name></channel>
+<channel id="Aljazeera.id"><display-name>Aljazeera.id</display-name></channel>
+<channel id="AllPlay Ent.id"><display-name>AllPlay Ent.id</display-name></channel>
+<channel id="AlQuran Kareem.id"><display-name>AlQuran Kareem.id</display-name></channel>
+<channel id="Animal Planet.id"><display-name>Animal Planet.id</display-name></channel>
+<channel id="Animax.id"><display-name>Animax.id</display-name></channel>
+<channel id="Aniplus.id"><display-name>Aniplus.id</display-name></channel>
+<channel id="Antara.id"><display-name>Antara.id</display-name></channel>
+<channel id="Arirang.id"><display-name>Arirang.id</display-name></channel>
+<channel id="Asian Food Network.id"><display-name>Asian Food Network.id</display-name></channel>
+<channel id="ATV.id"><display-name>ATV.id</display-name></channel>
+<channel id="AXN.id"><display-name>AXN.id</display-name></channel>
 <channel id="ANTV.id"><display-name>ANTV.id</display-name></channel>
 <channel id="AXN.id"><display-name>AXN.id</display-name></channel>
 <channel id="beIN Sports 1.id"><display-name>beIN Sports 1.id</display-name></channel>
 <channel id="beIN Sports 2.id"><display-name>beIN Sports 2.id</display-name></channel>
 <channel id="beIN Sports 3.id"><display-name>beIN Sports 3.id</display-name></channel>
 <channel id="BTV.id"><display-name>BTV.id</display-name></channel>
-<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bali TV.id"><display-name>Bali TV.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="CCTV4.id"><display-name>CCTV4.id</display-name></channel>
+<channel id="Celestial Movie.id"><display-name>Celestial Movie.id</display-name></channel>
+<channel id="CGTN Documentary.id"><display-name>CGTN Documentary.id</display-name></channel>
+<channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
+<channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
+<channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
+<channel id="Citra Drama.id"><display-name>Citra Drama.id</display-name></channel>
+<channel id="CNBC Asia.id"><display-name>CNBC Asia.id</display-name></channel>
+<channel id="CNBC Indonesia.id"><display-name>CNBC Indonesia.id</display-name></channel>
+<channel id="CNN Indonesia.id"><display-name>CNN Indonesia.id</display-name></channel>
+<channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
+<channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
+<channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>isplay-name></channel>
+<channel id="CCTV4.id"><display-name>CCTV4.id</display-name></channel>
+<channel id="Celestial Movie.id"><display-name>Celestial Movie.id</display-name></channel>
+<channel id="CGTN Documentary.id"><display-name>CGTN Documentary.id</display-name></channel>
+<channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
+<channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
+<channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
+<channel id="Citra Drama.id"><display-name>Citra Drama.id</display-name></channel>
+<channel id="CNBC Asia.id"><display-name>CNBC Asia.id</display-name></channel>
+<channel id="CNBC Indonesia.id"><display-name>CNBC Indonesia.id</display-name></channel>
+<channel id="CNN Indonesia.id"><display-name>CNN Indonesia.id</display-name></channel>
+<channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
+<channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
+<channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+>channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>><channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>splay-name></channel>
+<channel id="CCTV4.id"><display-name>CCTV4.id</display-name></channel>
+<channel id="Celestial Movie.id"><display-name>Celestial Movie.id</display-name></channel>
+<channel id="CGTN Documentary.id"><display-name>CGTN Documentary.id</display-name></channel>
+<channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
+<channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
+<channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
+<channel id="Citra Drama.id"><display-name>Citra Drama.id</display-name></channel>
+<channel id="CNBC Asia.id"><display-name>CNBC Asia.id</display-name></channel>
+<channel id="CNBC Indonesia.id"><display-name>CNBC Indonesia.id</display-name></channel>
+<channel id="CNN Indonesia.id"><display-name>CNN Indonesia.id</display-name></channel>
+<channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
+<channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
+<channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>isplay-name></channel>
+<channel id="CCTV4.id"><display-name>CCTV4.id</display-name></channel>
+<channel id="Celestial Movie.id"><display-name>Celestial Movie.id</display-name></channel>
+<channel id="CGTN Documentary.id"><display-name>CGTN Documentary.id</display-name></channel>
+<channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
+<channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
+<channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
+<channel id="Citra Drama.id"><display-name>Citra Drama.id</display-name></channel>
+<channel id="CNBC Asia.id"><display-name>CNBC Asia.id</display-name></channel>
+<channel id="CNBC Indonesia.id"><display-name>CNBC Indonesia.id</display-name></channel>
+<channel id="CNN Indonesia.id"><display-name>CNN Indonesia.id</display-name></channel>
+<channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
+<channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
+<channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<>channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>l>splay-name></channel>
+<channel id="CCTV4.id"><display-name>CCTV4.id</display-name></channel>
+<channel id="Celestial Movie.id"><display-name>Celestial Movie.id</display-name></channel>
+<channel id="CGTN Documentary.id"><display-name>CGTN Documentary.id</display-name></channel>
+<channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
+<channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
+<channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
+<channel id="Citra Drama.id"><display-name>Citra Drama.id</display-name></channel>
+<channel id="CNBC Asia.id"><display-name>CNBC Asia.id</display-name></channel>
+<channel id="CNBC Indonesia.id"><display-name>CNBC Indonesia.id</display-name></channel>
+<channel id="CNN Indonesia.id"><display-name>CNN Indonesia.id</display-name></channel>
+<channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
+<channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
+<channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>isplay-name></channel>
+<channel id="CCTV4.id"><display-name>CCTV4.id</display-name></channel>
+<channel id="Celestial Movie.id"><display-name>Celestial Movie.id</display-name></channel>
+<channel id="CGTN Documentary.id"><display-name>CGTN Documentary.id</display-name></channel>
+<channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
+<channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
+<channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
+<channel id="Citra Drama.id"><display-name>Citra Drama.id</display-name></channel>
+<channel id="CNBC Asia.id"><display-name>CNBC Asia.id</display-name></channel>
+<channel id="CNBC Indonesia.id"><display-name>CNBC Indonesia.id</display-name></channel>
+<channel id="CNN Indonesia.id"><display-name>CNN Indonesia.id</display-name></channel>
+<channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
+<channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
+<channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>><channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>splay-name></channel>
+<channel id="CCTV4.id"><display-name>CCTV4.id</display-name></channel>
+<channel id="Celestial Movie.id"><display-name>Celestial Movie.id</display-name></channel>
+<channel id="CGTN Documentary.id"><display-name>CGTN Documentary.id</display-name></channel>
+<channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
+<channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
+<channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
+<channel id="Citra Drama.id"><display-name>Citra Drama.id</display-name></channel>
+<channel id="CNBC Asia.id"><display-name>CNBC Asia.id</display-name></channel>
+<channel id="CNBC Indonesia.id"><display-name>CNBC Indonesia.id</display-name></channel>
+<channel id="CNN Indonesia.id"><display-name>CNN Indonesia.id</display-name></channel>
+<channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
+<channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
+<channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>isplay-name></channel>
+<channel id="CCTV4.id"><display-name>CCTV4.id</display-name></channel>
+<channel id="Celestial Movie.id"><display-name>Celestial Movie.id</display-name></channel>
+<channel id="CGTN Documentary.id"><display-name>CGTN Documentary.id</display-name></channel>
+<channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
+<channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
+<channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
+<channel id="Citra Drama.id"><display-name>Citra Drama.id</display-name></channel>
+<channel id="CNBC Asia.id"><display-name>CNBC Asia.id</display-name></channel>
+<channel id="CNBC Indonesia.id"><display-name>CNBC Indonesia.id</display-name></channel>
+<channel id="CNN Indonesia.id"><display-name>CNN Indonesia.id</display-name></channel>
+<channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
+<channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
+<channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>>channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>l>splay-name></channel>
+<channel id="CCTV4.id"><display-name>CCTV4.id</display-name></channel>
+<channel id="Celestial Movie.id"><display-name>Celestial Movie.id</display-name></channel>
+<channel id="CGTN Documentary.id"><display-name>CGTN Documentary.id</display-name></channel>
+<channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
+<channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
+<channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
+<channel id="Citra Drama.id"><display-name>Citra Drama.id</display-name></channel>
+<channel id="CNBC Asia.id"><display-name>CNBC Asia.id</display-name></channel>
+<channel id="CNBC Indonesia.id"><display-name>CNBC Indonesia.id</display-name></channel>
+<channel id="CNN Indonesia.id"><display-name>CNN Indonesia.id</display-name></channel>
+<channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
+<channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
+<channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>isplay-name></channel>
+<channel id="CCTV4.id"><display-name>CCTV4.id</display-name></channel>
+<channel id="Celestial Movie.id"><display-name>Celestial Movie.id</display-name></channel>
+<channel id="CGTN Documentary.id"><display-name>CGTN Documentary.id</display-name></channel>
+<channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
+<channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
+<channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
+<channel id="Citra Drama.id"><display-name>Citra Drama.id</display-name></channel>
+<channel id="CNBC Asia.id"><display-name>CNBC Asia.id</display-name></channel>
+<channel id="CNBC Indonesia.id"><display-name>CNBC Indonesia.id</display-name></channel>
+<channel id="CNN Indonesia.id"><display-name>CNN Indonesia.id</display-name></channel>
+<channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
+<channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
+<channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>><channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>splay-name></channel>
+<channel id="CCTV4.id"><display-name>CCTV4.id</display-name></channel>
+<channel id="Celestial Movie.id"><display-name>Celestial Movie.id</display-name></channel>
+<channel id="CGTN Documentary.id"><display-name>CGTN Documentary.id</display-name></channel>
+<channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
+<channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
+<channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
+<channel id="Citra Drama.id"><display-name>Citra Drama.id</display-name></channel>
+<channel id="CNBC Asia.id"><display-name>CNBC Asia.id</display-name></channel>
+<channel id="CNBC Indonesia.id"><display-name>CNBC Indonesia.id</display-name></channel>
+<channel id="CNN Indonesia.id"><display-name>CNN Indonesia.id</display-name></channel>
+<channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
+<channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
+<channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>isplay-name></channel>
+<channel id="CCTV4.id"><display-name>CCTV4.id</display-name></channel>
+<channel id="Celestial Movie.id"><display-name>Celestial Movie.id</display-name></channel>
+<channel id="CGTN Documentary.id"><display-name>CGTN Documentary.id</display-name></channel>
+<channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
+<channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
+<channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
+<channel id="Citra Drama.id"><display-name>Citra Drama.id</display-name></channel>
+<channel id="CNBC Asia.id"><display-name>CNBC Asia.id</display-name></channel>
+<channel id="CNBC Indonesia.id"><display-name>CNBC Indonesia.id</display-name></channel>
+<channel id="CNN Indonesia.id"><display-name>CNN Indonesia.id</display-name></channel>
+<channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
+<channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
+<channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>>channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>><channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>splay-name></channel>
+<channel id="CCTV4.id"><display-name>CCTV4.id</display-name></channel>
+<channel id="Celestial Movie.id"><display-name>Celestial Movie.id</display-name></channel>
+<channel id="CGTN Documentary.id"><display-name>CGTN Documentary.id</display-name></channel>
+<channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
+<channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
+<channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
+<channel id="Citra Drama.id"><display-name>Citra Drama.id</display-name></channel>
+<channel id="CNBC Asia.id"><display-name>CNBC Asia.id</display-name></channel>
+<channel id="CNBC Indonesia.id"><display-name>CNBC Indonesia.id</display-name></channel>
+<channel id="CNN Indonesia.id"><display-name>CNN Indonesia.id</display-name></channel>
+<channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
+<channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
+<channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>isplay-name></channel>
+<channel id="CCTV4.id"><display-name>CCTV4.id</display-name></channel>
+<channel id="Celestial Movie.id"><display-name>Celestial Movie.id</display-name></channel>
+<channel id="CGTN Documentary.id"><display-name>CGTN Documentary.id</display-name></channel>
+<channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
+<channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
+<channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
+<channel id="Citra Drama.id"><display-name>Citra Drama.id</display-name></channel>
+<channel id="CNBC Asia.id"><display-name>CNBC Asia.id</display-name></channel>
+<channel id="CNBC Indonesia.id"><display-name>CNBC Indonesia.id</display-name></channel>
+<channel id="CNN Indonesia.id"><display-name>CNN Indonesia.id</display-name></channel>
+<channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
+<channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
+<channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
+<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
+<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="Cartoon Network.id"><display-name>Cartoon Network.id</display-name></channel>
+<channel id="Cartoonito.id"><display-name>Cartoonito.id</display-name></channel>
+<channel id="CCTV4.id"><display-name>CCTV4.id</display-name></channel>
+<channel id="Celestial Movie.id"><display-name>Celestial Movie.id</display-name></channel>
+<channel id="CGTN Documentary.id"><display-name>CGTN Documentary.id</display-name></channel>
+<channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
+<channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
+<channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
+<channel id="Citra Drama.id"><display-name>Citra Drama.id</display-name></channel>
+<channel id="CNBC Asia.id"><display-name>CNBC Asia.id</display-name></channel>
+<channel id="CNBC Indonesia.id"><display-name>CNBC Indonesia.id</display-name></channel>
+<channel id="CNN Indonesia.id"><display-name>CNN Indonesia.id</display-name></channel>
+<channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
+<channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
+<channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
 <channel id="CNN.id"><display-name>CNN.id</display-name></channel>
 <channel id="Galaxy Premium.id"><display-name>Galaxy Premium.id</display-name></channel>
 <channel id="Galaxy.id"><display-name>Galaxy.id</display-name></channel>
@@ -48,38 +390,6 @@
 <channel id="tvN.id"><display-name>tvN.id</display-name></channel>
 <channel id="TvOne.id"><display-name>TvOne.id</display-name></channel>
 <channel id="TVRI.id"><display-name>TVRI.id</display-name></channel>
-<channel id="ABC Australia.id"><display-name>ABC Australia.id</display-name></channel>
-<channel id="Aljazeera.id"><display-name>Aljazeera.id</display-name></channel>
-<channel id="AllPlay Ent.id"><display-name>AllPlay Ent.id</display-name></channel>
-<channel id="AlQuran Kareem.id"><display-name>AlQuran Kareem.id</display-name></channel>
-<channel id="Animal Planet.id"><display-name>Animal Planet.id</display-name></channel>
-<channel id="Animax.id"><display-name>Animax.id</display-name></channel>
-<channel id="Aniplus.id"><display-name>Aniplus.id</display-name></channel>
-<channel id="Antara.id"><display-name>Antara.id</display-name></channel>
-<channel id="ANTV.id"><display-name>ANTV.id</display-name></channel>
-<channel id="Arirang.id"><display-name>Arirang.id</display-name></channel>
-<channel id="Asian Food Network.id"><display-name>Asian Food Network.id</display-name></channel>
-<channel id="ATV.id"><display-name>ATV.id</display-name></channel>
-<channel id="AXN.id"><display-name>AXN.id</display-name></channel>
-<channel id="Bali TV.id"><display-name>Bali TV.id</display-name></channel>
-<channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
-<channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
-<channel id="BTV.id"><display-name>BTV.id</display-name></channel>
-<channel id="Cartoon Network.id"><display-name>Cartoon Network.id</display-name></channel>
-<channel id="Cartoonito.id"><display-name>Cartoonito.id</display-name></channel>
-<channel id="CCTV4.id"><display-name>CCTV4.id</display-name></channel>
-<channel id="Celestial Movie.id"><display-name>Celestial Movie.id</display-name></channel>
-<channel id="CGTN Documentary.id"><display-name>CGTN Documentary.id</display-name></channel>
-<channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
-<channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
-<channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
-<channel id="Citra Drama.id"><display-name>Citra Drama.id</display-name></channel>
-<channel id="CNBC Asia.id"><display-name>CNBC Asia.id</display-name></channel>
-<channel id="CNBC Indonesia.id"><display-name>CNBC Indonesia.id</display-name></channel>
-<channel id="CNN Indonesia.id"><display-name>CNN Indonesia.id</display-name></channel>
-<channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
-<channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
-<channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
 <channel id="Da Vinci Learning.id"><display-name>Da Vinci Learning.id</display-name></channel>
 <channel id="Daai TV.id"><display-name>Daai TV.id</display-name></channel>
 <channel id="Discovery Asia.id"><display-name>Discovery Asia.id</display-name></channel>
