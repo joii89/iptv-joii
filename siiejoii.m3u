@@ -1127,7 +1127,7 @@ http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 x-tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" group-logo="https://www.google.com/search?client=ms-android-oppo-rvo2&sca_esv=38623c8ca84aacad&udm=2&sxsrf=ANbL-n63SMOKK5Z3ZzDDTFeE9IfzTQpf6Q:1775580302275&q=movie+png&stick=H4sIAAAAAAAAAFvEypmbX5aZqlCQlw4AholH6wwAAAA&source=univ&sa=X&ved=2ahUKEwiJ9r6JmNyTAxXZ1zgGHVrwOSAQrNwCegQIGBAA&biw=423&bih=894&dpr=2.55#sv=CAMSVxoyKhBlLTgyMjhTT0wwclRrQjZNMg44MjI4U09MMHJUa0I2TToOWks3Tm5sWEhTdHkzS00gBCoXCgFzEhBlLTgyMjhTT0wwclRrQjZNGAEwAUoECAEQAhgHIOGkjssISggQAhgBIAIoAQ" group-title="Playlist Indonesia🇮🇩"
+#EXTINF:-1 x-tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" group-logo="https://forums.cdn.launchbox.gg/monthly_2017_12/5a2afa6775212_PlaylistsGraffitiLOGO.png.ecff2a20b53bcdc8c332bce8d4f5992d.png" group-title="Playlist Indonesia🇮🇩"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
@@ -1793,6 +1793,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-32846
 <==== Kids Channels ===>
 
 
+#EXTM3U group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQR7kojQmrKwwBLWqKyacX2m-SSRUUAUKfILzghqzN95dZyroJz0-H1Lw&s=10" group-title="KIDS"
 
 #EXTINF:-1 group-title="KIDS" tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://object-streamo.emonaja.com/img/animax.png", Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1978,10 +1979,10 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/in
 
 ________MOVIE________
 
-#EXTM3U
 
+#EXTM3U type="movie" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7OCkuRjN1MxzcWW-pICvoV5nHV-4le0kdYDGwvz3PA74qcPB9Or3xEM&s=10"ps" group-title="fals"
 
-#EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyDZSSAYlm_qlQhniL_5Z30NbUhyUFz33lGQ&s" tvg-group"", Kabar Aroma Tanah 
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyDZSSAYlm_qlQhniL_5Z30NbUhyUFz33lGQ&s" tvg-group"", Kabar Aroma Tanah 
 https://api.vidio.com/videos/7194648/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjcxOTQ2NDgiLCJjcmVhdGVkX2F0IjoxNzU2Mzk4MDI0LCJleHRfZHVyYXRpb24iOjYwMH0.heQFbkWiHLEZGOxzPy_N3CcYcQxY65EDl86LcUOQul8
 
 #EXTINF:-1 type="movie" group-title="fals" title-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Antara_aku_kau_dan_bekas_pacarmu.jpg", Antara Aku Kau dan Bekas Pacarmu
@@ -2006,8 +2007,7 @@ https://api.vidio.com/videos/2249577/common_tokenized_playlist.m3u8?ott=eyJhbGci
 https://api.vidio.com/videos/850049/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6Ijg1MDA0OSIsImNyZWF0ZWRfYXQiOjE3NTYzOTczMTQsImV4dF9kdXJhdGlvbiI6NjAwfQ.iS4X5msr_Rb2WKDp91HUCyAGnZ3cEHFHsPvLwns3870
 
 #EXTINF:-1 type="movie" group-title="fals" tvg-logo="https://s.mxmcdn.net/community-dynamic-images/community/lyrics?options=eyJkZXRhaWxzIjoiRHVuaWEgcG9saXRpayBwZW51aCBkZW5nYW4gaW50cmlrXG5DdWJpdCBzYW5hIGN1Yml0IHNpbmkgaXR1IHN1ZGFoIGx1bXJhaFxuU2VwZXJ0aSBvcmFuZyBwYWNhcmFuXG5LYWxhdSBuZ2dhayBueXViaXQgbmdnYWsgYXN5aWtcbiIsImxvZ28iOiJodHRwczovL3MubXhtY2RuLm5ldC9pbWFnZXMtc3RvcmFnZS9hbGJ1bXMyLzgvMS82LzgvNi80LzU2NDY4NjE4XzUwMF81MDAuanBnIiwibmFtZSI6Ikl3YW4gRmFscyIsInRpdGxlIjoiQXNpayBHYWsgQXNpayJ9&imageFormat=jpeg&signature=cvOfw8VxXpPJ0WMf0Ojz%2BQrKNeGWw3fEoCd6e%2F5%2FLSw&signature_protocol=sha256" tvg-group"Music", Asik Ngga Asik 
-https://api.vidio.com/videos/519943/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTk0MyIsImNyZWF0ZWRfYXQiOjE3NTYzOTc2OTEsImV4dF9kdXJhdGlvbiI6NjAwfQ._BbRk_ueLVZzSu4O6XzSVzptt97NHXoPJ8iEcLH6bps
-
+https://api.vidio.com/videos/519943/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjUxOTk0MyIsImNyZWF0ZWRfYXQiOjE3NTYzOTc2OTEsImV4dF9kdXJhdGlvbiI6NjAwfQ._BbRk_ueLVZzSu4O6XzSVzptt97NHXoPJ8iEcLH6b
 #EXTINF:-1 type="movie" group-title="fals" tvg-logo="https://i0.wp.com/s.ytimg.com/vi/RU4UqD7OrqI/mqdefault.jpg?resize=200,200" tvg-group"Music", Patah 
 https://api.vidio.com/videos/2375246/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzNzUyNDYiLCJjcmVhdGVkX2F0IjoxNzU2Mzk3MDE1LCJleHRfZHVyYXRpb24iOjYwMH0.2mxKMjb84Pja7B6w_DartT0fT5L2WD8b7KWY1CQBFnQ
 
@@ -2135,9 +2135,9 @@ https://cdn1.turboviplay.com/data5/6948689386043/6948689386043.m3u8
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9qtlim
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/1/8/5/2/4/5/1185245-mungkin-esok-lusa-atau-nanti-0-230-0-345-crop.jpg?v=4cc2d755b2" group-title="MOVIE",Mungkin Esok Lusa Atau Nanti (2024)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9a52yu
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.themoviedb.org/t/p/w500/zVZIcXVMFdbzTTHOThrZX7o2DO7.jpg" group-title="MOVIE",Laura (2024)
+#EXTINF:-1 type="movie" tvg-id="" tvg-logo="https://media.themoviedb.org/t/p/w500/zVZIcXVMFdbzTTHOThrZX7o2DO7.jpg" group-title="MOVIE",Laura (2024)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9f73iq
-#EXTINF:-1 tvg-id="" tvg-logo="https://posters.cdn.klikfilm.net/380_543/7_hari_untuk_keshia_600_857.jpg" group-title="MOVIE",7 Hari Untuk Keshia (2025)
+#EXTINF:-1 type="movie" tvg-id="" tvg-logo="https://posters.cdn.klikfilm.net/380_543/7_hari_untuk_keshia_600_857.jpg" group-title="MOVIE",7 Hari Untuk Keshia (2025)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9d736m
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIC8npYYx50d4CEqqWmJQdvhhQp1VsuLJKNw&s" group-title="MOVIE",Semusim Setelah Kemarau (2025)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9dez1e
