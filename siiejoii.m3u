@@ -1953,13 +1953,13 @@ https://api.vidio.com/videos/2329963/common_tokenized_playlist.m3u8?ott=eyJhbGci
 #EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://thumbor.prod.vidiocdn.com/VWrKk_wJPBn2uIrlpKY12uPaWaE=/640x360/filters:quality(70)/vidio-web-prod-media/uploads/2320897/images/ets2_hq_ETS2ead4d91a6a5fa168_640x360-00291.jpg", Album Lagu Terpopuler Iwan Fals (Vol 2) 
 https://api.vidio.com/videos/2320897/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzMjA4OTciLCJjcmVhdGVkX2F0IjoxNzc2MDg0MTg5LCJleHRfZHVyYXRpb24iOjYwMH0.Znz0jvFd1XuM_7CO8-IYAssSSzOVoCXOPKWyXRV46F0
 
-#EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://thumbor.prod.vidiocdn.com/9GDT-_nGpY-XQKwA2lyF_3BeOhU=/640x360/filters:quality(70)/vidio-web-prod-media/uploads/2319587/images/ets2_hq_ETS2996aef0185c24e14_640x360-00563.jpg" Album no 1
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://thumbor.prod.vidiocdn.com/9GDT-_nGpY-XQKwA2lyF_3BeOhU=/640x360/filters:quality(70)/vidio-web-prod-media/uploads/2319587/images/ets2_hq_ETS2996aef0185c24e14_640x360-00563.jpg", Album no 1
 https://api.vidio.com/videos/2319587/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzMTk1ODciLCJjcmVhdGVkX2F0IjoxNzc2MDg0MzY1LCJleHRfZHVyYXRpb24iOjYwMH0.44jofRKtb-LSW7V_-yGpMj7eWtmMAPNXtwjW64sfsUw
 
-#EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1g4ki0I86GSAotTMuTGJptC4VZs_ueP2-A2siBFFTLw&s=10" Album Tragedi 
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1g4ki0I86GSAotTMuTGJptC4VZs_ueP2-A2siBFFTLw&s=10", Album Tragedi 
 https://api.vidio.com/videos/2329920/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzMjk5MjAiLCJjcmVhdGVkX2F0IjoxNzc2MDg0Njg3LCJleHRfZHVyYXRpb24iOjYwMH0.UCVoAzawgGgONHOKH0NV8VwTWp1oSqR7rwRY8suPI-c
 
-#EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrfmBP_vKZd4W6EM-Na2wBvzEAwQ6KfEWajYrVED6anQ&s=10", Salam Reformasi 
+#EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrfmBP_vKZd4W6EM-Na2wBvzEAwQ6KfEWajYrVED6anQ&s=10", Salam Reformasi
 https://api.vidio.com/videos/2330111/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzMzAxMTEiLCJjcmVhdGVkX2F0IjoxNzc2MTQ3NDQ1LCJleHRfZHVyYXRpb24iOjYwMH0.ydRK5wzdUclcKJLq5YJyzQ4QQN5-5_G4hqf2OFGn3UY
 
 #EXTINF:-1 type="movie" group-title="fals" tvg-logo"https://thumbor.prod.vidiocdn.com/h_PExowQ8OAixc7rwgZGQ5Oncfo=/640x360/filters:quality(70)/vidio-web-prod-media/uploads/2335089/images/ets2_hq_ETS2cec6bc56929a0e07_640x360-00459.jpg", Love Song
@@ -3461,8 +3461,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=843ee9fd-b65a-4bbb-b86b-030582062dff
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=843ee9fd-b65a-4bbb-b86b-030582062dff&sub=t18
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/0eE8w/slfDVfG2YIHC8ZM4Q.jpeg" group-title="HBO MAX", 989-Black Bag 2025
 #KODIPROP:inputstream=inputstream.adaptive
