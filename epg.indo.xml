@@ -307,6 +307,151 @@
 <channel id="Xing kong TV.id"><display-name>Xing kong TV.id</display-name></channel>
 <channel id="Zee Bioskop.id"><display-name>Zee Bioskop.id</display-name></channel>
 <channel id="Zoo Moo.id"><display-name>Zoo Moo.id</display-name></channel>
+<programme start="20260412173000 +0000" stop="20260412183000 +0000" channel="ABC Australia.id"><title>Landline - Eps. 9</title></programme>
+<programme start="20260412183000 +0000" stop="20260412193000 +0000" channel="ABC Australia.id"><title>Insiders - Eps. 11</title></programme>
+<programme start="20260412193000 +0000" stop="20260412200000 +0000" channel="ABC Australia.id"><title>Offsiders - Gather Round Special from Adelaide</title></programme>
+<programme start="20260412200000 +0000" stop="20260412210000 +0000" channel="ABC Australia.id"><title>News Breakfast - Eps. 73</title></programme>
+<programme start="20260412210000 +0000" stop="20260412230000 +0000" channel="ABC Australia.id"><title>News Breakfast - Eps. 73</title></programme>
+<programme start="20260412230000 +0000" stop="20260413020000 +0000" channel="ABC Australia.id"><title>ABC News Mornings - Eps. 73</title></programme>
+<programme start="20260413020000 +0000" stop="20260413030000 +0000" channel="ABC Australia.id"><title>ABC News At Noon - Eps. 73</title></programme>
+<programme start="20260413030000 +0000" stop="20260413033000 +0000" channel="ABC Australia.id"><title>Foreign Correspondent - The Other Disruptor - USA</title></programme>
+<programme start="20260413033000 +0000" stop="20260413042000 +0000" channel="ABC Australia.id"><title>Portrait Artist Of The Year - Eps. 7</title></programme>
+<programme start="20260413042000 +0000" stop="20260413045000 +0000" channel="ABC Australia.id"><title>Art Works - Sydney Modern, Thea Perkins, The Oscars</title></programme>
+<programme start="20260413045000 +0000" stop="20260413054000 +0000" channel="ABC Australia.id"><title>Australia In Colour - Family</title></programme>
+<programme start="20260413054000 +0000" stop="20260413070000 +0000" channel="ABC Australia.id"><title>Alone Australia - Eps. 1</title></programme>
+<programme start="20260413070000 +0000" stop="20260413080000 +0000" channel="ABC Australia.id"><title>ABC News with Joe OBrien - Eps. 73</title></programme>
+<programme start="20260413080000 +0000" stop="20260413083000 +0000" channel="ABC Australia.id"><title>A Bite To Eat With Alice - Virginia Trioli</title></programme>
+<programme start="20260413083000 +0000" stop="20260413090000 +0000" channel="ABC Australia.id"><title>Foreign Correspondent - The Other Disruptor - USA</title></programme>
+<programme start="20260413090000 +0000" stop="20260413093000 +0000" channel="ABC Australia.id"><title>ABC National News - Eps. 103</title></programme>
+<programme start="20260413093000 +0000" stop="20260413100000 +0000" channel="ABC Australia.id"><title>7.30 - Eps. 57</title></programme>
+<programme start="20260413100000 +0000" stop="20260413110000 +0000" channel="ABC Australia.id"><title>Portrait Artist Of The Year - Eps. 7</title></programme>
+<programme start="20260413110000 +0000" stop="20260413120000 +0000" channel="ABC Australia.id"><title>The World - Eps. 57</title></programme>
+<programme start="20260413120000 +0000" stop="20260413123000 +0000" channel="ABC Australia.id"><title>Foreign Correspondent - The Other Disruptor - USA</title></programme>
+<programme start="20260413123000 +0000" stop="20260413130000 +0000" channel="ABC Australia.id"><title>Planet America - Eps. 11</title></programme>
+<programme start="20260413130000 +0000" stop="20260413133000 +0000" channel="ABC Australia.id"><title>The Pacific - Eps. 4</title></programme>
+<programme start="20260413133000 +0000" stop="20260413140000 +0000" channel="ABC Australia.id"><title>Movin To The Country - New South Wales</title></programme>
+<programme start="20260413140000 +0000" stop="20260413141500 +0000" channel="ABC Australia.id"><title>ABC Late News - Eps. 73</title></programme>
+<programme start="20260413141500 +0000" stop="20260413143000 +0000" channel="ABC Australia.id"><title>The Business - Eps. 41</title></programme>
+<programme start="20260413143000 +0000" stop="20260413150000 +0000" channel="ABC Australia.id"><title>7.30 - Eps. 57</title></programme>
+<programme start="20260413150000 +0000" stop="20260413160000 +0000" channel="ABC Australia.id"><title>The World - Eps. 57</title></programme>
+<programme start="20260413160000 +0000" stop="20260413170000 +0000" channel="ABC Australia.id"><title>Portrait Artist Of The Year - Eps. 7</title></programme>
+<programme start="20260412170000 +0000" stop="20260412180000 +0000" channel="Aljazeera.id"><title>Witness</title></programme>
+<programme start="20260412180000 +0000" stop="20260412183000 +0000" channel="Aljazeera.id"><title>News Live</title></programme>
+<programme start="20260412183000 +0000" stop="20260412190000 +0000" channel="Aljazeera.id"><title>Upfront</title></programme>
+<programme start="20260412190000 +0000" stop="20260412193000 +0000" channel="Aljazeera.id"><title>News Live</title></programme>
+<programme start="20260412193000 +0000" stop="20260412200000 +0000" channel="Aljazeera.id"><title>The Bottom Line</title></programme>
+<programme start="20260412200000 +0000" stop="20260412203000 +0000" channel="Aljazeera.id"><title>News Live</title></programme>
+<programme start="20260412203000 +0000" stop="20260412210000 +0000" channel="Aljazeera.id"><title>Talk To Al Jazeera</title></programme>
+<programme start="20260412210000 +0000" stop="20260412213000 +0000" channel="Aljazeera.id"><title>News Live</title></programme>
+<programme start="20260412213000 +0000" stop="20260412220000 +0000" channel="Aljazeera.id"><title>Inside Story</title></programme>
+<programme start="20260412220000 +0000" stop="20260412223000 +0000" channel="Aljazeera.id"><title>News Live</title></programme>
+<programme start="20260412223000 +0000" stop="20260412230000 +0000" channel="Aljazeera.id"><title>People And Power</title></programme>
+<programme start="20260412230000 +0000" stop="20260412233000 +0000" channel="Aljazeera.id"><title>News Live</title></programme>
+<programme start="20260412233000 +0000" stop="20260413000000 +0000" channel="Aljazeera.id"><title>Counting The Cost</title></programme>
+<programme start="20260413000000 +0000" stop="20260413003000 +0000" channel="Aljazeera.id"><title>News Live</title></programme>
+<programme start="20260413003000 +0000" stop="20260413010000 +0000" channel="Aljazeera.id"><title>The Listening Post</title></programme>
+<programme start="20260413010000 +0000" stop="20260413013000 +0000" channel="Aljazeera.id"><title>News Live</title></programme>
+<programme start="20260413013000 +0000" stop="20260413020000 +0000" channel="Aljazeera.id"><title>Program To Be Announced</title></programme>
+<programme start="20260413020000 +0000" stop="20260413030000 +0000" channel="Aljazeera.id"><title>Newshour</title></programme>
+<programme start="20260413030000 +0000" stop="20260413033000 +0000" channel="Aljazeera.id"><title>News Live</title></programme>
+<programme start="20260413033000 +0000" stop="20260413040000 +0000" channel="Aljazeera.id"><title>Inside Story</title></programme>
+<programme start="20260413040000 +0000" stop="20260413050000 +0000" channel="Aljazeera.id"><title>Global Warning</title></programme>
+<programme start="20260413050000 +0000" stop="20260413060000 +0000" channel="Aljazeera.id"><title>Newshour</title></programme>
+<programme start="20260413060000 +0000" stop="20260413063000 +0000" channel="Aljazeera.id"><title>News Live</title></programme>
+<programme start="20260413063000 +0000" stop="20260413070000 +0000" channel="Aljazeera.id"><title>Talk To Al Jazeera</title></programme>
+<programme start="20260413070000 +0000" stop="20260413080000 +0000" channel="Aljazeera.id"><title>Newshour</title></programme>
+<programme start="20260413080000 +0000" stop="20260413083000 +0000" channel="Aljazeera.id"><title>News Live</title></programme>
+<programme start="20260413083000 +0000" stop="20260413090000 +0000" channel="Aljazeera.id"><title>101 East</title></programme>
+<programme start="20260413090000 +0000" stop="20260413093000 +0000" channel="Aljazeera.id"><title>News Live</title></programme>
+<programme start="20260413093000 +0000" stop="20260413100000 +0000" channel="Aljazeera.id"><title>Inside Story</title></programme>
+<programme start="20260413100000 +0000" stop="20260413110000 +0000" channel="Aljazeera.id"><title>Newshour</title></programme>
+<programme start="20260413110000 +0000" stop="20260413113000 +0000" channel="Aljazeera.id"><title>News Live</title></programme>
+<programme start="20260413113000 +0000" stop="20260413120000 +0000" channel="Aljazeera.id"><title>The Stream</title></programme>
+<programme start="20260413120000 +0000" stop="20260413130000 +0000" channel="Aljazeera.id"><title>Al Jazeera World</title></programme>
+<programme start="20260413130000 +0000" stop="20260413140000 +0000" channel="Aljazeera.id"><title>Newshour</title></programme>
+<programme start="20260413140000 +0000" stop="20260413143000 +0000" channel="Aljazeera.id"><title>News Live</title></programme>
+<programme start="20260413143000 +0000" stop="20260413150000 +0000" channel="Aljazeera.id"><title>Witness</title></programme>
+<programme start="20260413150000 +0000" stop="20260413153000 +0000" channel="Aljazeera.id"><title>News Live</title></programme>
+<programme start="20260413153000 +0000" stop="20260413160000 +0000" channel="Aljazeera.id"><title>Inside Story</title></programme>
+<programme start="20260413160000 +0000" stop="20260413170000 +0000" channel="Aljazeera.id"><title>Newshour</title></programme>
+<programme start="20260412170000 +0000" stop="20260412184500 +0000" channel="AllPlay Ent.id"><title>Teman Tapi Menikah</title></programme>
+<programme start="20260412184500 +0000" stop="20260412200000 +0000" channel="AllPlay Ent.id"><title>Dapil Komeng</title></programme>
+<programme start="20260412200000 +0000" stop="20260412203000 +0000" channel="AllPlay Ent.id"><title>Ini Dia</title></programme>
+<programme start="20260412203000 +0000" stop="20260412213000 +0000" channel="AllPlay Ent.id"><title>Agent 0812</title></programme>
+<programme start="20260412213000 +0000" stop="20260412220000 +0000" channel="AllPlay Ent.id"><title>COD (Celeb On Date)</title></programme>
+<programme start="20260412220000 +0000" stop="20260412223000 +0000" channel="AllPlay Ent.id"><title>Glints Expert Class</title></programme>
+<programme start="20260412223000 +0000" stop="20260412233000 +0000" channel="AllPlay Ent.id"><title>Puasin</title></programme>
+<programme start="20260412233000 +0000" stop="20260413000000 +0000" channel="AllPlay Ent.id"><title>Neptune TV.</title></programme>
+<programme start="20260413000000 +0000" stop="20260413004500 +0000" channel="AllPlay Ent.id"><title>Apose S2</title></programme>
+<programme start="20260413004500 +0000" stop="20260413010000 +0000" channel="AllPlay Ent.id"><title>Kisah Para Nabi</title></programme>
+<programme start="20260413010000 +0000" stop="20260413020000 +0000" channel="AllPlay Ent.id"><title>Brownies</title></programme>
+<programme start="20260413020000 +0000" stop="20260413030000 +0000" channel="AllPlay Ent.id"><title>Ikatan Cinta</title></programme>
+<programme start="20260413030000 +0000" stop="20260413040000 +0000" channel="AllPlay Ent.id"><title>Lapor Pak</title></programme>
+<programme start="20260413040000 +0000" stop="20260413050000 +0000" channel="AllPlay Ent.id"><title>Puasin</title></programme>
+<programme start="20260413050000 +0000" stop="20260413060000 +0000" channel="AllPlay Ent.id"><title>Agent 0812</title></programme>
+<programme start="20260413060000 +0000" stop="20260413070000 +0000" channel="AllPlay Ent.id"><title>Rumpi (No Secret)</title></programme>
+<programme start="20260413070000 +0000" stop="20260413084500 +0000" channel="AllPlay Ent.id"><title>Teman Tapi Menikah</title></programme>
+<programme start="20260413084500 +0000" stop="20260413093000 +0000" channel="AllPlay Ent.id"><title>Vidi-O-Call</title></programme>
+<programme start="20260413093000 +0000" stop="20260413103000 +0000" channel="AllPlay Ent.id"><title>Agent 0812</title></programme>
+<programme start="20260413103000 +0000" stop="20260413110000 +0000" channel="AllPlay Ent.id"><title>Montase</title></programme>
+<programme start="20260413110000 +0000" stop="20260413113000 +0000" channel="AllPlay Ent.id"><title>Ini Dia</title></programme>
+<programme start="20260413113000 +0000" stop="20260413120000 +0000" channel="AllPlay Ent.id"><title>Lelah Menjadi Lillah</title></programme>
+<programme start="20260413120000 +0000" stop="20260413130000 +0000" channel="AllPlay Ent.id"><title>Agent 0812</title></programme>
+<programme start="20260413130000 +0000" stop="20260413140000 +0000" channel="AllPlay Ent.id"><title>Ikatan Cinta</title></programme>
+<programme start="20260413140000 +0000" stop="20260413154500 +0000" channel="AllPlay Ent.id"><title>Teman Tapi Menikah</title></programme>
+<programme start="20260413154500 +0000" stop="20260413160000 +0000" channel="AllPlay Ent.id"><title>Academy Of Pop</title></programme>
+<programme start="20260413160000 +0000" stop="20260413170000 +0000" channel="AllPlay Ent.id"><title>Apose</title></programme>
+<programme start="20260412170000 +0000" stop="20260412173000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260412173000 +0000" stop="20260412180000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260412180000 +0000" stop="20260412183000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260412183000 +0000" stop="20260412190000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260412190000 +0000" stop="20260412193000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260412193000 +0000" stop="20260412200000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260412200000 +0000" stop="20260412203000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260412203000 +0000" stop="20260412210000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260412210000 +0000" stop="20260412213000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260412213000 +0000" stop="20260412220000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260412220000 +0000" stop="20260412223000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260412223000 +0000" stop="20260412230000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260412230000 +0000" stop="20260412233000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260412233000 +0000" stop="20260413000000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413000000 +0000" stop="20260413003000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413003000 +0000" stop="20260413010000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413010000 +0000" stop="20260413013000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413013000 +0000" stop="20260413020000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413020000 +0000" stop="20260413023000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413023000 +0000" stop="20260413030000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413030000 +0000" stop="20260413033000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413033000 +0000" stop="20260413040000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413040000 +0000" stop="20260413043000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413043000 +0000" stop="20260413050000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413050000 +0000" stop="20260413053000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413053000 +0000" stop="20260413060000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413060000 +0000" stop="20260413063000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413063000 +0000" stop="20260413070000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413070000 +0000" stop="20260413073000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413073000 +0000" stop="20260413080000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413080000 +0000" stop="20260413083000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413083000 +0000" stop="20260413090000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413090000 +0000" stop="20260413093000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413093000 +0000" stop="20260413100000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413100000 +0000" stop="20260413103000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413103000 +0000" stop="20260413110000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413110000 +0000" stop="20260413113000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413113000 +0000" stop="20260413120000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413120000 +0000" stop="20260413123000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413123000 +0000" stop="20260413130000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413130000 +0000" stop="20260413133000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413133000 +0000" stop="20260413140000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413140000 +0000" stop="20260413143000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413143000 +0000" stop="20260413150000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413150000 +0000" stop="20260413153000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413153000 +0000" stop="20260413160000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413160000 +0000" stop="20260413163000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260413163000 +0000" stop="20260413170000 +0000" channel="AlQuran Kareem.id"><title>Live From Mecca</title></programme>
+<programme start="20260412174500 +0000" stop="20260412184000 +0000" channel="Animal Planet.id"><title>Wild Assassins S1 - Eps. 4</title></programme>
+<programme start="20260412184000 +0000" stop="20260412193500 +0000" channel="Animal Planet.id"><title>Wildlife 24</title></programme>
+<programme start="20260412193500 +0000" stop="20260412203000 +0000" channel="Animal Planet.id"><title>Zambia
 <programme start="20260413120000 +0000" stop="20260413123000 +0000" channel="ABC.id"><title>Foreign Correspondent</title><desc>We are your passport to the world. Our stories, told through the ABCs network of foreign correspondents, will take you to incredible places where youll meet the people and see the forces shaping our world.</desc></programme>
 <programme start="20260413123000 +0000" stop="20260413130000 +0000" channel="ABC.id"><title>Planet America</title><desc>The race to the 2024 Presidential Election is on. A handful of Republican candidates remain chasing frontrunner Donald Trump, while Joe Biden is running for re2023election. Chas and John guide you through every step of the way.</desc></programme>
 <programme start="20260413130000 +0000" stop="20260413133000 +0000" channel="ABC.id"><title>The Pacific</title><desc>The Pacific region is rich with culture, people and stories. Johnson Raela and Alice Lolohea bring you the stories that matter to the Pacific and up-to-date information from journalists with deep regional expertise.</desc></programme>
