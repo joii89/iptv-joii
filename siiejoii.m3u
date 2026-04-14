@@ -3723,8 +3723,38 @@ http://45.64.97.211:1031/;stream.nsv
 http://live.serverstreaming.net:9340/kisifm
 #EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Smooth_fm_jkt.png/" group-title="Internet Radio",KISI FM Bogor
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
-
-
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://images.noiceid.cc/catalog/content-1614529804201.jpg",ID | Most 105.8 FM Jakarta
+https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://ik.imagekit.io/amcf/app/themes/new-insaniafm/dist/images/logo-insaniafm_7bfd92fa.png",ID | 100 8 Insania FM Makassar
+https://stream-sg1.galuhmedia.co.id/listen/insaniamakassar/1008makassar
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",ID | 101 Jak FM Streaming Online – Jakarta
+https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://kis951fm.com/assets/img/xfavicon.ico.pagespeed.ic.7xpwd2svoy.png",ID | 95.1 Kiss FM
+http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="http://www.radiosmartfm.com/assets/icon.ico",ID | 95.9 smart FM jakarta
+https://cast2.my-control-panel.com/proxy/radioso3/stream
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://mustang88fm.com/assets/img/xfavicon.ico.pagespeed.ic.zecamulnwf.png",ID | 88.0  Mustang FM Jakarta
+http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",ID | 89.2 FM Jakarta  Campur sari
+https://a8.siar.us/listen/campursari/stream
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",ID | DANGDUT
+https://stream.zeno.fm/sgvq5xniobhuv
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://zeno.fm/favicon.ico",ID | Dangdut2
+https://stream.zeno.fm/vwhplynnpfjtv
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://deltafm.net/_ipx/q_100/img/logo.png",ID | Delta FM | Hits Terenak
+https://s1.cloudmu.id/listen/delta_fm/radio.mp3
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoorUN6xkuaIk6TGP-9ihpdnXm229tGwOtllkyFdsupw&s",ID | Delta FM Jakarta
+http://s1.cloudmu.id:8030/radio.mp3
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://denger.in/logo.png",ID | DENGERIN MUSIK INDONESIA
+https://stream.denger.in/
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://i.ibb.co/sypbbhj/untitled-design-2.png",ID | Cosmopolitan 90.4 FM Jakarta
+http://stream.radiojar.com/u7d8heq3bnzuv
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://i.ibb.co/sypbbhj/untitled-design-2.png",ID | Cosmopolitan FM
+https://n0c.radiojar.com/u7d8heq3bnzuv
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://www.radiodahliafm.com/frontend/img/about/favicon.ico",ID | Dahlia Bandung 101.5 FM
+https://svara-stream.radioddns.net/bandung_dahliafm
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4VecqCqeZwK-c0osq91dVt4J3xf2ksm1U4g&usqp=CAU",ID | Gen 98.7 FM Jakarta
+http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8
 
 
 
