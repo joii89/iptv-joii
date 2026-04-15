@@ -1,8 +1,7 @@
 #EXTM3U billed-msg="Siie Joii"
 
-#EXTM3U tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"
 #EXTM3U tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml"
-#EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epgindo3.xml"
+#EXTM3U tvg-url="https://www.open-epg.com/files/indonesia1.xml"
 #EXTM3U tvg-url="https://www.open-epg.com/files/indonesia2.xml"
 #EXTM3U tvg-url="https://www.open-epg.com/files/indonesia3.xml"
 #EXTM3U tvg-url="https://www.open-epg.com/files/indonesia4.xml"
