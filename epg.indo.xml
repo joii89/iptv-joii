@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processned by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
-<channel id="ABC Australia.id"><display-name>ABC Australia.id</display-name></channel>
-<channel id="Aljazeera.id"><display-name>Aljazeera.id</display-name></channel>
 <channel id="AllPlay Ent.id"><display-name>AllPlay Ent.id</display-name></channel>
 <channel id="AlQuran Kareem.id"><display-name>AlQuran Kareem.id</display-name></channel>
 <channel id="Animal Planet.id"><display-name>Animal Planet.id</display-name></channel>
@@ -14,7 +12,6 @@
 <channel id="AXN.id"><display-name>AXN.id</display-name></channel>
 <channel id="ABC.id"><display-name>ABC.id</display-name></channel>
 <channel id="Al Quran Al Kareem.id"><display-name>Al Quran Al Kareem.id</display-name></channel>
-<channel id="Aljazeera.id"><display-name>Aljazeera.id</display-name></channel>
 <channel id="Anhui.id"><display-name>Anhui.id</display-name></channel>
 <channel id="Animax.id"><display-name>Animax.id</display-name></channel>
 <channel id="ANTV.id"><display-name>ANTV.id</display-name></channel>
@@ -47,7 +44,6 @@
 <channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
 <channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
 <channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
-<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
 <channel id="CNN.id"><display-name>CNN.id</display-name></channel>
 <channel id="Cbeebies.id"><display-name>Cbeebies.id</display-name></channel>
 <channel id="CCM.id"><display-name>CCM.id</display-name></channel>
@@ -93,8 +89,6 @@
 <channel id="SEA Today.id"><display-name>SEA Today.id</display-name></channel>
 <channel id="Sindonews TV.id"><display-name>Sindonews TV.id</display-name></channel>
 <channel id="TV5Monde.id"><display-name>TV5Monde.id</display-name></channel>
-<channel id="TV9 NU.id"><display-name>TV9 NU.id</display-name></channel>
-<channel id="TVBS News.id"><display-name>TVBS News.id</display-name></channel>
 <channel id="TVN Movies.id"><display-name>TVN Movies.id</display-name></channel>
 <channel id="TVN.id"><display-name>TVN.id</display-name></channel>
 <channel id="TVRI.id"><display-name>TVRI.id</display-name></channel>
@@ -107,8 +101,6 @@
 <channel id="MDTV.id"><display-name>MDTV.id</display-name></channel>
 <channel id="Metro TV.id"><display-name>Metro TV.id</display-name></channel>
 <channel id="MNCTV World.id"><display-name>MNCTV World.id</display-name></channel>
-<channel id="MNCTV.id"><display-name>MNCTV.id</display-name></channel>
-<channel id="Moonbug.id"><display-name>Moonbug.id</display-name></channel>
 <channel id="Music TV.id"><display-name>Music TV.id</display-name></channel>
 <channel id="Muslim TV.id"><display-name>Muslim TV.id</display-name></channel>
 <channel id="NHK World Premium.id"><display-name>NHK World Premium.id</display-name></channel>
@@ -121,7 +113,6 @@
 <channel id="R+ LIVE.id"><display-name>R+ LIVE.id</display-name></channel>
 <channel id="RCTI World.id"><display-name>RCTI World.id</display-name></channel>
 <channel id="RCTI.id"><display-name>RCTI.id</display-name></channel>
-<channel id="Reformed 21.id"><display-name>Reformed 21.id</display-name></channel>
 <channel id="Rock Action.id"><display-name>Rock Action.id</display-name></channel>
 <channel id="Rock Entertainment.id"><display-name>Rock Entertainment.id</display-name></channel>
 <channel id="RTV.id"><display-name>RTV.id</display-name></channel>
@@ -150,18 +141,8 @@
 <channel id="TVOne.id"><display-name>TVOne.id</display-name></channel>
 <channel id="TVRI.id"><display-name>TVRI.id</display-name></channel>
 <channel id="Uniques.id"><display-name>Uniques.id</display-name></channel>
-<channel id="V+ LIVE 2.id"><display-name>V+ LIVE 2.id</display-name></channel>
-<channel id="V+ LIVE 3.id"><display-name>V+ LIVE 3.id</display-name></channel>
-<channel id="V+ LIVE 4.id"><display-name>V+ LIVE 4.id</display-name></channel>
-<channel id="V+ LIVE 5.id"><display-name>V+ LIVE 5.id</display-name></channel>
-<channel id="V+ LIVE 6.id"><display-name>V+ LIVE 6.id</display-name></channel>
-<channel id="V+ LIVE 7.id"><display-name>V+ LIVE 7.id</display-name></channel>
-<channel id="V+ LIVE 8.id"><display-name>V+ LIVE 8.id</display-name></channel>
-<channel id="V+ LIVE 9.id"><display-name>V+ LIVE 9.id</display-name></channel>
-<channel id="V+ LIVE.id"><display-name>V+ LIVE.id</display-name></channel>
 <channel id="V+ Sports.id"><display-name>V+ Sports.id</display-name></channel>
 <channel id="Vision Prime.id"><display-name>Vision Prime.id</display-name></channel>
-<channel id="Xing kong TV.id"><display-name>Xing kong TV.id</display-name></channel>
 <channel id="Zee Bioskop.id"><display-name>Zee Bioskop.id</display-name></channel>
 <channel id="Zoo Moo.id"><display-name>Zoo Moo.id</display-name></channel>
 <programme start="20260412173000 +0000" stop="20260412183000 +0000" channel="ABC Australia.id"><title>Landline - Eps. 9</title></programme>
