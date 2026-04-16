@@ -21,15 +21,16 @@
 <channel id="Bandung TV.id"><display-name>Bandung TV.id</display-name></channel>
 <channel id="BBC Earth.id"><display-name>BBC Earth.id</display-name></channel>
 <channel id="BBC World news.id"><display-name>BBC World news.id</display-name></channel>
-<channel id="beIN SPORTS 2.id"><display-name>beIN SPORTS 2.id</display-name></channel>
-<channel id="beIN SPORTS 3.id"><display-name>beIN SPORTS 3.id</display-name></channel>
 <channel id="beIN SPORTS 4.id"><display-name>beIN SPORTS 4.id</display-name></channel>
 <channel id="beIN SPORTS 5.id"><display-name>beIN SPORTS 5.id</display-name></channel>
-<channel id="beIN SPORTS.id"><display-name>beIN SPORTS.id</display-name></channel>
 <channel id="BTV.id"><display-name>BTV.id</display-name></channel>
 <channel id="Bioskop Indonesia.id"><display-name>Bioskop Indonesia.id</display-name></channel>
 <channel id="Bloomberg.id"><display-name>Bloomberg.id</display-name></channel>
 <channel id="BTV.id"><display-name>BTV.id</display-name></channel>
+<channel id="beIN Sports 1.id"><display-name>beIN Sports 1.id</display-name><icon src="https://images.open-epg.com/30526.png"/></channel>
+<channel id="beIN Sports 2.id"><display-name>beIN Sports 2.id</display-name><icon src="https://images.open-epg.com/30527.png"/></channel>
+<channel id="beIN Sports 3.id"><display-name>beIN Sports 3.id</display-name><icon src="https://images.open-epg.com/30528.png"/></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name><icon src="https://images.open-epg.com/30530.png"/></channel>
 <channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
 <channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
 <channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
@@ -40,7 +41,6 @@
 <channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
 <channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
 <channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
-<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>>><channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
 <channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
 <channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
 <channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
@@ -56,95 +56,58 @@
 <channel id="Drama World.id"><display-name>Drama World.id</display-name></channel>
 <channel id="Dream Works.id"><display-name>Dream Works.id</display-name></channel>
 <channel id="Entertainment.id"><display-name>Entertainment.id</display-name></channel>
-<channel id="Galaxy Premium.id"><display-name>Galaxy Premium.id</display-name></channel>
-<channel id="Galaxy.id"><display-name>Galaxy.id</display-name></channel>
 <channel id="Garuda TV.id"><display-name>Garuda TV.id</display-name></channel>
 <channel id="GTV.id"><display-name>GTV.id</display-name></channel>
-<channel id="HBO Family.id"><display-name>HBO Family.id</display-name></channel>
-<channel id="HBO Hits.id"><display-name>HBO Hits.id</display-name></channel>
-<channel id="HBO Signature.id"><display-name>HBO Signature.id</display-name></channel>
-<channel id="HBO.id"><display-name>HBO.id</display-name></channel>
-<channel id="HITS Movies.id"><display-name>HITS Movies.id</display-name></channel>
-<channel id="HITS Now.id"><display-name>HITS Now.id</display-name></channel>
-<channel id="HITS.id"><display-name>HITS.id</display-name></channel>
-<channel id="Indosiar.id"><display-name>Indosiar.id</display-name></channel>
-<channel id="iNews.id"><display-name>iNews.id</display-name></channel>
-<channel id="Kompas TV.id"><display-name>Kompas TV.id</display-name></channel>
-<channel id="Lifetime.id"><display-name>Lifetime.id</display-name></channel>
-<channel id="MDTV.id"><display-name>MDTV.id</display-name></channel>
+<channel id="Galaxy Premium.id"><display-name>Galaxy Premium.id</display-name><icon src="https://images.open-epg.com/30532.png"/></channel>
+<channel id="Galaxy.id"><display-name>Galaxy.id</display-name><icon src="https://images.open-epg.com/30533.png"/></channel>
+<channel id="HBO Family.id"><display-name>HBO Family.id</display-name><icon src="https://images.open-epg.com/30536.png"/></channel>
+<channel id="HBO Hits.id"><display-name>HBO Hits.id</display-name><icon src="https://images.open-epg.com/30537.png"/></channel>
+<channel id="HBO Signature.id"><display-name>HBO Signature.id</display-name><icon src="https://images.open-epg.com/30538.png"/></channel>
+<channel id="HBO.id"><display-name>HBO.id</display-name><icon src="https://images.open-epg.com/30539.png"/></channel>
+<channel id="HITS Movies.id"><display-name>HITS Movies.id</display-name><icon src="https://images.open-epg.com/30540.png"/></channel>
+<channel id="HITS Now.id"><display-name>HITS Now.id</display-name><icon src="https://images.open-epg.com/30541.png"/></channel>
+<channel id="HITS.id"><display-name>HITS.id</display-name><icon src="https://images.open-epg.com/30542.png"/></channel>
+<channel id="Indosiar.id"><display-name>Indosiar.id</display-name><icon src="https://images.open-epg.com/30543.png"/></channel>
+<channel id="iNews.id"><display-name>iNews.id</display-name><icon src="https://images.open-epg.com/30544.png"/></channel>
+<channel id="Kompas TV.id"><display-name>Kompas TV.id</display-name><icon src="https://images.open-epg.com/30545.png"/></channel>
+<channel id="Lifetime.id"><display-name>Lifetime.id</display-name><icon src="https://images.open-epg.com/30546.png"/></channel>
+<channel id="MDTV.id"><display-name>MDTV.id</display-name><icon src="https://images.open-epg.com/30547.png"/></channel>
+<channel id="Metro TV.id"><display-name>Metro TV.id</display-name><icon src="https://images.open-epg.com/30549.png"/></channel>
+<channel id="MNC TV.id"><display-name>MNC TV.id</display-name><icon src="https://images.open-epg.com/30550.png"/></channel>
+<channel id="Moji.id"><display-name>Moji.id</display-name><icon src="https://images.open-epg.com/30551.png"/></channel>
 <channel id="Mentari TV.id"><display-name>Mentari TV.id</display-name></channel>
-<channel id="Metro TV.id"><display-name>Metro TV.id</display-name></channel>
-<channel id="MNC TV.id"><display-name>MNC TV.id</display-name></channel>
-<channel id="Moji.id"><display-name>Moji.id</display-name></channel>
 <channel id="My Cinema Asia.id"><display-name>My Cinema Asia.id</display-name></channel>
 <channel id="My Cinema.id"><display-name>My Cinema.id</display-name></channel>
 <channel id="My Family Channel.id"><display-name>My Family Channel.id</display-name></channel>
 <channel id="My Kidz.id"><display-name>My Kidz.id</display-name></channel>
 <channel id="Nusantara TV.id"><display-name>Nusantara TV.id</display-name></channel>
-<channel id="RCTI.id"><display-name>RCTI.id</display-name></channel>
-<channel id="Rock Action.id"><display-name>Rock Action.id</display-name></channel>
-<channel id="Rock Entertainment.id"><display-name>Rock Entertainment.id</display-name></channel>
 <channel id="RTV.id"><display-name>RTV.id</display-name></channel>
-<channel id="SCTV.id"><display-name>SCTV.id</display-name></channel>
+<channel id="RCTI.id"><display-name>RCTI.id</display-name><icon src="https://images.open-epg.com/30557.png"/></channel>
+<channel id="Rock Action.id"><display-name>Rock Action.id</display-name><icon src="https://images.open-epg.com/30558.png"/></channel>
+<channel id="Rock Entertainment.id"><display-name>Rock Entertainment.id</display-name><icon src="https://images.open-epg.com/30559.png"/></channel>
 <channel id="SEA Today.id"><display-name>SEA Today.id</display-name></channel>
 <channel id="Sindonews TV.id"><display-name>Sindonews TV.id</display-name></channel>
 <channel id="TV5Monde.id"><display-name>TV5Monde.id</display-name></channel>
-<channel id="TVN Movies.id"><display-name>TVN Movies.id</display-name></channel>
-<channel id="TVN.id"><display-name>TVN.id</display-name></channel>
-<channel id="TVRI.id"><display-name>TVRI.id</display-name></channel>
-<channel id="UChannel.id"><display-name>UChannel.id</display-name></channel>
-<channel id="Warner.id"><display-name>Warner.id</display-name></channel>
-<channel id="ZBioskop.id"><display-name>ZBioskop.id</display-name></channel>
-<channel id="LIFE.id"><display-name>LIFE.id</display-name></channel>
-<channel id="Lifetime.id"><display-name>Lifetime.id</display-name></channel>
-<channel id="Love Nature.id"><display-name>Love Nature.id</display-name></channel>
-<channel id="MDTV.id"><display-name>MDTV.id</display-name></channel>
-<channel id="Metro TV.id"><display-name>Metro TV.id</display-name></channel>
-<channel id="MNCTV World.id"><display-name>MNCTV World.id</display-name></channel>
-<channel id="Music TV.id"><display-name>Music TV.id</display-name></channel>
-<channel id="Muslim TV.id"><display-name>Muslim TV.id</display-name></channel>
-<channel id="NHK World Premium.id"><display-name>NHK World Premium.id</display-name></channel>
-<channel id="NHK.id"><display-name>NHK.id</display-name></channel>
-<channel id="Nick Jr.id"><display-name>Nick Jr.id</display-name></channel>
-<channel id="Nick.id"><display-name>Nick.id</display-name></channel>
-<channel id="One.id"><display-name>One.id</display-name></channel>
-<channel id="Originals.id"><display-name>Originals.id</display-name></channel>
-<channel id="Outdoor Channel.id"><display-name>Outdoor Channel.id</display-name></channel>
-<channel id="R+ LIVE.id"><display-name>R+ LIVE.id</display-name></channel>
-<channel id="RCTI World.id"><display-name>RCTI World.id</display-name></channel>
-<channel id="RCTI.id"><display-name>RCTI.id</display-name></channel>
-<channel id="Rock Action.id"><display-name>Rock Action.id</display-name></channel>
-<channel id="Rock Entertainment.id"><display-name>Rock Entertainment.id</display-name></channel>
-<channel id="RTV.id"><display-name>RTV.id</display-name></channel>
-<channel id="Sanlih.id"><display-name>Sanlih.id</display-name></channel>
-<channel id="SCTV.id"><display-name>SCTV.id</display-name></channel>
-<channel id="Shanghai Dragon.id"><display-name>Shanghai Dragon.id</display-name></channel>
-<channel id="SindoNews.id"><display-name>SindoNews.id</display-name></channel>
-<channel id="Soccer Channel.id"><display-name>Soccer Channel.id</display-name></channel>
-<channel id="Sportstars 2.id"><display-name>Sportstars 2.id</display-name></channel>
-<channel id="Sportstars 3.id"><display-name>Sportstars 3.id</display-name></channel>
 <channel id="Sportstars 4.id"><display-name>Sportstars 4.id</display-name></channel>
 <channel id="Sportstars.id"><display-name>Sportstars.id</display-name></channel>
 <channel id="SpoTV 1.id"><display-name>SpoTV 1.id</display-name></channel>
-<channel id="SpoTV 2.id"><display-name>SpoTV 2.id</display-name></channel>
+<channel id="SpoTV 2.id"><display-name>SpoTV 2.id</display-name><icon src="https://images.open-epg.com/30564.png"/></channel>
+<channel id="SpoTV.id"><display-name>SpoTV.id</display-name><icon src="https://images.open-epg.com/30565.png"/></channel>
 <channel id="Studio Universal.id"><display-name>Studio Universal.id</display-name></channel>
 <channel id="Superrix.id"><display-name>Superrix.id</display-name></channel>
+<channel id="SCTV.id"><display-name>SCTV.id</display-name><icon src="https://images.open-epg.com/30561.png"/></channel>
+<channel id="Trans TV.id"><display-name>Trans TV.id</display-name><icon src="https://images.open-epg.com/30566.png"/></channel>
+<channel id="Trans7.id"><display-name>Trans7.id</display-name><icon src="https://images.open-epg.com/30567.png"/></channel>
+<channel id="tvN Movies.id"><display-name>tvN Movies.id</display-name><icon src="https://images.open-epg.com/30568.png"/></channel>
+<channel id="tvN.id"><display-name>tvN.id</display-name><icon src="https://images.open-epg.com/30569.png"/></channel>
+<channel id="TvOne.id"><display-name>TvOne.id</display-name><icon src="https://images.open-epg.com/30570.png"/></channel>
+<channel id="TVRI.id"><display-name>TVRI.id</display-name><icon src="https://images.open-epg.com/30571.png"/></channel>
 <channel id="Thrill.id"><display-name>Thrill.id</display-name></channel>
-<channel id="Trans 7.id"><display-name>Trans 7.id</display-name></channel>
-<channel id="Trans TV.id"><display-name>Trans TV.id</display-name></channel>
-<channel id="TRT World.id"><display-name>TRT World.id</display-name></channel>
-<channel id="TV 9.id"><display-name>TV 9.id</display-name></channel>
-<channel id="TV MU.id"><display-name>TV MU.id</display-name></channel>
-<channel id="TV5Monde.id"><display-name>TV5Monde.id</display-name></channel>
-<channel id="TVN Movies.id"><display-name>TVN Movies.id</display-name></channel>
-<channel id="TVN.id"><display-name>TVN.id</display-name></channel>
-<channel id="TVOne.id"><display-name>TVOne.id</display-name></channel>
 <channel id="TVRI.id"><display-name>TVRI.id</display-name></channel>
 <channel id="Uniques.id"><display-name>Uniques.id</display-name></channel>
-<channel id="V+ Sports.id"><display-name>V+ Sports.id</display-name></channel>
 <channel id="Vision Prime.id"><display-name>Vision Prime.id</display-name></channel>
-<channel id="Zee Bioskop.id"><display-name>Zee Bioskop.id</display-name></channel>
 <channel id="Zoo Moo.id"><display-name>Zoo Moo.id</display-name></channel>
+<channel id="Zee Bioskop.id"><display-name>Zee Bioskop.id</display-name><icon src="https://images.open-epg.com/30573.png"/></channel>
 <programme start="20260412173000 +0000" stop="20260412183000 +0000" channel="ABC Australia.id"><title>Landline - Eps. 9</title></programme>
 <programme start="20260412183000 +0000" stop="20260412193000 +0000" channel="ABC Australia.id"><title>Insiders - Eps. 11</title></programme>
 <programme start="20260412193000 +0000" stop="20260412200000 +0000" channel="ABC Australia.id"><title>Offsiders - Gather Round Special from Adelaide</title></programme>
