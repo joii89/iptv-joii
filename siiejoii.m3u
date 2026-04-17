@@ -103,7 +103,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 tvg-url="https://www.open-epg.com/files/indonesia4.xml" tvg-logo="https://images.open-epg.com/30557.png" group-title="Playlist🇮🇩", RCTI
+#EXTINF:-1 tvg-url="https://www.open-epg.com/files/indonesia4.xml" tvg-logo="https://mantul.biz.id/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_hQLLUH6FRA-f05CTt3fkCvV9pUaPkSG6-iCXgE7RLHg.png" group-title="Playlist🇮🇩", RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
@@ -131,7 +131,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
  
-#EXTINF:-1 tvg-id="MNCTV" tvg-url="https://www.open-epg.com/files/indonesia4.xml" tvg-logo="https://e7.pngegg.com/pngimages/371/134/png-clipart-mnc-land-media-nusantara-citra-mnc-corporation-mnc-kapital-indonesia-mnc-group-business-text-people.png" group-title="Playlist🇮🇩", MNCTV
+#EXTINF:-1 tvg-id="MNCTV" tvg-url="https://www.open-epg.com/files/indonesia4.xml" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_M9o_ig3lupuxbMkR8E6OTquhVYjUdqos4TEFj06nKKg.png" group-title="Playlist🇮🇩", MNCTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
@@ -733,7 +733,7 @@ http://103.66.62.83:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="Playlist Indonesia🇮🇩",GTV (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI
+#EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://mantul.biz.id/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_hQLLUH6FRA-f05CTt3fkCvV9pUaPkSG6-iCXgE7RLHg.png", RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-RCTI/playlist.m3u8
 
@@ -741,7 +741,7 @@ http://103.58.160.157:8278/720-RCTI/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mimipipi22.github.io/logo/nasional/rcti.jpg" group-title="Playlist Indonesia🇮🇩", RCTI ( V+ )
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mantul.biz.id/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_hQLLUH6FRA-f05CTt3fkCvV9pUaPkSG6-iCXgE7RLHg.png" group-title="Playlist Indonesia🇮🇩", RCTI ( V+ )
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 https://cdnjktbpid22.transvision.co.id/riutx01/dash/UkNUSS1DaGFubmVs/manifest.mpd
