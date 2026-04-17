@@ -218,7 +218,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541186&exte
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Chinese Drama" tvg-name="Chinese Drama" tvg-logo="https://mimipipi22.github.io/logo/entertainment/chinesedrama.jpg" group-title="Playlist🇮🇩",CHINESE DRAMA
+#EXTINF:-1 tvg-id="Chinese Drama" tvg-name="Chinese Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png" group-title="Playlist🇮🇩",CHINESE DRAMA
 ##https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298516
 
@@ -256,7 +256,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=727489e7583045de8d7e118acb8f757d:13fe71d17a1f9a8cdec42b1089275b03
-#EXTINF:-1 tvg-url="https://www.open-epg.com/files/indonesia4.xml" tvg-id="Maxstream.id" tvg-name="Maxstream" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180_x_180__2026_02_12_15_17_01.png" group-title="Playlist🇮🇩", Maxstream
+#EXTINF:-1 tvg-url="https://www.open-epg.com/files/indonesia4.xml" tvg-id="Maxstream.id" tvg-name="Maxstream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQoTxr7eUinhVrDg-ruJuFvWIKwTjva-lrg&s" group-title="Playlist🇮🇩", Maxstream
 https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_wuseetv.mpd
 
 #EXTINF:-1 tvg-id="ROCKEntertainment.id" x-tvg-url="https://www.open-epg.com/files/indonesia4.xml" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Playlist🇮🇩", Rock Entertainment
@@ -780,8 +780,9 @@ https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudH
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
-https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
@@ -856,7 +857,7 @@ http://202.169.224.202:8800/udp/239.9.1.15:1234
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548" group-title="Playlist Indonesia🇮🇩",Citra Entertainment 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548" group-title="Playlist Indonesia🇮🇩",Citra Entertainment 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1848,6 +1849,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest_wuseetv.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://vidx.semar.my.id/biasa2.mpd?id=7052&type=dash
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440" group-title="KIDS",Horee!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
