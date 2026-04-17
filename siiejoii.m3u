@@ -131,7 +131,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
  
-#EXTINF:-1 tvg-id="MNCTV" tvg-url="https://www.open-epg.com/files/indonesia4.xml" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_M9o_ig3lupuxbMkR8E6OTquhVYjUdqos4TEFj06nKKg.png" group-title="Playlist🇮🇩", MNCTV
+#EXTINF:-1 tvg-id="MNCTV" tvg-url="https://www.open-epg.com/files/indonesia4.xml" tvg-logo="https://images.open-epg.com/30550.png" group-title="Playlist🇮🇩", MNC TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
@@ -275,7 +275,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEnter
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 x-tvg-url="https://www.open-epg.com/files/indonesia4.xml" group-title="Playlist🇮🇩" tvg-logo="https://object-streamo.emonaja.com/img/rockaction.png",Rock Action
+#EXTINF:-1 x-tvg-url="https://www.open-epg.com/files/indonesia4.xml" group-title="Playlist🇮🇩" tvg-logo="https://images.open-epg.com/30558.png",Rock Action
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/ROCK_ACTION/manifest.mpd
@@ -293,7 +293,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mediampd/LifetimeHD.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 
-#EXTINF:-1 x-tvg-url="https://www.open-epg.com/files/indonesia4.xml" tvg-logo="https://object-streamo.emonaja.com/img/tvnmovies.png" group-title="Playlist🇮🇩", TVN Movies
+#EXTINF:-1 x-tvg-url="https://www.open-epg.com/files/indonesia4.xml" tvg-logo="https://images.open-epg.com/30568.png" group-title="Playlist🇮🇩", TVN Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-TVNMOVIES/playlist.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/tvnmovies/manifest.mpdhttps://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
@@ -466,14 +466,14 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Z6Ct8gG.png?v=1.1.1.1" group-title="Sports ⚽" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="beINSports2.id" tvg-name="beIN Sports 2", beIN Sports 2 
+#EXTVLCOPT:http-user- gent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://images.open-epg.com/30527.png" group-title="Sports ⚽" tvg-id="beINSports2.id" tvg-name="beIN Sports 2", beIN Sports 2 
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd|referrer=https://visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/PN4Owbg.png?v=1.1.1.1" group-title="Sports ⚽" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="beINSports3.id" tvg-name="beIN Sports 3", beIN Sports 3 
+#EXTINF:-1 tvg-logo="https://images.open-epg.com/30528.png" group-title="Sports ⚽" tvg-id="beINSports3.id" tvg-name="beIN Sports 3", beIN Sports 3 
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|referrer=https://visionplus.id
 
 #EXTINF:-1 group-logo="" group-title="Sports ⚽" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-l.png",beIN SPORTS 4
@@ -1598,7 +1598,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mp
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
-#EXTINF:-1 tvg-id="TvNMovies" tvg-name="tvN Movies" tvg-logo="https://object-streamo.emonaja.com/img/tvnmovies.png" group-title="Playlist Movie 📺", TVN Movies (IND)
+#EXTINF:-1 tvg-id="TvNMovies" tvg-name="tvN Movies" tvg-logo="https://images.open-epg.com/30568.png" group-title="Playlist Movie 📺", TVN Movies (IND)
 #EXTVLCOPT:http-user-agent=Mozila/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
