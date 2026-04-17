@@ -1,12 +1,12 @@
 #EXTM3U billed-msg="Siie Joii"
 
+#EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml"
 #EXTM3U tvg-url="https://www.open-epg.com/files/indonesia1.xml"
 #EXTM3U tvg-url="https://www.open-epg.com/files/indonesia2.xml"
 #EXTM3U tvg-url="https://www.open-epg.com/files/indonesia3.xml"
 #EXTM3U tvg-url="https://www.open-epg.com/files/indonesia4.xml"
 #EXTM3U tvg-url="https://www.open-epg.com/files/indonesia5.xml"
 #EXTM3U tvg-url="https://www.open-epg.com/files/indonesia6.xml"
-#EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml"
 
 
 <======== Playlist🇮🇩 ======>
@@ -16,7 +16,6 @@
 
 #EXTM3U
 #EXTINF:-1 group-logo="https://www.playlistlive.co.uk/wp-content/uploads/2024/01/playlist-only-logo.png" group-title="Playlist🇮🇩" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml"
-
 
 #EXTINF:-1 tvg-id="Bioskop Indonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/BgSPo1W.png" tvg-url="https://www.open-epg.com/files/indonesia4.xml" group-title="Playlist🇮🇩", Bioskop Indonesia
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -349,8 +348,6 @@ http:/goldenpro.xyz:80/live/194679431759017/8173373055/1247982.ts#EXT-X-VERSION:
 
 #EXTM3U
 #EXTINF:-1 group-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg" group-title="Sports ⚽" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml"
-
-#EXTM3U
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
