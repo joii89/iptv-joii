@@ -31,6 +31,7 @@
 <channel id="beIN Sports 2.id"><display-name>beIN Sports 2.id</display-name><icon src="https://images.open-epg.com/30527.png"/></channel>
 <channel id="beIN Sports 3.id"><display-name>beIN Sports 3.id</display-name><icon src="https://images.open-epg.com/30528.png"/></channel>
 <channel id="Cinemax.id"><display-name>Cinemax.id</display-name><icon src="https://images.open-epg.com/30530.png"/></channel>
+<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
 <channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
 <channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
 <channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
@@ -64,6 +65,10 @@
 <channel id="HBO Hits.id"><display-name>HBO Hits.id</display-name><icon src="https://images.open-epg.com/30537.png"/></channel>
 <channel id="HBO Signature.id"><display-name>HBO Signature.id</display-name><icon src="https://images.open-epg.com/30538.png"/></channel>
 <channel id="HBO.id"><display-name>HBO.id</display-name><icon src="https://images.open-epg.com/30539.png"/></channel>
+<channel id="HBO Family.id"><display-name>HBO Family.id</display-name></channel>
+<channel id="HBO Hits.id"><display-name>HBO Hits.id</display-name></channel>
+<channel id="HBO Signature.id"><display-name>HBO Signature.id</display-name></channel>
+<channel id="HBO.id"><display-name>HBO.id</display-name></channel>
 <channel id="HITS Movies.id"><display-name>HITS Movies.id</display-name><icon src="https://images.open-epg.com/30540.png"/></channel>
 <channel id="HITS Now.id"><display-name>HITS Now.id</display-name><icon src="https://images.open-epg.com/30541.png"/></channel>
 <channel id="HITS.id"><display-name>HITS.id</display-name><icon src="https://images.open-epg.com/30542.png"/></channel>
