@@ -344,7 +344,7 @@ http:/goldenpro.xyz:80/live/194679431759017/8173373055/1247982.ts#EXT-X-VERSION:
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1 group-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg" group-title="Sports ⚽" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml"
+#EXTINF:-1 group-logo="https://images.seeklogo.com/logo-png/45/1/sport-logo-png_seeklogo-451471.png" group-title="Sports ⚽" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml"
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -1785,11 +1785,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_25000
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3284600346800000.mpd
 
 
-
 <==== Kids Channels ===>
 
 
-#EXTM3U group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQR7kojQmrKwwBLWqKyacX2m-SSRUUAUKfILzghqzN95dZyroJz0-H1Lw&s=10" group-title="KIDS"
+#EXTM3U
+#EXTM3U group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7iUBZzG5eMjXYHo4wz24sFlOSHOsC5GgLWNMNJixlMQ&s" group-title="KIDS"
 
 #EXTINF:-1 group-title="KIDS" tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://object-streamo.emonaja.com/img/animax.png", Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
