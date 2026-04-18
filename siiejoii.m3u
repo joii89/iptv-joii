@@ -90,15 +90,14 @@ http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 http://103.146.197.250:25461/live/daeng/tmgrh/16.m3u8
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/1139211.m3u8
-#http://filex.me:8080/live/000003/000003/302264.m3u8
-#http://xtv.ooo:8080/live/150324003/11150324/350972.m3u8
+http://filex.me:8080/live/000003/000003/302264.m3u8
+http://xtv.ooo:8080/live/150324003/11150324/350972.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" tvg-url="https://www.open-epg.com/files/indonesia4.xml" group-title="Playlist🇮🇩", SCTV
 http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sctv/manifest.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
@@ -282,10 +281,6 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/ROCK_ACTION/manifest.mpd
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 
-#EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Signature.id" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://images.open-epg.com/30538.png" group-title="Playlist🇮🇩", HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http:/goldenpro.xyz:80/live/194679431759017/8173373055/1247982.ts#EXT-X-VERSION:4
@@ -674,12 +669,14 @@ http://202.169.224.202:8800/udp/239.9.1.29:1234
 http://202.169.224.202:8800/udp/239.4.4.1:1234
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Playlist Indonesia🇮🇩", SCTV ( 2 )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-SCTV/playlist.m3u8
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/1067262.m3u8
 http://103.66.62.83:8000/play/a00z/index.m3u8
-http://103.58.160.157:8278/720-SCTV/playlist.m3u8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
@@ -911,6 +908,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="Playlist Indonesia🇮🇩",Nusantara TV (DensTV)
 https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
 
 #EXTVLCOPT:http-referrer=https://cdn.siar.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
@@ -1052,11 +1050,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=l
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="Playlist Indonesia🇮🇩", Nusantara TV
-https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
-
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="Playlist Indonesia🇮🇩", TVRI Nasional
 https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=lite&chname=TVRI
 
@@ -1138,7 +1131,7 @@ http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" group-logo="https://forums.cdn.launchbox.gg/monthly_2017_12/5a2afa6775212_PlaylistsGraffitiLOGO.png.ecff2a20b53bcdc8c332bce8d4f5992d.png" group-title="Playlist Indonesia🇮🇩"
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" group-logo="https://forums.cdn.launchbox.gg/monthly_2017_12/5a2afa6775212_PlaylistsGraffitiLOGO.png.ecff2a20b53bcdc8c332bce8d4f5992d.png" group-title="Playlist Movie 📺"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
