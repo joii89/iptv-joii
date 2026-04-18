@@ -1,9 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260418180857 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/523995/20260418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=523995&amp;date=20260418&amp;timezone=QXNpYS9KYWthcnRh">
-<channel id="523995">
-<display-name lang="Indonesia">Bioskop Indonesia</display-name>
-<icon src="" />
-</channel>
 <programme channel="523995" start="20260418000000 +0700" stop="20260418013000 +0700">
 <title lang="zh">OMG Aku Cinta Kamu</title>
 <desc />
