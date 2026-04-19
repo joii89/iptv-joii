@@ -2025,34 +2025,54 @@ https://api.vidio.com/videos/2335089/common_tokenized_playlist.m3u8?ott=eyJhbGci
 #EXTM3U
 
 #EXTINF:-1 type="movie"
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c6/Poster_MDR.jpg/220px-Poster_MDR.jpg" type="movie" group-title="Movie Indonesia",Mohon Doa Restu (2023)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9qtlim
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/1/8/5/2/4/5/1185245-mungkin-esok-lusa-atau-nanti-0-230-0-345-crop.jpg?v=4cc2d755b2" type="movie" group-title="Movie Indonesia",Mungkin Esok Lusa Atau Nanti (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9a52yu
+
 #EXTINF:-1 type="movie" tvg-id="" tvg-logo="https://media.themoviedb.org/t/p/w500/zVZIcXVMFdbzTTHOThrZX7o2DO7.jpg" type="movie" group-title="Movie Indonesia",Laura (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9f73iq
+
 #EXTINF:-1 type="movie" tvg-id="" tvg-logo="https://posters.cdn.klikfilm.net/380_543/7_hari_untuk_keshia_600_857.jpg" type="movie" group-title="Movie Indonesia",7 Hari Untuk Keshia (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9d736m
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIC8npYYx50d4CEqqWmJQdvhhQp1VsuLJKNw&s" type="movie" group-title="Movie Indonesia",Semusim Setelah Kemarau (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9dez1e
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2MxMzkwM2QtNDQ3MC00NGRhLWIxOTctMDM0NzNkZDFkY2VlXkEyXkFqcGc@._V1_.jpg" type="movie" group-title="Movie Indonesia",Selesai (2021)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8r7mwm
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.bantennow.com/assets/2024/07/Rumah-Dinas-Bapak-2024.webp" type="movie" group-title="Movie Indonesia",Rumah Dinas Bapak (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9icyxk
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzdhMjA1MWMtOTkwYi00MDBjLWFkMGEtNWU0MjE2ZTQ4YzYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" type="movie" group-title="Movie Indonesia",Lara Ati (2022)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x95agkk
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzczNGFhZTYtOTZlNi00MDczLWFhZTctNGFkMzlmMWYyYmZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" type="movie" group-title="Movie Indonesia",Merindu Cahaya De Amstel (2022)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9a27nu
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzEyM2VlZTgtNGI3MS00NzBiLWJkODItNGE4OWU5M2FmNTg0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" type="movie" group-title="Movie Indonesia",5 cm (2012)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9ni9ky
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTc1NGJmOWItOTQxOC00ZGFjLTg1NzItZjdmZmFmMjU1OTlmXkEyXkFqcGc@._V1_.jpg" type="movie" group-title="Movie Indonesia",Pasutri Gaje (2024)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9kg0yi
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original/hMpdF4B15DHMj5eK6I6IuvlA87k.jpg" type="movie" group-title="Movie Indonesia",Sesuai Aplikasi (2024)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x985jmm
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHq_W-x3VOn-o4kS-mkqoIo0qqnfV14ao-Zw&s" type="movie" group-title="Movie Indonesia",Guru-Guru Gokil (2020)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
-
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/722/199722-BACKGROUND-m.jpg" type="movie" group-title="Movie Indonesia", Cek Toko Sebelah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2061,25 +2081,52 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tolhxlph2dpt.cloudfront.net/out/v1/0cbf4cb93156406da0af118d9e169fc4/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
 
-
 #EXTINF:-1 type="movies" tvg-logo="https://i.pinimg.com/474x/54/01/40/5401404c77158e5dfdc6aa9b242cdc80.jpg" type="movie" group-title="Movie Indonesia", Singsot Siulan Kematian
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401721890.mp4
+
 #EXTINF:-1 type="movies" tvg-logo="https://i.pinimg.com/736x/38/cc/41/38cc418f11b9106779b7415fc3555b53.jpg" type="movie" group-title="Movie Indonesia", Rambut Kafan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401688944.mp4
+
 #EXTINF:-1 type="movies" tvg-logo="https://i.pinimg.com/474x/cc/d1/19/ccd11978f0aaef79b5910ea2c5023f23.jpg" type="movie" group-title="Movie Indonesia",Suami Yang Lain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587915.mp4
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d3/f8/11/d3f81140410a281bc1822c25d5d51657.jpg" type="movie" group-title="Movie Indonesia",Rasuk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401620781.mkv
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/9c/91/a1/9c91a1c887
+
+#EXTINF:-1 tvg-logo="https://vjezbaj.com/wp-content/uploads/dbsync/2025/12/post_6168698_IDMUVICORE_Poster_d2b6ceff.jpg" type="movie" group-title="Movie Indonesia", Ali topan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://ichinime.4meplayer.pro/hls/HA46Ad8Iw2uHYcmHW9tjpA/5w3/v1feamnk/5xx9fs/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="" type="movie" group-title="Movie Indonesia",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" type="movie" group-title="Movie Indonesia",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" type="movie" group-title="Movie Indonesia",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" type="movie" group-title="Movie Indonesia",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" type="movie" group-title="Movie Indonesia",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" type="movie" group-title="Movie Indonesia",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/2e/1b/be/2e1bbea5605a31b77f8e4c89ca84c98c.jpg" type="movie" group-title="Movie Indonesia",Cinta Dari Timor
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401566071.mp4
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/df/c8/c6/dfc8c61fe120745301679b50a0905cc3.jpg" type="movie" group-title="Movie Indonesia",Mount Kawi
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401575732.mkv
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/63/98/8f/63988f21d211eee900823ee0b992931e.jpg" type="movie" group-title="Movie Indonesia",Pelet Tali Pocong
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401572086.mp4
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/70/36/5c/70365c60aa6274bc6179d93b1b78f4e2.jpg" type="movie" group-title="Movie Indonesia",Tujuh Hari Untuk Keshia
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401575734.mp4
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f8/cb/0c/f8cb0c0e0dd5ab2079909408cf0a5b5e.jpg" type="movie" group-title="Movie Indonesia",Tulang Belulang Tulang
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563381.mp4
 
