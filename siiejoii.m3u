@@ -282,7 +282,9 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/ROCK_ACTION/manifest.mpd
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 
-#EXTINF:-1 tvg-id="HBO Signature.id" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://images.open-epg.com/30538.png" group-title="Playlist🇮🇩", HBO Signature
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTINF:-1 tvg-id="HBO Signature.id" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://images.open-epg.com/30538.png" group-title="Playlist🇮🇩", HBOSignature.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http:/goldenpro.xyz:80/live/194679431759017/8173373055/1247982.ts#EXT-X-VERSION:4
 
@@ -819,6 +821,12 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/in
 #https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mediampd/CitraDramaHD.mpd
 http://202.169.224.202:8800/udp/239.9.1.12:1234
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsa-sJgv8qRQr5PUKT-_9dHY.png" group-title="Playlist Indonesia🇮🇩", Citra Drama ( 2 )
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mediampd/CitraDramaHD.mpd
+
 #EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsXKGt_Rf1VAV_lj7v55Bux4.png", Citra Dangdut 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -869,13 +877,6 @@ http://202.169.224.202:8800/udp/239.9.1.15:1234
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=202302" group-title="Playlist Indonesia🇮🇩",Citra Entertainment 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb 
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="Playlist Indonesia🇮🇩", Trans TV ( 2 )
-https://cdn08jtedge.indihometv.com/dassdvr/130/transtv/manifest_wuseetv.mpd
-
 #EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be2b660c5727/20230224132820.jpg",Channel Seru!
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -895,6 +896,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9f
 #EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://mantul.biz.id:443/images/lO4I6ENDRiY1iG64O8qqg0ZtrxiLbqvUTLwRTGgU7FkIQ-iTHznxre-gRihG7-7zqFX4kj3z8TL8Ct_A-1hQkPMbFuk3P8lq05Jpx9IxGiQwKzsMdaHB4tfmo1BeDFg4IQLFblQiyf62U1tzgVIkg_wSpQnJfwulH5VZUu9lKcs1TQfGJJW8JFJSu1pgUqsM.png",TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/130/transtv/manifest_wuseetv.mpd
 
 #EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yel6hKZU3f1qhV-ZxH9taQD1xfGoftVTuxPdDK6hzvyFjg.png",TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -1087,14 +1089,14 @@ http://goldenpro.xyz:80/live/194679431759017/8173373055/1247927.ts
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="Playlist Indonesia🇮🇩", HBO Signature (2)
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="Playlist Indonesia🇮🇩", HBOSignature.id
 http:/goldenpro.xyz:80/live/194679431759017/8173373055/1247982.ts#EXT-X-VERSION:4
 
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="Playlist Indonesia🇮🇩", HBO Family (2)
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://object-streamo.emonaja.com/img/hbofamily.png" group-title="Playlist Indonesia🇮🇩", HBO Family (2)
 http://goldenpro.xyz:80/live/194679431759017/8173373055/1247980.ts
 
 #EXT-X-VERSION:4
@@ -1128,7 +1130,7 @@ http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" group-title="Playlist Indonesia🇮🇩" tvg-logo="https://i.postimg.cc/PfMF5vhb/ezgif-767c5df2b247daf5.png",HBO FAMILY
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" group-title="Playlist Indonesia🇮🇩" tvg-logo="https://object-streamo.emonaja.com/img/hbofamily.png",HBO FAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
 
