@@ -351,6 +351,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_900000=10002-mp4a_96000=20002.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6_ilo1sVpgPuKNo0D1xeHwZNVw0=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="Sports ⚽",INDOSIAR
+https://s.id/Shareext_liga1_m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/W4cm6dzI7-7-JvcyxepEQ3YX6SA=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-e4a143.jpg" group-title="Sports ⚽",RCTI
+http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165918.ts
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
