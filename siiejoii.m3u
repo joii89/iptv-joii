@@ -196,7 +196,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
-#EXTINF:-1 tvg-url="https://www.open-epg.com/files/indonesia4.xml" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="Playlist🇮🇩", TRANS TV
+#EXTINF:-1 tvg-url="" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="Playlist🇮🇩", TRANS TV
 http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
