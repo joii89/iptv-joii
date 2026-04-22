@@ -1,0 +1,194 @@
+<channel id="524028">
+<display-name lang="Indonesia">SCTV</display-name>
+<icon src=""/>
+</channel>
+<programme channel="524028" start="20260423000000 +0000" stop="20260423013000 +0000">
+<title lang="zh">SCTV</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260423013000 +0000" stop="20260423030000 +0000">
+<title lang="zh">SCTV</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260423030000 +0000" stop="20260423050000 +0000">
+<title lang="zh">SCTV</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260423050000 +0000" stop="20260423053000 +0000">
+<title lang="zh">SCTV</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260423053000 +0000" stop="20260423070000 +0000">
+<title lang="zh">SCTV</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260423070000 +0000" stop="20260423083000 +0000">
+<title lang="zh">SCTV</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260423083000 +0000" stop="20260423100000 +0000">
+<title lang="zh">SCTV</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260423100000 +0000" stop="20260423111500 +0000">
+<title lang="zh">SCTV</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260423111500 +0000" stop="20260423130000 +0000">
+<title lang="zh">SCTV</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260423130000 +0000" stop="20260423143000 +0000">
+<title lang="zh">SCTV</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260423143000 +0000" stop="20260423160000 +0000">
+<title lang="zh">SCTV</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260423160000 +0000" stop="20260423180000 +0000">
+<title lang="zh">SCTV</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260423180000 +0000" stop="20260423190000 +0000">
+<title lang="zh">FTV Utama</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260423190000 +0000" stop="20260423200000 +0000">
+<title lang="zh">Kujahit Cinta Buat Si Eneng</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260423200000 +0000" stop="20260423210000 +0000">
+<title lang="zh">Sinema Dini Hari</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260423210000 +0000" stop="20260423213000 +0000">
+<title lang="zh">Barakallah</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260423213000 +0000" stop="20260423220000 +0000">
+<title lang="zh">Buser</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260423220000 +0000" stop="20260423230000 +0000">
+<title lang="zh">Liputan 6 Pagi (L)</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260423230000 +0000" stop="20260424000000 +0000">
+<title lang="zh">Halo Selebriti</title>
+<desc/>
+<date>2026-04-23</date>
+</programme>
+<programme channel="524028" start="20260424000000 +0000" stop="20260424010000 +0000">
+<title lang="zh">Tiba-Tiba Kuis</title>
+<desc/>
+<date>2026-04-24</date>
+</programme>
+<programme channel="524028" start="20260424010000 +0000" stop="20260424030000 +0000">
+<title lang="zh">SCTV FTV Pagi Spesial</title>
+<desc/>
+<date>2026-04-24</date>
+</programme>
+<programme channel="524028" start="20260424030000 +0000" stop="20260424050000 +0000">
+<title lang="zh">SCTV FTV Pagi</title>
+<desc/>
+<date>2026-04-24</date>
+</programme>
+<programme channel="524028" start="20260424050000 +0000" stop="20260424053000 +0000">
+<title lang="zh">Liputan 6 Siang (L)</title>
+<desc/>
+<date>2026-04-24</date>
+</programme>
+<programme channel="524028" start="20260424053000 +0000" stop="20260424070000 +0000">
+<title lang="zh">SCTV FTV Siang</title>
+<desc/>
+<date>2026-04-24</date>
+</programme>
+<programme channel="524028" start="20260424070000 +0000" stop="20260424084500 +0000">
+<title lang="zh">SCTV FTV Siang</title>
+<desc/>
+<date>2026-04-24</date>
+</programme>
+<programme channel="524028" start="20260424084500 +0000" stop="20260424100000 +0000">
+<title lang="zh">SCTV FTV Sore</title>
+<desc/>
+<date>2026-04-24</date>
+</programme>
+<programme channel="524028" start="20260424100000 +0000" stop="20260424111500 +0000">
+<title lang="zh">Asmara Gen Z</title>
+<desc/>
+<date>2026-04-24</date>
+</programme>
+<programme channel="524028" start="20260424111500 +0000" stop="20260424130000 +0000">
+<title lang="zh">Istiqomah Cinta</title>
+<desc/>
+<date>2026-04-24</date>
+</programme>
+<programme channel="524028" start="20260424130000 +0000" stop="20260424160000 +0000">
+<title lang="zh">Puteri Indonesia 2026 (L)</title>
+<desc/>
+<date>2026-04-24</date>
+</programme>
+<programme channel="524028" start="20260424160000 +0000" stop="20260424180000 +0000">
+<title lang="zh">Dilan 1991</title>
+<desc/>
+<date>2026-04-24</date>
+</programme>
+<programme channel="524028" start="20260424180000 +0000" stop="20260424190000 +0000">
+<title lang="zh">Ayam Sang Bodyguard</title>
+<desc/>
+<date>2026-04-24</date>
+</programme>
+<programme channel="524028" start="20260424190000 +0000" stop="20260424200000 +0000">
+<title lang="zh">Sinema Malam</title>
+<desc/>
+<date>2026-04-24</date>
+</programme>
+<programme channel="524028" start="20260424200000 +0000" stop="20260424210000 +0000">
+<title lang="zh">Sinema Dini Hari</title>
+<desc/>
+<date>2026-04-24</date>
+</programme>
+<programme channel="524028" start="20260424210000 +0000" stop="20260424213000 +0000">
+<title lang="zh">Barakallah</title>
+<desc/>
+<date>2026-04-24</date>
+</programme>
+<programme channel="524028" start="20260424213000 +0000" stop="20260424220000 +0000">
+<title lang="zh">Buser</title>
+<desc/>
+<date>2026-04-24</date>
+</programme>
+<programme channel="524028" start="20260424220000 +0000" stop="20260424230000 +0000">
+<title lang="zh">Liputan 6 Pagi (L)</title>
+<desc/>
+<date>2026-04-24</date>
+</programme>
+<programme channel="524028" start="20260424230000 +0000" stop="20260425000000 +0000">
+<title lang="zh">Halo Selebriti</title>
+<desc/>
+<date>2026-04-24</date>
+</programme>
+<programme channel="524028" start="20260425000000 +0000" stop="20260426000000 +0000">
+<title lang="zh">SCTV FTV Pagi Spesial</title>
+<desc/>
+<date>2026-04-25</date>"
+ https://epg.pw/api/epg.xml?lang=en&date=20260423&channel_id=524028#:~:text=date%3D%2220260423074425%20%2B0800,25%3C/date%3E
