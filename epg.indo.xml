@@ -100,6 +100,7 @@
 <channel id="SpoTV.id"><display-name>SpoTV.id</display-name><icon src="https://images.open-epg.com/30565.png"/></channel>
 <channel id="Studio Universal.id"><display-name>Studio Universal.id</display-name></channel>
 <channel id="Superrix.id"><display-name>Superrix.id</display-name></channel>
+<channel id="SCTV.id"><display-name>SCTV.id</display-name></channel>
 <channel id="SCTV.id"><display-name>SCTV.id</display-name><icon src="https://images.open-epg.com/30561.png"/></channel>
 <channel id="Trans TV.id"><display-name>Trans TV.id</display-name><icon src="https://images.open-epg.com/30566.png"/></channel>
 <channel id="Trans7.id"><display-name>Trans7.id</display-name><icon src="https://images.open-epg.com/30567.png"/></channel>
