@@ -17,8 +17,7 @@ https://hls5.turbosplayer.com/file/6617b92c-3db7-11f1-a19c-04421a23e1c7/master.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hls5.turbosplayer.com/file/93ca513f-f86c-11f0-8b2d-cdf256d7337b/master.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="http://thumbnai.vidstre
-am.pw/image/jul-103.jpg",9
+#EXTINF:-1 type="movie" tvg-logo="http://thumbnai.vidstream.pw/image/jul-103.jpg", 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hls6.turbosplayer.com/file/661b85df-d905-11f0-a3cf-b42e99c9ae56/master.m3u8
 
@@ -87,10 +86,6 @@ https://vodstream.streamvid.dev/ved/v-master.m3u8/eyJjdCI6IkFHUUdZK0dQaHFhS2h3Tk
 
 #EXTINF:-1 type="movie" tvg-logo="https://javrb.com/u1/96a0a88389e702e94628920b8bed5abb.jpg",34
 https://vodstream.streamvid.dev/ved/v-master.m3u8/eyJjdCI6IitQSmp1eE5uaTdkQ3c0TXFZXC9CZ3BsTUFkWmF1U3kzdXgzZFwvZ0NrdGVnUlFHT1NobzlWMVFxOTNXT0lcLzMzMkY0c1A5SkNMNWZ6Wk5cLzJ1YkhPMjVKcDRWN1pIZ0VQbGUxSUFpTGhOMFdWNXdjREtHRG83U09BQjY2VG5BY3dFdWVEaXJWUklWTmN6TU9oUmVQaVVSYSs2TGZxaUVFV1NibGZGVkx4NHJYdFhqZFJ4VHdIUk1uYndRdk9YalVPXC9GUXRDQ2krYXUreUh0WlVnTDgyOXZUUTdWRld3UzNcL0ZuV0ZkQ2NiTGk5TW89IiwiaXYiOiI4MzAzMGE1MjkyODA5ZjVjNjUyZGYzMGM2ZjM1Y2VjOCIsInMiOiI3MzdiZGQ3YTY5M2FiNzdkIn0=
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.wishstream.xyz/jpg/1740-cover.jpg", 344
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://vodstream.streamvid.dev/ved/v-master.m3u8/eyJjdCI6ImdRdE8zcTd2bGZpMFdLUVJ0eTZiSGpNQmkwZzlpc0x1UlZYYVU5VU1pYW5HRHcyUk1EUWlVaTJ4dmRTMUt0VG5KNmRjd2MrVG9ueCtKSWVlZTUwUUdVZm5LTXE4MEZVNmlNQ2dFSHY5YmZoMUZIVFVCTTZCV3VOaVpTbUQxWVAzVVkwUFkwTkdzYWpSVVFOUkkzUHFwQW1JaTdCcG0rZk1PSkVSNDI2eWtqU1oyUnRrYkVFdnZPcUlqUGFaakFXQTlkeGxuZERXd2UraXk4ejllZnROeUp0UkZ4ZDdKT2U1WW12MnRNTGhrZ1k9IiwiaXYiOiJlYmExNWZhNmEyODk5ZjI5NWFiOWU5YTNiOTU1NDkxYyIsInMiOiJmMDg2ZGE2NmZmNDhiNGY3In0=
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.wishstream.xyz/image/ipzz-406.jpg", Demi Pewaris Harta Keluarga – Riho Fujimori
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
