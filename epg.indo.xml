@@ -113,7 +113,507 @@
 <channel id="Vision Prime.id"><display-name>Vision Prime.id</display-name></channel>
 <channel id="Zoo Moo.id"><display-name>Zoo Moo.id</display-name></channel>
 <channel id="Zee Bioskop.id"><display-name>Zee Bioskop.id</display-name><icon src="https://images.open-epg.com/30573.png"/></channel>
-
+<programme start="20260420170000 +0000" stop="20260420190000 +0000" channel="GTV - [Channel 81].id"><title>Tertawa Tengah Malam</title></programme>
+<programme start="20260420190000 +0000" stop="20260420220000 +0000" channel="GTV - [Channel 81].id"><title>Tertawa Tengah Malam</title></programme>
+<programme start="20260420220000 +0000" stop="20260420230000 +0000" channel="GTV - [Channel 81].id"><title>Ragam Pagi</title></programme>
+<programme start="20260420230000 +0000" stop="20260421010000 +0000" channel="GTV - [Channel 81].id"><title>SpongeBob SquarePants</title></programme>
+<programme start="20260421010000 +0000" stop="20260421013000 +0000" channel="GTV - [Channel 81].id"><title>CoComelon Dan Sahabat</title></programme>
+<programme start="20260421013000 +0000" stop="20260421023000 +0000" channel="GTV - [Channel 81].id"><title>Obrolan Seputar Selebriti</title></programme>
+<programme start="20260421023000 +0000" stop="20260421030000 +0000" channel="GTV - [Channel 81].id"><title>Buletin iNews Pagi</title></programme>
+<programme start="20260421030000 +0000" stop="20260421050000 +0000" channel="GTV - [Channel 81].id"><title>SpongeBob SquarePants</title></programme>
+<programme start="20260421050000 +0000" stop="20260421073000 +0000" channel="GTV - [Channel 81].id"><title>SpongeBob SquarePants</title></programme>
+<programme start="20260421073000 +0000" stop="20260421100000 +0000" channel="GTV - [Channel 81].id"><title>SpongeBob SquarePants</title></programme>
+<programme start="20260421100000 +0000" stop="20260421110000 +0000" channel="GTV - [Channel 81].id"><title>SpongeBob SquarePants</title></programme>
+<programme start="20260421110000 +0000" stop="20260421120000 +0000" channel="GTV - [Channel 81].id"><title>Pada Zaman Dahulu</title></programme>
+<programme start="20260421120000 +0000" stop="20260421133000 +0000" channel="GTV - [Channel 81].id"><title>New Family 100</title></programme>
+<programme start="20260421133000 +0000" stop="20260421153000 +0000" channel="GTV - [Channel 81].id"><title>The Mystical Treasure</title></programme>
+<programme start="20260421153000 +0000" stop="20260421163000 +0000" channel="GTV - [Channel 81].id"><title>Untold Story: Experiment</title></programme>
+<programme start="20260421163000 +0000" stop="20260421170000 +0000" channel="GTV - [Channel 81].id"><title>Konon Katanya</title></programme>
+<programme start="20260421170000 +0000" stop="20260421190000 +0000" channel="GTV - [Channel 81].id"><title>Tertawa Tengah Malam</title></programme>
+<programme start="20260421190000 +0000" stop="20260421220000 +0000" channel="GTV - [Channel 81].id"><title>Tertawa Tengah Malam</title></programme>
+<programme start="20260421220000 +0000" stop="20260421230000 +0000" channel="GTV - [Channel 81].id"><title>Ragam Pagi</title></programme>
+<programme start="20260421230000 +0000" stop="20260422010000 +0000" channel="GTV - [Channel 81].id"><title>SpongeBob SquarePants</title></programme>
+<programme start="20260422010000 +0000" stop="20260422013000 +0000" channel="GTV - [Channel 81].id"><title>CoComelon Dan Sahabat</title></programme>
+<programme start="20260422013000 +0000" stop="20260422023000 +0000" channel="GTV - [Channel 81].id"><title>Obrolan Seputar Selebriti</title></programme>
+<programme start="20260422023000 +0000" stop="20260422030000 +0000" channel="GTV - [Channel 81].id"><title>Buletin iNews Pagi</title></programme>
+<programme start="20260422030000 +0000" stop="20260422050000 +0000" channel="GTV - [Channel 81].id"><title>SpongeBob SquarePants</title></programme>
+<programme start="20260422050000 +0000" stop="20260422073000 +0000" channel="GTV - [Channel 81].id"><title>SpongeBob SquarePants</title></programme>
+<programme start="20260422073000 +0000" stop="20260422100000 +0000" channel="GTV - [Channel 81].id"><title>SpongeBob SquarePants</title></programme>
+<programme start="20260422100000 +0000" stop="20260422110000 +0000" channel="GTV - [Channel 81].id"><title>SpongeBob SquarePants</title></programme>
+<programme start="20260422110000 +0000" stop="20260422120000 +0000" channel="GTV - [Channel 81].id"><title>Pada Zaman Dahulu</title></programme>
+<programme start="20260422120000 +0000" stop="20260422133000 +0000" channel="GTV - [Channel 81].id"><title>New Family 100</title></programme>
+<programme start="20260422133000 +0000" stop="20260422160000 +0000" channel="GTV - [Channel 81].id"><title>Fighting Fish</title></programme>
+<programme start="20260422160000 +0000" stop="20260422170000 +0000" channel="GTV - [Channel 81].id"><title>Radio</title></programme>
+<programme start="20260422170000 +0000" stop="20260422190000 +0000" channel="GTV - [Channel 81].id"><title>Tertawa Tengah Malam</title></programme>
+<programme start="20260422190000 +0000" stop="20260422220000 +0000" channel="GTV - [Channel 81].id"><title>Tertawa Tengah Malam</title></programme>
+<programme start="20260422220000 +0000" stop="20260422230000 +0000" channel="GTV - [Channel 81].id"><title>Ragam Pagi</title></programme>
+<programme start="20260422230000 +0000" stop="20260423010000 +0000" channel="GTV - [Channel 81].id"><title>SpongeBob SquarePants</title></programme>
+<programme start="20260423010000 +0000" stop="20260423013000 +0000" channel="GTV - [Channel 81].id"><title>CoComelon Dan Sahabat</title></programme>
+<programme start="20260423013000 +0000" stop="20260423023000 +0000" channel="GTV - [Channel 81].id"><title>Obrolan Seputar Selebriti</title></programme>
+<programme start="20260423023000 +0000" stop="20260423030000 +0000" channel="GTV - [Channel 81].id"><title>Buletin iNews Pagi</title></programme>
+<programme start="20260423030000 +0000" stop="20260423050000 +0000" channel="GTV - [Channel 81].id"><title>SpongeBob SquarePants</title></programme>
+<programme start="20260423050000 +0000" stop="20260423073000 +0000" channel="GTV - [Channel 81].id"><title>SpongeBob SquarePants</title></programme>
+<programme start="20260423073000 +0000" stop="20260423100000 +0000" channel="GTV - [Channel 81].id"><title>SpongeBob SquarePants</title></programme>
+<programme start="20260423100000 +0000" stop="20260423110000 +0000" channel="GTV - [Channel 81].id"><title>SpongeBob SquarePants</title></programme>
+programme start="20260421153000 +0000" stop="20260421160000 +0000" channel="Animax - [Channel 157].id"><title>One Piece: Marineford, Ep 497</title><episode-num system="xmltv_ns">.496.</episode-num></programme>
+<programme start="20260421160000 +0000" stop="20260421163000 +0000" channel="Animax - [Channel 157].id"><title>Tsukimichi S2, Ep 6</title><episode-num system="xmltv_ns">1.5.</episode-num></programme>
+<programme start="20260421163000 +0000" stop="20260421170000 +0000" channel="Animax - [Channel 157].id"><title>Tsukimichi S2, Ep 7</title><episode-num system="xmltv_ns">1.6.</episode-num></programme>
+<programme start="20260421170000 +0000" stop="20260421173000 +0000" channel="Animax - [Channel 157].id"><title>The Do-over Damsel..., Ep 7</title><episode-num system="xmltv_ns">.6.</episode-num></programme>
+<programme start="20260421173000 +0000" stop="20260421180000 +0000" channel="Animax - [Channel 157].id"><title>The Do-over Damsel..., Ep 8</title><episode-num system="xmltv_ns">.7.</episode-num></programme>
+<programme start="20260421180000 +0000" stop="20260421183000 +0000" channel="Animax - [Channel 157].id"><title>Haikyu!! S4, Ep 13</title><episode-num system="xmltv_ns">3.12.</episode-num></programme>
+<programme start="20260421183000 +0000" stop="20260421190000 +0000" channel="Animax - [Channel 157].id"><title>Haikyu!! S4, Ep 14</title><episode-num system="xmltv_ns">3.13.</episode-num></programme>
+<programme start="20260421190000 +0000" stop="20260421193000 +0000" channel="Animax - [Channel 157].id"><title>One Piece: Marineford, Ep 496</title><episode-num system="xmltv_ns">.495.</episode-num></programme>
+<programme start="20260421193000 +0000" stop="20260421200000 +0000" channel="Animax - [Channel 157].id"><title>One Piece: Marineford, Ep 497</title><episode-num system="xmltv_ns">.496.</episode-num></programme>
+<programme start="20260421200000 +0000" stop="20260421203000 +0000" channel="Animax - [Channel 157].id"><title>Tsukimichi S2, Ep 6</title><episode-num system="xmltv_ns">1.5.</episode-num></programme>
+<programme start="20260421203000 +0000" stop="20260421210000 +0000" channel="Animax - [Channel 157].id"><title>Tsukimichi S2, Ep 7</title><episode-num system="xmltv_ns">1.6.</episode-num></programme>
+<programme start="20260421210000 +0000" stop="20260421213000 +0000" channel="Animax - [Channel 157].id"><title>The Do-over Damsel..., Ep 7</title><episode-num system="xmltv_ns">.6.</episode-num></programme>
+<programme start="20260421213000 +0000" stop="20260421220000 +0000" channel="Animax - [Channel 157].id"><title>The Do-over Damsel..., Ep 8</title><episode-num system="xmltv_ns">.7.</episode-num></programme>
+<programme start="20260421220000 +0000" stop="20260421223000 +0000" channel="Animax - [Channel 157].id"><title>Haikyu!! S4, Ep 13</title><episode-num system="xmltv_ns">3.12.</episode-num></programme>
+<programme start="20260421223000 +0000" stop="20260421230000 +0000" channel="Animax - [Channel 157].id"><title>Haikyu!! S4, Ep 14</title><episode-num system="xmltv_ns">3.13.</episode-num></programme>
+<programme start="20260421230000 +0000" stop="20260421233000 +0000" channel="Animax - [Channel 157].id"><title>Tsukimichi S2, Ep 6</title><episode-num system="xmltv_ns">1.5.</episode-num></programme>
+<programme start="20260421233000 +0000" stop="20260422000000 +0000" channel="Animax - [Channel 157].id"><title>Tsukimichi S2, Ep 7</title><episode-num system="xmltv_ns">1.6.</episode-num></programme>
+<programme start="20260422000000 +0000" stop="20260422003000 +0000" channel="Animax - [Channel 157].id"><title>One Piece: Marineford, Ep 496</title><episode-num system="xmltv_ns">.495.</episode-num></programme>
+<programme start="20260422003000 +0000" stop="20260422010000 +0000" channel="Animax - [Channel 157].id"><title>One Piece: Marineford, Ep 497</title><episode-num system="xmltv_ns">.496.</episode-num></programme>
+<programme start="20260422010000 +0000" stop="20260422013000 +0000" channel="Animax - [Channel 157].id"><title>Haikyu!! S4, Ep 13</title><episode-num system="xmltv_ns">3.12.</episode-num></programme>
+<programme start="20260422013000 +0000" stop="20260422020000 +0000" channel="Animax - [Channel 157].id"><title>Haikyu!! S4, Ep 14</title><episode-num system="xmltv_ns">3.13.</episode-num></programme>
+<programme start="20260422020000 +0000" stop="20260422023000 +0000" channel="Animax - [Channel 157].id"><title>The Do-over Damsel..., Ep 7</title><episode-num system="xmltv_ns">.6.</episode-num></programme>
+<programme start="20260422023000 +0000" stop="20260422030000 +0000" channel="Animax - [Channel 157].id"><title>The Do-over Damsel..., Ep 8</title><episode-num system="xmltv_ns">.7.</episode-num></programme>
+<programme start="20260422030000 +0000" stop="20260422033000 +0000" channel="Animax - [Channel 157].id"><title>Tsukimichi S2, Ep 6</title><episode-num system="xmltv_ns">1.5.</episode-num></programme>
+<programme start="20260422033000 +0000" stop="20260422040000 +0000" channel="Animax - [Channel 157].id"><title>Tsukimichi S2, Ep 7</title><episode-num system="xmltv_ns">1.6.</episode-num></programme>
+<programme start="20260422040000 +0000" stop="20260422043000 +0000" channel="Animax - [Channel 157].id"><title>One Piece: Marineford, Ep 496</title><episode-num system="xmltv_ns">.495.</episode-num></programme>
+<programme start="20260422043000 +0000" stop="20260422050000 +0000" channel="Animax - [Channel 157].id"><title>One Piece: Marineford, Ep 497</title><episode-num system="xmltv_ns">.496.</episode-num></programme>
+<programme start="20260422050000 +0000" stop="20260422053000 +0000" channel="Animax - [Channel 157].id"><title>Haikyu!! S4, Ep 13</title><episode-num system="xmltv_ns">3.12.</episode-num></programme>
+<programme start="20260422053000 +0000" stop="20260422060000 +0000" channel="Animax - [Channel 157].id"><title>Haikyu!! S4, Ep 14</title><episode-num system="xmltv_ns">3.13.</episode-num></programme>
+<programme start="20260422060000 +0000" stop="20260422063000 +0000" channel="Animax - [Channel 157].id"><title>The Do-over Damsel..., Ep 7</title><episode-num system="xmltv_ns">.6.</episode-num></programme>
+<programme start="20260422063000 +0000" stop="20260422070000 +0000" channel="Animax - [Channel 157].id"><title>The Do-over Damsel..., Ep 8</title><episode-num system="xmltv_ns">.7.</episode-num></programme>
+<programme start="20260422070000 +0000" stop="20260422073000 +0000" channel="Animax - [Channel 157].id"><title>Tsukimichi S2, Ep 6</title><episode-num system="xmltv_ns">1.5.</episode-num></programme>
+<programme start="20260422073000 +0000" stop="20260422080000 +0000" channel="Animax - [Channel 157].id"><title>Tsukimichi S2, Ep 7</title><episode-num system="xmltv_ns">1.6.</episode-num></programme>
+<programme start="20260422080000 +0000" stop="20260422083000 +0000" channel="Animax - [Channel 157].id"><title>Haikyu!! S4, Ep 13</title><episode-num system="xmltv_ns">3.12.</episode-num></programme>
+<programme start="20260422083000 +0000" stop="20260422090000 +0000" channel="Animax - [Channel 157].id"><title>Haikyu!! S4, Ep 14</title><episode-num system="xmltv_ns">3.13.</episode-num></programme>
+<programme start="20260422090000 +0000" stop="20260422093000 +0000" channel="Animax - [Channel 157].id"><title>The Do-over Damsel..., Ep 7</title><episode-num system="xmltv_ns">.6.</episode-num></programme>
+<programme start="20260422093000 +0000" stop="20260422100000 +0000" channel="Animax - [Channel 157].id"><title>The Do-over Damsel..., Ep 8</title><episode-num system="xmltv_ns">.7.</episode-num></programme>
+<programme start="20260422100000 +0000" stop="20260422103000 +0000" channel="Animax - [Channel 157].id"><title>Haikyu!! S4, Ep 14</title><episode-num system="xmltv_ns">3.13.</episode-num></programme>
+<programme start="20260422103000 +0000" stop="20260422110000 +0000" channel="Animax - [Channel 157].id"><title>Haikyu!! S4, Ep 15</title><episode-num system="xmltv_ns">3.14.</episode-num></programme>
+<programme start="20260422110000 +0000" stop="20260422113000 +0000" channel="Animax - [Channel 157].id"><title>Tsukimichi S2, Ep 7</title><episode-num system="xmltv_ns">1.6.</episode-num></programme>
+<programme start="20260422113000 +0000" stop="20260422120000 +0000" channel="Animax - [Channel 157].id"><title>Tsukimichi S2, Ep 8</title><episode-num system="xmltv_ns">1.7.</episode-num></programme>
+<programme start="20260422120000 +0000" stop="20260422123000 +0000" channel="Animax - [Channel 157].id"><title>One Piece: Marineford, Ep 497</title><episode-num system="xmltv_ns">.496.</episode-num></programme>
+<programme start="20260422123000 +0000" stop="20260422130000 +0000" channel="Animax - [Channel 157].id"><title>One Piece: Marineford, Ep 498</title><episode-num system="xmltv_ns">.497.</episode-num></programme>
+<programme start="20260422130000 +0000" stop="20260422133000 +0000" channel="Animax - [Channel 157].id"><title>Tsukimichi S2, Ep 7</title><episode-num system="xmltv_ns">1.6.</episode-num></programme>
+<programme start="20260422133000 +0000" stop="20260422140000 +0000" channel="Animax - [Channel 157].id"><title>Tsukimichi S2, Ep 8</title><episode-num system="xmltv_ns">1.7.</episode-num></programme>
+<programme start="20260422140000 +0000" stop="20260422143000 +0000" channel="Animax - [Channel 157].id"><title>Fruits Basket S1, Ep 14</title><episode-num system="xmltv_ns">0.13.</episode-num></programme>
+<programme start="20260422143000 +0000" stop="20260422150000 +0000" channel="Animax - [Channel 157].id"><title>Fruits Basket S1, Ep 15</title><episode-num system="xmltv_ns">0.14.</episode-num></programme>
+<programme start="20260422150000 +0000" stop="20260422153000 +0000" channel="Animax - [Channel 157].id"><title>One Piece: Marineford, Ep 497</title><episode-num system="xmltv_ns">.496.</episode-num></programme>
+<programme start="20260422153000 +0000" stop="20260422160000 +0000" channel="Animax - [Channel 157].id"><title>One Piece: Marineford, Ep 498</title><episode-num system="xmltv_ns">.497.</episode-num></programme>
+<programme start="20260422160000 +0000" stop="20260422163000 +0000" channel="Animax - [Channel 157].id"><title>Tsukimichi S2, Ep 7</title><episode-num system="xmltv_ns">1.6.</episode-num></programme>
+<programme start="20260422163000 +0000" stop="20260422170000 +0000" channel="Animax - [Channel 157].id"><title>Tsukimichi S2, Ep 8</title><episode-num system="xmltv_ns">1.7.</episode-num></programme>
+<programme start="20260422170000 +0000" stop="20260422173000 +0000" channel="Animax - [Channel 157].id"><title>Fruits Basket S1, Ep 14</title><episode-num system="xmltv_ns">0.13.</episode-num></programme>
+<programme start="20260422173000 +0000" stop="20260422180000 +0000" channel="Animax - [Channel 157].id"><title>Fruits Basket S1, Ep 15</title><episode-num system="xmltv_ns">0.14.</episode-num></programme>
+<programme start="20260423070000 +0000" stop="20260423073000 +0000" channel="Animax - [Channel 157].id"><title>Tsukimichi S2, Ep 7</title><episode-num system="xmltv_ns">1.6.</episode-num></programme>
+<programme start="20260423073000 +0000" stop="20260423080000 +0000" channel="Animax - [Channel 157].id"><title>Tsukimichi S2, Ep 8</title><episode-num system="xmltv_ns">1.7.</episode-num></programme>
+<programme start="20260423080000 +0000" stop="20260423083000 +0000" channel="Animax - [Channel 157].id"><title>Haikyu!! S4, Ep 14</title><episode-num system="xmltv_ns">3.13.</episode-num></programme>
+<programme start="20260423083000 +0000" stop="20260423090000 +0000" channel="Animax - [Channel 157].id"><title>Haikyu!! S4, Ep 15</title><episode-num system="xmltv_ns">3.14.</episode-num></programme>
+<programme start="20260423090000 +0000" stop="20260423093000 +0000" channel="Animax - [Channel 157].id"><title>Fruits Basket S1, Ep 14</title><episode-num system="xmltv_ns">0.13.</episode-num></programme>
+<programme start="20260423093000 +0000" stop="20260423100000 +0000" channel="Animax - [Channel 157].id"><title>Fruits Basket S1, Ep 15</title><episode-num system="xmltv_ns">0.14.</episode-num></programme>
+<programme start="20260423100000 +0000" stop="20260423103000 +0000" channel="Animax - [Channel 157].id"><title>Haikyu!! S4, Ep 15</title><episode-num system="xmltv_ns">3.14.</episode-num></programme>
+<programme start="20260423103000 +0000" stop="20260423110000 +0000" channel="Animax - [Channel 157].id"><title>Haikyu!! S4, Ep 16</title><episode-num system="xmltv_ns">3.15.</episode-num></programme>
+<programme start="20260420183000 +0000" stop="20260420190000 +0000" channel="ANTV - [Channel 115].id"><title>Mismatched Couples</title></programme>
+<programme start="20260420190000 +0000" stop="20260420210000 +0000" channel="ANTV - [Channel 115].id"><title>Ae Dil Hai Mushkil</title></programme>
+<programme start="20260420210000 +0000" stop="20260420230000 +0000" channel="ANTV - [Channel 115].id"><title>Ummi</title></programme>
+<programme start="20260420230000 +0000" stop="20260421003000 +0000" channel="ANTV - [Channel 115].id"><title>Kasautii</title></programme>
+<programme start="20260421003000 +0000" stop="20260421023000 +0000" channel="ANTV - [Channel 115].id"><title>Janji Inspektur Virat</title></programme>
+<programme start="20260421023000 +0000" stop="20260421060000 +0000" channel="ANTV - [Channel 115].id"><title>Dil Hai Tumhara</title></programme>
+<programme start="20260421060000 +0000" stop="20260421080000 +0000" channel="ANTV - [Channel 115].id"><title>Jhanak</title></programme>
+<programme start="20260421080000 +0000" stop="20260421090000 +0000" channel="ANTV - [Channel 115].id"><title>Teri Meri Doriyaann</title></programme>
+<programme start="20260421090000 +0000" stop="20260421110000 +0000" channel="ANTV - [Channel 115].id"><title>Vasudha</title></programme>
+<programme start="20260421110000 +0000" stop="20260421130000 +0000" channel="ANTV - [Channel 115].id"><title>Gadis Bionik</title></programme>
+<programme start="20260421130000 +0000" stop="20260421143000 +0000" channel="ANTV - [Channel 115].id"><title>Permainan Bulan Desember</title></programme>
+<programme start="20260421143000 +0000" stop="20260421163000 +0000" channel="ANTV - [Channel 115].id"><title>Rumah Kentang</title></programme>
+<programme start="20260421163000 +0000" stop="20260421183000 +0000" channel="ANTV - [Channel 115].id"><title>Teenage Mutant Ninja Turtles 3</title></programme>
+<programme start="20260421183000 +0000" stop="20260421210000 +0000" channel="ANTV - [Channel 115].id"><title>Coppa Italia</title></programme>
+<programme start="20260421210000 +0000" stop="20260421230000 +0000" channel="ANTV - [Channel 115].id"><title>Double Dhamaal</title></programme>
+<programme start="20260421230000 +0000" stop="20260422003000 +0000" channel="ANTV - [Channel 115].id"><title>Kasautii</title></programme>
+<programme start="20260422003000 +0000" stop="20260422023000 +0000" channel="ANTV - [Channel 115].id"><title>Janji Inspektur Virat</title></programme>
+<programme start="20260422023000 +0000" stop="20260422060000 +0000" channel="ANTV - [Channel 115].id"><title>Dil</title></programme>
+<programme start="20260422060000 +0000" stop="20260422080000 +0000" channel="ANTV - [Channel 115].id"><title>Jhanak</title></programme>
+<programme start="20260422080000 +0000" stop="20260422090000 +0000" channel="ANTV - [Channel 115].id"><title>Teri Meri Doriyaann</title></programme>
+<programme start="20260422090000 +0000" stop="20260422110000 +0000" channel="ANTV - [Channel 115].id"><title>Vasudha</title></programme>
+<programme start="20260422110000 +0000" stop="20260422130000 +0000" channel="ANTV - [Channel 115].id"><title>Tutur Tinular: Pedang Naga...</title></programme>
+<programme start="20260422130000 +0000" stop="20260422143000 +0000" channel="ANTV - [Channel 115].id"><title>Napsu Gila</title></programme>
+<programme start="20260422143000 +0000" stop="20260422163000 +0000" channel="ANTV - [Channel 115].id"><title>Tarot</title></programme>
+<programme start="20260422163000 +0000" stop="20260422183000 +0000" channel="ANTV - [Channel 115].id"><title>Story Of Ricky</title></programme>
+<programme start="20260422183000 +0000" stop="20260422210000 +0000" channel="ANTV - [Channel 115].id"><title>Coppa Italia</title></programme>
+<programme start="20260422210000 +0000" stop="20260422230000 +0000" channel="ANTV - [Channel 115].id"><title>Luka Chuppi</title></programme>
+<programme start="20260422230000 +0000" stop="20260423003000 +0000" channel="ANTV - [Channel 115].id"><title>Kasautii</title></programme>
+<programme start="20260423003000 +0000" stop="20260423023000 +0000" channel="ANTV - [Channel 115].id"><title>Janji Inspektur Virat</title></programme>
+<programme start="20260423023000 +0000" stop="20260423060000 +0000" channel="ANTV - [Channel 115].id"><title>Dil Ka Rishta</title></programme>
+<programme start="20260423060000 +0000" stop="20260423080000 +0000" channel="ANTV - [Channel 115].id"><title>Jhanak</title></programme>
+<programme start="20260423080000 +0000" stop="20260423090000 +0000" channel="ANTV - [Channel 115].id"><title>Teri Meri Doriyaann</title></programme>
+<programme start="20260423090000 +0000" stop="20260423110000 +0000" channel="ANTV - [Channel 115].id"><title>Vasudha</title></programme>
+<programme start="20260420192000 +0000" stop="20260420193000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga Goals Galore 2024/25</title></programme>
+<programme start="20260420193000 +0000" stop="20260420200000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FIA European Rally Cship HL</title></programme>
+<programme start="20260420200000 +0000" stop="20260420203000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>Going Pro 2026, Ep 9</title><episode-num system="xmltv_ns">.8.</episode-num></programme>
+<programme start="20260420203000 +0000" stop="20260420213000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>DTM Highlights 2026: Preview</title></programme>
+<programme start="20260420213000 +0000" stop="20260420233000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga 2025/26: ZAR Vs ADC</title></programme>
+<programme start="20260420233000 +0000" stop="20260421013000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LFCTV 2025/26: EVE Vs LIV</title></programme>
+<programme start="20260421013000 +0000" stop="20260421020000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LFC Trending 2025/26, Ep 37</title><episode-num system="xmltv_ns">.36.</episode-num></programme>
+<programme start="20260421020000 +0000" stop="20260421023000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LFCTV HL 2025/26: LIV Vs PSG</title></programme>
+<programme start="20260421023000 +0000" stop="20260421030000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FC Futures U12 Club: BAR Vs SHP</title></programme>
+<programme start="20260421030000 +0000" stop="20260421033000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FC Futures U12 Club: RMA Vs WAC</title></programme>
+<programme start="20260421033000 +0000" stop="20260421040000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FC Futures U12 Club: ARS Vs GAL</title></programme>
+<programme start="20260421040000 +0000" stop="20260421043000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FC Futures U12 Club: LEV Vs INT</title></programme>
+<programme start="20260421043000 +0000" stop="20260421070000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FIA World Endurance Cship 2026</title></programme>
+<programme start="20260421070000 +0000" stop="20260421090000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FIA World Endurance Cship 2026</title></programme>
+<programme start="20260421090000 +0000" stop="20260421113000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FIA World Endurance Cship 2026</title></programme>
+<programme start="20260421113000 +0000" stop="20260421120000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FIA World Rally Magazine Show</title></programme>
+<programme start="20260421120000 +0000" stop="20260421123000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FastZone 2026, Ep 1</title><episode-num system="xmltv_ns">.0.</episode-num></programme>
+<programme start="20260421123000 +0000" stop="20260421132500 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>Porsche Carrera Cup Germany</title></programme>
+<programme start="20260421132500 +0000" stop="20260421142000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>Porsche Carrera Cup Germany</title></programme>
+<programme start="20260421142000 +0000" stop="20260421152000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FIA European Rally Cship 2026</title></programme>
+<programme start="20260421152000 +0000" stop="20260421162000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FIA European Rally Cship 2026</title></programme>
+<programme start="20260421162000 +0000" stop="20260421165500 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga Highlights 2025/26</title></programme>
+<programme start="20260421165500 +0000" stop="20260421190000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga 2025/26: ATH Vs OSA (L)</title></programme>
+<programme start="20260421190000 +0000" stop="20260421191500 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga Club Classic: BAR Vs RMA</title></programme>
+<programme start="20260421191500 +0000" stop="20260421192500 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga Club Classic: BAR Vs RMA</title></programme>
+<programme start="20260421192500 +0000" stop="20260421213000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga 2025/26: RMA Vs ALA (L)</title></programme>
+<programme start="20260421213000 +0000" stop="20260421220000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>Going Pro 2026, Ep 9</title><episode-num system="xmltv_ns">.8.</episode-num></programme>
+<programme start="20260421220000 +0000" stop="20260421235000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>UYL 2025/26: SGE Vs SCP</title></programme>
+<programme start="20260421235000 +0000" stop="20260422014000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga 2025/26: RMA Vs ALA</title></programme>
+<programme start="20260422014000 +0000" stop="20260422033000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga 2025/26: ATH Vs OSA</title></programme>
+<programme start="20260422033000 +0000" stop="20260422040000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FC Futures U12 Club: PAL Vs MIA</title></programme>
+<programme start="20260422040000 +0000" stop="20260422043000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FC Futures U12 Club: FLA Vs BOJ</title></programme>
+<programme start="20260422043000 +0000" stop="20260422050000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FC Futures U12 Club: ESP Vs VIL</title></programme>
+<programme start="20260422050000 +0000" stop="20260422053000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FC Futures U12 Club: SEV Vs ATM</title></programme>
+<programme start="20260422053000 +0000" stop="20260422060000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FIA World Rally Magazine Show</title></programme>
+<programme start="20260422060000 +0000" stop="20260422075000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga 2025/26: MLL Vs VAL</title></programme>
+<programme start="20260422075000 +0000" stop="20260422085000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>DTM Highlights 2026: Preview</title></programme>
+<programme start="20260422085000 +0000" stop="20260422104000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga 2025/26: GIR Vs BET</title></programme>
+<programme start="20260422104000 +0000" stop="20260422111000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FastZone 2026, Ep 2</title><episode-num system="xmltv_ns">.1.</episode-num></programme>
+<programme start="20260422111000 +0000" stop="20260422131000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LFCTV 2025/26: EVE Vs LIV</title></programme>
+<programme start="20260422131000 +0000" stop="20260422134000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LFC Trending 2025/26, Ep 37</title><episode-num system="xmltv_ns">.36.</episode-num></programme>
+<programme start="20260422134000 +0000" stop="20260422141000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LFCTV HL 2025/26: LIV Vs PSG</title></programme>
+<programme start="20260422141000 +0000" stop="20260422160000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga 2025/26: RMA Vs ALA</title></programme>
+<programme start="20260422160000 +0000" stop="20260422162000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga Goals Galore 2024/25</title></programme>
+<programme start="20260422162000 +0000" stop="20260422165500 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FIA World Rally Magazine Show</title></programme>
+<programme start="20260422165500 +0000" stop="20260422190000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga 2025/26: ELC Vs ATM (L)</title></programme>
+<programme start="20260422190000 +0000" stop="20260422191500 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga Club Classic: BAR Vs RMA</title></programme>
+<programme start="20260422191500 +0000" stop="20260422192500 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga Club Classic: BAR Vs RMA</title></programme>
+<programme start="20260422192500 +0000" stop="20260422213000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga 2025/26: BAR Vs CEL (L)</title></programme>
+<programme start="20260422213000 +0000" stop="20260422232000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>UYL 2025/26: PSG Vs HJK</title></programme>
+<programme start="20260422232000 +0000" stop="20260423011000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga 2025/26: BAR Vs CEL</title></programme>
+<programme start="20260423011000 +0000" stop="20260423030000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga 2025/26: ELC Vs ATM</title></programme>
+<programme start="20260423030000 +0000" stop="20260423033000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FC Futures U12 Club: INT Vs PSG</title></programme>
+<programme start="20260423033000 +0000" stop="20260423040000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FC Futures U12 Club: BOJ Vs MIA</title></programme>
+<programme start="20260423040000 +0000" stop="20260423043000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FC Futures U12 Club: SEV Vs BET</title></programme>
+<programme start="20260423043000 +0000" stop="20260423050000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>FC Futures U12 Club: ESP Vs VAL</title></programme>
+<programme start="20260423050000 +0000" stop="20260423065000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LaLiga 2025/26: RSO Vs GET</title></programme>
+<programme start="20260423065000 +0000" stop="20260423085000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LFCTV 2025/26: EVE Vs LIV</title></programme>
+<programme start="20260423085000 +0000" stop="20260423092000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LFC Trending 2025/26, Ep 37</title><episode-num system="xmltv_ns">.36.</episode-num></programme>
+<programme start="20260423092000 +0000" stop="20260423095000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>LFCTV HL 2025/26: LIV Vs PSG</title></programme>
+<programme start="20260423095000 +0000" stop="20260423105000 +0000" channel="beIN Sports 1 - [Channel 309].id"><title>GT World Challenge Europe HL</title></programme>
+<programme start="20260420175500 +0000" stop="20260420182200 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS Series 2026</title></programme>
+<programme start="20260420182200 +0000" stop="20260420203000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>LaLiga 2 25/26: DEP Vs MIR (L)</title></programme>
+<programme start="20260420203000 +0000" stop="20260420210000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS Series 2026</title></programme>
+<programme start="20260420210000 +0000" stop="20260420220000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS Series HL 2026</title></programme>
+<programme start="20260420220000 +0000" stop="20260420233000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Premier Padel 2026: Cancun</title></programme>
+<programme start="20260420233000 +0000" stop="20260421012000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>AFCON 2025: CMR Vs MAR</title></programme>
+<programme start="20260421012000 +0000" stop="20260421031000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>AFCON 2025: EGY Vs CIV</title></programme>
+<programme start="20260421031000 +0000" stop="20260421050000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Super Lig 2025/26: GNC Vs GAL</title></programme>
+<programme start="20260421050000 +0000" stop="20260421065000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>UCI World Tour 2026</title></programme>
+<programme start="20260421065000 +0000" stop="20260421071500 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS World Cships 2026</title></programme>
+<programme start="20260421071500 +0000" stop="20260421074000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS World Cships 2026</title></programme>
+<programme start="20260421074000 +0000" stop="20260421080500 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS World Cships 2026</title></programme>
+<programme start="20260421080500 +0000" stop="20260421083000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS World Cships 2026</title></programme>
+<programme start="20260421083000 +0000" stop="20260421085500 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS World Cships 2026</title></programme>
+<programme start="20260421085500 +0000" stop="20260421092000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS World Cships 2026</title></programme>
+<programme start="20260421092000 +0000" stop="20260421094500 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS World Cships 2026</title></programme>
+<programme start="20260421094500 +0000" stop="20260421101000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS World Cships 2026</title></programme>
+<programme start="20260421101000 +0000" stop="20260421103500 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS World Cships 2026</title></programme>
+<programme start="20260421103500 +0000" stop="20260421110500 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Almaty ATP 250: Documentary</title></programme>
+<programme start="20260421110500 +0000" stop="20260421120500 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS World Cships HL 2026</title></programme>
+<programme start="20260421120500 +0000" stop="20260421140000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Super Lig 2025/26: SAM Vs BJK</title></programme>
+<programme start="20260421140000 +0000" stop="20260421153000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Premier Padel 26: Brussels (L)</title></programme>
+<programme start="20260421153000 +0000" stop="20260421170000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Premier Padel 26: Brussels (L)</title></programme>
+<programme start="20260421170000 +0000" stop="20260421183000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Premier Padel 26: Brussels (L)</title></programme>
+<programme start="20260421183000 +0000" stop="20260421200000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Premier Padel 26: Brussels (L)</title></programme>
+<programme start="20260421200000 +0000" stop="20260421210000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Longines League Of Nations HL</title></programme>
+<programme start="20260421210000 +0000" stop="20260421223000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Premier Padel 2026: Cancun</title></programme>
+<programme start="20260421223000 +0000" stop="20260421230000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>PSG TV Specials 2025/26, Ep 31</title><episode-num system="xmltv_ns">.30.</episode-num></programme>
+<programme start="20260421230000 +0000" stop="20260421233000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>This Is Paris 2025/26, Ep 32</title><episode-num system="xmltv_ns">.31.</episode-num></programme>
+<programme start="20260421233000 +0000" stop="20260422013000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>PSG TV 2025/26: PSG Vs LYO</title></programme>
+<programme start="20260422013000 +0000" stop="20260422032000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>UCI World Tour 2026</title></programme>
+<programme start="20260422032000 +0000" stop="20260422033000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Premier Padel Match HL 2026</title></programme>
+<programme start="20260422033000 +0000" stop="20260422043000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS Series HL 2026</title></programme>
+<programme start="20260422043000 +0000" stop="20260422063000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>UCI World Tour 2026</title></programme>
+<programme start="20260422063000 +0000" stop="20260422070000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>This Is Paris 2025/26, Ep 32</title><episode-num system="xmltv_ns">.31.</episode-num></programme>
+<programme start="20260422070000 +0000" stop="20260422090000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>PSG TV 2025/26: PSG Vs LYO</title></programme>
+<programme start="20260422090000 +0000" stop="20260422103000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Premier Padel 26: Brussels (L)</title></programme>
+<programme start="20260422103000 +0000" stop="20260422120000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Premier Padel 26: Brussels (L)</title></programme>
+<programme start="20260422120000 +0000" stop="20260422133000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Premier Padel 26: Brussels (L)</title></programme>
+<programme start="20260422133000 +0000" stop="20260422135500 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS World Cships 2026</title></programme>
+<programme start="20260422135500 +0000" stop="20260422142000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS World Cships 2026</title></programme>
+<programme start="20260422142000 +0000" stop="20260422144500 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS World Cships 2026</title></programme>
+<programme start="20260422144500 +0000" stop="20260422151000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS World Cships 2026</title></programme>
+<programme start="20260422151000 +0000" stop="20260422153500 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS World Cships 2026</title></programme>
+<programme start="20260422153500 +0000" stop="20260422160000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS World Cships 2026</title></programme>
+<programme start="20260422160000 +0000" stop="20260422173000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Premier Padel 26: Brussels (L)</title></programme>
+<programme start="20260422173000 +0000" stop="20260422190000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Premier Padel 26: Brussels (L)</title></programme>
+<programme start="20260422190000 +0000" stop="20260422203000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Premier Padel 26: Brussels (L)</title></programme>
+<programme start="20260422203000 +0000" stop="20260422205000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS2 2026: CHN Vs ESP</title></programme>
+<programme start="20260422205000 +0000" stop="20260422211500 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS Series 2026</title></programme>
+<programme start="20260422211500 +0000" stop="20260422222000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Premier Padel 2026: Cancun</title></programme>
+<programme start="20260422222000 +0000" stop="20260423001000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>AFCON 2025: SEN Vs EGY</title></programme>
+<programme start="20260423001000 +0000" stop="20260423014000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Premier Padel 2026: Miami</title></programme>
+<programme start="20260423014000 +0000" stop="20260423034000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>UCI World Tour 2026</title></programme>
+<programme start="20260423034000 +0000" stop="20260423041000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>This Is Paris 2025/26, Ep 32</title><episode-num system="xmltv_ns">.31.</episode-num></programme>
+<programme start="20260423041000 +0000" stop="20260423061000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>PSG TV 2025/26: PSG Vs LYO</title></programme>
+<programme start="20260423061000 +0000" stop="20260423080000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>UCI World Tour 2026</title></programme>
+<programme start="20260423080000 +0000" stop="20260423090000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>HSBC SVNS World Cships HL 2026</title></programme>
+<programme start="20260423090000 +0000" stop="20260423103000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Premier Padel 26: Brussels (L)</title></programme>
+<programme start="20260423103000 +0000" stop="20260423120000 +0000" channel="beIN Sports 2 - [Channel 310].id"><title>Premier Padel 26: Brussels (L)</title></programme>
+<programme start="20260420170000 +0000" stop="20260420190000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>AFCON 2025: UGA Vs NGA</title></programme>
+<programme start="20260420190000 +0000" stop="20260420220000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCI World Tour 2026</title></programme>
+<programme start="20260420220000 +0000" stop="20260420230000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UEL/UECL Highlights 2025/26</title></programme>
+<programme start="20260420230000 +0000" stop="20260420233000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>MUTV HL 2025/26: MUN Vs LEE</title></programme>
+<programme start="20260420233000 +0000" stop="20260421013000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>MUTV 2025/26: CHE Vs MUN</title></programme>
+<programme start="20260421013000 +0000" stop="20260421020000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>MUTV Match Day: CHE Vs MUN</title></programme>
+<programme start="20260421020000 +0000" stop="20260421040000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UEL 2025/26: CEL Vs SCF</title></programme>
+<programme start="20260421040000 +0000" stop="20260421043000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>The Outdoor Sports Show 2026</title></programme>
+<programme start="20260421043000 +0000" stop="20260421053000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCI World Tour Highlights 2026</title></programme>
+<programme start="20260421053000 +0000" stop="20260421073000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UECL 2025/26: FIO Vs CRY</title></programme>
+<programme start="20260421073000 +0000" stop="20260421080000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>The Outdoor Sports Show 2026</title></programme>
+<programme start="20260421080000 +0000" stop="20260421083000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>MUTV HL 2025/26: MUN Vs LEE</title></programme>
+<programme start="20260421083000 +0000" stop="20260421103000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>MUTV 2025/26: CHE Vs MUN</title></programme>
+<programme start="20260421103000 +0000" stop="20260421110000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>MUTV Match Day: CHE Vs MUN</title></programme>
+<programme start="20260421110000 +0000" stop="20260421120000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UEL/UECL Highlights 2025/26</title></programme>
+<programme start="20260421120000 +0000" stop="20260421123000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCL Highlights 2025/26</title></programme>
+<programme start="20260421123000 +0000" stop="20260421130000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCL Highlights 2025/26</title></programme>
+<programme start="20260421130000 +0000" stop="20260421133000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>The Outdoor Sports Show 2026</title></programme>
+<programme start="20260421133000 +0000" stop="20260421153000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UEL 2025/26: AVL Vs BOL</title></programme>
+<programme start="20260421153000 +0000" stop="20260421160000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCL Highlights 2025/26</title></programme>
+<programme start="20260421160000 +0000" stop="20260421165500 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>SailGP HL 2026: Rio de Janeiro</title></programme>
+<programme start="20260421165500 +0000" stop="20260421190000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>LaLiga 2025/26: MLL Vs VAL (L)</title></programme>
+<programme start="20260421190000 +0000" stop="20260421192500 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCL Specials: Karim Benzema</title></programme>
+<programme start="20260421192500 +0000" stop="20260421213000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>LaLiga 2025/26: GIR Vs BET (L)</title></programme>
+<programme start="20260421213000 +0000" stop="20260421230000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>SailGP 2026: Rio de Janeiro</title></programme>
+<programme start="20260421230000 +0000" stop="20260421233000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCL Highlights 2025/26</title></programme>
+<programme start="20260421233000 +0000" stop="20260422003000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCI World Tour Highlights 2026</title></programme>
+<programme start="20260422003000 +0000" stop="20260422013000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCL Classic Matches: INT Vs ARS</title></programme>
+<programme start="20260422013000 +0000" stop="20260422030000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>SailGP 2026: Rio de Janeiro</title></programme>
+<programme start="20260422030000 +0000" stop="20260422050000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UEL 2025/26: BET Vs BRA</title></programme>
+<programme start="20260422050000 +0000" stop="20260422053000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCL Highlights 2025/26</title></programme>
+<programme start="20260422053000 +0000" stop="20260422073000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UECL 2025/26: AEK Vs RAY</title></programme>
+<programme start="20260422073000 +0000" stop="20260422103000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCI World Tour 2026</title></programme>
+<programme start="20260422103000 +0000" stop="20260422104500 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>MUTV Top Ten: Giggs Goals</title></programme>
+<programme start="20260422104500 +0000" stop="20260422144500 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCI World Tour 2026 (L)</title></programme>
+<programme start="20260422144500 +0000" stop="20260422161500 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCI Womens World Tour 2026 (L)</title></programme>
+<programme start="20260422161500 +0000" stop="20260422162500 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCL Classic Matches: PSV Vs MIL</title></programme>
+<programme start="20260422162500 +0000" stop="20260422165500 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCL Highlights 2025/26</title></programme>
+<programme start="20260422165500 +0000" stop="20260422175500 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>MUTV Specials: Dennis Viollet</title></programme>
+<programme start="20260422175500 +0000" stop="20260422200000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>LaLiga 2025/26: RSO Vs GET (L)</title></programme>
+<programme start="20260422200000 +0000" stop="20260422213000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>MUTV Archives: LIV Vs MUN</title></programme>
+<programme start="20260422213000 +0000" stop="20260422230000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>SailGP 2026: Rio de Janeiro</title></programme>
+<programme start="20260422230000 +0000" stop="20260422233000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCL Highlights 2025/26</title></programme>
+<programme start="20260422233000 +0000" stop="20260423003000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UEL/UECL Highlights 2025/26</title></programme>
+<programme start="20260423003000 +0000" stop="20260423013000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCL Classic Matches: CHE Vs FCB</title></programme>
+<programme start="20260423013000 +0000" stop="20260423030000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>SailGP 2026: Rio de Janeiro</title></programme>
+<programme start="20260423030000 +0000" stop="20260423050000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UEL 2025/26: NFO Vs POR</title></programme>
+<programme start="20260423050000 +0000" stop="20260423053000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCL Highlights 2025/26</title></programme>
+<programme start="20260423053000 +0000" stop="20260423073000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UECL 2025/26: STR Vs M05</title></programme>
+<programme start="20260423073000 +0000" stop="20260423090000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>SailGP 2026: Rio de Janeiro</title></programme>
+<programme start="20260423090000 +0000" stop="20260423093000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCL Highlights 2025/26</title></programme>
+<programme start="20260423093000 +0000" stop="20260423100000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCL Highlights 2025/26</title></programme>
+<programme start="20260423100000 +0000" stop="20260423110000 +0000" channel="beIN Sports 3 - [Channel 311].id"><title>UCI World Tour Highlights 2026</title></programme>
+<programme start="20260420170000 +0000" stop="20260420200000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260420200000 +0000" stop="20260420220000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260420220000 +0000" stop="20260421010000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260421010000 +0000" stop="20260421030000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260421030000 +0000" stop="20260421050000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260421050000 +0000" stop="20260421070000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260421070000 +0000" stop="20260421090000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260421090000 +0000" stop="20260421110000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260421110000 +0000" stop="20260421130000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260421130000 +0000" stop="20260421150000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260421150000 +0000" stop="20260421170000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260421170000 +0000" stop="20260421200000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260421200000 +0000" stop="20260421220000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260421220000 +0000" stop="20260422010000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260422010000 +0000" stop="20260422030000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260422030000 +0000" stop="20260422050000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260422050000 +0000" stop="20260422070000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260422070000 +0000" stop="20260422090000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260422090000 +0000" stop="20260422110000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260422110000 +0000" stop="20260422130000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260422130000 +0000" stop="20260422150000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260422150000 +0000" stop="20260422170000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260422170000 +0000" stop="20260422200000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260422200000 +0000" stop="20260422220000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260422220000 +0000" stop="20260423010000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260423010000 +0000" stop="20260423030000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260423030000 +0000" stop="20260423050000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260423050000 +0000" stop="20260423070000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260423070000 +0000" stop="20260423090000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260423090000 +0000" stop="20260423110000 +0000" channel="beIN SPORTS 4 - [Channel 312].id"><title>beIN Sports 4</title></programme>
+<programme start="20260420170000 +0000" stop="20260420200000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260420200000 +0000" stop="20260420220000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260420220000 +0000" stop="20260421010000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260421010000 +0000" stop="20260421030000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260421030000 +0000" stop="20260421050000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260421050000 +0000" stop="20260421070000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260421070000 +0000" stop="20260421090000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260421090000 +0000" stop="20260421110000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260421110000 +0000" stop="20260421130000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260421130000 +0000" stop="20260421150000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260421150000 +0000" stop="20260421170000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260421170000 +0000" stop="20260421200000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260421200000 +0000" stop="20260421220000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260421220000 +0000" stop="20260422010000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260422010000 +0000" stop="20260422030000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260422030000 +0000" stop="20260422050000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260422050000 +0000" stop="20260422070000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260422070000 +0000" stop="20260422090000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260422090000 +0000" stop="20260422110000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260422110000 +0000" stop="20260422130000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260422130000 +0000" stop="20260422150000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260422150000 +0000" stop="20260422170000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260422170000 +0000" stop="20260422200000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260422200000 +0000" stop="20260422220000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260422220000 +0000" stop="20260423010000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260423010000 +0000" stop="20260423030000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260423030000 +0000" stop="20260423050000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260423050000 +0000" stop="20260423070000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260423070000 +0000" stop="20260423090000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260423090000 +0000" stop="20260423110000 +0000" channel="beIN SPORTS 5 - [Channel 313].id"><title>beIN Sports 5</title></programme>
+<programme start="20260420182500 +0000" stop="20260420201400 +0000" channel="CINEEDGE - [Channel 8].id"><title>Agent Jade Black</title></programme>
+<programme start="20260420201400 +0000" stop="20260420224300 +0000" channel="CINEEDGE - [Channel 8].id"><title>Blood Rush</title></programme>
+<programme start="20260420224300 +0000" stop="20260421002500 +0000" channel="CINEEDGE - [Channel 8].id"><title>American Sicario</title></programme>
+<programme start="20260421002500 +0000" stop="20260421023200 +0000" channel="CINEEDGE - [Channel 8].id"><title>Bulletstorm</title></programme>
+<programme start="20260421023200 +0000" stop="20260421041200 +0000" channel="CINEEDGE - [Channel 8].id"><title>Poker Face</title></programme>
+<programme start="20260421041200 +0000" stop="20260421061100 +0000" channel="CINEEDGE - [Channel 8].id"><title>Blood Rush</title></programme>
+<programme start="20260421061100 +0000" stop="20260421074500 +0000" channel="CINEEDGE - [Channel 8].id"><title>Scorched Earth</title></programme>
+<programme start="20260421074500 +0000" stop="20260421095100 +0000" channel="CINEEDGE - [Channel 8].id"><title>Bulletstorm</title></programme>
+<programme start="20260421095100 +0000" stop="20260421112600 +0000" channel="CINEEDGE - [Channel 8].id"><title>The Hunters Prayer</title></programme>
+<programme start="20260421112600 +0000" stop="20260421131900 +0000" channel="CINEEDGE - [Channel 8].id"><title>Blood Rush</title></programme>
+<programme start="20260421131900 +0000" stop="20260421144900 +0000" channel="CINEEDGE - [Channel 8].id"><title>Beta Test</title></programme>
+<programme start="20260421144900 +0000" stop="20260421170100 +0000" channel="CINEEDGE - [Channel 8].id"><title>Bulletstorm</title></programme>
+<programme start="20260421170100 +0000" stop="20260421185800 +0000" channel="CINEEDGE - [Channel 8].id"><title>London Calling</title></programme>
+<programme start="20260421185800 +0000" stop="20260421204600 +0000" channel="CINEEDGE - [Channel 8].id"><title>Blood Rush</title></programme>
+<programme start="20260421204600 +0000" stop="20260421222000 +0000" channel="CINEEDGE - [Channel 8].id"><title>9 Bullets</title></programme>
+<programme start="20260421222000 +0000" stop="20260422001800 +0000" channel="CINEEDGE - [Channel 8].id"><title>Bulletstorm</title></programme>
+<programme start="20260422001800 +0000" stop="20260422013800 +0000" channel="CINEEDGE - [Channel 8].id"><title>Taken From Rio Bravo</title></programme>
+<programme start="20260422013800 +0000" stop="20260422040100 +0000" channel="CINEEDGE - [Channel 8].id"><title>Blood Rush</title></programme>
+<programme start="20260422040100 +0000" stop="20260422053600 +0000" channel="CINEEDGE - [Channel 8].id"><title>Renegades</title></programme>
+<programme start="20260422053600 +0000" stop="20260422072000 +0000" channel="CINEEDGE - [Channel 8].id"><title>Bulletstorm</title></programme>
+<programme start="20260422072000 +0000" stop="20260422085600 +0000" channel="CINEEDGE - [Channel 8].id"><title>Disturbing The Peace</title></programme>
+<programme start="20260422085600 +0000" stop="20260422112700 +0000" channel="CINEEDGE - [Channel 8].id"><title>Blood Rush</title></programme>
+<programme start="20260422112700 +0000" stop="20260422130500 +0000" channel="CINEEDGE - [Channel 8].id"><title>Black Lotus</title></programme>
+<programme start="20260422130500 +0000" stop="20260422145200 +0000" channel="CINEEDGE - [Channel 8].id"><title>Bulletstorm</title></programme>
+<programme start="20260422145200 +0000" stop="20260422163400 +0000" channel="CINEEDGE - [Channel 8].id"><title>Sweepers</title></programme>
+<programme start="20260422163400 +0000" stop="20260422184800 +0000" channel="CINEEDGE - [Channel 8].id"><title>Blood Rush</title></programme>
+<programme start="20260422184800 +0000" stop="20260422202200 +0000" channel="CINEEDGE - [Channel 8].id"><title>The Gardener</title></programme>
+<programme start="20260422202200 +0000" stop="20260422221700 +0000" channel="CINEEDGE - [Channel 8].id"><title>Bulletstorm</title></programme>
+<programme start="20260422221700 +0000" stop="20260422235900 +0000" channel="CINEEDGE - [Channel 8].id"><title>The Silencing</title></programme>
+<programme start="20260422235900 +0000" stop="20260423022400 +0000" channel="CINEEDGE - [Channel 8].id"><title>Blood Rush</title></programme>
+<programme start="20260423022400 +0000" stop="20260423034300 +0000" channel="CINEEDGE - [Channel 8].id"><title>Taken From Rio Bravo</title></programme>
+<programme start="20260423034300 +0000" stop="20260423053800 +0000" channel="CINEEDGE - [Channel 8].id"><title>Bulletstorm</title></programme>
+<programme start="20260423053800 +0000" stop="20260423074800 +0000" channel="CINEEDGE - [Channel 8].id"><title>A Most Violent Year</title></programme>
+<programme start="20260423074800 +0000" stop="20260423092700 +0000" channel="CINEEDGE - [Channel 8].id"><title>Blood Rush</title></programme>
+<programme start="20260423092700 +0000" stop="20260423110800 +0000" channel="CINEEDGE - [Channel 8].id"><title>The System</title></programme>
+<programme start="20260420174000 +0000" stop="20260420190500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Bad Santa 2</title></programme>
+<programme start="20260420190500 +0000" stop="20260420203500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>The Forest</title></programme>
+<programme start="20260420203500 +0000" stop="20260420230000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>13 Hours: Secret Soldiers Of...</title></programme>
+<programme start="20260420230000 +0000" stop="20260421004500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Pineapple Express</title></programme>
+<programme start="20260421004500 +0000" stop="20260421022000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Daddys Home</title></programme>
+<programme start="20260421022000 +0000" stop="20260421041000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>The Interview</title></programme>
+<programme start="20260421041000 +0000" stop="20260421061500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Spider-Man: Homecoming</title></programme>
+<programme start="20260421061500 +0000" stop="20260421075500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Venom</title></programme>
+<programme start="20260421075500 +0000" stop="20260421093000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Resident Evil: Damnation</title></programme>
+<programme start="20260421093000 +0000" stop="20260421110500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Monster Hunter</title></programme>
+<programme start="20260421110500 +0000" stop="20260421123000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Sausage Party</title></programme>
+<programme start="20260421123000 +0000" stop="20260421140000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Buddy Games</title></programme>
+<programme start="20260421140000 +0000" stop="20260421152500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Sex Tape</title></programme>
+<programme start="20260421152500 +0000" stop="20260421173500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>The Legend Of Zorro</title></programme>
+<programme start="20260421173500 +0000" stop="20260421195000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>The Lovely Bones</title></programme>
+<programme start="20260421195000 +0000" stop="20260421212500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>The Fog</title></programme>
+<programme start="20260421212500 +0000" stop="20260421232500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Ghost Rider</title></programme>
+<programme start="20260421232500 +0000" stop="20260422010000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>The Tuxedo</title></programme>
+<programme start="20260422010000 +0000" stop="20260422024500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>28 Days Later</title></programme>
+<programme start="20260422024500 +0000" stop="20260422044000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Chappie</title></programme>
+<programme start="20260422044000 +0000" stop="20260422065000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>The Equalizer</title></programme>
+<programme start="20260422065000 +0000" stop="20260422083500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Life</title></programme>
+<programme start="20260422083500 +0000" stop="20260422102500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Mission: Impossible</title></programme>
+<programme start="20260422102500 +0000" stop="20260422123000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Mission: Impossible 3</title></programme>
+<programme start="20260422123000 +0000" stop="20260422140000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Ode To Joy</title></programme>
+<programme start="20260422140000 +0000" stop="20260422153000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>The Grudge</title></programme>
+<programme start="20260422153000 +0000" stop="20260422165500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Bad Santa</title></programme>
+<programme start="20260422165500 +0000" stop="20260422183000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Friday The 13th</title></programme>
+<programme start="20260422183000 +0000" stop="20260422200500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Monster Hunter</title></programme>
+<programme start="20260422200500 +0000" stop="20260422213000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Sausage Party</title></programme>
+<programme start="20260422213000 +0000" stop="20260422225500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Bad Santa 2</title></programme>
+<programme start="20260422225500 +0000" stop="20260423002500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Buddy Games</title></programme>
+<programme start="20260423002500 +0000" stop="20260423015000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Sex Tape</title></programme>
+<programme start="20260423015000 +0000" stop="20260423040000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>The Legend Of Zorro</title></programme>
+<programme start="20260423040000 +0000" stop="20260423062500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>13 Hours: Secret Soldiers Of...</title></programme>
+<programme start="20260423062500 +0000" stop="20260423081000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Pineapple Express</title></programme>
+<programme start="20260423081000 +0000" stop="20260423094500 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Daddys Home</title></programme>
+<programme start="20260423094500 +0000" stop="20260423115000 +0000" channel="Galaxy Premium - [Channel 12].id"><title>Spider-Man: Homecoming</title></programme>
+<programme start="20260420180000 +0000" stop="20260420200000 +0000" channel="IMC - [Channel 14].id"><title>Once Upon A Time In China 2</title></programme>
+<programme start="20260420181500 +0000" stop="20260420204500 +0000" channel="IMC - [Channel 14].id"><title>Melodi Cinta Rhoma Irama</title></programme>
+<programme start="20260420200000 +0000" stop="20260420213000 +0000" channel="IMC - [Channel 14].id"><title>The White Storm 3</title></programme>
+<programme start="20260420204500 +0000" stop="20260420222000 +0000" channel="IMC - [Channel 14].id"><title>Ateng Kaya Mendadak</title></programme>
+<programme start="20260420213000 +0000" stop="20260420230000 +0000" channel="IMC - [Channel 14].id"><title>Fokus Pagi</title></programme>
+<programme start="20260420222000 +0000" stop="20260420235500 +0000" channel="IMC - [Channel 14].id"><title>Bing Slamet Dukun Palsu</title></programme>
+<programme start="20260420230000 +0000" stop="20260421000000 +0000" channel="IMC - [Channel 14].id"><title>Merangkai Kisah Indah</title></programme>
+<programme start="20260420235500 +0000" stop="20260421015000 +0000" channel="IMC - [Channel 14].id"><title>Sang Pencerah</title></programme>
+<programme start="20260421000000 +0000" stop="20260422013000 +0000" channel="IMC - [Channel 14].id"><title>Ulah Iparku Menguras Emosiku</title></programme>
+<programme start="20260421013000 +0000" stop="20260422030000 +0000" channel="IMC - [Channel 14].id"><title>Campur Tangan Orang Ketiga</title></programme>
+<programme start="20260421015000 +0000" stop="20260422034000 +0000" channel="IMC - [Channel 14].id"><title>Mangkujiwo</title></programme>
+<programme start="20260421030000 +0000" stop="20260422040000 +0000" channel="IMC - [Channel 14].id"><title>Kiss Pagi</title></programme>
+<programme start="20260421034000 +0000" stop="20260422051500 +0000" channel="IMC - [Channel 14].id"><title>Lorong</title></programme>
+<programme start="20260421040000 +0000" stop="20260423043000 +0000" channel="IMC - [Channel 14].id"><title>Patroli Siang</title></programme>
+<programme start="20260421043000 +0000" stop="20260423050000 +0000" channel="IMC - [Channel 14].id"><title>Fokus Siang</title></programme>
+<programme start="20260421050000 +0000" stop="20260423063000 +0000" channel="IMC - [Channel 14].id"><title>Aku Lumpuh Suamiku Main Gila</title></programme>
+<programme start="20260421051500 +0000" stop="20260423065000 +0000" channel="IMC - [Channel 14].id"><title>Karmila</title></programme>
+<programme start="20260421063000 +0000" stop="20260423080000 +0000" channel="IMC - [Channel 14].id"><title>Misteri Surat Beramplop Merah</title></programme>
+<programme start="20260421065000 +0000" stop="20260423084500 +0000" channel="IMC - [Channel 14].id"><title>Bila Hati Perempuan Menjerit</title></programme>
+<programme start="20260421080000 +0000" stop="20260423100000 +0000" channel="IMC - [Channel 14].id"><title>Bukti Pengkhianatan Buatan AI</title></programme>
+<programme start="20260421084500 +0000" stop="20260423101500 +0000" channel="IMC - [Channel 14].id"><title>Belahan Jiwa</title></programme>
+<programme start="20260421100000 +0000" stop="20260423120000 +0000" channel="IMC - [Channel 14].id"><title>Merangkai Kisah Indah</title></programme>
+<programme start="20260421101500 +0000" stop="20260424114000 +0000" channel="IMC - [Channel 14].id"><title>Mudik</title></programme>
+<programme start="20260421114000 +0000" stop="20260424130000 +0000" channel="IMC - [Channel 14].id"><title>Mati Muda Di Pelukan Janda</title></programme>
+<programme start="20260421120000 +0000" stop="20260424160000 +0000" channel="IMC - [Channel 14].id"><title>DAcademy S7</title><episode-num system="xmltv_ns">6..</episode-num></programme>
+<programme start="20260421130000 +0000" stop="20260425143000 +0000" channel="IMC - [Channel 14].id"><title>Abdullah Dan Takeshi</title></programme>
+<programme start="20260421143000 +0000" stop="20260425160000 +0000" channel="IMC - [Channel 14].id"><title>Gentayangan</title></programme>
+<programme start="20260421160000 +0000" stop="20260425171500 +0000" channel="IMC - [Channel 14].id"><title>Pengantin Pantai Biru</title></programme>
+<programme start="20260421171500 +0000" stop="20260425184500 +0000" channel="IMC - [Channel 14].id"><title>Kesurupan Jumat Kliwon</title></programme>
+<programme start="20260421180000 +0000" stop="20260425193000 +0000" channel="IMC - [Channel 14].id"><title>Once Upon A Time In China 3</title></programme>
+<programme start="20260421184500 +0000" stop="20260425202000 +0000" channel="IMC - [Channel 14].id"><title>Senggol-Senggolan</title></programme>
+<programme start="20260421193000 +0000" stop="20260425210000 +0000" channel="IMC - [Channel 14].id"><title>Wolf Warrior</title></programme>
+<programme start="20260421202000 +0000" stop="20260425215000 +0000" channel="IMC - [Channel 14].id"><title>Kawin Kontrak 3</title></programme>
+<programme start="20260421210000 +0000" stop="20260426213000 +0000" channel="IMC - [Channel 14].id"><title>Mujizat Masih Ada</title></programme>
+<programme start="20260421213000 +0000" stop="20260426230000 +0000" channel="IMC - [Channel 14].id"><title>Fokus Pagi</title></programme>
+<programme start="20260421215000 +0000" stop="20260426233000 +0000" channel="IMC - [Channel 14].id"><title>Benyamin Musuh Bebuyutan</title></programme>
+<programme start="20260421230000 +0000" stop="20260427010000 +0000" channel="IMC - [Channel 14].id"><title>Merangkai Kisah Indah</title></programme>
+<programme start="20260421233000 +0000" stop="20260428010000 +0000" channel="IMC - [Channel 14].id"><title>Cowok Bikin Pusing</title></programme>
+<programme start="20260422010000 +0000" stop="20260428032500 +0000" channel="IMC - [Channel 14].id"><title>Soekarno</title></programme>
+<programme start="20260422030000 +0000" stop="20260428040000 +0000" channel="IMC - [Channel 14].id"><title>Hot Kiss</title></programme>
+<programme start="20260422032500 +0000" stop="20260428052500 +0000" channel="IMC - [Channel 14].id"><title>Hattrick</title></programme>
+<programme start="20260422040000 +0000" stop="20260429043000 +0000" channel="IMC - [Channel 14].id"><title>Patroli Siang</title></programme>
+<programme start="20260422043000 +0000" stop="20260429050000 +0000" channel="IMC - [Channel 14].id"><title>Fokus Siang</title></programme>
+<programme start="20260422050000 +0000" stop="20260429063000 +0000" channel="IMC - [Channel 14].id"><title>Misteri Kamar Yang...</title></programme>
+<programme start="20260422052500 +0000" stop="20260429071000 +0000" channel="IMC - [Channel 14].id"><title>100% Halal</title></programme>
+<programme start="20260422063000 +0000" stop="20260429080000 +0000" channel="IMC - [Channel 14].id"><title>Teror Penggoda Rumah Tanggaku</title></programme>
+<programme start="20260422071000 +0000" stop="20260429085500 +0000" channel="IMC - [Channel 14].id"><title>48 Jam Untuk Indah</title></programme>
+<programme start="20260422080000 +0000" stop="20260429103000 +0000" channel="IMC - [Channel 14].id"><title>BRI Super League 2025/26</title></programme>
+<programme start="20260422085500 +0000" stop="20260430102500 +0000" channel="IMC - [Channel 14].id"><title>Hotline 666</title></programme>
+<programme start="20260422102500 +0000" stop="20260430114500 +0000" channel="IMC - [Channel 14].id"><title>Tumbal 97</title></programme>
+<programme start="20260422103000 +0000" stop="20260430120000 +0000" channel="IMC - [Channel 14].id"><title>Merangkai Kisah Indah</title></programme>
+<programme start="20260422114500 +0000" stop="20260430130000 +0000" channel="IMC - [Channel 14].id"><title>Skandal</title></programme>
+<programme start="20260422120000 +0000" stop="20260430160000 +0000" channel="IMC - [Channel 14].id"><title>Band Academy</title></programme>
+<programme start="20260422130000 +0000" stop="20260501144500 +0000" channel="IMC - [Channel 14].id"><title>Maju Kena Mundur Kena...</title></programme>
+<programme start="20260422144500 +0000" stop="20260501162000 +0000" channel="IMC - [Channel 14].id"><title>Dunia Mereka</title></programme>
+<programme start="20260422160000 +0000" stop="20260501180000 +0000" channel="IMC - [Channel 14].id"><title>Heroes</title></programme>
+<programme start="20260422162000 +0000" stop="20260502174000 +0000" channel="IMC - [Channel 14].id"><title>Perempuan-Perempuan Liar</title></programme>
+</tv>                                                                                                                 
 
 
 
