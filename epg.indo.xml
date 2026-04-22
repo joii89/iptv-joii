@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+8<?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processned by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
 <channel id="AllPlay Ent.id"><display-name>AllPlay Ent.id</display-name></channel>
 <channel id="AlQuran Kareem.id"><display-name>AlQuran Kareem.id</display-name></channel>
@@ -129,6 +129,26 @@
 <programme start="20260421123000 +0000" stop="20260421140000 +0000" channel="Bioskop Indonesia.id"><title>Kesengsem Tukang Sedot WC</title></programme>
 <programme start="20260421140000 +0000" stop="20260421153000 +0000" channel="Bioskop Indonesia.id"><title>Radio Kabar Buruk</title></programme>
 <programme start="20260421153000 +0000" stop="20260421170000 +0000" channel="Bioskop Indonesia.id"><title>Tempe Mendoan Bumbu Cinta</title></programme>
+<programme start="20260420170000 +0000" stop="20260420182500 +0000" channel="Citra Drama.id"><title>Babe Angels Cinta Lama Damagenya Warbiyasak</title></programme>
+<programme start="20260420182500 +0000" stop="20260420192000 +0000" channel="Citra Drama.id"><title>Love Story The Series S3</title></programme>
+<programme start="20260420192000 +0000" stop="20260420201500 +0000" channel="Citra Drama.id"><title>Cinta Setelah Cinta S1</title></programme>
+<programme start="20260420201500 +0000" stop="20260420214000 +0000" channel="Citra Drama.id"><title>Bantu Viralkan Putri Berkuda Jadi Jodohku</title></programme>
+<programme start="20260420214000 +0000" stop="20260420230500 +0000" channel="Citra Drama.id"><title>Babe Angels Cinta Lama Damagenya Warbiyasak</title></programme>
+<programme start="20260420230500 +0000" stop="20260421000000 +0000" channel="Citra Drama.id"><title>Cinta Setelah Cinta S1</title></programme>
+<programme start="20260421000000 +0000" stop="20260421005500 +0000" channel="Citra Drama.id"><title>Dia Yang Kau Pilih</title></programme>
+<programme start="20260421005500 +0000" stop="20260421022000 +0000" channel="Citra Drama.id"><title>All In Buat Neng Salad Buah</title></programme>
+<programme start="20260421022000 +0000" stop="20260421034500 +0000" channel="Citra Drama.id"><title>Kopi and Susu Aja Bisa Bersatu, Aku and Kamu Kapan?</title></programme>
+<programme start="20260421034500 +0000" stop="20260421044000 +0000" channel="Citra Drama.id"><title>Love Story The Series S3</title></programme>
+<programme start="20260421044000 +0000" stop="20260421053500 +0000" channel="Citra Drama.id"><title>Dia Yang Kau Pilih</title></programme>
+<programme start="20260421053500 +0000" stop="20260421070000 +0000" channel="Citra Drama.id"><title>All In Buat Neng Salad Buah</title></programme>
+<programme start="20260421070000 +0000" stop="20260421075500 +0000" channel="Citra Drama.id"><title>Dia Yang Kau Pilih</title></programme>
+<programme start="20260421075500 +0000" stop="20260421092000 +0000" channel="Citra Drama.id"><title>Bisa Bisanya Gue Naksir Mas Susu</title></programme>
+<programme start="20260421092000 +0000" stop="20260421105000 +0000" channel="Citra Drama.id"><title>Jadi Calon Istri Bos, Paniklah Masa Nggak</title></programme>
+<programme start="20260421105000 +0000" stop="20260421114500 +0000" channel="Citra Drama.id"><title>Love Story The Series S3</title></programme>
+<programme start="20260421114500 +0000" stop="20260421131000 +0000" channel="Citra Drama.id"><title>Etalase Ajaib Sad Girl Vs Bad Boy</title></programme>
+<programme start="20260421131000 +0000" stop="20260421140500 +0000" channel="Citra Drama.id"><title>Cinta Setelah Cinta S1</title></programme>
+<programme start="20260421140500 +0000" stop="20260421153000 +0000" channel="Citra Drama.id"><title>Aku Ibu Dan Istriku</title></programme>
+<programme start="20260421153000 +0000" stop="20260421170000 +0000" channel="Citra Drama.id"><title>Etalase Ajaib Sad Girl Vs Bad Boy</title></programme>
 <programme start="20260420170000 +0000" stop="20260420190000 +0000" channel="GTV - [Channel 81].id"><title>Tertawa Tengah Malam</title></programme>
 <programme start="20260420190000 +0000" stop="20260420220000 +0000" channel="GTV - [Channel 81].id"><title>Tertawa Tengah Malam</title></programme>
 <programme start="20260420220000 +0000" stop="20260420230000 +0000" channel="GTV - [Channel 81].id"><title>Ragam Pagi</title></programme>
@@ -568,6 +588,24 @@
 <programme start="20260422144500 +0000" stop="20260501162000 +0000" channel="IMC - [Channel 14].id"><title>Dunia Mereka</title></programme>
 <programme start="20260422160000 +0000" stop="20260501180000 +0000" channel="IMC - [Channel 14].id"><title>Heroes</title></programme>
 <programme start="20260422162000 +0000" stop="20260502174000 +0000" channel="IMC - [Channel 14].id"><title>Perempuan-Perempuan Liar</title></programme>
+<programme start="20260420170000 +0000" stop="20260420173000 +0000" channel="iNews.id"><title>E-Max</title></programme>
+<programme start="20260420173000 +0000" stop="20260420211500 +0000" channel="iNews.id"><title>Breaking News</title></programme>
+<programme start="20260420211500 +0000" stop="20260420225500 +0000" channel="iNews.id"><title>iNews Pagi</title></programme>
+<programme start="20260420225500 +0000" stop="20260420233000 +0000" channel="iNews.id"><title>iNews Sport Pagi</title></programme>
+<programme start="20260420233000 +0000" stop="20260421000000 +0000" channel="iNews.id"><title>Ibreak The One Entrepreneur</title></programme>
+<programme start="20260421000000 +0000" stop="20260421003000 +0000" channel="iNews.id"><title>Special Report</title></programme>
+<programme start="20260421003000 +0000" stop="20260421010000 +0000" channel="iNews.id"><title>Morning Update</title></programme>
+<programme start="20260421010000 +0000" stop="20260421030000 +0000" channel="iNews.id"><title>Breaking News</title></programme>
+<programme start="20260421030000 +0000" stop="20260421040000 +0000" channel="iNews.id"><title>iNews Today</title></programme>
+<programme start="20260421040000 +0000" stop="20260421060000 +0000" channel="iNews.id"><title>iNews Siang</title></programme>
+<programme start="20260421060000 +0000" stop="20260421070000 +0000" channel="iNews.id"><title>Special Talkshow Hari Kartini</title></programme>
+<programme start="20260421070000 +0000" stop="20260421083000 +0000" channel="iNews.id"><title>Breaking News</title></programme>
+<programme start="20260421083000 +0000" stop="20260421093000 +0000" channel="iNews.id"><title>Realita</title></programme>
+<programme start="20260421093000 +0000" stop="20260421120000 +0000" channel="iNews.id"><title>iNews Sore</title></programme>
+<programme start="20260421120000 +0000" stop="20260421140000 +0000" channel="iNews.id"><title>Rakyat Bersuara</title></programme>
+<programme start="20260421140000 +0000" stop="20260421150000 +0000" channel="iNews.id"><title>iNews Prime</title></programme>
+<programme start="20260421150000 +0000" stop="20260421160000 +0000" channel="iNews.id"><title>Breaking News</title></programme>
+<programme start="20260421160000 +0000" stop="20260421170000 +0000" channel="iNews.id"><title>iNews Malam</title></programme>
 <programme start="20260420170000 +0000" stop="20260420175500 +0000" channel="Cinemax.id"><title>Interview with the Vampire</title><desc>Berlatar di San Fransisco pada akhir abad ke-20, film ini berkisah tentang seorang vampir berusia 200 tahun yang menceritakan kisah hidupnya nan penuh cinta, kesedihan dan teror pada seorang reporter muda.</desc></programme>
 <programme start="20260420175500 +0000" stop="20260420201000 +0000" channel="Cinemax.id"><title>J. Edgar</title><desc>An unyielding biopic that explores the public and private life of J. Edgar Hoover.</desc></programme>
 <programme start="20260420201000 +0000" stop="20260420220000 +0000" channel="Cinemax.id"><title>Civil War</title><desc>Di Amerika masa depan yang distopia, sekelompok jurnalis yang memiliki latar belakang militer berpacu dengan waktu untuk mencapai Washington, D.C., sebelum kelompok pemberontak menyerbu Gedung Putih.</desc></programme>
@@ -860,6 +898,36 @@
 <programme start="20260423061000 +0000" stop="20260423074500 +0000" channel="Rock Action.id"><title>The Librarian: Return to King Solomons Mines</title><desc>Flynn Carsen, seorang pustakawan yang beralih profesi menjadi petualang menerima peta misterius. Bersama arkeolog Emily Davenport, ia berupaya untuk menemukan tambang Raja Solomon.</desc></programme>
 <programme start="20260423074500 +0000" stop="20260423091500 +0000" channel="Rock Action.id"><title>Pandemic, Part 1</title><desc>Ketika strain baru yang mematikan dari virus tak dikenal menginfeksi sebuah pesawat yang sedang menuju Los Angeles, Dr. Kayla Martin dari CDC dan timnya harus berjuang melawan rintangan politik, para penganut teori konspirasi, dan upaya pelarian para penyintas yang dikarantina.</desc></programme>
 <programme start="20260423091500 +0000" stop="20260423104500 +0000" channel="Rock Action.id"><title>Pandemic, Part 2</title><desc>Ketika strain baru yang mematikan dari virus tak dikenal menginfeksi sebuah pesawat yang sedang menuju Los Angeles, Dr. Kayla Martin dari CDC dan timnya harus berjuang melawan rintangan politik, para penganut teori konspirasi, dan upaya pelarian para penyintas yang dikarantina.</desc></programme>
+<programme start="20260420173000 +0000" stop="20260420181500 +0000" channel="Rock Entertainment.id"><title>Law and Order: Special Victims Unit S27 - Eps. 17</title></programme>
+<programme start="20260420181500 +0000" stop="20260420190000 +0000" channel="Rock Entertainment.id"><title>Law and Order: Special Victims Unit S27 - Eps. 18</title></programme>
+<programme start="20260420190000 +0000" stop="20260420194500 +0000" channel="Rock Entertainment.id"><title>NCIS S22 - Eps. 11</title></programme>
+<programme start="20260420194500 +0000" stop="20260420202500 +0000" channel="Rock Entertainment.id"><title>NCIS S22 - Eps. 12</title></programme>
+<programme start="20260420202500 +0000" stop="20260420211000 +0000" channel="Rock Entertainment.id"><title>NCIS S22 - Eps. 13</title></programme>
+<programme start="20260420211000 +0000" stop="20260420220000 +0000" channel="Rock Entertainment.id"><title>NCIS S22 - Eps. 14</title></programme>
+<programme start="20260420220000 +0000" stop="20260420224500 +0000" channel="Rock Entertainment.id"><title>Late Night With Seth Meyers S13 - Eps. 85</title></programme>
+<programme start="20260420224500 +0000" stop="20260420233000 +0000" channel="Rock Entertainment.id"><title>The Tonight Show Starring Jimmy Fallon S13 - Eps. 90</title></programme>
+<programme start="20260420233000 +0000" stop="20260421001000 +0000" channel="Rock Entertainment.id"><title>Cobra Kai S5 - Eps. 2</title></programme>
+<programme start="20260421001000 +0000" stop="20260421005500 +0000" channel="Rock Entertainment.id"><title>Law and Order: Special Victims Unit S27 - Eps. 17</title></programme>
+<programme start="20260421005500 +0000" stop="20260421014000 +0000" channel="Rock Entertainment.id"><title>Law and Order: Special Victims Unit S27 - Eps. 18</title></programme>
+<programme start="20260421014000 +0000" stop="20260421022500 +0000" channel="Rock Entertainment.id"><title>Law and Order: Special Victims Unit S27 - Eps. 17</title></programme>
+<programme start="20260421022500 +0000" stop="20260421030500 +0000" channel="Rock Entertainment.id"><title>Law and Order: Special Victims Unit S27 - Eps. 18</title></programme>
+<programme start="20260421030500 +0000" stop="20260421035000 +0000" channel="Rock Entertainment.id"><title>The Real Housewives of Beverly Hills S15 - Eps. 16</title></programme>
+<programme start="20260421035000 +0000" stop="20260421043500 +0000" channel="Rock Entertainment.id"><title>The Tonight Show Starring Jimmy Fallon S13 - Eps. 90</title></programme>
+<programme start="20260421043500 +0000" stop="20260421052000 +0000" channel="Rock Entertainment.id"><title>Late Night With Seth Meyers S13 - Eps. 85</title></programme>
+<programme start="20260421052000 +0000" stop="20260421060500 +0000" channel="Rock Entertainment.id"><title>Law and Order: Special Victims Unit S27 - Eps. 18</title></programme>
+<programme start="20260421060500 +0000" stop="20260421065000 +0000" channel="Rock Entertainment.id"><title>NCIS S22 - Eps. 13</title></programme>
+<programme start="20260421065000 +0000" stop="20260421073500 +0000" channel="Rock Entertainment.id"><title>NCIS S22 - Eps. 14</title></programme>
+<programme start="20260421073500 +0000" stop="20260421082000 +0000" channel="Rock Entertainment.id"><title>NCIS S22 - Eps. 15</title></programme>
+<programme start="20260421082000 +0000" stop="20260421090500 +0000" channel="Rock Entertainment.id"><title>NCIS S22 - Eps. 16</title></programme>
+<programme start="20260421090500 +0000" stop="20260421103000 +0000" channel="Rock Entertainment.id"><title>The Secret Agent Part 2</title></programme>
+<programme start="20260421103000 +0000" stop="20260421113000 +0000" channel="Rock Entertainment.id"><title>The Wheel Of Time - Eps. 7</title></programme>
+<programme start="20260421113000 +0000" stop="20260421123000 +0000" channel="Rock Entertainment.id"><title>The Wheel Of Time - Eps. 8</title></programme>
+<programme start="20260421123000 +0000" stop="20260421133000 +0000" channel="Rock Entertainment.id"><title>The Wheel Of Time - Eps. 7</title></programme>
+<programme start="20260421133000 +0000" stop="20260421143000 +0000" channel="Rock Entertainment.id"><title>The Wheel Of Time - Eps. 8</title></programme>
+<programme start="20260421143000 +0000" stop="20260421151500 +0000" channel="Rock Entertainment.id"><title>Below Deck Mediterranean S10 - Eps. 16</title></programme>
+<programme start="20260421151500 +0000" stop="20260421160000 +0000" channel="Rock Entertainment.id"><title>The Tonight Show Starring Jimmy Fallon S13 - Eps. 91</title></programme>
+<programme start="20260421160000 +0000" stop="20260421164500 +0000" channel="Rock Entertainment.id"><title>Late Night With Seth Meyers S13 - Eps. 86</title></programme>
+<programme start="20260421164500 +0000" stop="20260421173000 +0000" channel="Rock Entertainment.id"><title>Below Deck Mediterranean S10 - Eps. 16</title></programme>
 <programme start="20260420170000 +0000" stop="20260420174500 +0000" channel="RCTI.id"><title>Indonesian Idol 2025</title></programme>
 <programme start="20260420174500 +0000" stop="20260420193000 +0000" channel="RCTI.id"><title>Kesempatan Kedua</title></programme>
 <programme start="20260420193000 +0000" stop="20260420230000 +0000" channel="RCTI.id"><title>Preman Pensiun</title><desc>Preman Pensiun X melanjutkan kisah Bubun, Cecep, dan Ujang yang kembali terlibat dunia premanisme. Konflik baru muncul di terminal, sementara bos misterius terus memperluas kekuasaan.</desc></programme>
@@ -1157,29 +1225,19 @@
 <programme start="20260423063000 +0000" stop="20260423085500 +0000" channel="tvN Movies.id"><title>A Year-End Medley</title><desc>Dari cinta pertama yang canggung hingga jatuh hati pada seorang teman dan cinta yang telah lama terlupakan, empat belas individu yang dimabuk asmara dipertemukan di Hotel Emross pada Malam Tahun Baru.</desc></programme>
 <programme start="20260423085500 +0000" stop="20260423103000 +0000" channel="tvN Movies.id"><title>The Glorious My Revenge</title><desc>Detektif Ryu kehilangan putra kesayangannya dalam kecelakaan tabrak lari. Saat kasus itu memasuki masa kedaluwarsa tanpa adanya tersangka, ia mencari sendiri pembunuh putranya.</desc></programme>
 <programme start="20260423103000 +0000" stop="20260423122500 +0000" channel="tvN Movies.id"><title>The Roundup: Punishment</title><desc>Ma Seok-Do menyelidiki sebuah aplikasi perdagangan narkoba yang berhubungan dengan suatu organisasi ilegal. Saat Baek Chang-Gi meneror pasar perjudian, sebuah kelompok pun dibentuk untuk menghentikan ancaman tersebut.</desc></programme>
-<programme start="20260420170000 +0000" stop="20260420180000 +0000" channel="Kompas TV.id"><title>Berita Utama</title></programme>
-<programme start="20260420180000 +0000" stop="20260420193000 +0000" channel="Kompas TV.id"><title>Kompas Petang</title></programme>
-<programme start="20260420193000 +0000" stop="20260420200000 +0000" channel="Kompas TV.id"><title>Indonesia Update</title></programme>
-<programme start="20260420200000 +0000" stop="20260420210000 +0000" channel="Kompas TV.id"><title>Kalam Hati</title></programme>
-<programme start="20260420210000 +0000" stop="20260420213000 +0000" channel="Kompas TV.id"><title>Borgol</title></programme>
-<programme start="20260420213000 +0000" stop="20260420233000 +0000" channel="Kompas TV.id"><title>Kompas Pagi</title></programme>
-<programme start="20260420233000 +0000" stop="20260421000000 +0000" channel="Kompas TV.id"><title>Jurnal Nusantara</title></programme>
-<programme start="20260421000000 +0000" stop="20260421023000 +0000" channel="Kompas TV.id"><title>Sapa Indonesia Pagi</title></programme>
-<programme start="20260421023000 +0000" stop="20260421033000 +0000" channel="Kompas TV.id"><title>Berita Utama</title></programme>
-<programme start="20260421033000 +0000" stop="20260421040000 +0000" channel="Kompas TV.id"><title>Borgol</title></programme>
-<programme start="20260421040000 +0000" stop="20260421060000 +0000" channel="Kompas TV.id"><title>Kompas Siang</title></programme>
-<programme start="20260421060000 +0000" stop="20260421070000 +0000" channel="Kompas TV.id"><title>Sapa Indonesia Siang</title></programme>
-<programme start="20260421070000 +0000" stop="20260421073000 +0000" channel="Kompas TV.id"><title>Pop News</title></programme>
-<programme start="20260421073000 +0000" stop="20260421080000 +0000" channel="Kompas TV.id"><title>Jurnal Merah Putih</title></programme>
-<programme start="20260421080000 +0000" stop="20260421083000 +0000" channel="Kompas TV.id"><title>Indonesia Update</title></programme>
-<programme start="20260421083000 +0000" stop="20260421090000 +0000" channel="Kompas TV.id"><title>Borgol</title></programme>
-<programme start="20260421090000 +0000" stop="20260421103000 +0000" channel="Kompas TV.id"><title>Kompas Petang</title></programme>
-<programme start="20260421103000 +0000" stop="20260421120000 +0000" channel="Kompas TV.id"><title>Sapa Indonesia Malam</title></programme>
-<programme start="20260421120000 +0000" stop="20260421130000 +0000" channel="Kompas TV.id"><title>Berita Utama</title></programme>
-<programme start="20260421130000 +0000" stop="20260421143000 +0000" channel="Kompas TV.id"><title>Anugerah Puspa Bangsa 2026</title></programme>
-<programme start="20260421143000 +0000" stop="20260421153000 +0000" channel="Kompas TV.id"><title>Kompas Malam</title></programme>
-<programme start="20260421153000 +0000" stop="20260421163000 +0000" channel="Kompas TV.id"><title>B-Talk</title></programme>
-<programme start="20260421163000 +0000" stop="20260421170000 +0000" channel="Kompas TV.id"><title>Kilas Kompas</title></programme>
+<programme start="20260420174500 +0000" stop="20260420192500 +0000" channel="Studio Universal.id"><title>Sgt. Bilko</title></programme>
+<programme start="20260420192500 +0000" stop="20260420212000 +0000" channel="Studio Universal.id"><title>American Graffiti</title></programme>
+<programme start="20260420212000 +0000" stop="20260420230000 +0000" channel="Studio Universal.id"><title>Happy Gilmore</title></programme>
+<programme start="20260420230000 +0000" stop="20260421011000 +0000" channel="Studio Universal.id"><title>Jurassic Park</title></programme>
+<programme start="20260421011000 +0000" stop="20260421024500 +0000" channel="Studio Universal.id"><title>Madagascar 3: Europes Most Wanted</title></programme>
+<programme start="20260421024500 +0000" stop="20260421042000 +0000" channel="Studio Universal.id"><title>Sgt. Bilko</title></programme>
+<programme start="20260421042000 +0000" stop="20260421061500 +0000" channel="Studio Universal.id"><title>American Graffiti</title></programme>
+<programme start="20260421061500 +0000" stop="20260421082500 +0000" channel="Studio Universal.id"><title>Jurassic Park</title></programme>
+<programme start="20260421082500 +0000" stop="20260421095500 +0000" channel="Studio Universal.id"><title>Beethoven</title></programme>
+<programme start="20260421095500 +0000" stop="20260421113000 +0000" channel="Studio Universal.id"><title>Evan Almighty</title></programme>
+<programme start="20260421113000 +0000" stop="20260421143000 +0000" channel="Studio Universal.id"><title>Casino</title></programme>
+<programme start="20260421143000 +0000" stop="20260421164500 +0000" channel="Studio Universal.id"><title>Lost World: Jurassic Park</title></programme>
+<programme start="20260421164500 +0000" stop="20260421182000 +0000" channel="Studio Universal.id"><title>Beethoven</title></programme>
 </tv>                                                                                                                 
 
 
