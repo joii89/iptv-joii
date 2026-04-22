@@ -756,67 +756,23 @@
 <title>Too Big to Fail</title>
 <desc>Sebuah film tentang krisis keuangan Wall Street tahun 2008 yang mengeksplorasi sisi gelap kelompok berkuasa yang menentukan nasib ekonomi dunia.</desc>
 </programme>
-<programme start="20260422121000 +0000" stop="20260422140000 +0000" channel="Cinemax.id">
-<title>The Butterfly Effect</title>
-<desc>Evan Treborn kehilangan kesadaran selama peristiwa penting dalam hidupnya. Saat ia dewasa, ia menemukan cara untuk mengingat kenangan yang hilang dan cara supranatural untuk mengubah hidupnya dengan membaca jurnalnya.</desc>
-</programme>
-<programme start="20260422140000 +0000" stop="20260422160500 +0000" channel="Cinemax.id">
-<title>Judas and the Black Messiah</title>
-<desc>Setelah ditawari kesepakatan pembelaan oleh FBI, William ONeal menyusup ke cabang Partai Black Panther di Illinois sebagai informan rahasia untuk mengumpulkan informasi intelijen tentang Ketua Fred Hampton.</desc>
-</programme>
-<programme start="20260422160500 +0000" stop="20260422170000 +0000" channel="Cinemax.id">
-<title>Mortal Kombat</title>
-<desc>Petarung MMA Cole Young mencari juara terhebat di Bumi untuk melawan musuh-musuh Outworld dalam pertempuran berisiko tinggi demi alam semesta.</desc>
-</programme>
-<programme start="20260422170000 +0000" stop="20260422174500 +0000" channel="Cinemax.id">
-<title>Mortal Kombat</title>
-<desc>Petarung MMA Cole Young mencari juara terhebat di Bumi untuk melawan musuh-musuh Outworld dalam pertempuran berisiko tinggi demi alam semesta.</desc>
-</programme>
-<programme start="20260422174500 +0000" stop="20260422195000 +0000" channel="Cinemax.id">
-<title>Nosferatu</title>
-<desc>Dongeng gotik ini berkisah tentang seorang wanita muda yang dihantui oleh vampir Transylvania kuno, yang membawa serta kengerian yang tak terkira.</desc>
-</programme>
-<programme start="20260422195000 +0000" stop="20260422215000 +0000" channel="Cinemax.id">
-<title>Spin the Bottle</title>
-<desc>Saat teman-teman bermain putar botol di sebuah rumah yang bekas lokasi pembantaian, mereka melepaskan roh jahat dan mulai mati dengan cara yang mengerikan.</desc>
-</programme>
-<programme start="20260422215000 +0000" stop="20260422232500 +0000" channel="Cinemax.id">
-<title>The Gathering Storm</title>
-<desc>Tahun-tahun Winston Churchill yang liar sebelum Perang Dunia II, ketika hanya dia yang dapat melihat ancaman yang ditimbulkan Adolf Hitler dan Jerman yang dipersenjatai kembali terhadap Eropa.</desc>
-</programme>
-<programme start="20260422232500 +0000" stop="20260423010000 +0000" channel="Cinemax.id">
-<title>Æon Flux</title>
-<desc>Aeon Flux adalah harapan terakhir para pemberontak untuk menggulingkan suatu masyarakat nan sempurna namun opresif. Akan tetapi saat bertugas, ia menyingkap banyak rahasia yang dapat mengubah masa depan dunia.</desc>
-</programme>
-<programme start="20260423010000 +0000" stop="20260423024000 +0000" channel="Cinemax.id">
-<title>Along Came a Spider</title>
-<desc>Morgan Freeman menyelidiki kasus penculikan dua gadis yang diduga melibatkan seorang psikopat penderita skizofrenia.</desc>
-</programme>
-<programme start="20260423024000 +0000" stop="20260423043000 +0000" channel="Cinemax.id">
-<title>Unknown</title>
-<desc>Empat hari setelah kecelakaan mobilnya, Martin, seorang ahli biokimia, bangun dan menyadari bahwa orang tak dikenal telah mengambil identitasnya. Bingung dan menderita kesenjangan ingatan, dia bertekad untuk menemukan kebenaran.</desc>
-</programme>
-<programme start="20260423043000 +0000" stop="20260423062000 +0000" channel="Cinemax.id">
-<title>The Butterfly Effect</title>
-<desc>Evan Treborn kehilangan kesadaran selama peristiwa penting dalam hidupnya. Saat ia dewasa, ia menemukan cara untuk mengingat kenangan yang hilang dan cara supranatural untuk mengubah hidupnya dengan membaca jurnalnya.</desc>
-</programme>
-<programme start="20260423062000 +0000" stop="20260423080000 +0000" channel="Cinemax.id">
-<title>Mortal Kombat</title>
-<desc>Petarung MMA Cole Young mencari juara terhebat di Bumi untuk melawan musuh-musuh Outworld dalam pertempuran berisiko tinggi demi alam semesta.</desc>
-</programme>
-<programme start="20260423080000 +0000" stop="20260423083000 +0000" channel="Cinemax.id">
-<title>Hollywood on Set, Ep. 1165</title>
-<desc>Setiap minggu Hollywood on Set menyambangi balik layar tiga film yang sedang diproduksi, menampilkan wawancara dengan para aktor dan pembuat film.</desc>
-<episode-num system="xmltv_ns">.1164.</episode-num>
-</programme>
-<programme start="20260423083000 +0000" stop="20260423101000 +0000" channel="Cinemax.id">
-<title>Too Big to Fail</title>
-<desc>Sebuah film tentang krisis keuangan Wall Street tahun 2008 yang mengeksplorasi sisi gelap kelompok berkuasa yang menentukan nasib ekonomi dunia.</desc>
-</programme>
-<programme start="20260423101000 +0000" stop="20260423122000 +0000" channel="Cinemax.id">
-<title>61*</title>
-<desc>Pada musim panas tahun 1961, dua pemain baseball dan sahabat bersaing untuk memecahkan rekor home run yang dibuat oleh Babe Ruth yang legendaris pada tahun 1927.</desc>
-</programme></tv>                                                                                                                 
+<programme start="20260422121000 +0000" stop="20260422140000 +0000" channel="Cinemax.id"><title>The Butterfly Effect</title>
+<desc>Evan Treborn kehilangan kesadaran selama peristiwa penting dalam hidupnya. Saat ia dewasa, ia menemukan cara untuk mengingat kenangan yang hilang dan cara supranatural untuk mengubah hidupnya dengan membaca jurnalnya.</desc></programme>
+<programme start="20260422140000 +0000" stop="20260422160500 +0000" channel="Cinemax.id"><title>Judas and the Black Messiah</title><desc>Setelah ditawari kesepakatan pembelaan oleh FBI, William ONeal menyusup ke cabang Partai Black Panther di Illinois sebagai informan rahasia untuk mengumpulkan informasi intelijen tentang Ketua Fred Hampton.</desc></programme>
+<programme start="20260422160500 +0000" stop="20260422170000 +0000" channel="Cinemax.id"><title>Mortal Kombat</title><desc>Petarung MMA Cole Young mencari juara terhebat di Bumi untuk melawan musuh-musuh Outworld dalam pertempuran berisiko tinggi demi alam semesta.</desc></programme>
+<programme start="20260422170000 +0000" stop="20260422174500 +0000" channel="Cinemax.id"><title>Mortal Kombat</title><desc>Petarung MMA Cole Young mencari juara terhebat di Bumi untuk melawan musuh-musuh Outworld dalam pertempuran berisiko tinggi demi alam semesta.</desc></programme>
+<programme start="20260422174500 +0000" stop="20260422195000 +0000" channel="Cinemax.id"><title>Nosferatu</tittle <desc>Dongeng gotik ini berkisah tentang seorang wanita muda yang dihantui oleh vampir Transylvania kuno, yang membawa serta kengerian yang tak terkira.</desc></programme>
+<programme start="20260422195000 +0000" stop="20260422215000 +0000" channel="Cinemax.id"><title>Spin the Bottle</title><desc>Saat teman-teman bermain putar botol di sebuah rumah yang bekas lokasi pembantaian, mereka melepaskan roh jahat dan mulai mati dengan cara yang mengerikan.</desc></programme>
+<programme start="20260422215000 +0000" stop="20260422232500 +0000" channel="Cinemax.id"><title>The Gathering Storm</title><desc>Tahun-tahun Winston Churchill yang liar sebelum Perang Dunia II, ketika hanya dia yang dapat melihat ancaman yang ditimbulkan Adolf Hitler dan Jerman yang dipersenjatai kembali terhadap Eropa.</desc></programme>
+<programme start="20260422232500 +0000" stop="20260423010000 +0000" channel="Cinemax.id"><title>Æon Flux</title><desc>Aeon Flux adalah harapan terakhir para pemberontak untuk menggulingkan suatu masyarakat nan sempurna namun opresif. Akan tetapi saat bertugas, ia menyingkap banyak rahasia yang dapat mengubah masa depan dunia.</desc></programme>
+<programme start="20260423010000 +0000" stop="20260423024000 +0000" channel="Cinemax.id"><title>Along Came a Spider</title><desc>Morgan Freeman menyelidiki kasus penculikan dua gadis yang diduga melibatkan seorang psikopat penderita skizofrenia.</desc></programme>
+<programme start="20260423024000 +0000" stop="20260423043000 +0000" channel="Cinemax.id"><title>Unknown</title><desc>Empat hari setelah kecelakaan mobilnya, Martin, seorang ahli biokimia, bangun dan menyadari bahwa orang tak dikenal telah mengambil identitasnya. Bingung dan menderita kesenjangan ingatan, dia bertekad untuk menemukan kebenaran.</desc></programme>
+<programme start="20260423043000 +0000" stop="20260423062000 +0000" channel="Cinemax.id"><title>The Butterfly Effect</title><desc>Evan Treborn kehilangan kesadaran selama peristiwa penting dalam hidupnya. Saat ia dewasa, ia menemukan cara untuk mengingat kenangan yang hilang dan cara supranatural untuk mengubah hidupnya dengan membaca jurnalnya.</desc></programme>
+<programme start="20260423062000 +0000" stop="20260423080000 +0000" channel="Cinemax.id"><title>Mortal Kombat</title><desc>Petarung MMA Cole Young mencari juara terhebat di Bumi untuk melawan musuh-musuh Outworld dalam pertempuran berisiko tinggi demi alam semesta.</desc></programme>
+<programme start="20260423080000 +0000" stop="20260423083000 +0000" channel="Cinemax.id"><title>Hollywood on Set, Ep. 1165</title><desc>Setiap minggu Hollywood on Set menyambangi balik layar tiga film yang sedang diproduksi, menampilkan wawancara dengan para aktor dan pembuat film.</desc><episode-num system="xmltv_ns">.1164.</episode-num></programme>
+<programme start="20260423083000 +0000" stop="20260423101000 +0000" channel="Cinemax.id"><title>Too Big to Fail</title><desc>Sebuah film tentang krisis keuangan Wall Street tahun 2008 yang mengeksplorasi sisi gelap kelompok berkuasa yang menentukan nasib ekonomi dunia.</desc></programme>
+<programme start="20260423101000 +0000" stop="20260423122000 +0000" channel="Cinemax.id"><title>61*</title><desc>Pada musim panas tahun 1961, dua pemain baseball dan sahabat bersaing untuk memecahkan rekor home run yang dibuat oleh Babe Ruth yang legendaris pada tahun 1927.</desc></programme>
+</tv>                                                                                                                 
 
 
 
