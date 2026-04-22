@@ -24,7 +24,7 @@
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.m3u8
 
-#EXTINF:-1 tvg-id="IMC.id" tvg-url="https://www.open-epg.com/files/indonesia4.xml" group-title="Playlist🇮🇩" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/tvposter/imc.png",IMC
+#EXTINF:-1 tvg-id="IMC.id" tvg-url="https://www.open-epg.com/files/indonesia4.xml" group-title="Playlist🇮🇩" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://object-streamo.emonaja.com/img/imc.png",IMC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d7ddbeb304e46f38192f31d7d91bfc5:1c524bbe404124d0a4e24bfa75491ca2
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
@@ -786,6 +786,11 @@ https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudH
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+
+#EXTINF:-1 group-title="Playlist Indonesia🇮🇩" tvg-logo="https://object-streamo.emonaja.com/img/imc.png", IMC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d7ddbeb304e46f38192f31d7d91bfc5:1c524bbe404124d0a4e24bfa75491ca2
+https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
