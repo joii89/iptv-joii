@@ -31,7 +31,6 @@
 <channel id="beIN Sports 2.id"><display-name>beIN Sports 2.id</display-name><icon src="https://images.open-epg.com/30527.png"/></channel>
 <channel id="beIN Sports 3.id"><display-name>beIN Sports 3.id</display-name><icon src="https://images.open-epg.com/30528.png"/></channel>
 <channel id="Cinemax.id"><display-name>Cinemax.id</display-name><icon src="https://images.open-epg.com/30530.png"/></channel>
-<channel id="Cinemax.id"><display-name>Cinemax.id</display-name></channel>
 <channel id="Chinese Drama.id"><display-name>Chinese Drama.id</display-name></channel>
 <channel id="Cinema World.id"><display-name>Cinema World.id</display-name></channel>
 <channel id="Citra Dangdut.id"><display-name>Citra Dangdut.id</display-name></channel>
@@ -41,10 +40,7 @@
 <channel id="CNN Indonesia.id"><display-name>CNN Indonesia.id</display-name></channel>
 <channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
 <channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
-<channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
 <channel id="CNN International.id"><display-name>CNN International.id</display-name></channel>
-<channel id="Crime Investigation.id"><display-name>Crime Investigation.id</display-name></channel>
-<channel id="Curiosity.id"><display-name>Curiosity.id</display-name></channel>
 <channel id="CNN.id"><display-name>CNN.id</display-name></channel>
 <channel id="Cbeebies.id"><display-name>Cbeebies.id</display-name></channel>
 <channel id="CCM.id"><display-name>CCM.id</display-name></channel>
@@ -55,7 +51,6 @@
 <channel id="Channel News Asia.id"><display-name>Channel News Asia.id</display-name></channel>
 <channel id="Cineedge.id"><display-name>Cineedge.id</display-name></channel>
 <channel id="Drama World.id"><display-name>Drama World.id</display-name></channel>
-<channel id="Dream Works.id"><display-name>Dream Works.id</display-name></channel>
 <channel id="Entertainment.id"><display-name>Entertainment.id</display-name></channel>
 <channel id="Garuda TV.id"><display-name>Garuda TV.id</display-name></channel>
 <channel id="GTV.id"><display-name>GTV.id</display-name></channel>
@@ -65,10 +60,7 @@
 <channel id="HBO Hits.id"><display-name>HBO Hits.id</display-name><icon src="https://images.open-epg.com/30537.png"/></channel>
 <channel id="HBO Signature.id"><display-name>HBO Signature.id</display-name><icon src="https://images.open-epg.com/30538.png"/></channel>
 <channel id="HBO.id"><display-name>HBO.id</display-name><icon src="https://images.open-epg.com/30539.png"/></channel>
-<channel id="HBO Family.id"><display-name>HBO Family.id</display-name></channel>
 <channel id="HBO Hits.id"><display-name>HBO Hits.id</display-name></channel>
-<channel id="HBO Signature.id"><display-name>HBO Signature.id</display-name></channel>
-<channel id="HBO.id"><display-name>HBO.id</display-name></channel>
 <channel id="HITS Movies.id"><display-name>HITS Movies.id</display-name><icon src="https://images.open-epg.com/30540.png"/></channel>
 <channel id="HITS Now.id"><display-name>HITS Now.id</display-name><icon src="https://images.open-epg.com/30541.png"/></channel>
 <channel id="HITS.id"><display-name>HITS.id</display-name><icon src="https://images.open-epg.com/30542.png"/></channel>
@@ -100,7 +92,6 @@
 <channel id="SpoTV.id"><display-name>SpoTV.id</display-name><icon src="https://images.open-epg.com/30565.png"/></channel>
 <channel id="Studio Universal.id"><display-name>Studio Universal.id</display-name></channel>
 <channel id="Superrix.id"><display-name>Superrix.id</display-name></channel>
-<channel id="SCTV.id"><display-name>SCTV.id</display-name></channel>
 <channel id="SCTV.id"><display-name>SCTV.id</display-name><icon src="https://images.open-epg.com/30561.png"/></channel>
 <channel id="Trans TV.id"><display-name>Trans TV.id</display-name><icon src="https://images.open-epg.com/30566.png"/></channel>
 <channel id="Trans7.id"><display-name>Trans7.id</display-name><icon src="https://images.open-epg.com/30567.png"/></channel>
