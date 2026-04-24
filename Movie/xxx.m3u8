@@ -4,13 +4,6 @@ ___________movie__________
 
 
 #EXTM3U
-#EXTINF:-1 type="movie" tvg-logo="https:/thumbnail.vidstream.pw/image/lulu-06g",1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://hls5.turbosplayer.com/file/6617b92c-3db7-11f1-a19c-04421a23e1c7/master.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://ics.dmm.co.jp/digital/video/jul00875/jul00875pl.jpg, 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://hls5.turbosplayer.com/file/6617b92c-3db7-11f1-a19c-04421a23e1c7/master.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https:/javorb.com/u1/5058409281a19303712c2de36c4c58b.jpg", Sangat Menikmati 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -19,14 +12,6 @@ https://hls5.turbosplayer.com/file/93ca513f-f86c-11f0-8b2d-cdf256d7337b/master.m
 #EXTINF:-1 type="movie" tvg-logo="http://thumbnai.vidstream.pw/image/jul-103.jpg", 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hls6.turbosplayer.com/file/661b85df-d905-11f0-a3cf-b42e99c9ae56/master.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.wishtream.xyz/image/meyd-882.jpg", 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://hls4.turbosplayer.com/file/83f76fd1-d904-11f0-8943-50ebf62c83f9/master.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://thumbnail.vidtream.pw/image/adn-73https://javorb.com/u1/1e4ab546e.jpg7.jpg", Fujii Ranran
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://hls4.turbosplayer.com/file/fb9bbd49-d853-11f0-8943-50ebf62c83f9/master.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://thumbnai.vidstram.pw/image/adn-737.jpg",  Fujii Ranran 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -91,9 +76,6 @@ https://vodstream.streamvid.dev/vod/v-master.m3u8/eyJjdCI6IlptamFiUjJnV2IzTElxeU
 #EXTINF:-1 type="movie" tvg-logo="", 44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dhtpre.com/stream/nE6qbQ34HDg63L0UetQyzA/hjkrhuihghfvu/1777096643/14659096/master.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="", mei
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://iplayerhls.com/stream/azxkDyJwrz6pzF4U0FHK_g/kjhhiuahiuhgihdf/1777096336/25737337/master.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://cdn.javmiku.com/wp-content/uploads/2026/04/hmn784pl-550x374.jpg",Itsukaichi Mei
@@ -104,10 +86,6 @@ https://hls1.turbosplayer.com/file/725ae845-2efa-11f1-abf5-a0369f86c83c/master.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hls6.turbosplayer.com/file/5ba27f02-2a58-11f1-a19c-04421a23e1c7/master.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://cdn.javmiku.com/wp-content/uploads/2022/10/ssis561pl-550x374.jpg", Mabuk Senpai Seperti Perawan, Konan Koyoi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s8.maxstream.org/hls2/01/00000/kkpjxp4l8nnm_n/master.m3u8?t=pmLhp52xFRw_jmAB9pvyDwN7H9jiUI5QwdwSbnaOM28&s=1777056477&e=43200&f=4167&i=0.3
-https://cdn1015.cdn-tnmr.org/hls2/02/01397/6jjzhre603dw_h/master.m3u8?t=UGiO0LEs21nU17bFXy_0wKoISmYwYl38T01Z4_21VNY&s=1777055020&e=28800&f=6987416&i=0.3&sp=0
 
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/I/81zfOm2LQWL._AC_SL1500_.jpg",  Uta Hayano
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -128,6 +106,51 @@ https://javclan.com/stream/0HCEJXJT1Ee7_eHgVt-6sg/kjhhiuahiuhgihdf/1777099901/15
 #EXTINF:-1 type="movie" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00469/ssis00469jp-7.jpg", Konan Koyoi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://javclan.com/stream/F6ihYNylpPettXN6ZK4hIg/kjhhiuahiuhgihdf/1777100017/440950/master.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 type="movie" tvg-logo="", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 type="movie" tvg-logo="", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 type="movie" tvg-logo="", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 type="movie" tvg-logo="", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 type="movie" tvg-logo="", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 type="movie" tvg-logo="", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 type="movie" tvg-logo="", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 type="movie" tvg-logo="", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 type="movie" tvg-logo="", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 type="movie" tvg-logo="", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 type="movie" tvg-logo="", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+
+
+
+
+
+
+
+
 
 ___________xxx____________
 
