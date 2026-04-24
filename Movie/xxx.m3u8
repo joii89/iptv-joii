@@ -21,10 +21,6 @@ https://hls4.turbosplayer.com/file/8434f5c9-ff9a-11f0-b04d-a8a159a29ba4/master.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hls5.turbosplayer.com/file/c05582a7-df63-11f0-9661-a036bca6dac8/master.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://thumbnail.vidstream.pw/image/prd-532-2.jpg", 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://hls1.turbosplayer.com/file/0d62c814-d853-11f0-b2b9-b42e9947f7b9/master.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://mage.wishstreamxyz/image/sspd-156.jpg", 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hls2.turbosplayer.com/file/f6b84983-8a68-11f0-bfe7-b42e99481d8a/master.m3u8
