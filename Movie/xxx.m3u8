@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 ___________movie__________
 
 
@@ -77,38 +76,9 @@ https://vodstream.streamvid.dev/ved/v-master.m3u8/eyJjdCI6IktjbEVseHpHa3FjbUdyWk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://vodstream.streamvid.dev/vod/v-master.m3u8/eyJjdCI6Ikw3NW9NQ01LM1wvXC96bHpYVEs4ZDVMQlJYekRNT2c4Q095ZFpCWDIzRUZWcnRjY0FGSWdVeGsyRXNHZndmR2d2UmpSZTk5dTVMVDBCZlhWTCtvcVJPb2F3OExXREc2VFpySlR1c2xWZmtaZjh0d2hjaFI4TXd0b01QNzdGWGI5c0NXaW91VzJpcTd4aU5PYVwvWXcwbFhQMnR1QUlVRDBoeW9iXC84VTRUU0dIdkJcLzdOTmFmK0RCcDZcL2RsODhnRGR1KzA0MU55N2ZKNDRybTV2aVFPOWNOWnpvOWptY0JxSUFlWmFKYklrOHd1NGxiK1pGbkRITFJBeDY3YUQwdXJtNmNjVllBY0htbzZmMkpjMGhoRHBtMVNnPT0iLCJpdiI6IjZkY2IwYmU0MzhjZDg3OGRiMWI0MDczZWUxYzQxZTFkIiwicyI6ImZmNGU0NmVhMzliMzg2MTgifQ==
 
-#EXTINF:-1 type="movie" tvg-logo="https://thubnail.vidstream.pw/image/ipx-727.jpg",Tsubasa Amami
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://vodstream.streamvid.dev/ved/v-master.m3u8/eyJjdCI6InFEdDVnbUloQ2VJYnA3bUEra3hucE44WlRuaDl6Sk1Majdib3kwbkluT0dVcHhkRlJcLzBVdzZYS1l6ZDJQQXRTQU1oNUtFZVFvSlZxV1dkc0VtNlFWQ1JjbThiUEwxNDA1NTBCVDRnOFI2S21vMEpNMkhIXC90VE8yQlk4N25GMmtVTUlkM0hOYlBjTEpla2h6a0dUVWlqXC9zR0pwUVFFYnhCUmt0T2xPWUswWituSkdpK2JHRkliblA2QUlUQk5rU2FmdUVUZm9NQjJwK0E5dFc4VXZXOWxoME5BT3FWQTNlMWJYUzZMQzlsMGM9IiwiaXYiOiI0OGZjNmM4ZWE0MjdhZTc1OGI4NjVhYWQ0NWM0MzA5ZSIsInMiOiJjNDFkNTU1YTI0YjE3MGRlIn0=
-
-#EXTINF:-1 type="movie" tvg-logo="https://humbnail.vidstream.pw/image/adn-725.jpg", 33
-https://vodstream.streamvid.dev/ved/v-master.m3u8/eyJjdCI6IkFHUUdZK0dQaHFhS2h3Tk9Ra3BvWnJvaDl0bmZuWmdTbkhNaVJkSDBuMGtsTng5cUY2bWt6K3pxUGFcL1hTaGU3a0hSVEFmSmV4U0hZYjVKSTFsVUFWNUNJZDJybzN6Wnl3QlJZUXN2YjV0aTRFUTVWY1BIM3hoeUw5SDNLeThUWjJaZkt5RGdVSEFTeGs5OE5pRnRNT1pJYitBNEZRYUt5dVNZdGEyb2FtN21GT2c3NDNHem9IS0JHbUJzejYrNzFlWGNBRnVUMGdpZzA1RUxOS0FCb1NwT3h5bWpVN21uZ0Q3TlVrVTRHeHQwPSIsIml2IjoiZWZmY2ZhNzE2NDJhYTIxMWJiNzdhOTViM2QwNzYxOWYiLCJzIjoiZTZmZThiY2Y2ZWZmYzc3YyJ9
-
-#EXTINF:-1 type="movie" tvg-logo="https://javrb.com/u1/96a0a88389e702e94628920b8bed5abb.jpg",34
-https://vodstream.streamvid.dev/ved/v-master.m3u8/eyJjdCI6IitQSmp1eE5uaTdkQ3c0TXFZXC9CZ3BsTUFkWmF1U3kzdXgzZFwvZ0NrdGVnUlFHT1NobzlWMVFxOTNXT0lcLzMzMkY0c1A5SkNMNWZ6Wk5cLzJ1YkhPMjVKcDRWN1pIZ0VQbGUxSUFpTGhOMFdWNXdjREtHRG83U09BQjY2VG5BY3dFdWVEaXJWUklWTmN6TU9oUmVQaVVSYSs2TGZxaUVFV1NibGZGVkx4NHJYdFhqZFJ4VHdIUk1uYndRdk9YalVPXC9GUXRDQ2krYXUreUh0WlVnTDgyOXZUUTdWRld3UzNcL0ZuV0ZkQ2NiTGk5TW89IiwiaXYiOiI4MzAzMGE1MjkyODA5ZjVjNjUyZGYzMGM2ZjM1Y2VjOCIsInMiOiI3MzdiZGQ3YTY5M2FiNzdkIn0=
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.wishstream.xyz/image/ipzz-406.jpg", Demi Pewaris Harta Keluarga – Riho Fujimori
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://vodstream.streamvid.dev/ved/v-master.m3u8/eyJjdCI6ImdRdE8zcTd2bGZpMFdLUVJ0eTZiSGpNQmkwZzlpc0x1UlZYYVU5VU1pYW5HRHcyUk1EUWlVaTJ4dmRTMUt0VG5KNmRjd2MrVG9ueCtKSWVlZTUwUUdVZm5LTXE4MEZVNmlNQ2dFSHY5YmZoMUZIVFVCTTZCV3VOaVpTbUQxWVAzVVkwUFkwTkdzYWpSVVFOUkkzUHFwQW1JaTdCcG0rZk1PSkVSNDI2eWtqU1oyUnRrYkVFdnZPcUlqUGFaakFXQTlkeGxuZERXd2UraXk4ejllZnROeUp0UkZ4ZDdKT2U1WW12MnRNTGhrZ1k9IiwiaXYiOiJlYmExNWZhNmEyODk5ZjI5NWFiOWU5YTNiOTU1NDkxYyIsInMiOiJmMDg2ZGE2NmZmNDhiNGY3In0=
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.wishstream.xyz/jpg/1fsdss626pl.jpg", Tiga Hari Tiga Malam Dipuaskan Sepupu Perempuanku – Tsubaki Sannomiya
 1#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://vodstream.streamvid.dev/vod/v-master.m3u8/eyJjdCI6InJ1ZThZSUhyTE1Nek9UWE40QTdDUGtNWDVKZlVBaVR0cUdaeWE4alJcL3ozSkxqVnhUTk9HaGhvWUlzTnpyQ09wSEtLKzZKM2ZzOHRnY1FqcitPMWNNRmRRaGJnc1wvaEtBaGdUWnUxbTZRUER1cWFjR3dScW5jdElZbVdpa0o5MThDSENtVUtSNElnWkJxUGJ5RnZpYnlOTGNEcVFlTVdkOXFMamJVMXQzZ0U4WWpXSGM1VXZ4VnRaVCtGRzdWdFdjXC9Ta1BvNVRWcHhyVHlMWk1uQzE3KzJxQlFWWU8yUWE5OWdYZGk4RWhoXC9tRFREa3VUUnFudk4xRVVvaU9Ca1FKIiwiaXYiOiI5MmJkMTIzZmI0ODcxYTNkZTY5NmNiZGIzMWIwOWQwZCIsInMiOiIwMzM1MmVhMDFlOTJjZjljIn0=
-
-#EXTINF:-1 type="movie" tvg-logo="",Kakak Pacarku, Bahan Coliku – Mayu Hazuki
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://vodstream.streamvid.dev/ved/v-master.m3u8/eyJjdCI6IkZoK1ZrbDdzS1B5QnNWaWM1RjBpVkFZK1wvZGFMMVp6WkRxR2wzWWRhemtIZlwvZ1FsVUdESlNZVnNmXC93WEoxbVdsenBiS2ZobWw5NDg1NDhjbzM2OUNXTUQ5MXNTODR3OEtFWkJWUnJ6bk9CbERJYTRiaWYraFpKeW05Y0F4NjFxM2tYSk1zbklrRmd6bWdURGZtek0yUFlnUDlXQk1vdTE2d09zazQzWE1mQnFBTlBjSGxnb2VVWTVJMkwwUDhITTg5NGFsakx2VjZhQ3oydVwvamNyN1wvVW1RcWYxXC9TSzduM0EwcXFQc2pSK3M9IiwiaXYiOiIyYzhkZGIwYzQxM2ZlOWVjZDY3ZWNjMGJkNWVhM2I5MCIsInMiOiIzMzcwMGVjYjEyMGZkMjlmIn0=
-
-#EXTINF:-1 type="movie" tvg-logo="",Ibu Tiri Idaman – Hibiki Otsuki
-https://vodstream.streamvid.dev/ved/v-index-v1-a1.m3u8/eyJjdCI6IktFa2M4cFUzTEl3djlZWFwvMFlXUDlPUFl2OFwvc1BrSWFaaU9MRUtSeFVQU0Y0ejI0Y3JTSmsrWmEwZDBHbjVcL1RIQVVyZ3Uramc3UVk3RjdZTllPQWNpbGhEazJkVERPTHg5K1JETmM4YUtKY1VGXC85VG1IVm40bk12TnVseGU1TDBNYUZGOUhHK3ppUkU1ZHJCTWc2cUp2MWkwcVwvUUkxK3NhZElcL2s4bjlyWURuRkx5Wm9CSjBXUUZiK2pMUVFcL2ZIR2phc1piUW9va0ZNRjJjNThyTkdWem5XMWVVUlhDVmV2czJXckdTVSs0PSIsIml2IjoiOTI3ZmJlOTA3ZWU1YWM5OWFkM2FiYzdiZTk3YzI3MGYiLCJzIjoiOGU5NDBiOTE4NmM4M2FkYyJ9
-
-#EXTINF:-1 type="movie" tvg-logo="https://thumbnail.vidstream.pw/image/adn-664.jpg", Miho Yukishiro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://vodstream.streamvid.dev/ved/v-master.m3u8/eyJjdCI6IllGWGtqWUVsTjZXVkFHa2RUSGNrWDE4OW1Yb0phazZXMVZ6VDY3WWZpV0RTYTRWclwvQU9YVkxqckE3eUYyVThtWmgzSUlHeUF0aEJaaU5VYnpFWldVK1FENjhQakR2THRBWkI0SEtBbmJia1RDcG5OazBuNDMyR2JMUU5vR0d4THVtanhkU1Q1dHBubmxKbTdTWVVIQUY0RlpEMzRRNVNIQ3JjSnQxSU5jV3ZDd0FGSlQ3SU1HY0tWSEpCSWNMdVlJUitpbEtpNExXRGlWMUdJTWltWnh1cm1cL3NNTjRCT0sycnE4dFZsbkJ2Zz0iLCJpdiI6ImJhMzNlNGJmNTk2ZGZjOWEyM2UyM2Q2ZGMwM2MwZTdlIiwicyI6ImUwNDViZWE2YTBmOWVmOTEifQ==
-
-#EXTINF:-1 type="movie" tvg-logo="", Mertua Kita Semua!! – Momoko Isshiki
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://vodstream.streamvid.dev/ved/v-master.m3u8/eyJjdCI6IlAxTVB4R0lFOGx5U1BcL1VEaThHTDJ4RFpHcStUYUw0bkNNUzF3aGlybG1uamQ1aEs0S3l0XC9wYkFYRStDMFpsRURuSE92TEtYVXc2ZnBuZURnbjJUdDAxOFA5ZllZUFwvZzNZU0Jwa0NhcHJ6VElDZDZMWnpKUnlFVlVHYW5XYUhsWVB3UUtPY0hGQkZsWllnXC9MWTlnRnE2YlBPUHZKVTRqQmJlRUhTdndEejhoZXRrNjRRakpacm5kT3E0ZjJvMU83TE1HUkJTZWdjNEdweGRZUWgrclZZZEtUS2NicCtzbGRicENNWGcrbm9ZPSIsIml2IjoiNTEyZjZiODc4OThhYzRkMzI0Mjg1YzE4ZjgwMmY3ZDkiLCJzIjoiZWZjNDNkODVjMjYyNDA4YSJ9
 
 #EXTINF:-1 type="movie" tvg-logo="https://cdn.javmiku.com/wp-content/uploads/2026/04/eyan219pl-1-550x374.jpg", Amane Misa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -125,24 +95,27 @@ https://hls5.turbosplayer.com/file/17a9d86c-12a0-11f1-a19c-04421a23e1c7/master.m
 #EXTINF:-1 type="movie" tvg-logo="https://cdn.javmiku.com/wp-content/uploads/2025-content/07/sone00852jp-1.jpg", sebelum pernikahannya, mendapat nanas basah dan cums 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hls5.turbosplayer.com/file/380f26de-edac-11f0-8b2d-cdf256d7337b/master.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="", 41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://callistanise.com/stream/LW8gzvW5pfZ0VKkuSTpHRw/hjkrhuihghfvu/1777093050/5824251/master.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="", 42
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://hls6.turbosplayer.com/file/e3f719c0-3545-11f1-a19c-04421a23e1c7/master.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
 #EXTINF:-1 type="movie" tvg-logo="",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
-#EXTINF:-1 type="movie" tvg-logo="",
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#EXTINF:-1 type="movie" tvg-logo="",
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
 
 
 
 
-
-
+___________xxx____________
 
 #EXTINF:-1 group-title="XXX CHANNELS",AdultIPTV.net Asian
 http://cdn.adultiptv.net/asian.m3u8
