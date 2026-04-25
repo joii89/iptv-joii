@@ -1795,6 +1795,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-32846
 #EXTM3U
 #EXTM3U group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7iUBZzG5eMjXYHo4wz24sFlOSHOsC5GgLWNMNJixlMQ&s" group-title="KIDS"
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+#EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-logo="https://object-streamo.emonaja.com/img/aniplus.png" group-title="KIDS", Aniplus
+https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest_wuseetv.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekzUKW8zMTWp6gqvPnfSXnv3N3qscaT0eR4Kdk4jNqDwQ.png", Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
