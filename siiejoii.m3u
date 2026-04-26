@@ -2163,6 +2163,8 @@ http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563381.mp4
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/02/film-shelter-2026-lk21.jpg.webp" type="movie" group-title="MOVIE", Shalterc Statham
+https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/02/10873/hw2bnv9p1eij_h/index-v1-a1.m3u8?t=I-zKeDDYs_SFOtoPqza0pmdpva5k_Pf0Vzbf-dQPCeU&s=1777218866&e=10800&f=54368005&srv=1055&asn=&sp=4000&p=0
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.pinimg.com/474x/42/e5/86/42e5861285ea9843c18aa01c1d1d26ce.jpg" type="movie" group-title="MOVIE", The home 2025
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/15/The.Home.2025.mp4/tracks-v1a1/mono.m3u8
