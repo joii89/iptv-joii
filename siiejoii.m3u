@@ -2054,6 +2054,27 @@ https://api.vidio.com/videos/2335089/common_tokenized_playlist.m3u8?ott=eyJhbGci
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c6/Poster_MDR.jpg/220px-Poster_MDR.jpg" type="movie" group-title="Movie Indonesia",Mohon Doa Restu (2023)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9qtlim
 
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo"https://adventistmatch.com/wp-content/uploads/2026/04/eD2pLCLMvbw06ITaHipGAYU0MiI.jpg", Timur
+https://bun.p2pplay.pro/hls/E4jygWLUQDzOkRUQBhKc9g/ek/puo3lcki/scuqeb/tt/master.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" group-title=Movie Indonesia" tvg-logo"https://adventistmatch.com/wp-content/uploads/2026/01/lwKD20JbeZAX4BswSlWKpmB8Qke-152x228.jpg", Lone Samurai
+https://bun.p2pplay.pro/hls/kTCvhdkn_t_NDnrAoUqJ5w/rqz/1xmlfz6s/ioqmnf/tt/master.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo"https://adventistmatch.com/wp-content/uploads/2026/04/7Eq5mcSKVXBhclnaFNA4880mqOX-152x228-1.jpg", panji
+https://bun.p2pplay.pro/hls/uDbzV4m47GAhBvpGDf0hxg/hl1/qt5b8d1y/hnl9id/tt/master.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" group-title=Movie Indonesia" tvg-logo""
+
+
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo""
+
+
+#EXTINF:-1 type="movie" group-title=Movie Indonesia" tvg-logo""
+
+
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo"https://adventistmatch.com/wp-content/uploads/2026/03/8t8BdgEHi61GdZNIGAo5np7oKGU-152x228.jpg", Call of The Dead
+https://bun.p2pplay.pro/hls/m2ZXIR5I6XKoz1GLBfNyjA/xy/unjaodja/k3woec/tt/master.m3u8?v=1766826492
+
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-id="" tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/1/8/5/2/4/5/1185245-mungkin-esok-lusa-atau-nanti-0-230-0-345-crop.jpg?v=4cc2d755b2" type="movie" group-title="Movie Indonesia",Mungkin Esok Lusa Atau Nanti (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9a52yu
