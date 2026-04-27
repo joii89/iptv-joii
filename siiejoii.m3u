@@ -17,7 +17,7 @@
 #EXTM3U
 #EXTINF:-1  group-logo="https://www.playlistlive.co.uk/wp-content/uploads/2024/01/playlist-only-logo.png" group-title="Playlist🇮🇩"
 
-#EXTINF:-1 tvg-id="Bioskop Indonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/BgSPo1W.png" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" group-title="Playlist🇮🇩", Bioskop Indonesia
+#EXTINF:-1 tvg-id="Bioskop Indonesia.id" tvg-name="Bioskop Indonesia" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="Playlist🇮🇩", Bioskop Indonesia
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7fc74162f12d430fad0513d9d5c1bdd5:b195817a10d9b592eb002543cdcdeaf6
@@ -41,7 +41,7 @@ https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/Indonesia
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://ratu77.adptv.workers.dev/index.mpd?id=18105&type=dash
 
-#EXTINF:-1  tvg-id="GALAXYPremium.id" tvg-name="Galaxy Premium.id" tvg-logo="https://i.ytimg.com/vi/eXKrVZwbTTA/maxresdefault.jpg" group-title="Playlist🇮🇩", Galaxy Premium
+#EXTINF:-1  tvg-id="GALAXYPremium.id" tvg-name="Galaxy Premium.id" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.ytimg.com/vi/eXKrVZwbTTA/maxresdefault.jpg" group-title="Playlist🇮🇩", Galaxy Premium
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
@@ -95,14 +95,14 @@ http://xtv.ooo:8080/live/150324003/11150324/350972.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" group-title="Playlist🇮🇩", SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Playlist🇮🇩", SCTV
 http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="Playlist🇮🇩", RCTI
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="Playlist🇮🇩", RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
@@ -119,7 +119,7 @@ http://103.179.182.117:6768/hls/51/51.m3u8
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSthDotJHHwYBFUM39J5kjMrT605N7374WP4w&s" group-title="Playlist🇮🇩", ALLPLAY ENT
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSthDotJHHwYBFUM39J5kjMrT605N7374WP4w&s" group-title="Playlist🇮🇩", ALLPLAY ENT
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -130,7 +130,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
  
-#EXTINF:-1 tvg-id="MNCTV" #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://images.open-epg.com/30550.png" group-title="Playlist🇮🇩", MNC TV
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://images.open-epg.com/30550.png" group-title="Playlist🇮🇩", MNC TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
@@ -143,7 +143,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-id="ANTV" #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://e7.pngegg.com/pngimages/202/553/png-clipart-indonesia-antv-internet-television-trans7-bebas-miscellaneous-television.png" group-title="Playlist🇮🇩", ANTV
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://e7.pngegg.com/pngimages/202/553/png-clipart-indonesia-antv-internet-television-trans7-bebas-miscellaneous-television.png" group-title="Playlist🇮🇩", ANTV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
@@ -155,7 +155,7 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505808.m3u
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 https://why.biz.id/Iptv/oxygen.php?id=antv
 
-#EXTINF:-1 tvg-id="GTV" #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1920px-GTV_%282017%29.svg.png" group-title="Playlist🇮🇩", GTV 
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1920px-GTV_%282017%29.svg.png" group-title="Playlist🇮🇩", GTV 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
@@ -165,7 +165,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/globaltv/manifest.mpd
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-#EXTINF:-1  tvg-id="tvOne - [Channel 97].id" tvg-logo="https://images.open-epg.com/30570.png" group-title="Playlist🇮🇩", TV One
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://images.open-epg.com/30570.png" group-title="Playlist🇮🇩", TV One
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
 #EXTVLCOPT:http-referrer=http://dens.tv 
 https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8 
@@ -174,7 +174,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9
 https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
-#EXTINF:-1  tvg-id="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/1920px-INews.svg.png" group-title="Playlist🇮🇩", iNews
+#EXTINF:-1 tvg-id="iNews" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/1920px-INews.svg.png" group-title="Playlist🇮🇩", iNews
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
@@ -184,7 +184,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-#EXTINF:-1  tvg-logo="https://download.logo.wine/logo/CNN/CNN-Logo.wine.png" group-title="Playlist🇮🇩", CNN Indonesia
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://download.logo.wine/logo/CNN/CNN-Logo.wine.png" group-title="Playlist🇮🇩", CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w528835010_b384000_sleng.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
@@ -209,7 +209,7 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="Playlist🇮🇩", TRANS 7
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="Playlist🇮🇩", TRANS 7
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 
@@ -218,7 +218,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541186&exte
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Chinese Drama" tvg-name="Chinese Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png" group-title="Playlist🇮🇩",CHINESE DRAMA
+#EXTINF:-1 tvg-id="Chinese Drama" tvg-name="Chinese Drama" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png" group-title="Playlist🇮🇩",CHINESE DRAMA
 ##https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298516
 
@@ -241,7 +241,7 @@ http://202.169.224.202:8800/udp/239.9.1.15:1234
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBioskopHD.mpd
 
-#EXTINF:-1 tvg-id="Studio Universal.id" tvg-name="Studio Universal" #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://object-streamo.emonaja.com/img/studiouniversal.png" group-title="Playlist🇮🇩", Studio Universal
+#EXTINF:-1 tvg-id="Studio Universal.id" tvg-name="Studio Universal" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://object-streamo.emonaja.com/img/studiouniversal.png" group-title="Playlist🇮🇩", Studio Universal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -259,7 +259,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-id="Maxstream.id" tvg-name="Maxstream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQoTxr7eUinhVrDg-ruJuFvWIKwTjva-lrg&s" group-title="Playlist🇮🇩", Maxstream
 https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_wuseetv.mpd
 
-#EXTINF:-1 tvg-id="ROCKEntertainment.id" x-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Playlist🇮🇩", Rock Entertainment
+#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Playlist🇮🇩", Rock Entertainment
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
@@ -275,14 +275,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEnter
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1  group-title="Playlist🇮🇩" tvg-logo="https://images.open-epg.com/30558.png",Rock Action
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" group-title="Playlist🇮🇩" tvg-logo="https://images.open-epg.com/30558.png",Rock Action
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/ROCK_ACTION/manifest.mpd
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 
-#EXTINF:-1 tvg-id="HBOSignature1" tvg-name="HBO Signature" group-title="Playlist🇮🇩" tvg-logo="https://object-streamo.emonaja.com/img/hbosig.png", HBO Signature
+#EXTINF:-1 tvg-id="HBOSignature1" tvg-name="HBO Signature" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" group-title="Playlist🇮🇩" tvg-logo="https://object-streamo.emonaja.com/img/hbosig.png", HBO Signature
 #EXTVLCOPT:http-referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
@@ -297,11 +297,11 @@ http:/goldenpro.xyz:80/live/194679431759017/8173373055/1247982.ts#EXT-X-VERSION:
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://1000logos.net/wp-content/uploads/2025/07/Lifetime-Logo.png" group-title="Playlist🇮🇩", Lifetime 
 https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mediampd/LifetimeHD.mpd
 
-#EXTINF:-1  group-title="Playlist🇮🇩" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",Drama Hotpot
+#EXTINF:-1 group-title="Playlist🇮🇩" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",Drama Hotpot
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 
-#EXTINF:-1  tvg-logo="https://images.open-epg.com/30568.png" group-title="Playlist🇮🇩", TVN Movies
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://images.open-epg.com/30568.png" group-title="Playlist🇮🇩", TVN Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-TVNMOVIES/playlist.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/tvnmovies/manifest.mpdhttps://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
@@ -312,18 +312,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1  tvg-id="Superrix.id" tvg-name="Superrix" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_10.png" group-title="Playlist🇮🇩", Superrix 
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-id="Superrix.id" tvg-name="Superrix" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_10.png" group-title="Playlist🇮🇩", Superrix 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
-#EXTINF:-1  tvg-id="Originals.id" tvg-name="Originals" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_7.png" group-title="Playlist🇮🇩", Originals 
+#EXTINF:-1 tvg-id="Originals.id" tvg-name="Originals" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_7.png" group-title="Playlist🇮🇩", Originals 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
-#EXTINF:-1  tvg-id="CineEdge.id" tvg-name="CineEdge" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_8.png" group-title="Playlist🇮🇩", CineEdge 
+#EXTINF:-1 tvg-id="CineEdge.id" tvg-name="CineEdge" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_8.png" group-title="Playlist🇮🇩", CineEdge 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
@@ -333,7 +333,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Playlist🇮🇩" tvg-logo="https://object-streamo.emonaja.com/img/hbofamily.png",HBO Family
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" group-title="Playlist🇮🇩" tvg-logo="https://object-streamo.emonaja.com/img/hbofamily.png",HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
 
@@ -344,7 +344,7 @@ http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1 group-logo="https://images.seeklogo.com/logo-png/45/1/sport-logo-png_seeklogo-451471.png" group-title="Sports ⚽" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml"
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" group-logo="https://images.seeklogo.com/logo-png/45/1/sport-logo-png_seeklogo-451471.png" group-title="Sports ⚽"
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
