@@ -1,6 +1,7 @@
 #EXTM3U billed-msg="Siie Joii"
 
-#EXTM3U 
+#EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml"
+#EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml"
 #EXTM3U tvg-url="https://www.open-epg.com/files/indonesia1.xml"
 #EXTM3U tvg-url="https://www.open-epg.com/files/indonesia2.xml"
 #EXTM3U tvg-url="https://www.open-epg.com/files/indonesia3.xml"
@@ -15,7 +16,7 @@
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1  group-logo="https://www.playlistlive.co.uk/wp-content/uploads/2024/01/playlist-only-logo.png" group-title="Playlist🇮🇩"
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" group-logo="https://www.playlistlive.co.uk/wp-content/uploads/2024/01/playlist-only-logo.png" group-title="Playlist🇮🇩"
 
 #EXTINF:-1 tvg-id="Bioskop Indonesia.id" tvg-name="Bioskop Indonesia" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="Playlist🇮🇩", Bioskop Indonesia
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
