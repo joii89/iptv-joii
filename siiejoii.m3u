@@ -2055,30 +2055,25 @@ https://api.vidio.com/videos/2335089/common_tokenized_playlist.m3u8?ott=eyJhbGci
 #EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c6/Poster_MDR.jpg/220px-Poster_MDR.jpg" type="movie" group-title="Movie Indonesia",Mohon Doa Restu (2023)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9qtlim
 
-#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo"https://webcomicbeacon.com/wp-content/uploads/2026/04/film-timur-2025-dutamovie21-dunia21-768x1152.webp", Timur
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo="https://webcomicbeacon.com/wp-content/uploads/2026/04/film-timur-2025-dutamovie21-dunia21-768x1152.webp", Timur
 https://bun.p2pplay.pro/hls/E4jygWLUQDzOkRUQBhKc9g/ek/puo3lcki/scuqeb/tt/master.m3u8?v=1766826492
 
-#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo"https://adventistmatch.com/wp-content/uploads/2026/01/lwKD20JbeZAX4BswSlWKpmB8Qke-152x228.jpg", Lone Samurai
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo="https://adventistmatch.com/wp-content/uploads/2026/01/lwKD20JbeZAX4BswSlWKpmB8Qke-152x228.jpg", Lone Samurai
 https://bun.p2pplay.pro/hls/kTCvhdkn_t_NDnrAoUqJ5w/rqz/1xmlfz6s/ioqmnf/tt/master.m3u8?v=1766826492
 
 #EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo"https://webcomicbeacon.com/wp-content/uploads/2026/01/film-panji-tengkorak-2025-dutamovie21-lk21-768x1152.webp", panji
 https://bun.p2pplay.pro/hls/uDbzV4m47GAhBvpGDf0hxg/hl1/qt5b8d1y/hnl9id/tt/master.m3u8?v=1766826492
 
-#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo"https://webcomicbeacon.com/wp-content/uploads/2026/02/film-serigala-terakhir-2009-dutamovie21-lk21-768x1152.webp", Serigala Terakhir
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo="https://webcomicbeacon.com/wp-content/uploads/2026/02/film-serigala-terakhir-2009-dutamovie21-lk21-768x1152.webp", Serigala Terakhir
 https://dm21.embed4me.vip/hls/AbPabbrKuuu5r67Gy76qfA/il/ghsr6mxj/ovn5hs/tt/index-f1-v1-a1.m3u8?v=1766826492
 
-#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo"https://new34.ngefilm.site/wp-content/uploads/2026/01/8t8BdgEHi61GdZNIGAo5np7oKGU-152x228.jpg", Panggilan Dari Kubur (2025)
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo="https://new34.ngefilm.site/wp-content/uploads/2026/01/8t8BdgEHi61GdZNIGAo5np7oKGU-152x228.jpg", Panggilan Dari Kubur (2025)
 https://playerngefilm21.rpmlive.online/hls/m2ZXIR5I6XKoz1GLBfNyjA/xy/unjaodja/k3woec/tt/master.m3u8?v=1766826492
 
-#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo"https://new34.ngefilm.site/wp-content/uploads/2026/02/yJB7HgP1vwabxYn9ZXrzVpRMyFr-152x228.jpg", Pencarian Terakhir (2025)
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo="https://new34.ngefilm.site/wp-content/uploads/2026/02/yJB7HgP1vwabxYn9ZXrzVpRMyFr-152x228.jpg", Pencarian Terakhir (2025)
 https://playerngefilm21.rpmlive.online/hls/3MT9vsf7NrK1SVPM-j3S1g/gee/fmg9ykcn/blfopr/tt/master.m3u8?v=1766826492
 
-#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo""
-
-
-#EXTINF:-1 type="movie" group-title=Movie Indonesia" tvg-logo""
-
-#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo"https://adventistmatch.com/wp-content/uploads/2026/03/8t8BdgEHi61GdZNIGAo5np7oKGU-152x228.jpg", Call of The Dead
+#EXTINF:-1 type="movie" group-title="Movie Indonesia" tvg-logo="https://adventistmatch.com/wp-content/uploads/2026/03/8t8BdgEHi61GdZNIGAo5np7oKGU-152x228.jpg", Call of The Dead
 https://bun.p2pplay.pro/hls/m2ZXIR5I6XKoz1GLBfNyjA/xy/unjaodja/k3woec/tt/master.m3u8?v=1766826492
 
 #EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/1/8/5/2/4/5/1185245-mungkin-esok-lusa-atau-nanti-0-230-0-345-crop.jpg?v=4cc2d755b2" type="movie" group-title="Movie Indonesia",Mungkin Esok Lusa Atau Nanti (2024)
@@ -2159,12 +2154,16 @@ https://minochinos.com/stream/WUpD-yhPmNjBOai42iU2YA/hjkrhuihghfvu/1776628084/38
 
 #EXTINF:-1 tvg-url="" tvg-logo="https://boatdir.com/wp-content/uploads/2025/10/jNBxGBNeXbG8WBKqBHtC5HjizB0.jpg" type="movie" group-title="Movie Indonesia", Abadi Nan Jaya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://callistanise.com/stream/PbVuw6_ekn4VFnyGw4hoWw/hjkrhuihghfvu/1776628423/33105636/index-v1-a1.m3u8
+https://playerngefilm21.rpmlive.online/hls/zAglgCXCaizwIDCdciPuBw/3vi/fmg9y9ce/g9hfc5/tt/master.m3u8?v=1766826492
 
 #EXTINF:-1 tvg-url="" tvg-logo="" type="movie" group-title="Movie Indonesia",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+
+
 #EXTINF:-1 tvg-url="" tvg-logo="" type="movie" group-title="Movie Indonesia",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+
+
 #EXTINF:-1 tvg-url="" tvg-logo="" type="movie" group-title="Movie Indonesia",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-url="" tvg-logo="" type="movie" group-title="Movie Indonesia",
