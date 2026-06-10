@@ -27,13 +27,13 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf
 #EXTINF:-1 tvg-id="IMC.id" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" group-title="Playlist🇮🇩" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://object-streamo.emonaja.com/img/imc.png",IMC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d7ddbeb304e46f38192f31d7d91bfc5:1c524bbe404124d0a4e24bfa75491ca2
-https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpdhttps://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505847.m3u8
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264769.ts
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
 https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd 
+https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 #EXTINF:-1 group-title="Playlist🇮🇩" tvg-id="GGSTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/mKMJ1J-ffUe8NpZ3ky3Ve5oDzuI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18105/25d569.png",GGSTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -86,18 +86,18 @@ https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 site="dens.tv" site_id="10" tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="Playlist🇮🇩", Indosiar
+https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 http://103.146.197.250:25461/live/daeng/tmgrh/16.m3u8
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/1139211.m3u8
 http://filex.me:8080/live/000003/000003/302264.m3u8
 http://xtv.ooo:8080/live/150324003/11150324/350972.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg-id.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Playlist🇮🇩", SCTV
-http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
@@ -159,9 +159,9 @@ https://why.biz.id/Iptv/oxygen.php?id=antv
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/globaltv/manifest.mpd
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
@@ -197,8 +197,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #EXTINF:-1  tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="Playlist🇮🇩", TRANS TV
-http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
