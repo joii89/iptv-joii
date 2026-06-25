@@ -1,0 +1,100 @@
+__________________________________________Vidio________________________________________________
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Mentari TV (Vidio)" tvg-logo="https://i.imgur.com/hqGEKpD.jpeg" tvg-id="mentari tv.id" group-title="Indonesia", Mentari TV (Vidio)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/8237.drm
+https://aspaltvpasti.top/11111/8237.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VyquD34.jpeg" group-title="Indonesia", Indosiar (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kjqa3WM.jpeg" group-title="Indonesia",SCTV (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HLI0Kah.jpeg" group-title="Indonesia",RCTI (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=665&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=665&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GKV3f0x.jpeg" group-title="Indonesia",MNCTV (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=870&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=870&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e2tAscQ.jpeg" group-title="Indonesia",GTV (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=778&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=778&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xmbj3Eg.jpeg" group-title="Indonesia",Metro TV (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JD1DB7c.jpeg" group-title="Indonesia",iNews (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=5409&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=5409&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a0VCnfW.jpeg" group-title="Indonesia",TvOne (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KcXcgR.jpeg" group-title="Indonesia",ANTV (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnCNLnn.jpeg" group-title="Indonesia",Moji (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWdcJ5x.jpeg" group-title="Indonesia",TVRI Nasional (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6441&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=6441&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bzLpO6C.jpeg" group-title="Indonesia",Kompas TV (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=874&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=874&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mP5cPyn.jpeg" group-title="Indonesia",RTV (Vidio)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=dash
