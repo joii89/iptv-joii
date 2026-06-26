@@ -1,5 +1,3 @@
-#EXTM3U
-
 #EXTM3U billed-msg="Siie Joii"
 
 #EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml"
@@ -11,7 +9,6 @@
 #EXTM3U tvg-url="https://www.open-epg.com/files/indonesia6.xml"
 
 #EXTM3U
-
 #EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/kfYOQpF.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event World Cup",FIFA World Cup (Tyc Sports Argentina)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
