@@ -12,6 +12,7 @@
 #EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="Live Event World Cup", MONOMAX 1
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
+https://qt4kmqwhsn.3ppnkog.com/xstream/monomax-1/chunks.m3u8?nimblesessionid=1288966&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjYgNzoyODoyNyBQTSZoYXNoX3ZhbHVlPXplYlRoY29TSWRIWk1zNFQ4Z0dFWUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE=
 
 #EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event World Cup",FIFA World Cup (Cazé TV 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -179,7 +180,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
 #EXTINF:-1 site="dens.tv" site_id="10" tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="Playlist🇮🇩", Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/Movie/Indosiar.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
@@ -347,10 +353,11 @@ http://202.169.224.202:8800/udp/239.9.1.15:1234
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBioskopHD.mpd
 
-#EXTINF:-1 tvg-id="Studio Universal.id" tvg-name="Studio Universal" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" tvg-logo="https://object-streamo.emonaja.com/img/studiouniversal.png" group-title="Playlist🇮🇩", Studio Universal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Studio Universal.id" tvg-name="Studio Universal" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" tvg-logo="https://object-streamo.emonaja.com/img/studiouniversal.png" group-title="Playlist🇮🇩", Studio Universal
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest_w1324836965_qRFZS.mpd?encp=&uid=&expp=
