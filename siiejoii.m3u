@@ -707,24 +707,24 @@ https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 #EXTM3U
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSog8rJEVcGSK0EMIi9dgpYmYw_5i-uHLuYv9xsixglw&s=10" group-title="Playlist Indonesia🇮🇩"
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Playlist Indonesia🇮🇩", SCTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-https://aspaltvpasti.top/11111/204.mpd
-http://202.169.224.202:8800/udp/239.9.1.29:1234
-http://202.169.224.202:8800/udp/239.4.4.1:1234
-https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
-
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Playlist Indonesia🇮🇩", SCTV ( 2 )
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 http://103.58.160.157:8278/720-SCTV/playlist.m3u8
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/1067262.m3u8
 http://103.66.62.83:8000/play/a00z/index.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+https://aspaltvpasti.top/11111/204.mpd
+http://202.169.224.202:8800/udp/239.9.1.29:1234
+http://202.169.224.202:8800/udp/239.4.4.1:1234
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -740,8 +740,10 @@ http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 http://103.66.62.83:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" tvg-id="Indosiar.id" tvg-name="Indosiar HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Playlist Indonesia🇮🇩", Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/Movie/Indosiar.m3u8
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/1139211.m3u8
 http://103.146.197.250:25461/live/daeng/tmgrh/16.m3u8
