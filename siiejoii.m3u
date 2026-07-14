@@ -722,7 +722,7 @@ https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 #EXTM3U
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSog8rJEVcGSK0EMIi9dgpYmYw_5i-uHLuYv9xsixglw&s=10" group-title="Playlist Indonesia🇮🇩"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8DCTLNb3/antaratv.png" group-title="NPlaylist Indonesia🇮🇩", ANTARA TV 🇮🇩
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8DCTLNb3/antaratv.png" group-title="Playlist Indonesia🇮🇩", ANTARA TV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://cdnbal1.indihometv.com/atm/DASH/antara/manifest.mpd
 
@@ -737,46 +737,46 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 http://103.66.62.83:8000/play/a00r/index.m3u8
 
-#EXTINF:-1 tvg-id="Berita Satu.id" tvg-logo="https://i.ibb.co.com/C26wQ5D/berita1.png" group-title="NPlaylist Indonesia🇮🇩", BERITA SATU 🇮🇩
+#EXTINF:-1 tvg-id="Berita Satu.id" tvg-logo="https://i.ibb.co.com/C26wQ5D/berita1.png" group-title="Playlist Indonesia🇮🇩", BERITA SATU 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8?app_type=web&userid=lite&chname=Berita_Satu
 
-#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://i.ibb.co.com/cvMwpyd/btv.png" group-title="NPlaylist Indonesia🇮🇩", BTV 🇮🇩
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://i.ibb.co.com/cvMwpyd/btv.png" group-title="Playlist Indonesia🇮🇩", BTV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu.mpd
 
-#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://i.ibb.co.com/cvMwpyd/btv.png" group-title="NPlaylist Indonesia🇮🇩", BTV 🇮🇩
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://i.ibb.co.com/cvMwpyd/btv.png" group-title="Playlist Indonesia🇮🇩", BTV 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
 
-#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://i.ibb.co.com/cvMwpyd/btv.png" group-title="NPlaylist Indonesia🇮🇩", BTV 🇮🇩
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://i.ibb.co.com/cvMwpyd/btv.png" group-title="Playlist Indonesia🇮🇩", BTV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wp5SdpW/cnbcindo.png" group-title="NPlaylist Indonesia🇮🇩", CNBC INDONESIA 🇮🇩
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wp5SdpW/cnbcindo.png" group-title="Playlist Indonesia🇮🇩", CNBC INDONESIA 🇮🇩
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7NvJhWJ/cnnindo.png" group-title="NPlaylist Indonesia🇮🇩", CNN INDONESIA 🇮🇩
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7NvJhWJ/cnnindo.png" group-title="Playlist Indonesia🇮🇩", CNN INDONESIA 🇮🇩
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
-#EXTINF:-1  tvg-id="Garuda TV.id" tvg-logo="https://i.ibb.co.com/TBGpbpn/garudatv.png" group-title="NPlaylist Indonesia🇮🇩", GARUDA TV 🇮🇩
+#EXTINF:-1  tvg-id="Garuda TV.id" tvg-logo="https://i.ibb.co.com/TBGpbpn/garudatv.png" group-title="Playlist Indonesia🇮🇩", GARUDA TV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co.com/khnD6CC/gtv.png" group-title="NPlaylist Indonesia🇮🇩", GTV 🇮🇩
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co.com/khnD6CC/gtv.png" group-title="Playlist Indonesia🇮🇩", GTV 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co.com/khnD6CC/gtv.png" group-title="NPlaylist Indonesia🇮🇩", GTV 🇮🇩
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co.com/khnD6CC/gtv.png" group-title="Playlist Indonesia🇮🇩", GTV 🇮🇩
 https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co.com/khnD6CC/gtv.png" group-title="NPlaylist Indonesia🇮🇩", GTV 🇮🇩
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co.com/khnD6CC/gtv.png" group-title="Playlist Indonesia🇮🇩", GTV 🇮🇩
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
@@ -785,7 +785,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.ibb.co.com/xjNQwrH/indosiar.png" group-title="NPlaylist Indonesia🇮🇩", INDOSIAR 🇮🇩
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.ibb.co.com/xjNQwrH/indosiar.png" group-title="Playlist Indonesia🇮🇩", INDOSIAR 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -806,133 +806,133 @@ https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="iNews.id"  tvg-logo="https://i.ibb.co.com/d6sfBLj/inews.png" group-title="NPlaylist Indonesia🇮🇩", INEWS 🇮🇩
+#EXTINF:-1 tvg-id="iNews.id"  tvg-logo="https://i.ibb.co.com/d6sfBLj/inews.png" group-title="Playlist Indonesia🇮🇩", INEWS 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://cdnbal1.indihometv.com/atm/DASH/inews/inews.mpd
 
-#EXTINF:-1 tvg-id="iNews.id"  tvg-logo="https://i.ibb.co.com/d6sfBLj/inews.png" group-title="NPlaylist Indonesia🇮🇩", INEWS 🇮🇩
+#EXTINF:-1 tvg-id="iNews.id"  tvg-logo="https://i.ibb.co.com/d6sfBLj/inews.png" group-title="Playlist Indonesia🇮🇩", INEWS 🇮🇩
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-#EXTINF:-1 tvg-id="Kompas TV.id"  tvg-logo="https://i.ibb.co.com/MR6fmDw/kompastv.png" group-title="NPlaylist Indonesia🇮🇩", KOMPAS TV 🇮🇩
+#EXTINF:-1 tvg-id="Kompas TV.id"  tvg-logo="https://i.ibb.co.com/MR6fmDw/kompastv.png" group-title="Playlist Indonesia🇮🇩", KOMPAS TV 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
-#EXTINF:-1 tvg-id="Kompas TV.id"  tvg-logo="https://i.ibb.co.com/MR6fmDw/kompastv.png" group-title="NPlaylist Indonesia🇮🇩", KOMPAS TV 🇮🇩
+#EXTINF:-1 tvg-id="Kompas TV.id"  tvg-logo="https://i.ibb.co.com/MR6fmDw/kompastv.png" group-title="Playlist Indonesia🇮🇩", KOMPAS TV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV.mpd
 
-#EXTINF:-1 tvg-id="Kompas TV.id"  tvg-logo="https://i.ibb.co.com/MR6fmDw/kompastv.png" group-title="NPlaylist Indonesia🇮🇩", KOMPAS TV 🇮🇩
+#EXTINF:-1 tvg-id="Kompas TV.id"  tvg-logo="https://i.ibb.co.com/MR6fmDw/kompastv.png" group-title="Playlist Indonesia🇮🇩", KOMPAS TV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-#EXTINF:-1  tvg-id="Magna Channel.id" tvg-logo="https://i.ibb.co.com/hV6Z2SP/magna.png" group-title="NPlaylist Indonesia🇮🇩", MAGNA TV 🇮🇩
+#EXTINF:-1  tvg-id="Magna Channel.id" tvg-logo="https://i.ibb.co.com/hV6Z2SP/magna.png" group-title="Playlist Indonesia🇮🇩", MAGNA TV 🇮🇩
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Net TV.id"  tvg-logo="https://i.ibb.co.com/mVR63q3t/mdtv.png" group-title="NPlaylist Indonesia🇮🇩", MDTV 🇮🇩
+#EXTINF:-1 tvg-id="Net TV.id"  tvg-logo="https://i.ibb.co.com/mVR63q3t/mdtv.png" group-title="Playlist Indonesia🇮🇩", MDTV 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV
 
-#EXTINF:-1 tvg-id="Net TV.id"  tvg-logo="https://i.ibb.co.com/mVR63q3t/mdtv.png" group-title="NPlaylist Indonesia🇮🇩", MDTV 🇮🇩
+#EXTINF:-1 tvg-id="Net TV.id"  tvg-logo="https://i.ibb.co.com/mVR63q3t/mdtv.png" group-title="Playlist Indonesia🇮🇩", MDTV 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
-#EXTINF:-1 tvg-id="Metro TV.id"  tvg-logo="https://i.ibb.co.com/G9NY1P4/metrotv.png" group-title="NPlaylist Indonesia🇮🇩", METRO TV 🇮🇩
+#EXTINF:-1 tvg-id="Metro TV.id"  tvg-logo="https://i.ibb.co.com/G9NY1P4/metrotv.png" group-title="Playlist Indonesia🇮🇩", METRO TV 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
-#EXTINF:-1 tvg-id="Metro TV.id"  tvg-logo="https://i.ibb.co.com/G9NY1P4/metrotv.png" group-title="NPlaylist Indonesia🇮🇩", METRO TV 🇮🇩
+#EXTINF:-1 tvg-id="Metro TV.id"  tvg-logo="https://i.ibb.co.com/G9NY1P4/metrotv.png" group-title="Playlist Indonesia🇮🇩", METRO TV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Metro TV.id"  tvg-logo="https://i.ibb.co.com/G9NY1P4/metrotv.png" group-title="NPlaylist Indonesia🇮🇩", METRO TV 🇮🇩
+#EXTINF:-1 tvg-id="Metro TV.id"  tvg-logo="https://i.ibb.co.com/G9NY1P4/metrotv.png" group-title="Playlist Indonesia🇮🇩", METRO TV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="NPlaylist Indonesia🇮🇩", MNC TV 🇮🇩
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="Playlist Indonesia🇮🇩", MNC TV 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="NPlaylist Indonesia🇮🇩", MNC TV 🇮🇩
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="Playlist Indonesia🇮🇩", MNC TV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="NPlaylist Indonesia🇮🇩", MNC TV 🇮🇩
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="Playlist Indonesia🇮🇩", MNC TV 🇮🇩
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:-1 tvg-id="Moji.id"  tvg-logo="https://i.ibb.co.com/nsSg2Q7/moji.png" group-title="NPlaylist Indonesia🇮🇩", MOJI 🇮🇩
+#EXTINF:-1 tvg-id="Moji.id"  tvg-logo="https://i.ibb.co.com/nsSg2Q7/moji.png" group-title="Playlist Indonesia🇮🇩", MOJI 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22bd0016090143f795a275629a6e7a0a:cae11accebe3ca7535141d35f4d41a1d
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
 
-#EXTINF:-1 tvg-id="Moji.id"  tvg-logo="https://i.ibb.co.com/nsSg2Q7/moji.png" group-title="NPlaylist Indonesia🇮🇩", MOJI 🇮🇩
+#EXTINF:-1 tvg-id="Moji.id"  tvg-logo="https://i.ibb.co.com/nsSg2Q7/moji.png" group-title="Playlist Indonesia🇮🇩", MOJI 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
-#EXTINF:-1 tvg-id="Nusantara TV.id" tvg-logo="https://i.ibb.co.com/dJrj97X/nusantaratv.png" group-title="NPlaylist Indonesia🇮🇩", NUSANTARA TV 🇮🇩
+#EXTINF:-1 tvg-id="Nusantara TV.id" tvg-logo="https://i.ibb.co.com/dJrj97X/nusantaratv.png" group-title="Playlist Indonesia🇮🇩", NUSANTARA TV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/138.0 
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nusantara TV.id" tvg-logo="https://i.ibb.co.com/dJrj97X/nusantaratv.png" group-title="NPlaylist Indonesia🇮🇩", NUSANTARA TV 🇮🇩
+#EXTINF:-1 tvg-id="Nusantara TV.id" tvg-logo="https://i.ibb.co.com/dJrj97X/nusantaratv.png" group-title="Playlist Indonesia🇮🇩", NUSANTARA TV 🇮🇩
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 
-#EXTINF:-1 tvg-id="Nusantara TV.id" tvg-logo="https://i.ibb.co.com/dJrj97X/nusantaratv.png" group-title="NPlaylist Indonesia🇮🇩", NUSANTARA TV 🇮🇩
+#EXTINF:-1 tvg-id="Nusantara TV.id" tvg-logo="https://i.ibb.co.com/dJrj97X/nusantaratv.png" group-title="Playlist Indonesia🇮🇩", NUSANTARA TV 🇮🇩
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdnbal1.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="NPlaylist Indonesia🇮🇩", RCTI 🇮🇩
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="Playlist Indonesia🇮🇩", RCTI 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="NPlaylist Indonesia🇮🇩", RCTI 🇮🇩
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="Playlist Indonesia🇮🇩", RCTI 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="NPlaylist Indonesia🇮🇩", RCTI 🇮🇩
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="Playlist Indonesia🇮🇩", RCTI 🇮🇩
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1  tvg-name="RRINET.id" tvg-logo="https://i.ibb.co.com/hgYsR6H/rrinet.png" group-title="NPlaylist Indonesia🇮🇩",RRI NET 🇮🇩
+#EXTINF:-1  tvg-name="RRINET.id" tvg-logo="https://i.ibb.co.com/hgYsR6H/rrinet.png" group-title="Playlist Indonesia🇮🇩",RRI NET 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a.m3u8
 
-#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.ibb.co.com/b1tcbgm/rtv.png" group-title="NPlaylist Indonesia🇮🇩", RTV 🇮🇩
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.ibb.co.com/b1tcbgm/rtv.png" group-title="Playlist Indonesia🇮🇩", RTV 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd
 
-#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.ibb.co.com/b1tcbgm/rtv.png" group-title="NPlaylist Indonesia🇮🇩", RTV 🇮🇩
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.ibb.co.com/b1tcbgm/rtv.png" group-title="Playlist Indonesia🇮🇩", RTV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
-#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.ibb.co.com/b1tcbgm/rtv.png" group-title="NPlaylist Indonesia🇮🇩", RTV 🇮🇩
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.ibb.co.com/b1tcbgm/rtv.png" group-title="Playlist Indonesia🇮🇩", RTV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
@@ -957,84 +957,82 @@ http://202.169.224.202:8800/udp/239.9.1.29:1234
 http://202.169.224.202:8800/udp/239.4.4.1:1234
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 tvg-id="SindoNews.id" tvg-logo="https://i.ibb.co.com/pbvprNQ/sindonewstv.png" group-title="NPlaylist Indonesia🇮🇩", SINDONEWS TV 🇮🇩
+#EXTINF:-1 tvg-id="SindoNews.id" tvg-logo="https://i.ibb.co.com/pbvprNQ/sindonewstv.png" group-title="Playlist Indonesia🇮🇩", SINDONEWS TV 🇮🇩
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cp74f8JT/sinpotv.png" group-title="NPlaylist Indonesia🇮🇩", SINPO TV 🇮🇩
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cp74f8JT/sinpotv.png" group-title="Playlist Indonesia🇮🇩", SINPO TV 🇮🇩
 https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cp74f8JT/sinpotv.png" group-title="NPlaylist Indonesia🇮🇩", SINPO TV 🇮🇩
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cp74f8JT/sinpotv.png" group-title="Playlist Indonesia🇮🇩", SINPO TV 🇮🇩
 #EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
 https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q7ryRnnT/smiletv.png" group-title="NPlaylist Indonesia🇮🇩", SMILE TV 🇮🇩
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q7ryRnnT/smiletv.png" group-title="Playlist Indonesia🇮🇩", SMILE TV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 http://hfa09a2swye.sn.mynetname.net:801/hls/streaming/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trans TV.id" tvg-logo="https://i.ibb.co.com/k3S01Fh/transtv.png" group-title="NPlaylist Indonesia🇮🇩", TRANS TV 🇮🇩
+#EXTINF:-1 tvg-id="Trans TV.id" tvg-logo="https://i.ibb.co.com/k3S01Fh/transtv.png" group-title="Playlist Indonesia🇮🇩", TRANS TV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trans TV.id" tvg-logo="https://i.ibb.co.com/k3S01Fh/transtv.png" group-title="NPlaylist Indonesia🇮🇩", TRANS TV 🇮🇩
+#EXTINF:-1 tvg-id="Trans TV.id" tvg-logo="https://i.ibb.co.com/k3S01Fh/transtv.png" group-title="Playlist Indonesia🇮🇩", TRANS TV 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-#EXTINF:-1 tvg-id="Trans 7.id"  tvg-logo="https://i.ibb.co.com/V37y7jf/trans7.png" group-title="NPlaylist Indonesia🇮🇩", TRANS 7 🇮🇩
+#EXTINF:-1 tvg-id="Trans 7.id"  tvg-logo="https://i.ibb.co.com/V37y7jf/trans7.png" group-title="Playlist Indonesia🇮🇩", TRANS 7 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXTINF:-1 tvg-id="Trans 7.id"  tvg-logo="https://i.ibb.co.com/V37y7jf/trans7.png" group-title="NPlaylist Indonesia🇮🇩", TRANS 7 🇮🇩
+#EXTINF:-1 tvg-id="Trans 7.id"  tvg-logo="https://i.ibb.co.com/V37y7jf/trans7.png" group-title="Playlist Indonesia🇮🇩", TRANS 7 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://i.ibb.co.com/HFjSW0t/tvone.png" group-title="NPlaylist Indonesia🇮🇩", TV ONE 🇮🇩
+#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://i.ibb.co.com/HFjSW0t/tvone.png" group-title="Playlist Indonesia🇮🇩", TV ONE 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
-#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://i.ibb.co.com/HFjSW0t/tvone.png" group-title="NPlaylist Indonesia🇮🇩", TV ONE 🇮🇩
+#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://i.ibb.co.com/HFjSW0t/tvone.png" group-title="Playlist Indonesia🇮🇩", TV ONE 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/J35bLKV/tvrparlemen.png" group-title="NPlaylist Indonesia🇮🇩", TVR PARLEMEN 🇮🇩
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/J35bLKV/tvrparlemen.png" group-title="Playlist Indonesia🇮🇩", TVR PARLEMEN 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wowza.dpr.go.id/golive/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://i.ibb.co.com/4F68vbH/tvri.png" group-title="NPlaylist Indonesia🇮🇩", TVRI NASIONAL 🇮🇩
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://i.ibb.co.com/4F68vbH/tvri.png" group-title="Playlist Indonesia🇮🇩", TVRI NASIONAL 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://i.ibb.co.com/4F68vbH/tvri.png" group-title="NPlaylist Indonesia🇮🇩", TVRI NASIONAL 🇮🇩
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://i.ibb.co.com/4F68vbH/tvri.png" group-title="Playlist Indonesia🇮🇩", TVRI NASIONAL 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://trends.tvrinews.com/
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-id="TVRI World.id" tvg-logo="https://i.ibb.co.com/4F68vbH/tvri.png" group-title="NPlaylist Indonesia🇮🇩", TVRI WORLD 🇮🇩
+#EXTINF:-1 tvg-id="TVRI World.id" tvg-logo="https://i.ibb.co.com/4F68vbH/tvri.png" group-title="Playlist Indonesia🇮🇩", TVRI WORLD 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1 tvg-id="TVRI Sport.id" tvg-logo="https://i.ibb.co.com/4F68vbH/tvri.png" group-title="NPlaylist Indonesia🇮🇩", TVRI SPORT 🇮🇩
+#EXTINF:-1 tvg-id="TVRI Sport.id" tvg-logo="https://i.ibb.co.com/4F68vbH/tvri.png" group-title="Playlist Indonesia🇮🇩", TVRI SPORT 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-id="TVRI Sport.id" tvg-logo="https://i.ibb.co.com/4F68vbH/tvri.png" group-title="NPlaylist Indonesia🇮🇩", TVRI SPORT 🇮🇩
+#EXTINF:-1 tvg-id="TVRI Sport.id" tvg-logo="https://i.ibb.co.com/4F68vbH/tvri.png" group-title="Playlist Indonesia🇮🇩", TVRI SPORT 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://trends.tvrinews.com/Content/Broadcast/Watch/344/ 
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/KxLH0R7/ugtv.png" group-title="NPlaylist Indonesia🇮🇩", UGTV 🇮🇩
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/KxLH0R7/ugtv.png" group-title="Playlist Indonesia🇮🇩", UGTV 🇮🇩
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-
-
 
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yelUQsOZCoZpu14hE9zMwSwQAG9z2Klkc-Syw8U7nGXF4A.png" group-title="Playlist Indonesia🇮🇩", Bioskop Indonesia ( 2 )
