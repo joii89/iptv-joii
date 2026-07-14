@@ -720,7 +720,7 @@ https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSog8rJEVcGSK0EMIi9dgpYmYw_5i-uHLuYv9xsixglw&s=10" group-title="Playlist Indonesia🇮🇩"
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSog8rJEVcGSK0EMIi9dgpYmYw_5i-uHLuYv9xsixglw&s=10" group-title="Playlist Indonesia🇮🇩"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8DCTLNb3/antaratv.png" group-title="NPlaylist Indonesia🇮🇩", ANTARA TV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
